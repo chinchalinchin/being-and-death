@@ -489,3 +489,38 @@ There is only one mode of Being which seeks Nothing as its "object", and it is n
 It is in this authentic way of Being towards suicide that we get a glimpse, at least obliquely, into the nature of Death. The Being of suicide is anguish and despair, when one has been torn from the world and all that remains is the pain inside, not the pain of the nervous system, but the raw and primordial pain of Being, whose meaning can only be captured in prose, where the form breaks down and stands for Nothing but pure and utter desolation, where the syntactical chaos of a fleeing imagination draws our semantic attachments swirling in its wake, where meaning is taken in hand and escorted beyond the bounds of reason and causality into unfiltered madness of passion, "_because such states spring up from the deepest and most intimate part of our being, from the substantial center of subjectivity, as from a radiation zone. One becomes lyrical when one's life beats to an essential rhythm and the experience is so intense that it synthesizes the entire meaning of one's personality_"[]
 
 []: [The Heights of Despair, On Being Lyrical, Emil Cioran, 1934]()
+
+
+
+
+
+
+
+#
+
+When the intellect attempts to grasp Nothing, it does so along these lines: it subtracts things away from their places until all that is left is pure emptiness. But the intellect falters in its purpose, because the emptiness thus abstracted is conceived within the intellect and exists _for_ the intellect, as a thing that can be conceived. A true Nothing would consist of neither emptiness or the intellect which conceives it.
+
+
+Consider the proposition: _Nothing exists_. What does it mean? There are two possibilities. 
+
+First, the reality in which we find ourselves residing is not actual; that our world is a fiction, a veil of lies thrown over our perception; that life is a waking dream, with arbitrary rules enforced for no other reason than to maximize the total quantity of absurdity. This we may term the ontic interpretation of the proposition.
+
+There is, however, another meaning we may attach to the proposition, which we may term its ontological interpretation. If we understand existence as the qualification of Thinghood, then the proposition may mean approximately there is a thing which is not a thing. Or put another way: there exists a thing which does not exist. This interpretation does not necessarily overlap with the prior interpretation; it makes no claims on the valdity of existence, as in the previous case, but instead postulates that existence is inherently contradictory, because within the enumeration of existents is a member which belongs only because it does not belong, whose membership is a necessary technicality.
+
+
+
+# 
+
+The origin of religion is seen in Death, for all religion is an attempt to reconcile an ideal with an actuality, i.e. it is a function of loss, an operation of perception that focuses on what is left over when the actual world is subtracted from its pure eidetic representation. This process of reverse negation, of separating what is from what is not so that what is not may come to be, is the essential movement of both religion and Death.
+
+All religion is attempt to solve the following problem: Being is and we are Beings, therefore we are; but, as a consequence of Being, we must die; if we die, then we no longer are; therefore that we are not Beings, except through the horizon of Time; but Time is a subjective form that does not exist outside of our Being; so we must conclude, that in Death, all claim to Being is relinquished, so that all that ever was becomes as if it never existed in the first place. Being has no foundation outside of itself over which to verify its existence. 
+
+This solispistic void can only be filled by the positive affirmation of faith in something external to our perception, which has no foundation in our Being, and thus provides an absolute frame of reference to validate our Being as having been once we expire from the world. All religion is a postulate of a metric beyond our direct experience that can quantify said experience into concrete existence. 
+
+Religion, then, if seen properly in terms of its ontological operation, is a quantity humans have deftly substited in place of Death, for it occupies the same place in the ontological axes of experience, that of unknowability and containment, an encirclement of our Being within its limits, so that Nothing can be outside outside of Being without its conceptual assistance. Religion is akin to magic, an illusion that replaces the emptiness of the hat with the living presence of the rabbit. What was once Death becomes a spiritual event, a releasing of a soul, a balancing of energy, a transformation of matter into essence, something perpetually beyond the perceptual horizon.
+
+
+
+
+
+ 
