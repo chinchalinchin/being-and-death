@@ -62,6 +62,8 @@ Model trees like this can be calibrated to datasets, so each node of the tree ha
 
 TODO
 
+### Heuristics of Seeming
+
 ### Being and Existence
 
 The path before us is littered with questions the answers to which are not at all clear. We do not get very far towards understanding our nature when we begin with even the simplest of questions. To wit, when asking _what are we?_, we must first understand what we mean by the notion of _is_, so that we precede this understanding with an attempt to understand an even simpler formulation that is no less tangled in its meaning, _what is this?_, before arriving at what we suppose to be simplest question of all and thus easiest to understand: _what is?_. This simple word, perhaps the foundation of all language, _is_, the present tense of _to be_, bears in it a confusion of concepts, so that when we pose the question _what is?_ versus _what is this?_ versus _what are we?_, it is not clear the role played by _is_ is in fact the same in all cases. 
@@ -100,13 +102,23 @@ But in attempting to define a thing as existence, we have passed by its Being en
 
 These ambiguities between Being and existnce no doubt result from double duty _is_ performs in our language. For when we say a _thing is_, we typically mean a _thing exists_, where as when we say a _thing is this_, we should understand this proposition as a proposition about Being. 
   
+Matters are complicated with the introduction of time, for now a thing no longer simply _is_, but contains a multitude of ways of coming to be: _is_, _was_, _will be_, _has been_. With this terminology, it becomes clear Being intrinsically contains a dimension of time and space, so that Being is said to be with respect to time and with respect to space. 
+
+There is yet another way a thing is to be and that is through the linguistic form of _am_. The notion of _am_ is no general one to be affixed to an indefinite object, for this Being symbolizes a different type of Being altogether: the first person singular present tense. If language is a set of tools by which we represent ideas, _am_ is an orthogonality to the representative dimensions defined by the other forms of _to be_, in that it is a form that by necessity requires a conscious subject. 
+
+Likening a proposition to a function, we draw a parallel to mathematics: a function only has meaning over a certain domain in which it makes sense for its operations to be applied; or, from the surjective direction, we may say a certain domain and its projection define the meaning of a function (as Fourier showed, by reducing all functions on a certain interval to infinite series of trigonometric functions, that in aggregate sum to the functions' range), so that if we say _the function which is defined by the mapping between the set of things which do not exist and the set of natural numbers_, in some way we have defined what is meant by the notion of zero through this mapping and we may, in some sense, say the meaning of zero is _contained_ in the mapping. 
+
+Likewise, the linguistic notion of _am_ brings with it a certain domain and a certain projection, which clarify its meaning, for the _(x,y)_ in the propositional function _x am y_ cannot be arbitrarily assigned over the space of subject-nouns, over the set of existent things. _Am_ defines a precise and particular subject: _us_. Specifically, _I_. 
+
+This can be seen in the syntactical error that arises in the proposition _the thing am this_; the meaning of _am_ is only understood through _I am this_.
+
 TODO
 
 With this preparatory remarks made and primitives defined, we arrive at our first stop in the long of history of our understanding of Being: Aristotle.
 
 ### Substance and Form
 
-The first account of Being of which we are aware comes down to us through **Aristotle**, more than two thousand years ago. Despite the age of his works, they have remained throughout history a source of considerable study, in particular his contributions to the so-called _primary_ philosophy, what would be called today _ontology_, the study of Being itself. The essence of his contributions to untangling of the puzzle of Being are chiefly found in _Physics_ and _Metaphysics_. 
+The first analysis of Being of which we are aware comes down to us through **Aristotle**, more than two thousand years ago. Despite the age of his works, they have remained throughout history a source of considerable study, in particular his contributions to the so-called _primary_ philosophy, what would be called today _ontology_, the study of Being itself. The essence of his contributions to untangling of the puzzle of Being are chiefly found in _Physics_ and _Metaphysics_. 
 
 The essential problem is this: A being is on one hand a substance, a material, matter. On the other hand, it is a multiplicity of _things_. A thing is at once a substance and a representative of something beyond the subtance. For instance, wood is a substance that assumes the form of a table or a chair. In either case, a different thing _becomes_ from the same underlying substance, yet the form of the substance differentiates the _things_ in their thinghood.
 
