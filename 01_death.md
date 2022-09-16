@@ -12,7 +12,7 @@ And know the place for the first time
 
 **Albert Camus** once stated there is but one philosophical question and that is suicide. He meant this in the rhetorical sense in order to examine the absurdity of living in a universe where you are fated from the very start to die at the end. Nevertheless, there is a definite nearness to truth in his statement. Death is the fundamental bedrock at the bottom of Being and it is because of this the human is condemned to face mortality. From this and because of this, all things proceed. A Being cannot exist without the phantom of Death haunting its every moment in time. Only in the sequel, once reflective consciousness enters into the equation, do we ask whether or not a life always imperilled is worth living.
 
-Despite being the foundation of almost every human pathology, Death as a field on inquiry has received comparatively little analysis over the course of history, except in the medical sciences where it is treated clinically, i.e. as a `thing-in-itself`, to be catalogued and diagnosed along with all the other maladies and diseases and thus placed into a knowable relation with the rest of existence, or in the spiritual studies, where it is mythologized and understood only through metaphor, but never as a phenomenon.
+Despite being the foundation of almost every human pathology, Death as a field of inquiry has received comparatively little analysis over the course of history, except in the medical sciences where it is treated clinically, i.e. as a `thing-in-itself`, to be catalogued and diagnosed along with all the other maladies and diseases and thus placed into a knowable relation with the rest of existence, or in the spiritual studies, where it is mythologized and understood only through metaphor, but never as a phenomenon.
 
 There is a reason for this. Death as a subject is repellant to understanding. Its very definition presupposes the limit of the knower, that is to say, Death is inherently unknowable. Death can only be understood through the mechanisms of analogy and metaphor, for when we turn our attention to the object of Death it reveals itself as something which can not be found in Being. We can be aware that we will eventually die, we can perceive Death from outside its domain, we can even in unique circumstances perceive the manner of our own Death, but that awareness will never be extended into Death itself. Death is the point where awareness stops; in this way, we mean Death exists beyond the limit of understanding. To ask questions about a subject that perpetually recedes from all attempts to know it necessarily entails the admission that no answers can ever be conceived, much less known. The inevitable end result will be to arrive where we started, having gained nothing; If any proposition can lay claim to human nature, this is it. 
 
@@ -22,7 +22,7 @@ A counterargument may be raised along these lines: a rock, by the same token, is
 
 We can approach the rock, interact with it and thereby come to an understanding of its nature. We can discover its boundaries, the surface across which it begins and we end. We can feel its nature acting when we pick it up, along the lines of force that pull it back towards it gravitional focus. When we push on the rock, it pushes back and impinges on our senses. Its inertia becomes tangible in our grasp. It is only in the sense that we cannot _be_ the rock, that it is separate from us; there is imposed between us a `nihil privativum`, a Nothing that defines the boundaries between the things in our representation of our Being and our Being itself.
 
-Death is not like this. It has no boundaries in space. It cannot be approached. It cannot be probed. It has no weight to be felt, no surface to touch. There is no way to know what is on the other side of it, or even if there is another side, for Death has no reflection in sensation. If Death has its own interiority, there is no mechanism to be found in the totality of existence for measuring it. For as Wittgenstein once said, "_the representation cannot represent what is outside of it_".
+Death is not like this. It has no boundaries in space. It cannot be approached. It cannot be probed. It has no weight to be felt, no surface to touch. There is no way to know what is on the other side of it, or even if there is another side, for Death has no reflection in sensation. If Death has its own interiority, there is no mechanism to be found in the totality of existence for measuring it. For as **Wittgenstein** once said, "_the picture cannot place itself outside of its form of representation_" (2.174, _Tractatus Logico-Philosophicus_).
 
 ## A Platonic Counterargument
 
@@ -153,9 +153,10 @@ Indeed, Death is always with us but we do not apprehend it in our Being until we
 
 
 
-## References
+# References
 
-### Books
+## Books
+### Wikis
 - [Being and Nothingness](https://en.wikipedia.org/wiki/Being_and_Nothingness)
 - [Being and Time](https://en.wikipedia.org/wiki/Being_and_Time)
 - [Critique of Pure Reason](https://en.wikipedia.org/wiki/Critique_of_Pure_Reason)
@@ -163,6 +164,8 @@ Indeed, Death is always with us but we do not apprehend it in our Being until we
 - [Philosophical Investigations](https://en.wikipedia.org/wiki/Philosophical_Investigations)
 - [Principia Mathematica](https://en.wikipedia.org/wiki/Principia_Mathematica)
 - [World as Will and Representation, The](https://en.wikipedia.org/wiki/The_World_as_Will_and_Representation)
+### Guttenberg
+- [Tractatus Logico-Philosophicus](https://www.gutenberg.org/files/5740/5740-pdf.pdf)
 
 ### Poems
 - [Little Giddling](https://en.wikipedia.org/wiki/Little_Gidding_(poem))
