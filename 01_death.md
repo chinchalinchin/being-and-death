@@ -156,7 +156,6 @@ Indeed, Death is always with us but we do not apprehend it in our Being until we
 
 
 # References
-
 ## Books
 ### Wikis
 - [Being and Nothingness](https://en.wikipedia.org/wiki/Being_and_Nothingness)
@@ -173,7 +172,6 @@ Indeed, Death is always with us but we do not apprehend it in our Being until we
 - [Critique of Pure Reason](https://www.gutenberg.org/ebooks/4280)
 - [Tractatus Logico-Philosophicus](https://www.gutenberg.org/ebooks/5740)
 - [World as Will and Representation Vol. 1](https://www.gutenberg.org/ebooks/38427)
-
 ## Concepts
 ### Wikis
 - [Being-in-itself](https://en.wikipedia.org/wiki/Being_in_itself)
@@ -183,12 +181,10 @@ Indeed, Death is always with us but we do not apprehend it in our Being until we
 - [Noumenon](https://en.wikipedia.org/wiki/Noumenon)
 - [Phenomenon](https://en.wikipedia.org/wiki/Phenomenology_(philosophy))
 - [Thing-in-itself](https://en.wikipedia.org/wiki/Thing-in-itself)
-  
 ## Poems
 ### Wikis
 - [Little Gidding](https://en.wikipedia.org/wiki/Little_Gidding_(poem))
 ### Online Manuscripts
 - [Little Gidding](http://www.columbia.edu/itc/history/winter/w3206/edit/tseliotlittlegidding.html)
-
-### Stacks
+## Stacks
 - [Proof that a function with a countable set of discontinuities is Reimann integrable](https://math.stackexchange.com/questions/263189/proof-that-a-function-with-a-countable-set-of-discontinuities-is-riemann-integra)
