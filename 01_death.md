@@ -6,7 +6,7 @@ And the end of all our exploring
 Will be to arrive where we started
 And know the place for the first time
 ```
-<sup><sub>T.S. Eliot</sub></sup>
+<sup style="margin-left: 5%;" ><sub>- T.S. Eliot, [Little Gidding](http://www.columbia.edu/itc/history/winter/w3206/edit/tseliotlittlegidding.html)</sub></sup>
 
 ## The Question
 
@@ -28,7 +28,7 @@ Death is not like this. It has no boundaries in space. It cannot be approached. 
 
 A further counterargument may be made by the **Platonists**: If Death cannot be approached or felt, this does not signify a rupture in Being, a fundamental horror woven into the fabric of existence, for this is also the nature of concepts. Ephemeral ideas like honor and duty cannot be approached. You cannot probe the interiority of love. These things nonetheless exist, not concretely as in the case of physical matter, i.e. as objects, but abstractly, through the reflection of consciousness, i.e. as concepts. They become existent in our Being despite their lack of "_substance_", as it were, first as awareness through the objectification of the sense data and then as consciousness through the classification of the represented objects into concepts. 
 
-This is the nature of conception, what Heidegger called `readiness-to-hand` and Schopenhauer the `principle of sufficient reason`: a concept exists in relation to the complex it is conceptualizing and its Being for us is exactly this relation abstracted into pure form. So we see a pencil poised over a sheet of paper and immediately apprehend the concept of writing in the relation that joins the tip of the pencil to surface of the paper. This is not the only interpretation of the relation between the two objects here, for conceptualization and the branching relations that form its basis are not a definite process but perpetually efferverscent. However, we will defer discussion of this poiunt until [later](#wittenstein), where it is not so out of place.
+This is the nature of conception, what Heidegger called `readiness-to-hand` and Schopenhauer the `principle of sufficient reason`: a concept exists in relation to the complex it is conceptualizing and its Being for us is exactly this relation abstracted into pure form. So we see a pencil poised over a sheet of paper and immediately apprehend the concept of writing in the relation that joins the tip of the pencil to surface of the paper. This is not the only interpretation of the relation between the two objects here, for conceptualization and the branching relations that form its basis are not a definite process but perpetually efferverscent. However, we will defer discussion of this point until [later](#indetermination), where it is not so out of place.
 
 Instead, the reader's attention is drawn only to the fact in the preceding that a concept exists in a logical form where it refers to the representations of our Being and explains some aspect of the relation that defines the class of objects thus being enumerated. The thing which all instances have in common is the concept.
 
@@ -36,19 +36,19 @@ To make the existence of abstraction more apparent, we consider a concept whose 
 
 Death is not like this, as it can be neither objectified nor conceptualized. Thus, it can not claim existence through either of these modes of Being. 
 
-### Death-as-not-object
+### Death-as-Not-Object
 
 In the first case, Death cannot be objectified through relations, because Death resists at an ontological level the application of the first essential relation in any proposition: that of existence. 
 
-What remains in the statement "_the Being is dead_" when its content is subtracted? The remainder is plainly a contradiction of the law of the excluded middle, i.e. it must be the case that either _A_ or the negation of _A_ is true, where _A_ is understood to be a symbol standing for a proposition upon which a judgement of truth can be rendered. A _Being_ cannot _be_ dead, because to _be_ dead means to _not be_ a _Being_. In claiming that something _is_ Dead, in the present tense, you cannot help but commit a logical fallacy. Death is not something that occurs in anyone's present tense, only in either their future, where it defies the laws of causality to be abstracted into their present, or in the Other's past, where once a Being is dead their Being only exists insofar as it is objectified in the Being of the Other, where it no longer has any subjectivity or consciousness. 
+What remains in the statement "_the Being is dead_" when its content is subtracted? The remainder is plainly a contradiction of the law of the excluded middle, i.e. it must be the case that either _A_ or the negation of _A_ is true, where _A_ is understood to be a symbol standing for a proposition upon which a judgement of truth can be rendered. A _Being_ cannot _be_ dead, because to _be_ means to _not be_ dead. In claiming that something _is_ Dead, in the present tense, you cannot help but commit a logical fallacy. Death is not something that occurs in anyone's present tense, only in either their future, where it defies the laws of causality to be abstracted into their present, or in the Other's past, where once a Being is dead their Being only exists insofar as it is objectified in the Being of the Other, where it no longer has any subjectivity or consciousness. 
 
 Yet, it makes even less sense to say "_the Being was dead_", for Death as a fact cannot be contradicted by the circumstances of things as they currently are, i.e. if a Being _is_ now, then its Death has not yet occurred and so consequently can not have the operation of "_was_" applied to it. Conversely, if a Being's Death _was_ a fact then, then it must also _be_ a fact now or else the meaning of the operation "_was_" has been violated and we are back to the original problem, having gained no ground. 
 
 There is no way for Death as an object to exist in a logical relationship without a contradiction arising from within its boundaries. 
 
-### Death-as-not-concept
+### Death-as-Not-Concept
 
-In the second case, Death cannot be conceptualized, except insofar as the Death of the Other makes ingress into the representations of my Being, but then, in this case, it is not _my_ Death that has been conceptualized, but the Death of the Other. The process of conceptualizing Death leaves us with an empty concept, a concept that does not have Being in the way **Platonic Ideals** do, because the abstraction of the Death of the Other leads me no closer to an understanding of my own Death in the way the abstraction of love does lead me to understand what the love of the Other is.
+In the second case, Death cannot be conceptualized, except insofar as the Death of the Other makes ingress into the representations of my Being, but then, in this case, it is not _my_ Death that has been conceptualized, but the Death of the Other. The process of conceptualizing Death passes over my own experience of it and leaves me with an empty concept, a concept that does not have Being in the way **Platonic** concepts do, because the abstraction of the Death of the Other does not lead me any closer to an understanding of my own Death in the way the abstraction of love does lead me to understand what the love of the Other is, because I too have a phenomenal experience of love that I may, assuming a pretense of uncertainty, infer in the Other.
 
 Furthermore, Death as a feeling is like neither love nor duty. The concept of Death induces a feeling, but it is not the feeling of Death that is felt in the way one feels love or duty, for if one felt Death, they would therefore be dead and incapable of feeling. In those instances when one is in the process of apprehending a concept and integrating it into their Being, such as love and its effects, it is a compulsion felt as distinctly as weight or normal force, albeit with a locomotion peculiar to its class. One is compelled to act a certain way because they feel, for lack of a better term, the corporeal sensation of the accompanying conception. 
 
@@ -58,11 +58,13 @@ Death is not a motive concept, in the sense that it induces in the conceiving su
 
 The concept of `Being-toward-death`, this ontological polarity between Being and Death, brings with it a whole host of subjugated concepts that stand in relation to it: grief, horror, acceptance, denial, love, hate, anger, awe, adulation, worship. Indeed, one might be tempted to conclude Death is the fountainhead from which all other emotions spring. The only other analogous concept is to be found in the spiritual; for instance, in the Judeo-Christian concept of the `mysterium tremendum`, whereby the worshipper enters into a state of rapture, by turns jubliant and horrified, when considering the object of his or her worship. Death, in this sense, overlaps with the Holy. 
 
-**Heidegger** liked to play language games. By `Being-toward-death`, he meant to oppose this to his term `Being-in-itself`, in order to draw our attention to the prepositions connecting the objects in the concepts. A thing can be _in_ itself, whereas we can only be _toward_ Death, the relation in these phrases indicating the way Death always recedes away from us. 
+**Heidegger** liked to play language games. By `Being-toward-death`, he meant to oppose this to his term `Being-in-itself`, in order to draw our attention to the prepositions connecting the objects in their conceptual repose. A thing can be _in_ itself, whereas it can only be _toward_ Death, the relation in these phrases indicating the way Death always recedes away from the entity it will one day kill. 
 
-In one of the few true positive analogies possible with Death as one of its poles (for reasons that will shortly be discussed), Death in this respect is similar to the concept of a limit from real analysis. The existence of a limit relies on the subtle notion of mathematical Continuity. In our everyday understanding of Continuity, we tacitly assume a logical form whereby a set is ordered and this ordering is such that each term succeeds the previous in a contingent way so that the series becomes "_connected_"; every member in the set becomes the next member through the property of "_continuity_", in an almost mystical, transubstantive process; In travelling from point A to point B in space, one must travel through all intervening points and one does so in a way by which we mean "_continuous_". 
+In one of the few true positive analogies possible with Death as one of its poles ( <sup><sub>for reasons that will shortly be discussed</sub></sup> ), Death in this respect is similar to the concept of a limit from real analysis. The existence of a limit relies on the subtle notion of mathematical Continuity. In our everyday understanding of Continuity, we tacitly assume a logical form whereby a set is ordered and this ordering is such that each term succeeds the previous in a contingent way so that the series becomes "_connected_"; every member in the set becomes the next member through the property of "_continuity_", in an almost mystical, transubstantive process; In travelling from point A to point B in space, one must travel through all intervening points and one does so in a way by which we mean "_continuous_". 
 
-Our everyday intuition of Continuity skips over Zeno's paradox, i.e. the infinitely divisible length, without even considering its annihiliating consequences. As mathematics has discovered, though, this is a fallacy of our intuition. The subject objectifies Being into representative forms and we cannot help but discretize a continuum when abstracting it into our thoughts; it is only through the aid of symbolic logic, as **Bertrand Russell** put it, that we are able to construct the necessary mental apparatus to perceive the true nature of continuity. When we apply rigor to the definition of a limit, we are forced into a definition where we can only say what it means to _approach_ a point, never to _arrive_ at a point. The modern mathematical definition of a limit symbolizes exactly this idea: getting _infinitely_ close to a point without actually _arriving_ at it is logically equivalent to physically passing through the point being approached, so that is suffices to define the latter in terms of the former, i.e. the _delta-epsilon_ definition of a limit. Indeed, pointwise discontinuities are permitted within the theorems of differential and integral calculus. In other words, a curve connecting point A and point B is mathematically the same as another curve connecting point A and point B with a countably infinite number of points removed. The implication here is then that it is possible for something to exist without it having membership in the set of things we call _existence_; or to put it another way, the thing you are approaching need not even exist in order to approach it.
+Our everyday intuition of Continuity skips over Zeno's paradox, i.e. the infinitely divisible length, without even considering its annihiliating consequences. As mathematics has discovered, though, this is a fallacy of our intuition. The subject objectifies Being into representative forms and we cannot help but discretize a continuum when abstracting it into our thoughts; it is only through the aid of symbolic logic, as **Bertrand Russell** put it, that we are able to construct the necessary mental apparatus to perceive the true nature of continuity. When we apply rigor to the definition of a limit, we are forced into a definition where we can only say what it means to _approach_ a point, never to _arrive_ at a point. 
+
+The modern mathematical definition of a limit symbolizes exactly this idea: getting _infinitely_ close to a point without actually _arriving_ at it is logically equivalent to physically passing through the point being approached, so that is suffices to define the latter in terms of the former, i.e. the _delta-epsilon_ [definition of a limit](https://en.wikipedia.org/wiki/Continuous_function#Weierstrass_and_Jordan_definitions_(epsilon–delta)_of_continuous_functions). Indeed, pointwise discontinuities are permitted within the theorems of differential and integral calculus. In other words, a curve connecting point A and point B is mathematically the same as another curve connecting point A and point B with a countably infinite number of points removed. The implication here is then that it is possible for something to exist without it having membership in the set of things we call _existence_; or to put it another way, the thing you are approaching need not even exist in order to approach it.
 
 Continuity implies an abundance so excessive that it can, without contradiction, contain an _infinite_ number of Nothings. Within this statement we see a profound truth: our inability to understand the nature of things. This notion of Continuity does not make sense. Indeed, it takes a trained mathematician many years, except in cases of genius, to overcome the intuitions ingrained into our experience through our everyday lives that lead us to form an incorrect understanding of Continuity. 
 
@@ -78,7 +80,7 @@ A final argument may be raised against the supposition that Death is unknowable,
 
 If by positive solipsism we take to mean the impossibility of knowing whether anything outside ourselves exists or not, then by negative solipsism we mean the impossiblity of knowing until we die that Death is unknowable. To phrase it another way to make the form of the argument more apparent: that Death is unknowable is unknowable until we die. This statement resembles a tautology, i.e. A = A, but upon further reflection, the relation contained in the statement is one of recursion: that in order to know that Death is unknowable, we must first die, but to die we must first relinquish the ability to know in the first place, leaving us at the exact point where we started. The statement refers to its own form. We chase ourselves in circles, each point in our path eventually leading back to itself, never making any forward progress. 
 
-To this argument we must finally concede victory. Despite the great efforts of history's philsophers and scientists, there is no way to ground an the objectification of Being without assuming a subject exists to observe it, and there is no basis for the assumption of a subject. Thus does the contingency of Being evaporate into Nothing. 
+To this argument we must finally concede victory. Despite the great efforts of history's philsophers and scientists, there is no way to ground the objectification of Being without assuming a subject exists to observe it, and there is no basis for the assumption of a subject. Thus does the contingency of Being evaporate into Nothing. 
 
 This has led many astray into the realm of divine explanation, that something other than what is must provide the basis for what is, because clearly it is the case that things are. If their contingency cannot ultimately be found in ourselves, then it must be found _somewhere_ we reason. In this same way, **Schopenhauer** ultimately violated his own `principle of sufficient reason` by positing something beyond what is, i.e. the Will, to explain what he himself said could only be explained via sufficiency and necessity. 
 
@@ -115,11 +117,11 @@ What Schopenhauer did not consider, perhaps because thermodynamics was still in 
 
 There is in this problem illuminated the meaning of solipism, to which no satisfactory answer can ever be given. My Being is just so that it can never know if it truly exists. Any ontology must necessarily become solipism at the point in which the subject enters into it. 
 
-## Wittenstein
+## Indetermination
 
-Wittgenstein used the following diagram to illustrate this nebulousness of conceptualization.
+Wittgenstein used the following diagram to illustrate the nebulousness of conceptualization.
 
-![]()
+![](./assets/wittgenstein_rabbit_duck.svg)
 
 We have here an interesting representation of _something_. It hard to pin down what _exactly_ it is, though. It is at once a rabbit and a duck, but neither concept fully emerges in the mind until a point of view is selected. Once the point is selected and the concept brought forth, the other concept evaporates entirely from the perception. In order to perceive the hidden concept, the perception of the other must likewise evaporate. It is only with great effort that we are able to hold both concepts in mind simultaneously, and furthermore this requires a letting go, i.e. the reconceptualization of the image into a unity of something like a rabbit-duck, a new existent thing; Schopenhauer would say the `Will` has thus objectified a "_lower grade_" phenomenon into a higher order `thing-in-itself`; This is what Schopenhauer meant by the `objectification of will`, or the `graduations of will`. Whitehead would say an `actual entity` has been `concretized`, and refer to the totality as a `Process`.
 
@@ -172,6 +174,16 @@ Indeed, Death is always with us but we do not apprehend it in our Being until we
 - [Tractatus Logico-Philosophicus](https://www.gutenberg.org/ebooks/5740)
 - [World as Will and Representation Vol. 1](https://www.gutenberg.org/ebooks/38427)
 
+## Concepts
+### Wikis
+- [Being-in-itself](https://en.wikipedia.org/wiki/Being_in_itself)
+- [Being-toward-death](https://en.wikipedia.org/wiki/Heideggerian_terminology#Being-toward-death)
+- [Dasein](https://en.wikipedia.org/wiki/Dasein)
+- [Facticity](https://en.wikipedia.org/wiki/Facticity)
+- [Noumenon](https://en.wikipedia.org/wiki/Noumenon)
+- [Phenomenon](https://en.wikipedia.org/wiki/Phenomenology_(philosophy))
+- [Thing-in-itself](https://en.wikipedia.org/wiki/Thing-in-itself)
+  
 ## Poems
 ### Wikis
 - [Little Gidding](https://en.wikipedia.org/wiki/Little_Gidding_(poem))
