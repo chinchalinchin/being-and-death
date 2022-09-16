@@ -163,12 +163,19 @@ Indeed, Death is always with us but we do not apprehend it in our Being until we
 - [Myth of Sisyphus, The](https://en.wikipedia.org/wiki/The_Myth_of_Sisyphus)
 - [Philosophical Investigations](https://en.wikipedia.org/wiki/Philosophical_Investigations)
 - [Principia Mathematica](https://en.wikipedia.org/wiki/Principia_Mathematica)
+- [Tractatus Logico-Philosophicus](https://en.wikipedia.org/wiki/Tractatus_Logico-Philosophicus)
 - [World as Will and Representation, The](https://en.wikipedia.org/wiki/The_World_as_Will_and_Representation)
-### Guttenberg
-- [Tractatus Logico-Philosophicus](https://www.gutenberg.org/files/5740/5740-pdf.pdf)
 
-### Poems
-- [Little Giddling](https://en.wikipedia.org/wiki/Little_Gidding_(poem))
+### Online Manuscripts
+- [Critique of Pure Reason](https://www.gutenberg.org/ebooks/4280)
+- [Tractatus Logico-Philosophicus](https://www.gutenberg.org/ebooks/5740)
+- [World as Will and Representation](https://www.gutenberg.org/ebooks/38427)
+
+## Poems
+### Wikis
+- [Little Gidding](https://en.wikipedia.org/wiki/Little_Gidding_(poem))
+### Online Manuscripts
+- [Little Gidding](http://www.columbia.edu/itc/history/winter/w3206/edit/tseliotlittlegidding.html)
 
 ### Stacks
 - [Proof that a function with a countable set of discontinuities is Reimann integrable](https://math.stackexchange.com/questions/263189/proof-that-a-function-with-a-countable-set-of-discontinuities-is-riemann-integra)
