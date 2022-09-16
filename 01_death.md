@@ -165,11 +165,12 @@ Indeed, Death is always with us but we do not apprehend it in our Being until we
 - [Principia Mathematica](https://en.wikipedia.org/wiki/Principia_Mathematica)
 - [Tractatus Logico-Philosophicus](https://en.wikipedia.org/wiki/Tractatus_Logico-Philosophicus)
 - [World as Will and Representation, The](https://en.wikipedia.org/wiki/The_World_as_Will_and_Representation)
-
 ### Online Manuscripts
+- [Being and Nothingness](https://archive.org/details/beingnothingness0000unse)
+- [Being and Time](https://archive.org/details/pdfy-6-meFnHxBTAbkLAv/page/n7/mode/2up)
 - [Critique of Pure Reason](https://www.gutenberg.org/ebooks/4280)
 - [Tractatus Logico-Philosophicus](https://www.gutenberg.org/ebooks/5740)
-- [World as Will and Representation](https://www.gutenberg.org/ebooks/38427)
+- [World as Will and Representation Vol. 1](https://www.gutenberg.org/ebooks/38427)
 
 ## Poems
 ### Wikis
