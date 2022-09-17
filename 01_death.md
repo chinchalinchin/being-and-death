@@ -24,7 +24,7 @@ It would seem, then, it does not matter which direction we choose to go, since w
 
 With the warnings of futility thus dispensed, we proceed as many have proceeded before us.
 
-The great workhorse of mathematics is proof by contradiction. An assumption is made, an absurdity is shown to result from the assumption, therefore the assumption is shown to be false. In this way was modern mathematics constructed, by outlining the truth and demarcating its boundary with falsity. Anyone who has studied higher mathematics will attest to the way most mathematical proofs work by letting the truth in through the back door (to borrow a phrase from **Schopenhauer**), that is to say, they work by showing what cannot be the case in order to prove the opposite must be so. But this does not reveal the "_essence_" of the theorem to the observer; indeed one can comprehend a proof without understanding anything about what it trying to say and in the converse direction, one may understand a concept without being able to grasp its proof in the slightest; so it is with induction: a proof of induction relies on a contradiction that an element belongs to two mutually exclusive sets, which we are forced to admit is absurdity, therefore we conclude induction must be true; but nowhere in the proof do we see why the form in an induced series is transmitted from one term to the next. Likewise, a student can spend an entire academic career studying the axioms and theorems of real analysis and still have no intuition for how a falling stone's trajectory traces a parabola with respect to time, despite having memorized a series of proofs that show how to go from set theory to differential calculus.
+The great workhorse of mathematics is proof by contradiction. An assumption is made, an absurdity is shown to result from the assumption, therefore the assumption is shown to be false. In this way was modern mathematics constructed, by outlining the truth and demarcating its boundary with falsity. Anyone who has studied higher mathematics will attest to the way most mathematical proofs work by letting the truth "_in through the back door_"[^1] (to borrow a phrase from **Schopenhauer**), that is to say, they work by showing what cannot be the case in order to prove the opposite must be so. But this does not reveal the "_essence_" of the theorem to the observer; indeed one can comprehend a proof without understanding anything about what it trying to say and in the converse direction, one may understand a concept without being able to grasp its proof in the slightest; so it is with induction: a proof of induction relies on a contradiction that an element belongs to two mutually exclusive sets, which we are forced to admit is absurdity, therefore we conclude induction must be true; but nowhere in the proof do we see why the form in an induced series is transmitted from one term to the next. Likewise, a student can spend an entire academic career studying the axioms and theorems of real analysis and still have no intuition for how a falling stone's trajectory traces a parabola with respect to time, despite having memorized a series of proofs that show how to go from set theory to differential calculus.
 
 This, however, is a logical method well-suited for Death, since as we have noted, Death will never be understood. The only course we may avail ourselves of is to define what Death is not and trace its outline through the ink of negation. Indeed, this will be the course of the present work. We shall attempt to negate our way towards an understanding of Death, an understanding that we have already noted is impossible. _C'est la vie_.
 
@@ -41,6 +41,8 @@ Regardless, perhaps in spite of this, we proceed. In order to make these feature
 3. `axiom of non-equivalence`: Unknowability is phenomenally (_apparently_) equivalent to Nothing.
 
 With the first axiom, it is likely we all agree or are at least willing to grant truth long enough to see what follows. We then turn to the justification of the latter two axioms, as the meaning of either the `axiom of failed contingency` or the `axiom of non-equivalence` is not so self-evident at first glance. 
+
+[^1](TODO)
 
 ## A Kantian Counterargument
 
@@ -81,7 +83,7 @@ Death is not like this, as it can be neither objectified nor conceptualized. Thu
 
 In the first case, Death cannot be objectified through relations, because Death resists at an ontological level the application of the first essential relation in any proposition: that of existence. 
 
-What form remains in the statement "_the Being is dead_" when its content is subtracted? [^1]
+What form remains in the statement "_the Being is dead_" when its content is subtracted? [^2]
 
 The remainder is plainly a contradiction of the [law of the excluded middle](https://en.wikipedia.org/wiki/Law_of_excluded_middle), i.e. it must be the case that either _A_ or the negation of _A_ is true, where _A_ is understood to be a symbol standing for a proposition upon which a judgement of truth can be rendered. A _Being_ cannot _be_ dead, because to _be_ means to _not be_ dead. In claiming that something _is_ dead, in the present tense, you cannot help but commit a logical fallacy. 
 
@@ -107,7 +109,7 @@ In physics, it was discovered in the late nineteenth century that no matter your
 
 All this is to say, the invariance of nature provides the ultimate metric for the subjectivity of Being, the caliber of which all other measurements must scale. The speed of light is a constraint in the form of our representation, not space or time; and so it is experimentally verified that [clock tick slower the faster one moves](https://en.wikipedia.org/wiki/Time_dilation). This, in conjunction with the notion of relative motion, ensures science and mathematics have adequately expunged the notion of time and space existing in and of themselves. The relations that underlie our apprehension and perception arise through their ability to point _towards_ these absolutes. Thus, our mutually exclusive experiences as Beings arise from our relative perception of the same absolute. 
 
-[^1]: In the preceding when we say "_Being_", what we mean can be mostly nearly approximated, to the knowledge of the author, with the Heideggerian terminology of `Dasein`, i.e. _Being_ is understood through the sum of its possible semantical operations with respect to its object: `Being-there`, `Being-with`, `Being-towards`, etc. In what follows, we will attempt to tag on a few terms to the series and see how this alters its sum. 
+[^2]: In the preceding when we say "_Being_", what we mean can be mostly nearly approximated, to the knowledge of the author, with the Heideggerian terminology of `Dasein`, i.e. _Being_ is understood through the sum of its possible semantical operations with respect to its object: `Being-there`, `Being-with`, `Being-towards`, etc. In what follows, we will attempt to tag on a few terms to the series and see how this alters its sum. 
 
 ### Death-as-not-Concept
 
