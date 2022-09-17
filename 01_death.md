@@ -16,7 +16,7 @@ And know the place for the first time
 
 Death is the bedrock at the bottom of Being. As such, we are condemned to die simply by existing. Whether we die in ignorance or with full awareness of our mortality matters not to Death, because Death is not something that _cares_[^1]. From this and because of this, all things proceed. 
 
-A Being cannot _be_ without the phantom of Death haunting its every step through time. Only in the sequel, once reflective consciousness (_as opposed to `ontical consciousness`; i.e. the consciousness of Being versus the consciousness of consciousness_) enters into the equation, do we ask whether or not a life always imperilled is worth living.
+A Being cannot _be_ without the phantom of Death haunting its every step through time. Only in the sequel, once reflective consciousness[^2] enters into the equation, do we ask whether or not a life always imperilled is worth living.
 
 Despite being the foundation of almost every human pathology, Death as a field of inquiry has received comparatively little analysis over the course of history, except in the medical sciences where it is treated clinically, i.e. as a `thing-in-itself`, to be catalogued and diagnosed along with all the other maladies and diseases and thus placed into a knowable relation with the rest of existence, or in the spiritual studies, where it is mythologized and understood only through metaphor, never as an experience that happens _to_ us. Rare are the personalities like **Nietzsche**, **Bataille** or **Cioran**, who confront Death as it is, without the window dressing of ideology or assumption.
 
@@ -28,11 +28,13 @@ It would seem, then, it does not matter which direction we choose to go, since w
 
 [^1]: As if often the case when playing the exisentialist language game, we adopt the **Heideggerian** sense of the word _care_, or _concern_, i.e. the way in which a conscious Being orients itself in the world, or the manner in which we are drawn into the world, so that we might engage with it. 
 
+[^2]: As opposed to `ontical consciousness`; i.e. the consciousness of Being versus the consciousness of consciousness.
+
 ### Existence by Contradiction
 
 With the warnings of futility thus dispensed, we proceed as many have proceeded before us.
 
-The great workhorse of mathematics is proof by contradiction. An assumption is made, an absurdity is shown to result from the assumption, therefore the assumption is shown to be false. In this way was modern mathematics constructed, by outlining the truth and demarcating its boundary with falsity. Anyone who has studied higher mathematics will attest to the way most mathematical proofs work by letting the truth "_in through the back door_"[^2], that is to say, they work by showing what cannot be the case in order to prove the opposite must be so, but this gets us no closer to _why_ it is so.
+The great workhorse of mathematics is proof by contradiction. An assumption is made, an absurdity is shown to result from the assumption, therefore the assumption is shown to be false. In this way was modern mathematics constructed, by outlining the truth and demarcating its boundary with falsity. Anyone who has studied higher mathematics will attest to the way most mathematical proofs work by letting the truth "_in through the back door_"[^3], that is to say, they work by showing what cannot be the case in order to prove the opposite must be so, but this gets us no closer to _why_ it is so.
 
 This method does not reveal the "_intuition_" of the theorem to the observer; indeed one can comprehend a proof without understanding anything about what it trying to say and in the converse direction, one may understand a concept without being able to grasp its proof in the slightest.
 
@@ -54,7 +56,7 @@ Regardless, perhaps in spite of this, we proceed. In order to make these feature
 
 With the first axiom, it is likely we all agree or are at least willing to grant truth long enough to see what follows. We then turn to the justification of the latter two axioms, as the meaning of either the `axiom of failed contingency` or the `axiom of non-equivalence` is not so self-evident at first glance. 
 
-[^2]: [p. ?, Vol 1, Section ?, Schopenhauer, The World As Will and Representation](https://www.gutenberg.org/ebooks/38427)
+[^3]: [p. ?, Vol 1, Section ?, Schopenhauer, The World As Will and Representation](https://www.gutenberg.org/ebooks/38427)
 
 ## A Kantian Counterargument
 
@@ -72,9 +74,9 @@ If we admit to the existence of knowledge and knowability in general, then we al
 
 However, Death cannot be found in the regurgitations of existence into appearance. No matter where we turn, our own Deaths are nowhere to be found in the appearances we attach to the world. Death has no boundaries that we perceive. We cannot approach it in space. Death cannot be probed. It has no weight to be felt, no surface to touch. There is no way to know what is on the other side of it, or even if there is another side, for Death has no reflection in sensation, or at the very least this sensation is commensurate with the cessation of sensation. Once Death is apprehended and integrated into our Being, we cease to be Beings. 
 
-If Death has its own interiority, i.e. a Being of Death for us, there is no mechanism to be found in the totality of existence for measuring it or bringing it into our apprehension. For as **Wittgenstein** once said, "_the picture cannot place itself outside of its form of representation_" [^3].
+If Death has its own interiority, i.e. a Being of Death for us, there is no mechanism to be found in the totality of existence for measuring it or bringing it into our apprehension. For as **Wittgenstein** once said, "_the picture cannot place itself outside of its form of representation_" [^4].
 
-[^3]: [p.98, 2.174, Wittgenstein, Tractatus Logico-Philosophicus](https://www.gutenberg.org/files/5740/5740-pdf.pdf)
+[^4]: [p.98, 2.174, Wittgenstein, Tractatus Logico-Philosophicus](https://www.gutenberg.org/files/5740/5740-pdf.pdf)
 
 ### The Definition of Death
 
@@ -112,7 +114,7 @@ Death is not like this, as it can be neither objectified nor conceptualized. Thu
 
 In the first case, Death cannot be objectified through relations, because Death resists at an ontological level the application of the first essential relation in any proposition: that of existence. 
 
-What form remains in the statement "_the Being is dead_" when its content is subtracted? [^4]
+What form remains in the statement "_the Being is dead_" when its content is subtracted? [^5]
 
 The remainder is plainly a contradiction of the `law of the excluded middle`, i.e. it must be the case that either _A_ or the negation of _A_ is true, where _A_ is understood to be a symbol standing for a proposition upon which a judgement of truth can be rendered. A _Being_ cannot _be_ dead, because to _be_ means to _not be_ dead. In claiming that something _is_ dead, in the present tense, you cannot help but commit a logical fallacy. 
 
@@ -141,7 +143,7 @@ All this is to say, the invariance of nature provides the ultimate metric for th
 
 The relations that underlie our apprehension and perception arise through their ability to point _towards_ these absolutes. Thus, our mutually exclusive experiences as Beings arise from our relative perception of the same absolute. 
 
-[^4]: In the preceding when we say "_Being_", what we mean can be mostly nearly approximated, to the knowledge of the author, with the **Heideggerian** terminology of `Dasein`. _Being_ is understood through the sum of its possible semantical operations with respect to its object: `Being-there`, `Being-with`, `Being-towards`, etc. In what follows, we will attempt to tag on a few terms to the series and see how this alters its sum. 
+[^5]: In the preceding when we say "_Being_", what we mean can be mostly nearly approximated, to the knowledge of the author, with the **Heideggerian** terminology of `Dasein`. _Being_ is understood through the sum of its possible semantical operations with respect to its object: `Being-there`, `Being-with`, `Being-towards`, etc. In what follows, we will attempt to tag on a few terms to the series and see how this alters its sum. 
 
 ### Death-as-not-Concept
 
