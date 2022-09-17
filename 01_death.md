@@ -50,6 +50,7 @@ Death cannot be tested as a hypothesis, because Death is not the cause of anythi
 
 No matter the starting point, Death always remains impenetrable to analysis. Analysis can only claim validity to extent that it can be brought into correspondence with the objects it purports to analyze; Any analysis of Death must eventually come to the point where it is held up against the Nothingness it represents and thus fail to represent it. 
 
+### The Laws of Death
 Regardless, perhaps in spite of this, we proceed. In order to make these features of Death emerge from the dialectic, we will attempt to create an ontology of Death. In the first pass, we will extract from the philosophers and scientists who preceded us whatever we find useful and salient, and then append to this piecemeal framework the following: 
     
 1. `axiom of precluded existence`: Death exists for all Beings.
