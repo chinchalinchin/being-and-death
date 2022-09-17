@@ -16,7 +16,7 @@ And know the place for the first time
 
 Death is the bedrock at the bottom of Being. As such, we are condemned to die simply by existing. Whether we die in ignorance or with full awareness of our mortality matters not to Death, because Death is not something that _cares_[^1]. From this and because of this, all things proceed. 
 
-A Being cannot _be_ without the phantom of Death haunting its every step through time. Only in the sequel, once reflective consciousness enters into the equation, do we ask whether or not a life always imperilled is worth living.
+A Being cannot _be_ without the phantom of Death haunting its every step through time. Only in the sequel, once reflective consciousness (<sup><sub>as opposed to `ontical consciousness`</sub></sup>)enters into the equation, do we ask whether or not a life always imperilled is worth living.
 
 Despite being the foundation of almost every human pathology, Death as a field of inquiry has received comparatively little analysis over the course of history, except in the medical sciences where it is treated clinically, i.e. as a `thing-in-itself`, to be catalogued and diagnosed along with all the other maladies and diseases and thus placed into a knowable relation with the rest of existence, or in the spiritual studies, where it is mythologized and understood only through metaphor, never as an experience that happens _to_ us. Rare are the personalities like **Nietzsche**, **Bataille** or **Cioran**, who confront Death as it is, without the window dressing of ideology or assumption.
 
@@ -312,6 +312,7 @@ Indeed, Death is always with us but we do not apprehend it in our Being until we
 - [Invariance](https://en.wikipedia.org/wiki/Invariant_(mathematics))
 - [Law of Excluded Middle](https://en.wikipedia.org/wiki/Law_of_excluded_middle)
 - [Noumenon](https://en.wikipedia.org/wiki/Noumenon)
+- [Ontic](https://en.wikipedia.org/wiki/Ontic)
 - [Phenomenon](https://en.wikipedia.org/wiki/Phenomenology_(philosophy))
 - [Thing-in-itself](https://en.wikipedia.org/wiki/Thing-in-itself)
 - [Time Dilation](https://en.wikipedia.org/wiki/Time_dilation)
