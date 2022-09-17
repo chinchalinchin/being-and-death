@@ -62,7 +62,7 @@ Regardless, perhaps in spite of this, we proceed. In order to make these feature
 2. `axiom of failed contingency`: Death is unknowable through phenomena (_appearance_). 
 3. `axiom of non-equivalence`: Unknowability is phenomenally (_apparently_) equivalent to Nothing.
 
-With the first axiom, it is likely we all agree or are at least willing to grant truth long enough to see what follows. We then turn to the justification of the latter two axioms, as the meaning of either the `axiom of failed contingency` or the `axiom of non-equivalence` is not so self-evident at first glance. 
+With the first axiom, it is likely we all agree or are at least willing to grant truth long enough to see what follows. We then turn to the justification of the latter two axioms, as the meaning of either the `axiom of failed contingency` or the `axiom of non-equivalence` is not clear at first glance. 
 
 [^3]: [p. ?, Vol 1, Section ?, Schopenhauer, The World As Will and Representation](https://www.gutenberg.org/ebooks/38427)
 
