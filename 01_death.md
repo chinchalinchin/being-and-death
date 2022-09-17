@@ -24,7 +24,7 @@ It would seem, then, it does not matter which direction we choose to go, since w
 
 With the warnings of futility thus dispensed, we proceed as many have proceeded before us.
 
-The great workhorse of mathematics is proof by contradiction. An assumption is made, an absurdity is shown to result from the assumption, therefore the assumption is shown to be false. In this way was modern mathematics constructed, by outlining the truth and demarcating its boundary with falsity. Anyone who has studied higher mathematics will attest to the way most mathematical proofs work by letting the truth "_in through the back door_"([p. ?, Vol 1, Section ?, The World As Will and Representation](https://www.gutenberg.org/ebooks/38427)), that is to say, they work by showing what cannot be the case in order to prove the opposite must be so. 
+The great workhorse of mathematics is proof by contradiction. An assumption is made, an absurdity is shown to result from the assumption, therefore the assumption is shown to be false. In this way was modern mathematics constructed, by outlining the truth and demarcating its boundary with falsity. Anyone who has studied higher mathematics will attest to the way most mathematical proofs work by letting the truth "_in through the back door_"[^1], that is to say, they work by showing what cannot be the case in order to prove the opposite must be so. 
 
 This method does not reveal the "_intuition_" of the theorem to the observer; indeed one can comprehend a proof without understanding anything about what it trying to say and in the converse direction, one may understand a concept without being able to grasp its proof in the slightest.
 
@@ -46,6 +46,8 @@ Regardless, perhaps in spite of this, we proceed. In order to make these feature
 
 With the first axiom, it is likely we all agree or are at least willing to grant truth long enough to see what follows. We then turn to the justification of the latter two axioms, as the meaning of either the `axiom of failed contingency` or the `axiom of non-equivalence` is not so self-evident at first glance. 
 
+[^1]: [p. ?, Vol 1, Section ?, Schopenhauer, The World As Will and Representation](https://www.gutenberg.org/ebooks/38427)
+
 ## A Kantian Counterargument
 
 In true negative fashion, we will start by asssuming what is false and show how it leads to a contradiction. The negation of the `axiom of failed contingency` is that Death _is_ knowable through phenomena. With this in hand, the counterargument to the `axiom of failed contingency` can be raised along the following lines.
@@ -62,7 +64,9 @@ If we admit to the existence of knowledge and knowability in general, then we al
 
 However, Death cannot be found in the regurgitations of existence into appearance. No matter where we turn, our own Deaths are nowhere to be found in the appearances we attach to the world. Death has no boundaries that we perceive. We cannot approach it in space. Death cannot be probed. It has no weight to be felt, no surface to touch. There is no way to know what is on the other side of it, or even if there is another side, for Death has no reflection in sensation, or at the very least this sensation is commensurate with the cessation of sensation. Once Death is apprehended and integrated into our Being, we cease to be Beings. 
 
-If Death has its own interiority, i.e. a Being of Death for us, there is no mechanism to be found in the totality of existence for measuring it or bringing it into our apprehension. For as **Wittgenstein** once said, "_the picture cannot place itself outside of its form of representation_" ([p.98, 2.174, _Tractatus Logico-Philosophicus_](https://www.gutenberg.org/files/5740/5740-pdf.pdf)).
+If Death has its own interiority, i.e. a Being of Death for us, there is no mechanism to be found in the totality of existence for measuring it or bringing it into our apprehension. For as **Wittgenstein** once said, "_the picture cannot place itself outside of its form of representation_" [^2].
+
+[^2]: [p.98, 2.174, Wittgenstein, Tractatus Logico-Philosophicus](https://www.gutenberg.org/files/5740/5740-pdf.pdf)
 
 ### The Definition of Death
 
@@ -100,7 +104,7 @@ Death is not like this, as it can be neither objectified nor conceptualized. Thu
 
 In the first case, Death cannot be objectified through relations, because Death resists at an ontological level the application of the first essential relation in any proposition: that of existence. 
 
-What form remains in the statement "_the Being is dead_" when its content is subtracted? [^2]
+What form remains in the statement "_the Being is dead_" when its content is subtracted? [^3]
 
 The remainder is plainly a contradiction of the [law of the excluded middle](https://en.wikipedia.org/wiki/Law_of_excluded_middle), i.e. it must be the case that either _A_ or the negation of _A_ is true, where _A_ is understood to be a symbol standing for a proposition upon which a judgement of truth can be rendered. A _Being_ cannot _be_ dead, because to _be_ means to _not be_ dead. In claiming that something _is_ dead, in the present tense, you cannot help but commit a logical fallacy. 
 
@@ -126,7 +130,7 @@ In physics, it was discovered in the late nineteenth century that no matter your
 
 All this is to say, the invariance of nature provides the ultimate metric for the subjectivity of Being, the caliber of which all other measurements must scale. The speed of light is a constraint in the form of our representation, not space or time; and so it is experimentally verified that [clock tick slower the faster one moves](https://en.wikipedia.org/wiki/Time_dilation). This, in conjunction with the notion of relative motion, ensures science and mathematics have adequately expunged the notion of time and space existing in and of themselves. The relations that underlie our apprehension and perception arise through their ability to point _towards_ these absolutes. Thus, our mutually exclusive experiences as Beings arise from our relative perception of the same absolute. 
 
-[^2]: In the preceding when we say "_Being_", what we mean can be mostly nearly approximated, to the knowledge of the author, with the Heideggerian terminology of `Dasein`, i.e. _Being_ is understood through the sum of its possible semantical operations with respect to its object: `Being-there`, `Being-with`, `Being-towards`, etc. In what follows, we will attempt to tag on a few terms to the series and see how this alters its sum. 
+[^3]: In the preceding when we say "_Being_", what we mean can be mostly nearly approximated, to the knowledge of the author, with the Heideggerian terminology of `Dasein`, i.e. _Being_ is understood through the sum of its possible semantical operations with respect to its object: `Being-there`, `Being-with`, `Being-towards`, etc. In what follows, we will attempt to tag on a few terms to the series and see how this alters its sum. 
 
 ### Death-as-not-Concept
 
