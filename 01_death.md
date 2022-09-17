@@ -50,19 +50,32 @@ A rock sits before us. It is self-evident that what we find in our apprehension 
 
 The interiority of a rock, its _existence_, is by definition beyond the limits of our Being, as we can only ever apprehend its appearance, but we do not thus claim a rock cannot be understood or that the rock is unknowable, or else mechanics would be of no practical use. 
 
-We can approach the rock, interact with it and thereby come to an understanding of its nature. We can discover its boundaries, the surface across which it begins and we end. We can feel its nature acting when we pick it up, along the lines of force that pull it back towards it gravitational focus. When we push on the rock, it pushes back and impinges on our senses. Its inertia becomes tangible in our grasp. We find ourselves _in_ the world _with_ the rock, what **Heidegger** termed `throwness`. It is only in the sense that we cannot _be_ the rock, that it is separate from us; there is imposed between us a `nihil privativum`, a void between the representation of our Being and our Being itself. 
+We come to an understanding of mechanics and physics through our representations. We approach the rock, experience how its appearance depends on our perspective, on our ability to relate to it through space and time. We interact with it and thereby come to an understanding of its nature. We discover its boundaries, the surface across which it begins and we end. We can _feel_ its existence when we pick it up, along the lines of force that oppose our own and pull it back towards it gravitational focus. When we push on the rock, it pushes back and impinges on our senses. Its inertia becomes tangible in our grasp. 
 
-If we admit to the existence of knowledge and knowability in general, then we also tacitly assume that which is not our Being can still be known through our Being. To say Death is unknowable is tantamount to claiming anything external to our Being lacks existence. The fallacy of the proposed counterargument lies in tacit assumption the void crossed from existence to appearance is equivalent to the void between Being and Death. 
+In other words, we find ourselves _in_ the world _with_ the rock, what **Heidegger** termed `throwness`. It is only in the sense that we cannot _be_ the rock, that it is separate from us; there is imposed between us a `nihil privativum`, a void between the representation of our Being and our Being itself. 
+
+If we admit to the existence of knowledge and knowability in general, then we also admit to the assumotion that which is not our Being can be known through our Being. To say Death is unknowable is tantamount to claiming anything external to our Being lacks existence, goes the counterargument to the `axiom of failed contingency`. The fallacy of the proposed counterargument lies in tacit assumption the void crossed from existence to appearance is equivalent to the void crossed between Being and Death. 
 
 However, Death cannot be found in the regurgitations of existence into appearance. No matter where we turn, our own Deaths are nowhere to be found in the appearances we attach to the world. Death has no boundaries that we perceive. We cannot approach it in space. Death cannot be probed. It has no weight to be felt, no surface to touch. There is no way to know what is on the other side of it, or even if there is another side, for Death has no reflection in sensation, or at the very least this sensation is commensurate with the cessation of sensation. Once Death is apprehended and integrated into our Being, we cease to be Beings. 
 
 If Death has its own interiority, i.e. a Being of Death for us, there is no mechanism to be found in the totality of existence for measuring it or bringing it into our apprehension. For as **Wittgenstein** once said, "_the picture cannot place itself outside of its form of representation_" ([p.98, 2.174, _Tractatus Logico-Philosophicus_](https://www.gutenberg.org/files/5740/5740-pdf.pdf)).
 
-### Definitions
+### The Definition of Death
 
-It may be argued the definition of Death adopted in the preceding is too narrow, that is seeks to restrict itself to the personal, to the experiential, and in doing so fails to acknowledge the communal aspect of Death, that is to say, the definition of Death as it has been discussed so far does not include our apprehension of the Death of the Other.
+It may be argued the definition of Death adopted in the preceding is too narrow, that is seeks to restrict itself to the personal, to the experiential, to the phenomenal and in doing so fails to acknowledge the communal aspect of Death, that is to say, the definition of Death as it has been discussed so far does not include our apprehension of the Death of the Other.
 
-To this, the question is raised: what in our currentdefinition of Death is missing that would broaden its scope to include this category of phenomenon?
+To this point, we counter immediately with three questions: 
+
+1. If, in the analysis of Death, we are not seeking a phenomology of Death, then what is it we are seeking? What do we hope to achieve?
+
+2. How do we bring to our attention the implicit ontological relations that bind us to our non-Being, without narrowing the scope of Death to indicate exactly that non-Being?
+
+3. What is lacking in our current definition of Death that would broaden its scope to include the category of phenomenon here termed _the Death of the Other_?
+
+Let us in turn dwell on each question and see where it leads, if anywhere at all, which does not seem likely given the strange dialectic so far traversed. 
+
+
+
 
 
 We arrive at the same conclusion from the reverse direction: Upon making ingress into the Other's perception, Death is no longer a subjective experience, but instead a fact among others. In this sense, Death is similar to consciousness, in that consciousness once objectified in the consciousness of another ceases to be consciousness at all, but becomes a representation of that consciousness, an indication pointing beyond the realm of Being towards the Being of another, unknowable like Death, but unlike Death, inferrable through the observance of the causal connections that unite us in our Being. In other words, the Other is unknowable as an experience, but the experience of the Other as object is knowable through the medium of representation. We can recognize intelligence in the world outside of ourselves through the arrangement of forms. In this way, I know whatever entity responsible for traffic signs is also an intelligent being because traffic signs indicate a concept we both understand, and this understanding is embodied through the course of our synchronized action, and through this understanding and sychronization we come to know each other. 
