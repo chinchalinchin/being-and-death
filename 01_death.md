@@ -14,7 +14,7 @@ And know the place for the first time
 
 **Albert Camus** once stated there is but one philosophical question and that is suicide. In this, **Camus** skipped over much to arrive at his starting point. However, to his credit, he only meant it in the rhetorical sense, as way to examine the absurdity of living in a universe where you are fated from the very start to die at the end. Nevertheless, there is a definite promxity to truth in his statement. 
 
-Death is the bedrock at the bottom of Being. In view of this fundamental consequence of our Being, we are condemned to die simply by existing. Whether we die in ignorance or with full awareness of our mortality matters not to Death, because Death is not something that _cares_[^1]. From this and because of this, all things proceed. 
+Death is the bedrock at the bottom of Being. In view of Death as the foundation of our Being, we are condemned to die simply by existing. Whether we die in ignorance or with full awareness of our mortality matters not to Death, because Death is not something that _cares_[^1]. From this and because of this, all things proceed. 
 
 A Being cannot _be_ without the phantom of Death haunting its every step through time. Only in the sequel, once reflective consciousness enters into the equation, do we ask whether or not a life always imperilled is worth living.
 
