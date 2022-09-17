@@ -42,7 +42,7 @@ In the first case, Death cannot be objectified through relations, because Death 
 
 What remains in the statement "_the Being is dead_" when its content is subtracted? [^1]
 
-The remainder is plainly a contradiction of the law of the excluded middle, i.e. it must be the case that either _A_ or the negation of _A_ is true, where _A_ is understood to be a symbol standing for a proposition upon which a judgement of truth can be rendered. A _Being_ cannot _be_ dead, because to _be_ means to _not be_ dead. In claiming that something _is_ Dead, in the present tense, you cannot help but commit a logical fallacy. 
+The remainder is plainly a contradiction of the [law of the excluded middle](https://en.wikipedia.org/wiki/Law_of_excluded_middle), i.e. it must be the case that either _A_ or the negation of _A_ is true, where _A_ is understood to be a symbol standing for a proposition upon which a judgement of truth can be rendered. A _Being_ cannot _be_ dead, because to _be_ means to _not be_ dead. In claiming that something _is_ Dead, in the present tense, you cannot help but commit a logical fallacy. 
 
 Death is not something that occurs in _my_ present, only in either _my_ future, where it defies the laws of causality to be abstracted into the present except through the process of time which leads us back to the original statement's contradiction in the present tense, or in the Other's past, where once a Being is dead their Being only exists insofar as it is objectified in the Being of the Other, where it no longer has any subjectivity or consciousness and can no claim to be _my_ Being.
 
@@ -186,6 +186,7 @@ Indeed, Death is always with us but we do not apprehend it in our Being until we
 - [Being-toward-death](https://en.wikipedia.org/wiki/Heideggerian_terminology#Being-toward-death)
 - [Dasein](https://en.wikipedia.org/wiki/Dasein)
 - [Facticity](https://en.wikipedia.org/wiki/Facticity)
+- [Law of Excluded Middle](https://en.wikipedia.org/wiki/Law_of_excluded_middle)
 - [Noumenon](https://en.wikipedia.org/wiki/Noumenon)
 - [Phenomenon](https://en.wikipedia.org/wiki/Phenomenology_(philosophy))
 - [Thing-in-itself](https://en.wikipedia.org/wiki/Thing-in-itself)
