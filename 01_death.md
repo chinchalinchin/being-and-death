@@ -24,7 +24,7 @@ It would seem, then, it does not matter which direction we choose to go, since w
 
 With the warnings of futility thus dispensed, we proceed as many have proceeded before us.
 
-The great workhorse of mathematics is proof by contradiction. An assumption is made, an absurdity is shown to result from the assumption, therefore the assumption is shown to be false. In this way was modern mathematics constructed, by outlining the truth and demarcating its boundary with falsity. Anyone who has studied higher mathematics will attest to the way most mathematical proofs work by letting the truth "_in through the back door_"[^1], that is to say, they work by showing what cannot be the case in order to prove the opposite must be so. 
+The great workhorse of mathematics is proof by contradiction. An assumption is made, an absurdity is shown to result from the assumption, therefore the assumption is shown to be false. In this way was modern mathematics constructed, by outlining the truth and demarcating its boundary with falsity. Anyone who has studied higher mathematics will attest to the way most mathematical proofs work by letting the truth "_in through the back door_"[^1], that is to say, they work by showing what cannot be the case in order to prove the opposite must be so, but this gets us no closer to _why_ it is so.
 
 This method does not reveal the "_intuition_" of the theorem to the observer; indeed one can comprehend a proof without understanding anything about what it trying to say and in the converse direction, one may understand a concept without being able to grasp its proof in the slightest.
 
