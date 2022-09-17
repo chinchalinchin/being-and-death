@@ -50,9 +50,9 @@ A close correlates of _understanding_ is _reason_; Death can not be the reason f
 
 Death cannot be tested as a hypothesis, because Death is not the cause of anything; Death is the end result. Death is the ultimate datum to which all hypotheses must point. Because of this, our endeavor is doomed from the start arrive at Nothing. 
 
-No matter the starting point, Death always remains impenetrable to analysis. Analysis can only claim validity to extent that it can be brought into correspondence with the objects it purports to analyze; Any analysis of Death must eventually come to the point where it is held up against the Nothingness it represents and thus fail to represent it. 
+No matter the starting point, Death always remains impenetrable to analysis. Analysis can only claim validity to extent that it can be brought into correspondence with the objects it purports to analyze. Any analysis of Death must eventually come to the point where it is held up against the Nothingness it represents and find it lacking, not in itself, for lacking is not in the contingency of form, but in what the form attempts to represent, the absence of Being, the hole where Nothing now remains. Thus fails the project of analysis in itself entirety. 
 
-Regardless, perhaps in spite of this, we proceed. In order to make these features of Death emerge from the dialectic, we will attempt to create an ontology of Death. In the first pass, we will extract from the philosophers and scientists who preceded us whatever we find useful and salient, and then append to this piecemeal framework the following: 
+Regardless, perhaps in spite of this, we proceed. In order to make these features of Death emerge from the discourse, we will attempt to create an ontology of Death. In the first pass, we will extract from the philosophers and scientists who preceded us whatever we find useful and salient, and then append to this piecemeal framework the following: 
     
 1. `axiom of precluded existence`: Death exists for all Beings.
 2. `axiom of failed contingency`: Death is unknowable through phenomena (_appearance_). 
