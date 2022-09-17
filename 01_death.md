@@ -48,9 +48,9 @@ Yet, it makes even less sense to say "_the Being was dead_", for Death as a fact
 
 Indeed, the only way to attach meaning to the preceding proposition is to conjugate it with respect to the future, i.e. "_the Being will be dead_". This is the type of future that only exists in the limit, where infinities and infinitesimals yield values that need not exist at any particular moment in time (<sub><sup>see [Language Games](#language-games) for more discussion on the relationship of limits to Death </sub></sup>) As if logic were on a treadmill, perpetually running in place, never getting anywhere. There is no way for Death as an object to exist in a logical relationship without a contradiction arising from within its boundaries, and thus no way to talk about Death without talking in cricles. 
 
-Thus, we have here the essential nature of Death. To sum up the ontological relation described in the precedeing paragraphs, we might define Death's Being with the appropriate Kantian-Heideggerian neologisms : `never-was`, `always-near`, `never-here`. 
+Thus, we have here the essential nature of Death. To sum up the ontological relation described in the precedeing paragraphs, we might define Death's Being with the appropriate **Kantian**-**Heideggerian** neologisms : `never-Being`, `Being-always-near`, `Being-never-here`. 
 
-[^1]: H
+[^1]: In the preceding when we say "_Being_", what we mean can be mostly nearly approximated, to the knowledge of the author, with the Heideggerian terminology of `Dasein`, i.e. _Being_ is understood through the sum of semantical operations: `Being-there`, `Being-with`, `Being-towards`. 
 
 ### Death-as-Not-Concept
 
