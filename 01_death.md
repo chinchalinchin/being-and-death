@@ -40,13 +40,17 @@ Death is not like this, as it can be neither objectified nor conceptualized. Thu
 
 In the first case, Death cannot be objectified through relations, because Death resists at an ontological level the application of the first essential relation in any proposition: that of existence. 
 
-What remains in the statement "_the Being is dead_" when its content is subtracted? The remainder is plainly a contradiction of the law of the excluded middle, i.e. it must be the case that either _A_ or the negation of _A_ is true, where _A_ is understood to be a symbol standing for a proposition upon which a judgement of truth can be rendered. A _Being_ cannot _be_ dead, because to _be_ means to _not be_ dead. In claiming that something _is_ Dead, in the present tense, you cannot help but commit a logical fallacy. Death is not something that occurs in anyone's present tense, only in either their future, where it defies the laws of causality to be abstracted into their present except through the process of time, or in the Other's past, where once a Being is dead their Being only exists insofar as it is objectified in the Being of the Other, where it no longer has any subjectivity or consciousness. 
+What remains in the statement "_the Being is dead_" when its content is subtracted? [^1]
+
+The remainder is plainly a contradiction of the law of the excluded middle, i.e. it must be the case that either _A_ or the negation of _A_ is true, where _A_ is understood to be a symbol standing for a proposition upon which a judgement of truth can be rendered. A _Being_ cannot _be_ dead, because to _be_ means to _not be_ dead. In claiming that something _is_ Dead, in the present tense, you cannot help but commit a logical fallacy. Death is not something that occurs in _my_ present, only in either _my_ future, where it defies the laws of causality to be abstracted into the present except through the process of time which leads us back to the original statement's contradiction in the present tense, or in the Other's past, where once a Being is dead their Being only exists insofar as it is objectified in the Being of the Other, where it no longer has any subjectivity or consciousness and can no claim to be _my_ Being.
 
 Yet, it makes even less sense to say "_the Being was dead_", for Death as a fact cannot be contradicted by the circumstances of things as they currently are, i.e. if a Being _is_ now, then its Death has not yet occurred and so consequently can not have the operation of "_was_" applied to it. Conversely, if a Being's Death _was_ a fact then, then it must also _be_ a fact now or else the meaning of the operation "_was_" has been violated and we are back to the original problem, having gained no ground. 
 
 Indeed, the only way to attach meaning to the preceding proposition is to conjugate it with respect to the future, i.e. "_the Being will be dead_". This is the type of future that only exists in the limit, where infinities and infinitesimals yield values that need not exist at any particular moment in time (<sub><sup>see [Language Games](#language-games) for more discussion on the relationship of limits to Death </sub></sup>) As if logic were on a treadmill, perpetually running in place, never getting anywhere. There is no way for Death as an object to exist in a logical relationship without a contradiction arising from within its boundaries, and thus no way to talk about Death without talking in cricles. 
 
 Thus, we have here the essential nature of Death. To sum up the ontological relation described in the precedeing paragraphs, we might define Death's Being with the appropriate Kantian-Heideggerian neologisms : `never-was`, `always-near`, `never-here`. 
+
+[^1]: H
 
 ### Death-as-Not-Concept
 
