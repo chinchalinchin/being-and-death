@@ -46,7 +46,9 @@ This, however, is a logical method well-suited for Death, since as we have noted
 
 ### The Laws of Death
 
-A close correlates of _understanding_ is _reason_; Death can not be the reason for the something, because it is Nothing at all, it is the distinct and inexplicable lack of Being where there should be one. Death cannot be given as motive to explain an action because Death implies the impossiblity of action. If Death has a logic, a form of its own, it is not one the mind can grasp; Death will not fit into the grooves of logic, into the operations of modus ponens or syllogism, because there can never be any intuitive jump from a hypothesis that presupposes nonexistence ([a topic to which we will return in later sections](#death-as-not-object)). We have in Death a Kantian `nihil negativum`, a Nothingness born from absurdity, a nullity by necessity, a concept without content or form. 
+A close correlates of _understanding_ is _reason_.
+
+Death can not be the reason for the something, because it is Nothing at all, it is the distinct and inexplicable lack of Being where there should be one. Death cannot be given as motive to explain an action because Death implies the impossiblity of action. If Death has a logic, a form of its own, it is not one the mind can grasp; Death will not fit into the grooves of logic, into the operations of modus ponens or syllogism, because there can never be any intuitive jump from a hypothesis that presupposes nonexistence ([a topic to which we will return in later sections](#death-as-not-object)). We have in Death a Kantian `nihil negativum`, a Nothingness born from absurdity, a nullity by necessity, a concept without content or form. 
 
 Death cannot be tested as a hypothesis, because Death is not the cause of anything; Death is the end result. Death is the ultimate datum to which all hypotheses must point. Because of this, our endeavor is doomed from the start arrive at Nothing. 
 
