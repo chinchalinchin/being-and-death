@@ -12,7 +12,7 @@ And know the place for the first time
 
 ## The Question
 
-**Albert Camus** once stated there is but one philosophical question and that is suicide. In this, **Camus** skipped over much to arrive at his starting point. However, to his credit, he only meant it in the rhetorical sense, as way to examine the absurdity of living in a universe where you are fated from the very start to die at the end. Nevertheless, there is a definite promxity to truth in his formulation of the so-called "_philosophical question_". 
+**Albert Camus** once stated there is but one philosophical question and that is suicide. In this, **Camus** skipped over much to arrive at his starting point. However, to his credit, he only meant it in the rhetorical sense, as way to examine the absurdity of living in a universe where you are fated from the very start to die at the end. Nevertheless, there is a definite proximity to truth in his formulation of the so-called "_philosophical question_". 
 
 Death is the bedrock at the bottom of Being. As such, we are condemned to die simply by existing. Whether we die in ignorance or with full awareness of our mortality matters not to Death, because Death is not something that _cares_[^1]. From this and because of this, all things proceed. 
 
@@ -20,7 +20,7 @@ A Being cannot _be_ without the phantom of Death haunting its every step through
 
 Despite being the foundation of almost every human pathology, Death as a field of inquiry has received comparatively little analysis over the course of history, except in the medical sciences where it is treated clinically, i.e. as a `thing-in-itself`, to be catalogued and diagnosed along with all the other maladies and diseases and thus placed into a knowable relation with the rest of existence, or in the spiritual studies, where it is mythologized and understood only through metaphor, never as an experience that happens _to_ us. Rare are the personalities like **Nietzsche**, **Bataille** or **Cioran**, who confront Death as it is, without the window dressing of ideology or assumption.
 
-There is a reason for this. Death as a subject is repellant to understanding. Its very definition presupposes the limit of the knower, that is to say, Death is inherently unknowable. Death can only be understood through the mechanisms of analogy and metaphor, for when we turn our attention directly to the object of Death it reveals itself as something which can not be found in Being. 
+There is a reason for this. Death as a subject is repellant to understanding. Its very definition presupposes the limit of the knower; That is to say, Death is inherently unknowable. Death can only be understood through the mechanisms of analogy and metaphor, for when we turn our attention directly to the object of Death it reveals itself as something which can not be found in Being. 
 
 We can be aware that we will eventually die, we can perceive others passing from this world of existence, we can even in unique circumstances perceive the manner of our own Death, but that awareness will never be extended into Death itself. Death is the point where awareness stops; in this way, we mean Death exists beyond the limit of understanding. 
 
@@ -99,6 +99,10 @@ To this point, we counter immediately with three questions:
 3. What is lacking in our current definition of Death that would broaden its scope to include the category of phenomenon here termed _the Death of the Other_?
 
 Let us in turn dwell on each question and see where it leads, if anywhere at all, which does not seem likely given the strange dialectic so far traversed. 
+
+
+
+
 
 Upon making ingress into the Other's perception, Death is no longer a subjective experience, but instead a fact among others. In this sense, Death is similar to consciousness, in that consciousness once objectified in the consciousness of another ceases to be consciousness at all, but becomes a representation of that consciousness, an indication pointing beyond the realm of Being towards the Being of another, unknowable like Death, but unlike Death, inferrable through the observance of the causal connections that unite us in our Being. 
 
