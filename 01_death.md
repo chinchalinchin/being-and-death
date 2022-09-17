@@ -39,11 +39,13 @@ But upon making ingress into the Other's perception, it is no longer a subjectiv
 
 
 
-Our thesis can be summarized succinctly in the following bullet points: 
+To any further metaphysics or ontologies, the auther recommends the addition of the following axioms: 
     
-1. `axiom of existence`: Death exists for all Beings.
-2. `axiom of contingency`: Death is unknowable through phenomena (appearance). 
-3. `axiom of equivalence`: Unknowability is phenomenally equivalent to Nothing.
+1. `axiom of precluded existence`: Death exists for all Beings.
+2. `axiom of failed contingency`: Death is unknowable through phenomena (_appearance_). 
+3. `axiom of non-equivalence`: Unknowability is phenomenally (_apparently_) equivalent to Nothing.
+
+With the first axiom, it is likely we all agree or are at least willing to grant truth long enough to see what follows. We then turn to the justification of the latter two axioms, as the meaning of either the `axiom of failed contingency` or the `axiom of non-equivalence` is not so self-evident at first glance. 
 
 ## A Kantian Counterargument
 
