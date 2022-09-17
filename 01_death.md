@@ -1,4 +1,4 @@
-# Chapter 1: Death 
+# Death
 
 ```
 We shall not cease from exploration
@@ -52,6 +52,12 @@ Indeed, the only way to attach meaning to the preceding proposition is to conjug
 
 There is no way for Death as an object to exist in a logical relationship without a contradiction arising from within its boundaries, and thus no way to talk about Death without talking in circles. Thus, we have here a glimpse into the essential nature of Death. To sum up the ontological relation described in the precedeing paragraphs, we might define Death's Being with the appropriate **Kantian**-**Heideggerian** neologisms : `never-Being`, `Being-always-near`, `Being-never-here`. 
 
+We might also remark at this point that Death's essential contradiction appears to arise through the union of its Nothingness and it's so-called [contingency](https://en.wikipedia.org/wiki/Contingency_(philosophy)). Death is something that happens to us, thus it is fixed as the endpoint in the sequence of causal relations that form our [factical](https://en.wikipedia.org/wiki/Facticity) trajectory through the world. Every choice we make (if it is a choice) from the moment of our birth leads inevitably to our Death. Death is fixed in everyone's lives as the final point upon which we all ultimately come to rest. Death, in this sense, is [invariant](https://en.wikipedia.org/wiki/Invariant_(mathematics)).
+
+In physics, it was discovered in the late nineteenth century that no matter your mechanical frame of reference, i.e. how fast you are travelling, what forces are acting on you, etc., you will always measure the same speed of light. This is a counter-intuitive discovery, because we tended until that point to think of motion as additive, i.e. I throw a baseball from a moving train (or car, in modern parlance), the ball travels with the speed I impart to it plus the speed of the train. This intuitive notion arises from our idea that motion is relative to space and that space is absolute. **Schopenhauer**, extending the ideas of **Kant**, was the first philosopher to see that space itself was nothing more than a relation the subject used to apprehend the world as representation, and thus it must only have Being for the subject. It was then discovered by **Einstein**, in the next centry, if the speed of light does not change with respect to your frame of reference, then its invariance leads to the relativity of space. Thus, **Einstein** provided the scientific and mathematical foundation of **Schopenhauer**'s philosophy. 
+
+All this is to say, the invariance of nature provides the ultimate metric for the subjectivity of Being. The speed of light is a constraint in the form of our representation, not space or time; and so it is experimentally verified that [clock tick slower the faster one moves](https://en.wikipedia.org/wiki/Time_dilation). This, in conjunction with the notion of relative motion, ensures science and mathematics have adequately expunged the notion of time and space existing in and of themselves. The relations underlie our apprehension and perception arise through the 
+
 [^1]: In the preceding when we say "_Being_", what we mean can be mostly nearly approximated, to the knowledge of the author, with the Heideggerian terminology of `Dasein`, i.e. _Being_ is understood through the sum of its possible semantical operations with respect to its object: `Being-there`, `Being-with`, `Being-towards`, etc. 
 
 ### Death-as-Not-Concept
@@ -86,14 +92,17 @@ Death, then, is a strange type of concept, a oddity among things. It lacks conte
 
 A final argument may be raised against the supposition that Death is unknowable, an argument resulting from the exhaustion of philosophers; when they find the foundation of their logic crumbling beneath them and all other options gone, they retreat to the warm embrace of their one true ally: solipsism, but in this case, a perverse, negative sort of solipsism. 
 
-If by positive solipsism we take to mean the impossibility of knowing whether anything outside ourselves exists or not, then by negative solipsism we mean the impossiblity of knowing until we die that Death is unknowable. To phrase it another way to make the form of the argument more apparent: that Death is unknowable is unknowable until we die. This statement resembles a tautology, i.e. A = A, but upon further reflection, the relation contained in the statement is one of recursion: that in order to know that Death is unknowable, we must first die, but to die we must first relinquish the ability to know in the first place, leaving us at the exact point where we started. The statement refers to its own form. We chase ourselves in circles, each point in our path eventually leading back to itself, never making any forward progress. 
+If by positive solipsism we take to mean the impossibility of knowing whether anything outside ourselves exists or not, then by negative solipsism we mean the impossiblity of knowing, until we die, that Death is unknowable. To phrase it another way to make the form of the argument more apparent: that Death is unknowable is unknowable until we die. This statement resembles a tautology, i.e. A = A, but upon further reflection, the relation contained in the statement is one of recursion: that in order to know that Death is unknowable, we must first die, but to die we must first relinquish the ability to know in the first place, leaving us at the exact point where we started. The statement refers to its own form. We chase ourselves in circles, each point in our path eventually leading back to itself, never making any forward progress. 
 
 To this argument we must finally concede victory. Despite the great efforts of history's philsophers and scientists, there is no way to ground the objectification of Being without assuming a subject exists to observe it, and there is no basis for the assumption of a subject. Thus does the contingency of Being evaporate into Nothing. 
 
-This has led many astray into the realm of divine explanation, that something other than what is must provide the basis for what is, because clearly it is the case that things are. If their contingency cannot ultimately be found in ourselves, then it must be found _somewhere_ we reason. In this same way, **Schopenhauer** ultimately violated his own `principle of sufficient reason` by positing something beyond what is, i.e. the Will, to explain what he himself said could only be explained via sufficiency and necessity. 
+This has led many astray into the realm of divine explanation, that something other than what is must provide the basis for what is, because clearly it is the case that things are. If their contingency cannot ultimately be found in ourselves, then it must be found _somewhere_ we reason. In this way, **Schopenhauer** ultimately violated his own `principle of sufficient reason` by positing something beyond what is, i.e. the Will, to explain what he himself said could only be explained via sufficiency and necessity. 
 
 
 
+It is here we find the one support upon which logic may extend into Death: that of our own uncertainty. It appears as though our Being ends when we die, for all signs point to that conclusion. Our bodies age and decay, we experience pain and sickness, the ones around us die and pass from this world, the natural world itself rots and returns to dust. It is only natural to assumption that our `Being-in-the-world` will likewise cease, but then if we turn inward to examine that proposition, we are forced to admit it is only likely, not definite. There are no assurances we die, any more than that we exist. We have therefore entered into the realm of `why-not`, `as-if`, `as-possibility`.
+
+It has oft been remarked the only true philosophical proposition is that of our own uncertainty, which as a proposition negates itself. Thus ends the problem of philosophy, an ouroboros destined to eat itself. The problems of philosophy, that of existence and Being, occur within this loop, and will therefore never be solvable. 
 
 ## Existence by Contradiction
 
@@ -184,12 +193,15 @@ Indeed, Death is always with us but we do not apprehend it in our Being until we
 ### Wikis
 - [Being-in-itself](https://en.wikipedia.org/wiki/Being_in_itself)
 - [Being-toward-death](https://en.wikipedia.org/wiki/Heideggerian_terminology#Being-toward-death)
+- [Contingency](https://en.wikipedia.org/wiki/Contingency_(philosophy))
 - [Dasein](https://en.wikipedia.org/wiki/Dasein)
 - [Facticity](https://en.wikipedia.org/wiki/Facticity)
+- [Invariance](https://en.wikipedia.org/wiki/Invariant_(mathematics))
 - [Law of Excluded Middle](https://en.wikipedia.org/wiki/Law_of_excluded_middle)
 - [Noumenon](https://en.wikipedia.org/wiki/Noumenon)
 - [Phenomenon](https://en.wikipedia.org/wiki/Phenomenology_(philosophy))
 - [Thing-in-itself](https://en.wikipedia.org/wiki/Thing-in-itself)
+- [Time Dilation](https://en.wikipedia.org/wiki/Time_dilation)
 ## Poems
 ### Wikis
 - [Little Gidding](https://en.wikipedia.org/wiki/Little_Gidding_(poem))
