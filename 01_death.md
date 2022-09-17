@@ -44,13 +44,14 @@ So it is with induction: a proof of induction, and therefore a proof _by_ induct
 
 This, however, is a logical method well-suited for Death, since as we have noted, Death will never be understood. The only course we may avail ourselves of is to define what Death is not and trace its outline through the ink of negation. Indeed, this will be the course of the present work. We shall attempt to negate our way towards an understanding of Death, an understanding that we have already noted is impossible. _C'est la vie_.
 
+### The Laws of Death
+
 A close correlates of _understanding_ is _reason_; Death can not be the reason for the something, because it is Nothing at all, it is the distinct and inexplicable lack of Being where there should be one. Death cannot be given as motive to explain an action because Death implies the impossiblity of action. If Death has a logic, a form of its own, it is not one the mind can grasp; Death will not fit into the grooves of logic, into the operations of modus ponens or syllogism, because there can never be any intuitive jump from a hypothesis that presupposes nonexistence ([a topic to which we will return in later sections](#death-as-not-object)). We have in Death a Kantian `nihil negativum`, a Nothingness born from absurdity, a nullity by necessity, a concept without content or form. 
 
 Death cannot be tested as a hypothesis, because Death is not the cause of anything; Death is the end result. Death is the ultimate datum to which all hypotheses must point. Because of this, our endeavor is doomed from the start arrive at Nothing. 
 
 No matter the starting point, Death always remains impenetrable to analysis. Analysis can only claim validity to extent that it can be brought into correspondence with the objects it purports to analyze; Any analysis of Death must eventually come to the point where it is held up against the Nothingness it represents and thus fail to represent it. 
 
-### The Laws of Death
 Regardless, perhaps in spite of this, we proceed. In order to make these features of Death emerge from the dialectic, we will attempt to create an ontology of Death. In the first pass, we will extract from the philosophers and scientists who preceded us whatever we find useful and salient, and then append to this piecemeal framework the following: 
     
 1. `axiom of precluded existence`: Death exists for all Beings.
