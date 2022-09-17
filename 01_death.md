@@ -16,6 +16,19 @@ Despite being the foundation of almost every human pathology, Death as a field o
 
 There is a reason for this. Death as a subject is repellant to understanding. Its very definition presupposes the limit of the knower, that is to say, Death is inherently unknowable. Death can only be understood through the mechanisms of analogy and metaphor, for when we turn our attention to the object of Death it reveals itself as something which can not be found in Being. We can be aware that we will eventually die, we can perceive Death from outside its domain, we can even in unique circumstances perceive the manner of our own Death, but that awareness will never be extended into Death itself. Death is the point where awareness stops; in this way, we mean Death exists beyond the limit of understanding. To ask questions about a subject that perpetually recedes from all attempts to know it necessarily entails the admission that no answers can ever be conceived, much less known. The inevitable end result will be to arrive where we started, having gained nothing; If any proposition can lay claim to human nature, this is it. 
 
+It would seem, then, that it does not matter which direction we choose to go, for we will always return to our starting point. For this reason, the author recommends no one should read what follows. Instead, the reader advised that going outside is by far a better course of action.
+
+### Existence by Contradiction
+
+With the warnings of futility thus dispensed, we proceed as many have proceeded before us.
+
+The great workhorse of mathematics is proof by contradiction. An assumption is made, an absurdity is shown to result from the assumption, therefore the assumption is shown to be false. In this way was modern mathematics constructed, by outlining the truth and demarcating its boundary with falsity. Anyone who has studied higher mathematics will attest to the way most mathematical proofs work by letting the truth in through the back door (to borrow a phrase from **Schopenhauer**), that is to say, they work by showing what cannot be the case in order to prove the opposite must be so. But this does not reveal the "_essence_" of the theorem to the observer; indeed one can comprehend a proof without understanding anything about what it trying to say and in the converse direction, one may understand a concept without being able to grasp its proof in the slightest; so it is with induction: a proof of induction relies on a contradiction that an element belongs to two mutually exclusive sets, which we are forced to admit is absurdity, therefore we conclude induction must be true; but nowhere in the proof do we see why the form in an induced series is transmitted from one term to the next. Likewise, a student can spend an entire academic career studying the axioms and theorems of real analysis and still have no intuition for how a falling stone's trajectory traces a parabola with respect to time, despite having memorized a series of proofs that show how to go from set theory to differential calculus.
+
+This, however, is a logical method well-suited for Death, since as we have noted, Death will never be understood. The only course we may avail ourselves of is to define what Death is not and trace its outline through the ink of negation. Indeed, this has been the course of the present work. We shall continue that course of negating our way towards an understanding of Death, an understanding that we have already noted in detail is impossible. _C'est la vie_.
+
+Death can not be the reason for the something, because it is Nothing at all, it is the distinct and inexplicable lack of Being where there should be one. Death cannot be given as motive to explain an action because Death implies the impossiblity of action. Death will not fit into the operations of modus ponens or syllogism, because there can never be any intuitive jump from a hypothesis that presupposes nonexistence. The mind is incapable of understanding the logic of Death. We have in Death a Kantian `nihil negativum`, a Nothingness born from absurdity, a nullity by necessity, a concept without content or form. 
+
+No matter the starting point, Death is always like this, impenetrable to typical modes of analysis. Death is not the cause of anything, except insofar that is objectified in the perception of another. But upon making ingress into the Other's perception, it is no longer a subjective experience, but a fact among others. In this sense, Death is similar to consciousness, in that consciousness once objectified in the consciousness of another ceases to be consciousness at all, but becomes a representation of that consciousness, an indication pointing beyond the realm of my Being towards the Being of another, unknowable like Death, but unlike Death, inferrable through the observance of the causal connections that unite us in our Being. In other words, the Other is unknowable as an experience, but the experience of the Other as object is knowable through the medium of representation. We can recognize intelligence in the world outside of ourselves through the arrangement of forms. In this way, I know whatever entity responsible for traffic signs is also an intelligent being because traffic signs indicate a concept we both understand, and this understanding is embodied through the course of our synchronized action, and through this understanding and sychronization we come to know each other. 
 ## A Kantian Counterargument
 
 A counterargument may be raised along these lines: a rock, by the same token, is incomprehensible since it exists beyond the sphere of knowability. As **Immanual Kant** demonstrated and **Arthur Schopenhauer** refined, all knowledge is only knowledge of our representation of Being, the reflection of its objectification in the sense data, the enumeration of objects through the medium of form. We do not know the world as it is; we only know the world as it appears. This is the distinction between `noumena`, the _existent_, and the `phenomena`, the _appearance_, that **Kant** famously discovered, or at least put to paper before anyone else. Thus, the interiority of a rock, its _existence_, is by definition beyond the limits of our Being, as we can only ever apprehend its appearance, but we do not thus claim a rock cannot be understood, or else mechanics would be of no practical use. 
@@ -36,7 +49,7 @@ To make the existence of abstraction more apparent, we consider a concept whose 
 
 Death is not like this, as it can be neither objectified nor conceptualized. Thus, it can not claim existence through either of these modes of Being. We will elaborate upon these two ideas in the following sections. 
 
-### Death-as-Not-Object
+### Death-as-not-Object
 
 In the first case, Death cannot be objectified through relations, because Death resists at an ontological level the application of the first essential relation in any proposition: that of existence. 
 
@@ -68,7 +81,7 @@ All this is to say, the invariance of nature provides the ultimate metric for th
 
 [^1]: In the preceding when we say "_Being_", what we mean can be mostly nearly approximated, to the knowledge of the author, with the Heideggerian terminology of `Dasein`, i.e. _Being_ is understood through the sum of its possible semantical operations with respect to its object: `Being-there`, `Being-with`, `Being-towards`, etc. In what follows, we will attempt to tag on a few terms to the series and see how this alters its sum. 
 
-### Death-as-Not-Concept
+### Death-as-not-Concept
 
 In the second case, Death cannot be conceptualized, except insofar as the Death of the Other makes ingress into the representations of my Being, but then, in this case, it is not _my_ Death that has been conceptualized, but the Death of the Other. The process of conceptualizing Death passes over my own experience of it and leaves me with an empty concept, a concept that does not have Being in the way **Platonic** concepts do, because the abstraction of the Death of the Other does not lead me any closer to an understanding of my own Death in the way the abstraction of love does lead me to understand what the love of the Other is, because I too have a phenomenal experience of love that I may, assuming a pretense of uncertainty, infer in the Other.
 
@@ -112,15 +125,47 @@ It is here we find the one support upon which logic may extend into Death: that 
 
 It has oft been remarked the only true philosophical proposition is that of our own uncertainty, which as a proposition negates itself. Thus ends the problem of philosophy, an ouroboros destined to eat itself. The problems of philosophy, that of existence and Being, occur within this loop, and will therefore never be solvable. 
 
-### Existence by Contradiction
+### Death-as-not-Analogy
 
-The great workhorse of mathematics is proof by contradiction. An assumption is made, an absurdity is shown to result from the assumption, therefore the assumption is shown to be false. In this way was modern mathematics constructed, by outlining the truth and demarcating its boundary with falsity. Anyone who has studied higher mathematics will attest to the way most mathematical proofs work by letting the truth in through the back door (to borrow a phrase from Schopenhauer), that is to say, they work by showing what cannot be the case in order to prove the opposite must be so. But this does not reveal the "_essence_" of the theorem to the observer; indeed one can comprehend a proof without understanding anything about what it trying to say and in the converse direction, one may understand a concept without being able to grasp its proof in the slightest; so it is with induction: a proof of induction relies on a contradiction that an element belongs to two mutually exclusive sets, which we are forced to admit is absurdity, therefore we conclude induction must be true; but nowhere in the proof do we see why the form in an induced series is transmitted from one term to the next. Likewise, a student can spend an entire academic career studying the axioms and theorems of real analysis and still have no intuition for how a falling stone's trajectory traces a parabola with respect to time, despite having memorized a series of proofs that show how to go from set theory to differential calculus.
+We have, through the course of this work, attempted to cast Death into various analogies. An analogy brings forth into the attention the similarities contained in two or more concepts, so that their overlapping parts are brought to the foreground, while their disjoint parts fade into the background; Analogy plays the role of conjunction in linguistics, in that it intersects a set of concepts to reveal their common geography. Analogy, in this sense, is syntactic, rather than semantic; analogy is a bare relation that takes no opinion of its operands. It can therefore be applied haphazardly and without condition. That analogy is always possible can be seen in analogies that do not immediately yield to sense, as in "the chainsaw is a like a hot coffee on a cold morning"; the mind reels to find a plausible explanation. 
 
-This, however, is a logical method well-suited for Death, since as we have noted, Death will never be understood. The only course we may avail ourselves of is to define what Death is not and trace its outline through the ink of negation. Indeed, this has been the course of the present work. We shall continue that course of negating our way towards an understanding of Death, an understanding that we have already noted in detail is impossible. _C'est la vie_.
+We might wonder here at the connection between analogy and possibility. Analogy as a logical form brings with it the notion of possibility. 
 
-Death can not be the reason for the something, because it is Nothing at all, it is the distinct and inexplicable lack of Being where there should be one. Death cannot be given as motive to explain an action because Death implies the impossiblity of action. Death will not fit into the operations of modus ponens or syllogism, because there can never be any intuitive jump from a hypothesis that presupposes nonexistence. The mind is incapable of understanding the logic of Death. We have in Death a Kantian `nihil negativum`, a Nothingness born from absurdity, a nullity by necessity, a concept without content or form. 
+Consider the following proposition: " "_And_" and "_Or_" are logical operations ". What is the meaning nested "" in the preceding? Does it have meaning or is it merely syntactic sugar to bring into relief what is not apparent in the plainer and easily misinterpretted: "And and or are logical operations"? If the latter is the case, then the "" must represent the `principle of sufficient reason` itself; that is, in apprehending the meaning of the proposition we are forced into the position of objectifying its contents; or, put another way, we only apprehend our Being through representation; or, reitereated yet again, everything becomes object in perception. 
 
-No matter the starting point, Death is always like this, impenetrable to typical modes of analysis. Death is not the cause of anything, except insofar that is objectified in the perception of another. But upon making ingress into the Other's perception, it is no longer a subjective experience, but a fact among others. In this sense, Death is similar to consciousness, in that consciousness once objectified in the consciousness of another ceases to be consciousness at all, but becomes a representation of that consciousness, an indication pointing beyond the realm of my Being towards the Being of another, unknowable like Death, but unlike Death, inferrable through the observance of the causal connections that unite us in our Being. In other words, the Other is unknowable as an experience, but the experience of the Other as object is knowable through the medium of representation. We can recognize intelligence in the world outside of ourselves through the arrangement of forms. In this way, I know whatever entity responsible for traffic signs is also an intelligent being because traffic signs indicate a concept we both understand, and this understanding is embodied through the course of our synchronized action, and through this understanding and sychronization we come to know each other. 
+**Schopenhauer**, for this reason, talks about the `the objectification of the Will`, but the terminology adopted implies a complete metaphyiscal system where Being is a like a sieve through which the `noumena` pass into the `phenomenon`, i.e. a Schopenhauer's `objectification` is a one-to-one mapping of the world as it is and the world as it appears. His formulation hides the true nature of objectification, and thus the true nature of Being. He adequately accounts for the transformation of the existent into appearance, but he does not recognize this transformative process that brings existence into relief has within its operation a blind spot: `objectification` only makes sense if we admit two prior assumptions: that of _objects_, and that of _relations_. In other words, we say the table and the kitchen reveal their "_objecthood_" in relation to one another, in the same way the tabletop and legs reveal themselves in relation to one another. 
+ 
+If the `Will` is a merely an objectifying force, then it will necessarily only come to Being as objects. It will only meet the world through objects. In apprehending the proposition, "_And and or are logical operations_", what exactly have we objectified? We have turned our gaze to the form of our representation, the relation embodied through its contingency. We are attempting to embed our form of representation in itself. 
+
+
+
+
+
+
+But this can only be the case if the aforementioned mapping is one-to-one; if any other relation should obtain, for instance that two separate existent things should map to a singular appearance in our Being, then we must abandon **Schopenhauer**'s ontology.
+
+
+
+In either case, the meaning given to the proposition can be understood only as the desire of consciousness to objectify. "_And_" and "_Or_" are clearly not objects, but rather the relations that unite objects in our Being, and when consciounsess turns on itself to reflect on its own form, it attempts to objectify the relations that orient it within the world.  
+
+
+
+the only thing the null set has in common with a non-null set is Nothing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Sartre
 
@@ -176,10 +221,6 @@ Death is the only possibility that has no contingency on Being, on so-called `fa
 
 
 Indeed, Death is always with us but we do not apprehend it in our Being until we first see its outline in the absence of another's Being, i.e. the Death of the Other. As children, we do not understand Death until we first understand the Other, that outside of ourselves are others like us, unknowable yet inferrable. Knowledge of death then follows when we finally confront it in the end of the Other. 
-
-
-
-the only thing the null set has in common with a non-null set is Nothing
 
 # References
 ## Books
