@@ -28,7 +28,7 @@ It would seem, then, it does not matter which direction we choose to go, since w
 
 [^1]: As if often the case when playing the exisentialist language game, we adopt the **Heideggerian** sense of the word _care_, or _concern_, i.e. the way in which a conscious Being orients itself in the world, or the manner in which we are drawn into the world, so that we might engage with it. 
 
-[^2]: As opposed to `ontical consciousness`; i.e. the consciousness of Being versus the consciousness of consciousness.
+[^2]: `reflective consciousness` as opposed to `ontical consciousness`; i.e. the consciousness of being conscious versus being conscious. This is what **Heidegger** called the split between _ontology_ and _onticity_. The human alone, or more generally, the `Dasein`, is the only Being which is capable of reflecting on its Being. 
 
 ### Existence by Contradiction
 
