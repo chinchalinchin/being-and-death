@@ -1,10 +1,23 @@
 TODO: move all links to footnotes and order appropriately. finish writing for now and stop doing pointless shit.
 
-# Death
+# Being and Death
 
 ## The Stage 
 
-If the author is granted one contribution to the annals of philosophy, let it be the proof of the futility of all future philosophies. 
+The selection of a title for this work has gone through several revisions:
+
+- _Death_
+- _The Ontology of Death_
+- _Towards an Ontology of Death_
+- _Solipsism and Inevitability_
+- _The Horror of Death_
+- _The Twisting of the Screw_
+
+Of these, the only one the author truly feels remorse for not selecting is the last. If the reader should find the current title lacking, perhaps they will find solace in this alternative, _Turning of the Screw_, as the author feels simply reading this is sufficient to understand the contents it encloses. The current title, _Being and Death_, is meant as an allusion to those monoliths of philosophy few people claim to have read and even less to have understood, e.g. _Being and Time_, _Being and Nothingness_, _Process and Reality_, etc. The author unfortunately counts himself among the former group, but lacks the hubris to claim membership to the latter. In this, there lurks the motivation for what the reader now finds in their hands. 
+
+Some of these titles not selected have been used as the headings of sections and subsections, indicating the scope of the current project outstripped the author's original intention. For that, he apologizes.
+
+From this list of titles it should be obvious the thesis of the present work. If the author is granted one contribution to the annals of philosophy, let it be the proof of the futility of all future philosophies. Forever after let us cast the would-be philosophers from high cliffs to end their miserable lives on the rocks below. If that be too ambitious, then let the contribution be atleast as footnote forever affixed to everything that follows: "_Yes, but what is does it matter?_" 
 
 In constructing such a proof, we shall adhere to the grand tradition of philosophy and arbitrarily capitalize these concepts to denote their precise meaning in the following discourse: _Being_, _Father_, _Life_, _Mother_, _Nothing_, _Other_ and _Death_. We do this for no other reason but because, in inimitable the words of 20th century's greatest philsopher **Bill Waterson**, we "_must obey the inscrutable exhortions of (our) soul_".
 
@@ -135,7 +148,7 @@ We shall return to the [topic of unknowability](#a-godelian-counterargument) lat
 _Knowability_ as a relation when applied to _unknowability_ as an object yields back to us the existence of possibilty[^9]. In other words, "_if you tried to doubt everything you would not get as far as doubting anything. The game of doubting itself presupposes certainty_"[^10]. If a thing is unknowable, then there exists a recursion of knowability that attaches itself through necessity to the nodes of unknowability, because one cannot approach _unknowability_ without thereby coming to know _of_ it. In this way, we form the chain of propositions:
 
 - Death is unknowable.
-- "_Death is unknowable_" is knowable
+- "_Death is unknowable_" is knowable.
 
 We see in this argument how the tendrils of knowability intersect with those of unknowability, and give us at least a foothold to raise our awareness towards Death. If Death is unknowable, then we can at least come to know _of_ what is unknowable and thus gain an understanding of Death through analogy. This is all we can possibly mean by _phenomology of Death_ in any ontology that seeks to avoid the pitfalls of `solipsism`: that we can come to know _of_ what is unknowable. Our knowledge of Death thus enters "_through the back door_". 
 
