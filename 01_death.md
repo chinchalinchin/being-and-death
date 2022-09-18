@@ -88,7 +88,7 @@ Regardless, perhaps in spite of this, we proceed. In order to make these feature
 
 With the first axiom, it is likely we all agree or are at least willing to grant truth long enough to see what follows. We then turn to the justification of the latter two axioms, as the meaning of either the `axiom of failed contingency` or the `axiom of non-equivalence` is not clear at first glance. 
 
-[^5]: It may be argued we sometimes assume the posture of _giving_ Death, i.e. the human activity of _sacrifice_, where we let ourselves die in service of something else. But, in this case, Death is not the _reason_ for the _sacrifice_, it is the consequence. We first act under the _compulsion_ of reason to therefore die. Always is it thus: Death marks the end of the logical form.
+[^5]: It may be argued we sometimes assume the posture of _giving_ Death, i.e. the human activity of _sacrifice_, where we let ourselves die in service of something else. But, in this case, Death is not the _reason_ for the _sacrifice_, it is a consequence, but in an orthogonal direction to causality, so that we may even question whether the term "_consequence_" is appropriate. In sacrificing, we first apprehend the relations that bind the world, and how it is we may get to what is sought. If, in coming to an understanding of a course of action, we realize we shall die during its course, that is irrelevant to the causality that links the antecendent to the consequent. Thus, we seek what is sought regardless of our Death. Reason enters into this analysis via the causal connection between things-as-they-are and things-as-they-will-be. Death does not touch the causality of this argument, it merely haunts it as `epiphenomenon`, like the afterglow of logic; it is what happens during the course of `facticity`, comes to the world through `facticity`, yet is not in and of itself the `factical` relation, insofar that `facticity` refers to _my_ `Being-in-the-world`. Always is it thus: Death marks the end of the logical form.
 
 ## A Kantian Counterargument
 
@@ -416,6 +416,7 @@ Indeed, Death is always with us but we do not apprehend it in our Being until we
 - [Contingency](https://en.wikipedia.org/wiki/Contingency_(philosophy))
 - [Dasein](https://en.wikipedia.org/wiki/Dasein)
 - [Dialectic](https://en.wikipedia.org/wiki/Dialectic)
+- [Epiphenomenon](https://en.wikipedia.org/wiki/Epiphenomenon)
 - [Facticity](https://en.wikipedia.org/wiki/Facticity)
 - [Invariance](https://en.wikipedia.org/wiki/Invariant_(mathematics))
 - [Law of Excluded Middle](https://en.wikipedia.org/wiki/Law_of_excluded_middle)
