@@ -36,7 +36,7 @@ A Being cannot _be_ without the phantom of Death haunting its every step through
 
 Despite being the foundation of almost every human pathology, Death as a field of inquiry has received comparatively little analysis over the course of history, except in the medical sciences where it is treated clinically, i.e. as a `thing-in-itself`, to be catalogued and diagnosed along with all the other maladies and diseases and thus placed into a knowable relation with the rest of existence, or in the spiritual studies, where it is mythologized and understood only through metaphor, never as an experience that happens _to_ us. Rare are the personalities like **Nietzsche**, **Bataille** or **Cioran**, who confront Death as it is, without the window dressing of ideology or assumption.
 
-There is a reason for this. Death as a subject is repellant to understanding. Its very definition presupposes the limit of the knower; That is to say, Death is inherently unknowable. Death can only be understood through the mechanisms of analogy and metaphor, for when we turn our attention directly to the object of Death it reveals itself as something which can not be found in Being. 
+There is a reason for this. Death as a subject is repellant to understanding. Its very definition presupposes the limit of the knower; That is to say, Death is inherently unknowable. Death can only be understood through the mechanisms of analogy and metaphor, via the circuituous and torturous route of symbolism, for when we turn our attention directly to the object of Death it reveals itself as something which can not be found in Being. 
 
 We can be aware that we will eventually die, we can perceive others passing from this world of existence, we can even in unique circumstances perceive the manner of our own Death, but that awareness will never be extended into Death itself. Death is the point where awareness stops, if by "_awareness_" we mean `Being-in-the-world`. 
 
@@ -413,6 +413,7 @@ Indeed, Death is always with us but we do not apprehend it in our Being until we
 - [Concern](https://en.wikipedia.org/wiki/Heideggerian_terminology#Care_(or_concern))
 - [Contingency](https://en.wikipedia.org/wiki/Contingency_(philosophy))
 - [Dasein](https://en.wikipedia.org/wiki/Dasein)
+- [Dialectic](https://en.wikipedia.org/wiki/Dialectic)
 - [Facticity](https://en.wikipedia.org/wiki/Facticity)
 - [Invariance](https://en.wikipedia.org/wiki/Invariant_(mathematics))
 - [Law of Excluded Middle](https://en.wikipedia.org/wiki/Law_of_excluded_middle)
