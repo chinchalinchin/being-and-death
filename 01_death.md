@@ -23,6 +23,7 @@ And know the place for the first time
 ![](./assets/calvin_and_hobbes_inscrutable_exhortations.jpeg)
 
 <sup style="margin-left: 5%;"><sub>- Bill Waterson, [March 13, 1995](https://www.gocomics.com/calvinandhobbes/1995/03/13)</sub></sup>
+
 ---
 
 ## The Question
