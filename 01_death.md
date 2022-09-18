@@ -7,6 +7,7 @@ The selection of a title for this work has gone through several revisions:
 - _Death_
 - _The Ontology of Death_
 - _Towards an Ontology of Death_
+- _A Critique of Being_
 - _Solipsism and Inevitability_
 - _The Misanthropy of Human Being_
 - _The Horror of Death_
@@ -19,6 +20,8 @@ Some of these titles not selected have been used as the headings of sections and
 From this list of titles it should be obvious the thesis of the present work. If the author is granted one contribution to the annals of philosophy, let it be the proof of the futility of all future philosophies. Forever after let us cast the would-be philosophers from high cliffs to end their miserable lives on the rocks below. If that be too ambitious, then let the contribution be atleast as footnote forever affixed to everything that follows: "_Yes, but what is does it matter?_" 
 
 In constructing such a proof, we shall adhere to the grand tradition of philosophy and arbitrarily capitalize these concepts to denote their precise meaning in the following discourse: _Being_, _Father_, _Life_, _Mother_, _Nothing_, _Other_ and _Death_. We do this for no other reason but because, in the inimitable words of 20th century's greatest philsopher **Bill Waterson**, we "_must obey the inscrutable exhortions of (the) soul_".
+
+If the preceding lacks clarity, then let us rephrase flippantly, in the hopes the terminology employed excites in the reader an appropriate vision of what is to come: _philosophy should come to know the horror of Death as we do_. 
 
 ---
 
@@ -149,7 +152,7 @@ _Knowability_ as a relation when applied to _unknowability_ as an object yields 
 - Death is unknowable.
 - "_Death is unknowable_" is knowable.
 
-We see in this argument how the tendrils of knowability intersect with those of unknowability, and give us at least a foothold to raise our awareness towards Death. If Death is unknowable, then we can at least come to know _of_ what is unknowable and thus gain an understanding of Death through analogy. This is all we can possibly mean by _phenomology of Death_ in any ontology that seeks to avoid the pitfalls of `solipsism`: that we can come to know _of_ what is unknowable. Our knowledge of Death thus enters "_through the back door_". 
+We see in this argument how the tendrils of knowability intersect with those of unknowability, and give us a foothold, however miniscule, to raise our awareness towards Death. If Death is unknowable, then we can at least come to know _of_ what is unknowable and hope the geography of the unknowable is such that it allows us further passage. This is all we can possibly mean by _phenomology of Death_ in any ontology that seeks to avoid the pitfalls of `solipsism`: that we can come to know _of_ what is unknowable and _hope_ for more. Our knowledge of Death thus enters "_through the back door_". 
 
 [^7]: Is saying "_we have no way of knowing if we are already dead_" the same as saying "_we have no way of knowing if we exist_"?
 [^8]: We should, at this point, lift our eyes from the page and let our gaze fall upon the world. In our deepest moments of reflection, when all pretenses are abandoned and we consider the `invariance` of the **Cartesian** tautology, "_I do not know if I exist_", the complexity of uncertainty manifested in the vastness of the world rises as if in response. The answer is self-evident, "_if I do not exist, then what is this?_", i.e. we have simply played semantics and shifted the meaning of existence and Being away from language, instead of letting language take hold and illuminate. In other words, a true solipsist would read the written word without gaining consciousness of what was expressed therein and continue on as if nothing had happened. The solipsist is he who refuses to play the _language game_, and therefore the _existence game_, for all existence is mere appearance to me, and all appearance is mere representation, and all representation is _mere_ language. 
