@@ -10,6 +10,12 @@ In constructing such a proof, we shall adhere to the grand tradition of philosop
 
 ---
 
+![](./assets/calvin_and_hobbes_inscrutable_exhortations.jpeg)
+
+<sup style="margin-left: 5%;"><sub>- Bill Waterson, [March 13, 1995](https://www.gocomics.com/calvinandhobbes/1995/03/13)</sub></sup>
+
+---
+
 ```
 We shall not cease from exploration
 And the end of all our exploring
@@ -17,12 +23,6 @@ Will be to arrive where we started
 And know the place for the first time
 ```
 <sup style="margin-left: 5%;" ><sub>- T.S. Eliot, [Little Gidding](http://www.columbia.edu/itc/history/winter/w3206/edit/tseliotlittlegidding.html)</sub></sup>
-
----
-
-![](./assets/calvin_and_hobbes_inscrutable_exhortations.jpeg)
-
-<sup style="margin-left: 5%;"><sub>- Bill Waterson, [March 13, 1995](https://www.gocomics.com/calvinandhobbes/1995/03/13)</sub></sup>
 
 ---
 
