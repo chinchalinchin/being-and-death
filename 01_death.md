@@ -82,15 +82,15 @@ In other words, we find ourselves _in_ the world _with_ the rock, what **Heidegg
 
 If we admit to the existence of knowledge and knowability in general, then we also admit to the assumption that which is not our Being can come to be known through our Being. To say Death is unknowable is tantamount to claiming anything external to our Being lacks existence, goes the counterargument to the `axiom of failed contingency`. The fallacy of the proposed counterargument lies in tacit assumption the void crossed from existence to appearance is equivalent to the void crossed between Being and Death. 
 
-However, Death cannot be found in the regurgitations of existence into appearance. No matter where we turn, our own Deaths are nowhere to be found in the appearances we attach to the world. Death has no boundaries that we perceive. We cannot approach it in space. Death cannot be probed. It has no weight to be felt, no surface to touch. There is no way to know what is on the other side of it, or even if there is another side, for Death has no reflection in sensation, or at the very least this sensation is commensurate with the cessation of sensation. Once Death is apprehended and integrated into our Being, we cease to be Beings. 
+However, Death cannot be found in the regurgitations of existence into appearance. No matter where we turn, our own Deaths are nowhere to be found in the appearances we attach to the world. Death has no boundaries that we perceive. We cannot approach it in space. Death cannot be probed. It has no weight to be felt, no surface to touch. There is no way to know what is on the other side of it, or even if there is another side, for Death has no reflection in sensation, or at the very least this sensation is commensurate with the cessation of sensation in a way that will always remain inaccessible to us. Once Death is apprehended and integrated into our Being, we cease to be Beings. 
 
 If Death has its own interiority, i.e. a Being of Death for us, there is no mechanism to be found in the totality of existence for measuring it or bringing it into our apprehension. For as **Wittgenstein** once said, "_the picture cannot place itself outside of its form of representation_" [^4].
 
 [^4]: [p.98, 2.174, Wittgenstein, Tractatus Logico-Philosophicus](https://www.gutenberg.org/files/5740/5740-pdf.pdf)
 
-### The Death of the Other
+### The Death of the Definition
 
-It may be argued the definition of Death adopted in the preceding is too narrow, that is seeks to restrict itself to the personal, to the experiential, to the phenomenal and in doing so fails to acknowledge the communal aspect of Death, that is to say, the definition of Death as it has been discussed so far does not include our apprehension of the Death of the Other.
+It may be argued the definition of Death adopted in the preceding is too narrow, that is seeks to restrict itself to the personal, to the experiential, to the phenomenal and in doing so fails to acknowledge the objective and communal aspect of Death, that is to say, the definition of Death as it has been discussed so far does not include our apprehension of the Death of the Other.
 
 To this point, we counter immediately with three counterpoints: 
 
@@ -102,14 +102,24 @@ To this point, we counter immediately with three counterpoints:
 
 Let us in turn dwell on each question and see where it leads, if anywhere at all, which does not seem likely given the strange dialectic so far traversed. 
 
+### Phenomenology of Death
+
 To the first point: If the assumption of the general unknowability of Death is granted, this would seem necessarily to lead to the exclusion of the possibilty of a _phenomonology of Death_. How can we bring into Being and experience that which can not be known? Indeed, if death is unknowable, how do we know it hasn't already occured? This is the purest form of `solipsism`: that we ourselves as Beings have no way of knowing if we have already died. 
 
 We should, at this point, lift our eyes from the page and let our gaze fall upon the world. In our deepest moments of reflection, when all pretenses are abandoned, we must admit to the `invariance` of the **Cartesian** tautology, "_I do not know if I exist_", and behold the complexity of uncertainty in vast incomprehensiblity of the world that rises in response.
 
 We shall return to the [topic of unknowability](#a-godelian-counterargument) later on and discuss it in more detail. We must remark, at this point, however, that unknowability is like disease, passing from host to host, rendering all that it touches weak and unable to withstand the force of inspection. The analogy of disease falters, however, for there exists no disease which infects itself. 
 
-"_If you tried to doubt everything you would not get as far as doubting anything. The game of doubting itself presupposes certainty_"[5^]
+_Unknowability_ as a relation when applied to _unknowability_ as an object yields back us the existence of possibilty. In other words, "_if you tried to doubt everything you would not get as far as doubting anything. The game of doubting itself presupposes certainty_"[5^] If a thing is unknowable, then there exists an infinite recursion of unknowability, because one cannot appraoch _unknowability_ without thereby coming to _know_ it, In this way, we form the chain of propositions:
 
+- Death is unknowable.
+- "_Death is unknowable_" is unknowable
+
+### Non-Being
+
+TODO
+
+### Death of the Other
 Upon making ingress into the Other's perception, Death is no longer a subjective experience, but instead a fact among others. In this sense, Death is similar to consciousness, in that consciousness once objectified in the consciousness of another ceases to be consciousness at all, but becomes a representation of that consciousness, an indication pointing beyond the realm of Being towards the Being of another, unknowable like Death, but unlike Death, inferrable through the observance of the causal connections that unite us in our Being. 
 
 In other words, the Other is unknowable as an experience, but the experience of the Other as an objectified ingression into the sense data is knowable through the medium of representation. Put more simply, we can recognize intelligence in the world outside of ourselves through the presence of form. In this way, I know whatever entity responsible for traffic signs is also an intelligent being because traffic signs indicate a concept we both understand, and this understanding is embodied through the course of our synchronized action, and through this understanding and sychronization we come to know the point of emanation in our world of action not our own as the Other. 
