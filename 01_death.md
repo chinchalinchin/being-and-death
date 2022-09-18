@@ -8,10 +8,11 @@ The selection of a title for this work has gone through several revisions:
 - _The Ontology of Death_
 - _Towards an Ontology of Death_
 - _Solipsism and Inevitability_
+- _The Misanthropy of Human Being_
 - _The Horror of Death_
 - _The Twisting of the Screw_
 
-Of these, the only one the author truly feels remorse for not selecting is the last. If the reader should find the current title lacking, perhaps they will find solace in this alternative, _Turning of the Screw_, as the author feels simply reading this is sufficient to understand the contents it encloses. The current title, _Being and Death_, is meant as an allusion to those monoliths of philosophy few people claim to have read and even less to have understood, e.g. _Being and Time_, _Being and Nothingness_, _Process and Reality_, etc. The author unfortunately counts himself among the former group, but lacks the hubris to claim membership to the latter. In this, there lurks the motivation for what the reader now finds in their hands. 
+Of these, the only one the author truly feels remorse for not selecting is the last. If the reader should find the current title lacking, perhaps they will find solace in this alternative, _The Twisting of the Screw_, as the author feels simply reading this is sufficient to understand the contents it encloses. The current title, _Being and Death_, is meant as an allusion to those monoliths of philosophy few people claim to have read and even less to have understood, e.g. _Being and Time_, _Being and Nothingness_, _Process and Reality_, etc. The author unfortunately counts himself among the former group, but lacks the hubris to claim membership to the latter. In this, there lurks the motivation for what the reader now finds in their hands. 
 
 Some of these titles not selected have been used as the headings of sections and subsections, indicating the scope of the current project outstripped the author's original intention. For that, he apologizes.
 
