@@ -1,5 +1,3 @@
-TODO: move all links to footnotes and order appropriately. finish writing for now and stop doing pointless shit.
-
 # Being and Death
 
 ## The Stage 
