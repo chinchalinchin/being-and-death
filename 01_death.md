@@ -132,10 +132,30 @@ We see in this argument how how the tendrils of knowability intersect with those
 
 TODO
 
-### Death of the Other
+### The Other and Death
+
+We now turn to one of the most important sections in establishing the proposed axioms of Death, the section in which explore the relation of our Being to that of the Other, and the relation of each of these plus their conjunction to that of Death.[^10]
+
+We start with a question that will at first glance appear to provide the entrypoint for the contradiction of the `axiom of failed contingency`: How do we know we die?
+
+To make the intent of the question more plain, let us recast it: Would a human raised in isolation, unexposed to the Death of the Other, comprehend its own mortality?[^11]
+
+We said before Death is the final fact towards which all ontologies, all ways of Being, must ultimately comport. We will now show how this arises through Being's apprehension of its `facticity`. The thought experiment of a human reared in isolation brings this into relief. We thus further clarify our assumptions. 
+
+Let us assume the human is in an all white room (<sup><sub>to better evoke _eternity_</sub></sup>) and this is the extent of the space[^12] alloted to it throughout the course of its existence[^13]. We immediately ask ourselves how it is the human is sustained in this thought experiment. We must ask at this point whether this is a question of ontology or biology. Is Being `contingent` on biology? Is it possible _to be_ without first being a "_biological being_"? 
+
+**Heidegger**' would say that any philosophy that calls itself such is properly concerned with the nature, i.e. _ontology_, of Being that precedes the Being of biology. 
+
+What is it that initiialy draws us to the Mother's breast? Do we possess an instinct for it? The modern substitution of the bottle for the nipple seems to give lie to this claim. The human has no instinct for nourishment. 
+
 Upon making ingress into the Other's perception, Death is no longer a subjective experience, but instead a fact among others. In this sense, Death is similar to consciousness, in that consciousness once objectified in the consciousness of another ceases to be consciousness at all, but becomes a representation of that consciousness, an indication pointing beyond the realm of Being towards the Being of another, unknowable like Death, but unlike Death, inferrable through the observance of the causal connections that unite us in our Being. 
 
 In other words, the Other is unknowable as an experience, but the experience of the Other as an objectified ingression into the sense data is knowable through the medium of representation. Put more simply, we can recognize intelligence in the world outside of ourselves through the presence of form. In this way, I know whatever entity responsible for traffic signs is also an intelligent being because traffic signs indicate a concept we both understand, and this understanding is embodied through the course of our synchronized action, and through this understanding and sychronization we come to know the point of emanation in our world of action not our own as the Other. 
+
+[^10]: This section will necessarily involve a good deal of inquiry, as it involves questions relating to appearance of Beings outside ourselves, a tenuous area we must be careful to analyze with `care`. We therefore will assault the reader with many questions. With each _"?"_, the author would humbly request the reader to pause and contemplate the meaning of what preceded it before continuing. 
+[^11]: In what follows, we abandon the halls of solipsism for a moment, to make further progress in the event its negation is ever shown to be the case. 
+[^12]: We do not say `world` here, in anticipation of the conclusions to follow. We will see again that `world` and `space` are not synomnous, as we have remarked tangentially in the preceding discussions of **Schopenhauer**.
+[^13]: "_throughout the course of its existence_" What does this mean if not "_until it dies"? Has Death covertly entered into the dialectic, even in this early stage?
 
 ## A Platonic Counterargument
 
