@@ -5,6 +5,7 @@
 The selection of a title for this work has gone through several revisions:
 
 - _Death_
+- _The Phenomenology of Death_
 - _The Ontology of Death_
 - _Towards an Ontology of Death_
 - _A Critique of Being_
@@ -13,11 +14,13 @@ The selection of a title for this work has gone through several revisions:
 - _The Horror of Death_
 - _The Twisting of the Screw_
 
-Of these, the only one the author truly feels remorse for not selecting is the last. If the reader should find the current title lacking, perhaps they will find solace in this alternative, _The Twisting of the Screw_, as the author feels simply reading this is sufficient to understand the contents it encloses. The current title, _Being and Death_, is meant as an allusion to those monoliths of philosophy few people claim to have read and even less to have understood, e.g. _Being and Time_, _Being and Nothingness_, _Process and Reality_, etc. The author unfortunately counts himself among the former group, but lacks the hubris to claim membership to the latter. In this, there lurks the motivation for what the reader now finds in their hands. 
+Of these, the only one the author truly feels remorse for not selecting is the last. If the reader should find the current title lacking, perhaps they will find solace in this alternative, _The Twisting of the Screw_, as the author feels simply reading this is sufficient to understand the contents it encloses. 
+
+The current title, _Being and Death_, is meant as an allusion to those monoliths of philosophy few people claim to have read and even less to have understood, e.g. _Being and Time_, _Being and Nothingness_, _Process and Reality_, etc. The author unfortunately counts himself among the former group, but lacks the hubris to claim membership to the latter. In this, there lurks the motivation for what the reader now finds in their hands. 
 
 Some of these titles not selected have been used as the headings of sections and subsections, indicating the scope of the current project outstripped the author's original intention. For that, he apologizes.
 
-From this list of titles it should be obvious the thesis of the present work. If the author is granted one contribution to the annals of philosophy, let it be the proof of the futility of all future philosophies. Forever after let us cast the would-be philosophers from high cliffs to end their miserable lives on the rocks below. If that be too ambitious, then let the contribution be atleast as footnote forever affixed to everything that follows: "_Yes, but what is does it matter?_" 
+From this list of titles it should be obvious the thesis of the present work. If the author is granted one contribution to the annals of philosophy, let it be the proof of the futility of all future philosophies. Forever after let us cast the would-be philosophers from high cliffs to end their miserable lives on the rocks below. If that be too ambitious, then let the contribution be atleast as a footnote affixed to everything that follows: "_Yes, but what is does it matter?_" 
 
 In constructing such a proof, we shall adhere to the grand tradition of philosophy and arbitrarily capitalize these concepts to denote their precise meaning in the following discourse: _Being_, _Father_, _Life_, _Mother_, _Nothing_, _Other_ and _Death_. We do this for no other reason but because, in the inimitable words of 20th century's greatest philsopher **Bill Waterson**, we "_must obey the inscrutable exhortions of (the) soul_".
 
@@ -125,7 +128,7 @@ If Death has its own interiority, i.e. a Being of Death for us, there is no mech
 
 [^6]: [p.98, 2.174, Wittgenstein, Tractatus Logico-Philosophicus](https://www.gutenberg.org/files/5740/5740-pdf.pdf)
 
-### The Death of the Definition
+### The Life and Death of the Definition
 
 It may be argued the definition of Death adopted in the preceding is too narrow, that is seeks to restrict itself to the personal, to the experiential, to the phenomenal and in doing so fails to acknowledge the objective and communal aspect of Death. In other words, the definition of Death that has been discussed so far does not include our apprehension of the Death of the Other.
 
@@ -133,21 +136,21 @@ To this point, we counter immediately with three counterpoints:
 
 1. If, in the analysis of Death, we are not seeking a phenomology of Death, a personal experience of Death, then what is it we are seeking? What do we hope to achieve?
 
-2. How do we bring to our attention the implicit ontological relation that binds us to the non-Being of Death versus the non-Being that `factically` preceded our Being, i.e. Death vs. Prebirth, without narrowing the scope of Death to indicate exactly that one type of non-Being and not the other?
+2. How do we bring to our attention the implicit ontological relation that binds us to the non-Being of Death versus the non-Being that `factically` preceded our Being, i.e. Death vs. Pre-Birth, without narrowing the scope of Death to indicate exactly that one type of non-Being and not the other?
 
 3. What is lacking in our current definition of Death that would broaden its scope to include the category of phenomenon here termed _the Death of the Other_, whose addition would also not lead to the loss of focus on the object of inquiry, i.e. how we understand Death as it relates to Being?
 
-Let us in turn dwell on each question and see where it leads, if anywhere at all, which does not seem likely given the strange dialectic so far traversed. 
+Let us in turn dwell on each question and how it relates back to the objection that our definition of Death does not include the Other.
 
 ### Phenomenology of Death
 
-To the first point: If the assumption of the general unknowability of Death is granted, this would seem necessarily to lead to the exclusion of the possibilty of a _phenomonology of Death_. How can we bring into Being and experience that which cannot be known? Indeed, if Death is unknowable, how do we know it hasn't already occurred? This is the purest form of `solipsism`, a species of thought whose derivative forms will inhabit the remainder of this work: that we ourselves as Beings have no way of knowing if we have already died.[^7]
+To the first point: If the assumption of the general unknowability of Death is granted, this would seem necessarily to lead to the exclusion of the possibilty of a _phenomonology of Death_. How can we bring into Being and experience that which cannot be known? Indeed, if Death is unknowable, how do we know it hasn't already occurred? This is the purest form of `solipsism`, a species of thought whose derivative forms will inhabit the remainder of this work: that we ourselves as Beings have no way of knowing if we already dead.[^7] [^8]
 
-Following this solipsistic train of thought to its destination, we must reason there is no basis for assuming Being should be any different than Nothing, for we cannot get to the other side of Nothing in order to check. It follows we therefore have no basis for saying: if Death is Nothing (<sup><sub>in the _phenomenal_ sense</sub></sup>), then Death should preclude Being. The conclusion we then draw is the mutually exclusion of Death and Being is not a relation of necessity, but incidence, and it could as well be the case the opposite is true. We cannot expunge this overlap from `solipsism`. What resides in this strange overlap of Being and Death, if not the _phenomenology of Death_? The problem `solipsism` wished to disperse emerges from the dust, like the eternal phoenix [^8]
+Following this solipsistic train of thought to its destination, we must reason there is no basis for assuming Being should be any different than Nothing, for we cannot get to the other side of Nothing in order to check. It follows we therefore have no basis for saying: if Death is Nothing (<sup><sub>in the _phenomenal_ sense</sub></sup>), then Death should preclude Being. The conclusion we then draw is the mutually exclusion of Death and Being is not a relation of necessity, but incidence, and it could as well be the case the opposite is true. We cannot expunge this overlap from `solipsism`. What resides in this strange overlap of Being and Death, if not the _phenomenology of Death_? The problem `solipsism` wished to disperse emerges from the dust, like the eternal phoenix [^9]
 
 We shall return to the [topic of unknowability](#a-godelian-counterargument) later on and discuss it in more detail. We must remark, at this point, however, that unknowability is like a disease, passing from host to host, rendering all that it touches weak and unable to withstand the force of inspection. The analogy of disease falters, however, for there exists no disease which infects itself or possesses its own cure. 
 
-_Knowability_ as a relation when applied to _unknowability_ as an object yields back to us the existence of possibilty[^9]. In other words, "_if you tried to doubt everything you would not get as far as doubting anything. The game of doubting itself presupposes certainty_"[^10]. If a thing is unknowable, then there exists a recursion of knowability that attaches itself through necessity to the nodes of unknowability, because one cannot approach _unknowability_ without thereby coming to know _of_ it. In this way, we form the chain of propositions:
+_Knowability_ as a relation when applied to _unknowability_ as an object yields back to us the existence of possibilty[^10]. In other words, "_if you tried to doubt everything you would not get as far as doubting anything. The game of doubting itself presupposes certainty_"[^11]. If a thing is unknowable, then there exists a recursion of knowability that attaches itself through necessity to the nodes of unknowability, because one cannot approach _unknowability_ without thereby coming to know _of_ it. In this way, we form the chain of propositions:
 
 - Death is unknowable.
 - "_Death is unknowable_" is knowable.
@@ -155,9 +158,10 @@ _Knowability_ as a relation when applied to _unknowability_ as an object yields 
 We see in this argument how the tendrils of knowability intersect with those of unknowability, and give us a foothold, however miniscule, to raise our awareness towards Death. If Death is unknowable, then we can at least come to know _of_ what is unknowable and hope the geography of the unknowable is such that it allows us further passage. This is all we can possibly mean by _phenomology of Death_ in any ontology that seeks to avoid the pitfalls of `solipsism`: that we can come to know _of_ what is unknowable and _hope_ for more. Our knowledge of Death thus enters "_through the back door_". 
 
 [^7]: Is saying "_we have no way of knowing if we are already dead_" the same as saying "_we have no way of knowing if we exist_"?
-[^8]: We should, at this point, lift our eyes from the page and let our gaze fall upon the world. In our deepest moments of reflection, when all pretenses are abandoned and we consider the `invariance` of the **Cartesian** tautology, "_I do not know if I exist_", the complexity of uncertainty manifested in the vastness of the world rises as if in response. The answer is self-evident, "_if I do not exist, then what is this?_", i.e. we have simply played semantics and shifted the meaning of existence and Being away from language, instead of letting language take hold and illuminate. In other words, a true solipsist would read the written word without gaining consciousness of what was expressed therein and continue on as if nothing had happened. The solipsist is he who refuses to play the _language game_, and therefore the _existence game_, for all existence is mere appearance to me, and all appearance is mere representation, and all representation is _mere_ language. 
-[^9]: The phrase "_existence of possibility_" is equivalent to the phrase "_possibility of possibility_", which brings to the attention the reflexive and tautological relation between _existence_ and _possbility_. 
-[^10]: [Section 115, Wittgenstein, On Certainty](https://archive.org/details/oncertainty00witt)
+[^8]: If we are while simultaneously having been Dead, then it is indeed a strange type of Being we find ourselves inhabiting. For what else could follow, but to die again? 
+[^9]: We should, at this point, lift our eyes from the page and let our gaze fall upon the world. In our deepest moments of reflection, when all pretenses are abandoned and we consider the `invariance` of the **Cartesian** tautology, "_I do not know if I exist_", the complexity of uncertainty manifested in the vastness of the world rises as if in response. The answer is self-evident, "_if I do not exist, then what is this?_", i.e. we have simply played semantics and shifted the meaning of existence and Being away from language, instead of letting language take hold and illuminate. In other words, a true solipsist would read the written word without gaining consciousness of what was expressed therein and continue on as if nothing had happened. The solipsist is he who refuses to play the _language game_, and therefore the _existence game_, for all existence is mere appearance to me, and all appearance is mere representation, and all representation is _mere_ language. 
+[^10]: The phrase "_existence of possibility_" is equivalent to the phrase "_possibility of possibility_", which brings to the attention the reflexive and tautological relation between _existence_ and _possbility_. 
+[^11]: [Section 115, Wittgenstein, On Certainty](https://archive.org/details/oncertainty00witt)
 
 ### Non-Being
 
@@ -165,15 +169,15 @@ TODO
 
 ### Other-as-Life
 
-We now turn to two of the most important sections in establishing the proposed axioms of Death, this section and the next in which we explore the relation of our Being to that of the Other, and the relation of each of these plus their conjunction to that of Death.[^11]
+We now turn to two of the most important sections in establishing the proposed axioms of Death, this section and the next in which we explore the relation of our Being to that of the Other, and the relation of each of these plus their conjunction to that of Death.[^12]
 
 We start with a question that will at first glance appear to provide the entrypoint for the contradiction of the `axiom of failed contingency`: How do we know we die?
 
-To make the intent of the question more plain, let us recast it: Would a human raised in isolation comprehend its own mortality?[^12]
+To make the intent of the question more plain, let us recast it: Would a human raised in isolation comprehend its own mortality?[^13]
 
 We said before Death is the final fact towards which all ontologies, all ways of Being, must ultimately comport. We will now show how this arises through Being's apprehension of its `facticity`. The thought experiment of a human reared in isolation brings this into relief. We thus further clarify our assumptions first to avoid any ambiguities in the arguments that follow. 
 
-Let us assume the human is in an all white room (<sup><sub>to better evoke _eternity_</sub></sup>) and this is the extent of the space[^13] alloted to it throughout the course of its existence[^14]. We immediately ask ourselves how it is the human is sustained in this thought experiment. This question begets another, more fundamental question: whether the first question, that of sustenance, is a question of ontology or biology. Is Being `contingent` on biology or is biology `contigent` on Being? Is it possible _to be_ without first being a "_biological Being_"? 
+Let us assume the human is in an all white room (<sup><sub>to better evoke _eternity_</sub></sup>) and this is the extent of the space[^14] alloted to it throughout the course of its existence[^15]. We immediately ask ourselves how it is the human is sustained in this thought experiment. This question begets another, more fundamental question: whether the first question, that of sustenance, is a question of ontology or biology. Is Being `contingent` on biology or is biology `contigent` on Being? Is it possible _to be_ without first being a "_biological Being_"? 
 
 **Heidegger**' would say that any philosophy that calls itself such is properly concerned with the nature of Being that precedes the Being of biology, i.e. the _ontology_ of Being versus the _onticity_ of Being. Here we meet a problem elucidated by **Eugene Thacker** in _After Life_: the ontology of Being appears at odds with the ontology of Life, for in order exorcise biology from Being, we must first account for the possibility of Life in its ontology. In other words, to pose this proposition as a question: is our _Life_ as a Being the same as our Being as a _biological Life_?
 
@@ -193,10 +197,10 @@ What is it that initiialy draws us to the Mother's breast? Do we possess an inst
 
 Is the distinction of Mother versus Father ontological? 
 
-[^11]: This section will necessarily involve a good deal of inquiry, as it involves questions relating to appearance of Beings outside ourselves, a tenuous area we must be careful to analyze with `care`. We therefore will assault the reader with many questions. With each _"?"_, the author would humbly request the reader to pause and contemplate the meaning of what preceded it before continuing. 
-[^12]: In what follows, we abandon the halls of solipsism for a moment, to make further progress in the event its negation is ever shown to be the case. 
-[^13]: We do not say `world` here, in anticipation of the conclusions to follow. We will see again that `world` and `space` are not synomnous, as we have remarked tangentially in the preceding discussions of **Schopenhauer**.
-[^14]: "_throughout the course of its existence_" What does this mean if not "_until it dies_"? Has Death covertly entered into the dialectic, even at this early stage?
+[^12]: This section will necessarily involve a good deal of inquiry, as it involves questions relating to appearance of Beings outside ourselves, a tenuous area we must be careful to analyze with `care`. We therefore will assault the reader with many questions. With each _"?"_, the author would humbly request the reader to pause and contemplate the meaning of what preceded it before continuing. 
+[^13]: In what follows, we abandon the halls of solipsism for a moment, to make further progress in the event its negation is ever shown to be the case. 
+[^14]: We do not say `world` here, in anticipation of the conclusions to follow. We will see again that `world` and `space` are not synomnous, as we have remarked tangentially in the preceding discussions of **Schopenhauer**.
+[^15]: "_throughout the course of its existence_" What does this mean if not "_until it dies_"? Has Death covertly entered into the dialectic, even at this early stage?
 
 ### Other-as-Death
 
@@ -222,7 +226,7 @@ Death is not like this, as it can be neither objectified nor conceptualized. Thu
 
 In the first case, Death cannot be objectified through relations, because Death resists at an ontological level the application of the first essential relation in any proposition: that of existence. 
 
-What form remains in the statement "_the Being is dead_" when its content is subtracted? [^15]
+What form remains in the statement "_the Being is dead_" when its content is subtracted? [^16]
 
 The remainder is plainly a contradiction of the `law of the excluded middle`, i.e. it must be the case that either _A_ or the negation of _A_ is true, where _A_ is understood to be a symbol standing for a proposition upon which a judgement of truth can be rendered. A _Being_ cannot _be_ dead, because to _be_ means to _not be_ dead. In claiming that something _is_ dead, in the present tense, you cannot help but commit a logical fallacy. 
 
@@ -252,13 +256,13 @@ All this is to say, the invariance of nature provides the ultimate metric for th
 
 The relations that underlie our apprehension and perception arise through their ability to point _towards_ these absolutes. The form of our representation is time and space, thus these forms bend towards that which is invariant. 
 
-Death, then, as its relation to our Being starts to emerge through the fog of negation, is not an object, i.e. representation, but a constraint imposed on the form of our representations. In the same way that time and space become relative metrics to accomodate the invarance of the speed of light[^16], our Being becomes a relative metric to accomodate the invariance of Death. 
+Death, then, as its relation to our Being starts to emerge through the fog of negation, is not an object, i.e. representation, but a constraint imposed on the form of our representations. In the same way that time and space become relative metrics to accomodate the invarance of the speed of light[^17], our Being becomes a relative metric to accomodate the invariance of Death. 
 
 In this sense, we say the ontological substratum of Being is Death.
 
-[^15]: In the preceding when we say "_Being_", what we mean can be mostly nearly approximated, to the knowledge of the author, with the **Heideggerian** terminology of `Dasein`. _Being_ is understood through the sum of its possible semantical operations with respect to its object: `Being-there`, `Being-with`, `Being-towards`, etc. In what follows, we will attempt to tag on a few terms to the series and see how this alters its sum. 
+[^16]: In the preceding when we say "_Being_", what we mean can be mostly nearly approximated, to the knowledge of the author, with the **Heideggerian** terminology of `Dasein`. _Being_ is understood through the sum of its possible semantical operations with respect to its object: `Being-there`, `Being-with`, `Being-towards`, etc. In what follows, we will attempt to tag on a few terms to the series and see how this alters its sum. 
 
-[^16]: The speed of light might be more properly termed the `speed of Being`, as it relates to _metaphysics_. 
+[^17]: The speed of light might be more properly termed the `speed of Being`, as it relates to _metaphysics_. 
 
 ### Death-as-not-Concept
 
