@@ -28,18 +28,18 @@ Likewise, Death can not be the reason for anything in our _phenomenal_ life, bec
 
 Death will not fit into the grooves of logic, into the operations of modus ponens or syllogism, because there can never be any intuitive jump from a hypothesis that presupposes nonexistence (<sup><sub>[a topic to which we will return in later sections](#death-as-not-object)</sub></sup>). We have in Death a Kantian `nihil negativum`, a Nothingness born from absurdity, a nullity by necessity, a concept without content or form. 
 
-Death cannot be tested as a hypothesis, because Death is not the cause of anything; Death is the end result. What happens thereafter cannot be communicated back through the mechanisms of causality to Beings still alive. Death is the ultimate datum to which all hypotheses must point but never reveal. Because of this, our endeavor is doomed from the start arrive at Nothing. 
+Death cannot be tested as a hypothesis, because Death is not the cause of anything; Death is the end result. What happens thereafter cannot be communicated back through the mechanisms of causality to Being we were. Death is the ultimate datum to which all hypotheses must point but never reveal, the terminus of all causality. Because of this, our endeavor is doomed from the start arrive at Nothing. 
 
 Analysis can only claim validity to extent that it can be brought into correspondence with the objects it purports to analyze. Any analysis of Death must eventually come to the point where it is held up against the Nothingness it represents and finds a lacking therein, not in itself, for lacking is not in the contingency of form, but in what the form attempts to represent, the absence of Being, the hole where Nothing now remains. Thus fails the project of analysis in its entirety. 
 
-Regardless, perhaps in spite of this, we proceed. In order to make these features of Death emerge from the discourse, we will attempt to create an ontology of Death. In the first pass, we will extract from the philosophers and scientists who preceded us whatever we find useful and salient, and then append to this piecemeal framework the following: 
+Regardless, perhaps in spite of this, we proceed. In order to make these features of Death emerge from the discourse, we will attempt to create an ontology of Death. In the first pass, we will extract from the philosophers and scientists who preceded us whatever we find useful and salient. In doing so we will formulate the framework as follows. 
 
 ## Defintions
 
 1. Being is not identical to existence.
 2. Existence is not identical to appearance.
 3. Nothing is the negation of Being.     
-4. The world is the totality of Beings, their representations, and the relations that orient each Being towards their subjective representations. 
+4. The world is the totality of Beings, their representations of Being, and the relations that orient each Being towards their subjective representations. 
 
 ## Axioms of Death
 
