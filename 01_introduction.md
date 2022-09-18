@@ -20,13 +20,13 @@ Of these, the only one the author truly feels remorse for not selecting is the l
 
 The current title, _Being and Death_, is meant as an allusion to those monoliths of philosophy few people claim to have read and even less to have understood, e.g. _Being and Time_, _Being and Nothingness_, _Being and Event_, _Process and Reality_, etc. The author unfortunately counts himself among the former group, but lacks the hubris to claim membership to the latter. In this, there lurks the motivation for what the reader now finds in their hands. 
 
-Some of these titles not selected have been used as the headings of sections and subsections, indicating the scope of the current project outstripped the author's original intention. For that, he apologizes.
+Some of these titles not selected have been used as the headings of sections and subsections, indicating the scope of the current project outstripped the author's original intent. For that, he apologizes. If he knew at the beginning all of this would amount to so many countless words no one will ever read, he probably still would have written them, but done so with more evident despair. 
 
 From this list of titles it should be obvious the thesis of the present work. If the author is granted one contribution to the annals of philosophy, let it be the proof of the futility of all future philosophies. Forever after let us cast the would-be philosophers from great heights to end their miserable lives on the rocks below. If that be too ambitious, then let the contribution be atleast as a footnote affixed to everything that follows: "_Yes, but what is does it matter?_" 
 
-In constructing such a proof, we shall adhere to the grand tradition of philosophy and arbitrarily capitalize these concepts to denote their precise meaning in the following discourse: _Being_, _Father_, _Life_, _Mother_, _Nothing_, _Other_ and _Death_. We do this for no other reason but because, in the inimitable words of 20th century's greatest philsopher **Bill Waterson**, we "_must obey the inscrutable exhortions of (the) soul_".
+In constructing such a proof, we shall adhere to the grand tradition of philosophy and arbitrarily capitalize some concepts and not others to denote their precise meaning in the following discourse: _Being_, _Life_, _Nothing_, _Other_ and _Death_. We do this for no other reason but because, in the inimitable words of the twentieth century's greatest philsopher, **Bill Waterson**, we "_must obey the inscrutable exhortions of (the) soul_".
 
-If the preceding lacks clarity, then let us rephrase flippantly, in the hopes the terminology employed excites in the reader an appropriate vision of what is to come: _philosophy should tremble before the horror of Death as we do_. 
+If the preceding lacks clarity, then let us rephrase more flippantly, in the hopes colloquialism will excite in the reader an appropriate vision of what is to come: _philosophy should tremble before the horror of Death as we do_. 
 
 ---
 

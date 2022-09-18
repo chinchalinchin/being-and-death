@@ -10,6 +10,16 @@ We now begin the laborious work of constructing an ontology of Death. We do this
 
 ---
 
+```
+baby, air and light and time and space 
+have nothing to do with it 
+and don't create anything 
+except maybe a longer life to find 
+new excuses 
+for.
+```
+<sup style="margin-left: 5%;"><sub>- Charles Bukowski, [Air and Light and Time and Space](https://www.poemhunter.com/poem/air-and-light-and-time-and-space/)</sub></sup>
+
 ## Death by Deduction
 
 In the previous sections, we said an understanding of Death is impossible. A close correlate of _understanding_ is _reason_.
