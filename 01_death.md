@@ -24,7 +24,7 @@ Despite being the foundation of almost every human pathology, Death as a field o
 
 There is a reason for this. Death as a subject is repellant to understanding. Its very definition presupposes the limit of the knower; That is to say, Death is inherently unknowable. Death can only be understood through the mechanisms of analogy and metaphor, for when we turn our attention directly to the object of Death it reveals itself as something which can not be found in Being. 
 
-We can be aware that we will eventually die, we can perceive others passing from this world of existence, we can even in unique circumstances perceive the manner of our own Death, but that awareness will never be extended into Death itself. Death is the point where awareness stops, if by "_awareness_" we mean `Being-in-the-world`; in this way, we mean Death exists beyond the limit of understanding. 
+We can be aware that we will eventually die, we can perceive others passing from this world of existence, we can even in unique circumstances perceive the manner of our own Death, but that awareness will never be extended into Death itself. Death is the point where awareness stops, if by "_awareness_" we mean `Being-in-the-world`. In this way, we mean Death exists beyond the limit of understanding; to make relationship thus denoted more clear, we might coin the term `understanding-of-the-world`, and posit Death as that which removes this from Being. 
 
 To ask questions about a subject that perpetually recedes from all attempts to know it necessarily entails the admission up front that no answers can ever be conceived, much less perceived. The inevitable end result will be to arrive where we started, having gained nothing; If any proposition can lay claim to human nature, this is it. 
 
@@ -48,7 +48,7 @@ This, however, is a logical method well-suited for Death, since as we have noted
 
 ### Death by Deduction
 
-A close correlates of _understanding_ is _reason_.
+A close correlate of _understanding_ is _reason_.
 
 Death can not be the reason for anything in our _phenomenal_ life, because it is Nothing at all in the first place; Death is the distinct and inexplicable lack of Being where there should be one. Death cannot be given as motive to explain an action because Death implies the impossiblity of action. If Death has a logic, an algebra of its own by which we pass from one equivalent form of Death to the next, it is not one the mind can grasp; Death has no form to manipulate, no symbology to short-circuit, no appearance to transform. Death is that which we cannot get to through representation.
 
