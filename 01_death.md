@@ -10,7 +10,7 @@ And know the place for the first time
 ```
 <sup style="margin-left: 5%;" ><sub>- T.S. Eliot, [Little Gidding](http://www.columbia.edu/itc/history/winter/w3206/edit/tseliotlittlegidding.html)</sub></sup>
 
-**NOTE**: In what follows, we shall follow the grand tradition of philosophy and arbitrarily capitalize the following concepts to denote their precise meaning in the discourse: _Being_, _Nothing_ and _Death_. 
+**NOTE**: We shall adhere to the grand tradition of philosophy and arbitrarily capitalize the following concepts to denote their precise meaning in the discourse: _Being_, _Nothing_ and _Death_. 
 
 ## The Question
 
