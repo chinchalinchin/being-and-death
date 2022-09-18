@@ -26,9 +26,11 @@ There is a reason for this. Death as a subject is repellant to understanding. It
 
 We can be aware that we will eventually die, we can perceive others passing from this world of existence, we can even in unique circumstances perceive the manner of our own Death, but that awareness will never be extended into Death itself. Death is the point where awareness stops, if by "_awareness_" we mean `Being-in-the-world`. 
 
-In this way, we mean Death exists beyond the limit of understanding; to make relationship thus denoted more clear, we might coin the term `understanding-of-the-world`[^3], and posit Death as that which removes this from Being, and thus annihiliates Being. Death, while unapproachable, becomes a way to understand our own Being, for it shows us the domain of the problem, the problem being what it means _to be_. 
+In this way, we mean Death exists beyond the limit of understanding; to make relationship thus denoted more clear, we might coin the term `understanding-of-the-world`[^3], and posit Death as that which removes this from Being, and thus annihiliates Being. We see, as a result of the unknowability of Death, how the ontological necessity between Being and knowledge emerges. Death, in its unknowability, illuminates. 
 
-To ask questions about a subject that perpetually recedes from all attempts to know it necessarily entails the admission up front that no answers can ever be conceived, much less perceived. The inevitable end result will be to arrive where we started, having gained nothing; If any proposition can lay claim to human nature, this is it. 
+Death then, while unapproachable, becomes a way to understand our own Being, for it shows us the domain of the problem, the problem being what it means _to be_. Death is `a priori` to Being, baked into the all ontologies, even if they do not explicitly acknowledge it as such. _To be_ inherently contains the possibility of _not Being_. The `invariance` of Death is a fundamental constant of nature and thus provides the metric by which to unpack existence into representative form. 
+
+To ask questions about a subject that perpetually recedes from all attempts to know it necessarily entails the admission up front that no answers can ever be conceived, much less perceived. The inevitable end result will be to arrive where we started, having gained Nothing, except perhaps understanding, which will anyway evaporate when we die; If any proposition can lay claim to human nature, this is it. 
 
 It would seem, then, it does not matter which direction we choose to go, since we will always return to our starting point, no better or worse for having made the circuit. For this reason, the author recommends no one should read what follows. Instead, the reader is advised that going outside is by far a better course of action.
 
@@ -350,6 +352,7 @@ Indeed, Death is always with us but we do not apprehend it in our Being until we
 - [Certainty](https://plato.stanford.edu/entries/certainty/)
   
 ### Wikipedia
+- [A prior and a posteriori](https://en.wikipedia.org/wiki/A_priori_and_a_posteriori)
 - [Being-in-itself](https://en.wikipedia.org/wiki/Being_in_itself)
 - [Being-toward-death](https://en.wikipedia.org/wiki/Heideggerian_terminology#Being-toward-death)
 - [Concern](https://en.wikipedia.org/wiki/Heideggerian_terminology#Care_(or_concern))
