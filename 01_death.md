@@ -9,6 +9,8 @@ The selection of a title for this work has gone through several revisions:
 - _The Ontology of Death_
 - _Towards an Ontology of Death_
 - _A Critique of Being_
+- _The Death in Philosophy_
+- _The Death of Philosophy_
 - _Solipsism and Inevitability_
 - _The Misanthropy of Human Being_
 - _The Horror of Death_
@@ -24,7 +26,7 @@ From this list of titles it should be obvious the thesis of the present work. If
 
 In constructing such a proof, we shall adhere to the grand tradition of philosophy and arbitrarily capitalize these concepts to denote their precise meaning in the following discourse: _Being_, _Father_, _Life_, _Mother_, _Nothing_, _Other_ and _Death_. We do this for no other reason but because, in the inimitable words of 20th century's greatest philsopher **Bill Waterson**, we "_must obey the inscrutable exhortions of (the) soul_".
 
-If the preceding lacks clarity, then let us rephrase flippantly, in the hopes the terminology employed excites in the reader an appropriate vision of what is to come: _philosophy should come to know the horror of Death as we do_. 
+If the preceding lacks clarity, then let us rephrase flippantly, in the hopes the terminology employed excites in the reader an appropriate vision of what is to come: _philosophy should tremble before the horror of Death as we do_. 
 
 ---
 
