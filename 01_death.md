@@ -18,7 +18,7 @@ Some of these titles not selected have been used as the headings of sections and
 
 From this list of titles it should be obvious the thesis of the present work. If the author is granted one contribution to the annals of philosophy, let it be the proof of the futility of all future philosophies. Forever after let us cast the would-be philosophers from high cliffs to end their miserable lives on the rocks below. If that be too ambitious, then let the contribution be atleast as footnote forever affixed to everything that follows: "_Yes, but what is does it matter?_" 
 
-In constructing such a proof, we shall adhere to the grand tradition of philosophy and arbitrarily capitalize these concepts to denote their precise meaning in the following discourse: _Being_, _Father_, _Life_, _Mother_, _Nothing_, _Other_ and _Death_. We do this for no other reason but because, in the inimitable words of 20th century's greatest philsopher **Bill Waterson**, we "_must obey the inscrutable exhortions of (our) soul_".
+In constructing such a proof, we shall adhere to the grand tradition of philosophy and arbitrarily capitalize these concepts to denote their precise meaning in the following discourse: _Being_, _Father_, _Life_, _Mother_, _Nothing_, _Other_ and _Death_. We do this for no other reason but because, in the inimitable words of 20th century's greatest philsopher **Bill Waterson**, we "_must obey the inscrutable exhortions of (the) soul_".
 
 ---
 
