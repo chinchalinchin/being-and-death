@@ -120,7 +120,7 @@ To this point, we counter immediately with three counterpoints:
 
 2. How do we bring to our attention the implicit ontological relation that binds us to the non-Being of Death versus the non-Being that `factically` preceded our Being, i.e. Death vs. Prebirth, without narrowing the scope of Death to indicate exactly that one type of non-Being and not the other?
 
-3. What is lacking in our current definition of Death that would broaden its scope to include the category of phenomenon here termed _the Death of the Other_?
+3. What is lacking in our current definition of Death that would broaden its scope to include the category of phenomenon here termed _the Death of the Other_, whose addition would also not lead to the loss of focus on the object of inquiry, i.e. how do understand of Death as it relates to our Being?
 
 Let us in turn dwell on each question and see where it leads, if anywhere at all, which does not seem likely given the strange dialectic so far traversed. 
 
