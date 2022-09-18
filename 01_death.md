@@ -106,19 +106,19 @@ If we admit to the existence of knowledge and knowability in general, then we al
 
 However, Death cannot be found in the regurgitations of existence into appearance. No matter where we turn, our own Deaths are nowhere to be found in the appearances we attach to the world. Death has no boundaries that we perceive. We cannot approach it in space. Death cannot be probed. It has no weight to be felt, no surface to touch. There is no way to know what is on the other side of it, or even if there is another side, for Death has no reflection in sensation, or at the very least this sensation is commensurate with the cessation of sensation in a way that will always remain inaccessible to us. Once Death is apprehended and integrated into our Being, we cease to be Beings. 
 
-If Death has its own interiority, i.e. a Being of Death for us, there is no mechanism to be found in the totality of existence for measuring it or bringing it into our apprehension. For as **Wittgenstein** once said, "_the picture cannot place itself outside of its form of representation_" [^6].
+If Death has its own interiority, i.e. a Being of Death for us, there is no mechanism to be found in the totality of our Being for measuring it or bringing it into our apprehension. For as **Wittgenstein** once said, "_the picture cannot place itself outside of its form of representation_" [^6].
 
 [^6]: [p.98, 2.174, Wittgenstein, Tractatus Logico-Philosophicus](https://www.gutenberg.org/files/5740/5740-pdf.pdf)
 
 ### The Death of the Definition
 
-It may be argued the definition of Death adopted in the preceding is too narrow, that is seeks to restrict itself to the personal, to the experiential, to the phenomenal and in doing so fails to acknowledge the objective and communal aspect of Death, that is to say, the definition of Death as it has been discussed so far does not include our apprehension of the Death of the Other.
+It may be argued the definition of Death adopted in the preceding is too narrow, that is seeks to restrict itself to the personal, to the experiential, to the phenomenal and in doing so fails to acknowledge the objective and communal aspect of Death. In other words, the definition of Death that has been discussed so far does not include our apprehension of the Death of the Other.
 
 To this point, we counter immediately with three counterpoints: 
 
 1. If, in the analysis of Death, we are not seeking a phenomology of Death, a personal experience of Death, then what is it we are seeking? What do we hope to achieve?
 
-2. How do we bring to our attention the implicit ontological relation that binds us to the non-Being of Death versus the non-Being of pre-existence, i.e. Death vs. Prebirth, without narrowing the scope of Death to indicate exactly that one type of non-Being and not the other?
+2. How do we bring to our attention the implicit ontological relation that binds us to the non-Being of Death versus the non-Being that `factically` preceded our Being, i.e. Death vs. Prebirth, without narrowing the scope of Death to indicate exactly that one type of non-Being and not the other?
 
 3. What is lacking in our current definition of Death that would broaden its scope to include the category of phenomenon here termed _the Death of the Other_?
 
