@@ -22,6 +22,9 @@ And know the place for the first time
 
 ![](./assets/calvin_and_hobbes_inscrutable_exhortations.jpeg)
 
+<sup style="margin-left: 5%;"><sub>- Bill Waterson, [March 13, 1995](https://www.gocomics.com/calvinandhobbes/1995/03/13)</sub></sup>
+---
+
 ## The Question
 
 **Albert Camus** once stated there is but one philosophical question and that is suicide. In this, **Camus** skipped over much to arrive at his starting point. However, to his credit, he only meant it in the rhetorical sense, as way to examine the absurdity of living in a universe where you are fated from the very start to die at the end. Nevertheless, there is a definite proximity to truth in his formulation of the so-called "_philosophical question_". 
