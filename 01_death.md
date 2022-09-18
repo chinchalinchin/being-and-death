@@ -10,7 +10,7 @@ And know the place for the first time
 ```
 <sup style="margin-left: 5%;" ><sub>- T.S. Eliot, [Little Gidding](http://www.columbia.edu/itc/history/winter/w3206/edit/tseliotlittlegidding.html)</sub></sup>
 
-**NOTE**: We shall adhere to the grand tradition of philosophy and arbitrarily capitalize the following concepts to denote their precise meaning in the following discourse: _Being_, _Nothing_ and _Death_. 
+**NOTE**: We shall adhere to the grand tradition of philosophy and arbitrarily capitalize the following concepts to denote their precise meaning in the following discourse: _Being_, _Nothing_, _Other_ and _Death_. 
 
 ## The Question
 
@@ -92,23 +92,29 @@ If Death has its own interiority, i.e. a Being of Death for us, there is no mech
 
 It may be argued the definition of Death adopted in the preceding is too narrow, that is seeks to restrict itself to the personal, to the experiential, to the phenomenal and in doing so fails to acknowledge the communal aspect of Death, that is to say, the definition of Death as it has been discussed so far does not include our apprehension of the Death of the Other.
 
-To this point, we counter immediately with three questions: 
+To this point, we counter immediately with three counterpoints: 
 
-1. If, in the analysis of Death, we are not seeking a phenomology of Death, then what is it we are seeking? What do we hope to achieve?
+1. If, in the analysis of Death, we are not seeking a phenomology of Death, a personal experience of Death, then what is it we are seeking? What do we hope to achieve?
 
-2. How do we bring to our attention the implicit ontological relation that binds us to our non-Being, without narrowing the scope of Death to indicate exactly that non-Being?
+2. How do we bring to our attention the implicit ontological relation that binds us to the non-Being of Death versus the non-Being of pre-existence, i.e. Death vs. Prebirth, without narrowing the scope of Death to indicate exactly that one type of non-Being and not the other?
 
 3. What is lacking in our current definition of Death that would broaden its scope to include the category of phenomenon here termed _the Death of the Other_?
 
 Let us in turn dwell on each question and see where it leads, if anywhere at all, which does not seem likely given the strange dialectic so far traversed. 
 
+To the first point: If the assumption of the general unknowability of Death is granted, this would seem necessarily to lead to the exclusion of the possibilty of a _phenomonology of Death_. How can we bring into Being and experience that which can not be known? Indeed, if death is unknowable, how do we know it hasn't already occured? This is the purest form of `solipsism`: that we ourselves as Beings have no way of knowing if we have already died. 
 
+We should, at this point, lift our eyes from the page and let our gaze fall upon the world. In our deepest moments of reflection, when all pretenses are abandoned, we must admit to the `invariance` of the **Cartesian** tautology, "_I do not know if I exist_", and behold the complexity of uncertainty in vast incomprehensiblity of the world that rises in response.
 
+We shall return to the [topic of unknowability](#a-godelian-counterargument) later on and discuss it in more detail. We must remark, at this point, however, that unknowability is like disease, passing from host to host, rendering all that it touches weak and unable to withstand the force of inspection. The analogy of disease falters, however, for there exists no disease which infects itself. 
 
+"_If you tried to doubt everything you would not get as far as doubting anything. The game of doubting itself presupposes certainty_"[5^]
 
 Upon making ingress into the Other's perception, Death is no longer a subjective experience, but instead a fact among others. In this sense, Death is similar to consciousness, in that consciousness once objectified in the consciousness of another ceases to be consciousness at all, but becomes a representation of that consciousness, an indication pointing beyond the realm of Being towards the Being of another, unknowable like Death, but unlike Death, inferrable through the observance of the causal connections that unite us in our Being. 
 
 In other words, the Other is unknowable as an experience, but the experience of the Other as an objectified ingression into the sense data is knowable through the medium of representation. Put more simply, we can recognize intelligence in the world outside of ourselves through the presence of form. In this way, I know whatever entity responsible for traffic signs is also an intelligent being because traffic signs indicate a concept we both understand, and this understanding is embodied through the course of our synchronized action, and through this understanding and sychronization we come to know the point of emanation in our world of action not our own as the Other. 
+
+[5^]: [Section 115, Wittgenstein, On Certainty](https://archive.org/details/oncertainty00witt)
 
 ## A Platonic Counterargument
 
@@ -128,7 +134,7 @@ Death is not like this, as it can be neither objectified nor conceptualized. Thu
 
 In the first case, Death cannot be objectified through relations, because Death resists at an ontological level the application of the first essential relation in any proposition: that of existence. 
 
-What form remains in the statement "_the Being is dead_" when its content is subtracted? [^5]
+What form remains in the statement "_the Being is dead_" when its content is subtracted? [^6]
 
 The remainder is plainly a contradiction of the `law of the excluded middle`, i.e. it must be the case that either _A_ or the negation of _A_ is true, where _A_ is understood to be a symbol standing for a proposition upon which a judgement of truth can be rendered. A _Being_ cannot _be_ dead, because to _be_ means to _not be_ dead. In claiming that something _is_ dead, in the present tense, you cannot help but commit a logical fallacy. 
 
@@ -158,13 +164,13 @@ All this is to say, the invariance of nature provides the ultimate metric for th
 
 The relations that underlie our apprehension and perception arise through their ability to point _towards_ these absolutes. The form of our representation is time and space, thus these forms bend towards that which is invariant. 
 
-Death, then, as its relation to our Being starts to emerge through the fog of negation, is not an object, i.e. representation, but a constraint imposed on the form of our representations. In the same way that time and space become relative metrics to accomodate the invarance of the speed of light[^6], our Being becomes a relative metric to accomodate the invariance of Death. 
+Death, then, as its relation to our Being starts to emerge through the fog of negation, is not an object, i.e. representation, but a constraint imposed on the form of our representations. In the same way that time and space become relative metrics to accomodate the invarance of the speed of light[^7], our Being becomes a relative metric to accomodate the invariance of Death. 
 
 In this sense, we say the ontological substratum of Being is solipsism.
 
-[^5]: In the preceding when we say "_Being_", what we mean can be mostly nearly approximated, to the knowledge of the author, with the **Heideggerian** terminology of `Dasein`. _Being_ is understood through the sum of its possible semantical operations with respect to its object: `Being-there`, `Being-with`, `Being-towards`, etc. In what follows, we will attempt to tag on a few terms to the series and see how this alters its sum. 
+[^6]: In the preceding when we say "_Being_", what we mean can be mostly nearly approximated, to the knowledge of the author, with the **Heideggerian** terminology of `Dasein`. _Being_ is understood through the sum of its possible semantical operations with respect to its object: `Being-there`, `Being-with`, `Being-towards`, etc. In what follows, we will attempt to tag on a few terms to the series and see how this alters its sum. 
 
-[^6]: The speed of light might be more properly termed the `speed of Being`, as it relates to _metaphysics_. 
+[^7]: The speed of light might be more properly termed the `speed of Being`, as it relates to _metaphysics_. 
 
 ### Death-as-not-Concept
 
@@ -309,23 +315,27 @@ Indeed, Death is always with us but we do not apprehend it in our Being until we
 
 # References
 ## Books
-### Wikis
-- [Being and Nothingness](https://en.wikipedia.org/wiki/Being_and_Nothingness)
-- [Being and Time](https://en.wikipedia.org/wiki/Being_and_Time)
-- [Critique of Pure Reason](https://en.wikipedia.org/wiki/Critique_of_Pure_Reason)
-- [Myth of Sisyphus, The](https://en.wikipedia.org/wiki/The_Myth_of_Sisyphus)
-- [Philosophical Investigations](https://en.wikipedia.org/wiki/Philosophical_Investigations)
-- [Principia Mathematica](https://en.wikipedia.org/wiki/Principia_Mathematica)
-- [Tractatus Logico-Philosophicus](https://en.wikipedia.org/wiki/Tractatus_Logico-Philosophicus)
-- [World as Will and Representation, The](https://en.wikipedia.org/wiki/The_World_as_Will_and_Representation)
-### Online Manuscripts
+### Archive.org
 - [Being and Nothingness](https://archive.org/details/beingnothingness0000unse)
 - [Being and Time](https://archive.org/details/pdfy-6-meFnHxBTAbkLAv/page/n7/mode/2up)
+- [Myth of Sisyphus, the](https://archive.org/details/mythofsisyphus0000unse/page/n5/mode/2up)
+- [On Certainty](https://archive.org/details/oncertainty00witt)
+- [Philosophical Investigations](https://archive.org/details/philosophicalinv0000witt/page/n3/mode/2up)
+- [Principia Mathematica](https://archive.org/details/cu31924001575244)
+- [Tractatus Logico-Philosophicus](https://archive.org/details/dli.ministry.23985)
+- [World as Will and Representation, The](https://archive.org/details/worldaswillrepre01scho)
+  
+### Gutenberg.org
 - [Critique of Pure Reason](https://www.gutenberg.org/ebooks/4280)
 - [Tractatus Logico-Philosophicus](https://www.gutenberg.org/ebooks/5740)
-- [World as Will and Representation Vol. 1](https://www.gutenberg.org/ebooks/38427)
-## Concepts
-### Wikis
+- [World as Will and Representation](https://www.gutenberg.org/ebooks/38427)
+  
+
+## Encyclopedias
+### Stanford Encyclopedia of Philosophy
+- [Certainty](https://plato.stanford.edu/entries/certainty/)
+  
+### Wikipedia
 - [Being-in-itself](https://en.wikipedia.org/wiki/Being_in_itself)
 - [Being-toward-death](https://en.wikipedia.org/wiki/Heideggerian_terminology#Being-toward-death)
 - [Concern](https://en.wikipedia.org/wiki/Heideggerian_terminology#Care_(or_concern))
@@ -340,13 +350,9 @@ Indeed, Death is always with us but we do not apprehend it in our Being until we
 - [Solipsism](https://en.wikipedia.org/wiki/Solipsism)
 - [Thing-in-itself](https://en.wikipedia.org/wiki/Thing-in-itself)
 - [Time Dilation](https://en.wikipedia.org/wiki/Time_dilation)
-## Poems
-### Wikis
-- [Little Gidding](https://en.wikipedia.org/wiki/Little_Gidding_(poem))
-### Online Manuscripts
-- [Little Gidding](http://www.columbia.edu/itc/history/winter/w3206/edit/tseliotlittlegidding.html)
+  
 ## Mathematics
-### Wikis
+### Wikipedia
 - [Delta-epsilon definition of a limit](https://en.wikipedia.org/wiki/Continuous_function#Weierstrass_and_Jordan_definitions_(epsilon–delta)_of_continuous_functions))
-### Stacks
+### Stack Exchange
 - [Proof that a function with a countable set of discontinuities is Reimann integrable](https://math.stackexchange.com/questions/263189/proof-that-a-function-with-a-countable-set-of-discontinuities-is-riemann-integra)
