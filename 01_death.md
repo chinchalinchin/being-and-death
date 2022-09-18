@@ -24,7 +24,7 @@ Despite being the foundation of almost every human pathology, Death as a field o
 
 There is a reason for this. Death as a subject is repellant to understanding. Its very definition presupposes the limit of the knower; That is to say, Death is inherently unknowable. Death can only be understood through the mechanisms of analogy and metaphor, for when we turn our attention directly to the object of Death it reveals itself as something which can not be found in Being. 
 
-We can be aware that we will eventually die, we can perceive others passing from this world of existence, we can even in unique circumstances perceive the manner of our own Death, but that awareness will never be extended into Death itself. Death is the point where awareness stops, if by "_awareness_" we mean `Being-in-the-world`. In this way, we mean Death exists beyond the limit of understanding; to make relationship thus denoted more clear, we might coin the term `understanding-of-the-world`, and posit Death as that which removes this from Being, and thus annihiliates Being. 
+We can be aware that we will eventually die, we can perceive others passing from this world of existence, we can even in unique circumstances perceive the manner of our own Death, but that awareness will never be extended into Death itself. Death is the point where awareness stops, if by "_awareness_" we mean `Being-in-the-world`. In this way, we mean Death exists beyond the limit of understanding; to make relationship thus denoted more clear, we might coin the term `understanding-of-the-world`[^3], and posit Death as that which removes this from Being, and thus annihiliates Being. Death, while unapproachable, becomes a way to understand our own Being, for it shows us the domain of the problem, the problem being what it means _to be_. 
 
 To ask questions about a subject that perpetually recedes from all attempts to know it necessarily entails the admission up front that no answers can ever be conceived, much less perceived. The inevitable end result will be to arrive where we started, having gained nothing; If any proposition can lay claim to human nature, this is it. 
 
@@ -34,17 +34,21 @@ It would seem, then, it does not matter which direction we choose to go, since w
 
 [^2]: `reflective consciousness` as opposed to `ontical consciousness`; i.e. the consciousness of being conscious versus being conscious. This is what **Heidegger** called the split between _ontology_ and _onticity_. The human, or more generally, the `Dasein`, is a type of Being which is capable of reflecting on its Being. 
 
+[^3]: We add here the caveat the terminology so far introduced is yet a complete and exhaustive description of the ontological relations being examined. Throughout the course of the present, we will attempt to elucidate what it means _to be_ in relation to Death; this neologism is the first many we will formulate, as the primary function of philosophy seems to be the production of esoteric phrases. 
+
 ### Existence by Contradiction
 
 With the warnings of futility thus dispensed, we proceed as many have proceeded before us.
 
-The great workhorse of mathematics is proof by contradiction. An assumption is made, an absurdity is shown to result from the assumption, therefore the assumption is shown to be false. In this way was modern mathematics constructed, by outlining the truth and demarcating its boundary with falsity. Anyone who has studied higher mathematics will attest to the way most mathematical proofs work by letting the truth "_in through the back door_"[^3], that is to say, they work by showing what cannot be the case in order to prove the opposite must be so, but this gets us no closer to _why_ it is so.
+The great workhorse of mathematics is proof by contradiction. An assumption is made, an absurdity is shown to result from the assumption, therefore the assumption is shown to be false. In this way was modern mathematics constructed, by outlining the truth and demarcating its boundary with falsity. Anyone who has studied higher mathematics will attest to the way most mathematical proofs work by letting the truth "_in through the back door_"[^4], that is to say, they work by showing what cannot be the case in order to prove the opposite must be so, but this gets us no closer to _why_ it is so.
 
 This method does not reveal the "_intuition_" of the theorem to the observer; indeed one can comprehend a proof without understanding anything about what it trying to say and in the converse direction, one may understand a concept without being able to grasp its proof in the slightest.
 
 So it is with induction: a proof of induction, and therefore a proof _by_ induction, relies on a contradiction that an element belongs to two mutually exclusive sets, which we are forced to admit is absurdity, therefore we conclude induction must be true; but nowhere in the proof do we see why the form in an induced series is transmitted from one term to the next. Likewise, a student can spend an entire academic career studying the axioms and theorems of real analysis and still have no intuition for how a falling stone's trajectory traces a parabola with respect to time, despite having memorized a series of proofs that show how to go from set theory to differential calculus.
 
 This, however, is a logical method well-suited for Death, since as we have noted, Death will never be understood. The only course we may avail ourselves of is to define what Death is not and trace its outline through the ink of negation. Indeed, this will be the course of the present work. We shall attempt to negate our way towards an understanding of Death, an understanding that we have already noted is impossible. _C'est la vie_.
+
+[^4]: [p. ?, Vol 1, Section ?, Schopenhauer, The World As Will and Representation](https://www.gutenberg.org/ebooks/38427)
 
 ### Death by Deduction
 
@@ -66,8 +70,6 @@ Regardless, perhaps in spite of this, we proceed. In order to make these feature
 
 With the first axiom, it is likely we all agree or are at least willing to grant truth long enough to see what follows. We then turn to the justification of the latter two axioms, as the meaning of either the `axiom of failed contingency` or the `axiom of non-equivalence` is not clear at first glance. 
 
-[^3]: [p. ?, Vol 1, Section ?, Schopenhauer, The World As Will and Representation](https://www.gutenberg.org/ebooks/38427)
-
 ## A Kantian Counterargument
 
 In true negative fashion, we will start by asssuming what is false and show how it leads to a contradiction. The negation of the `axiom of failed contingency` is that Death _is_ knowable through phenomena. With this in hand, the counterargument to the `axiom of failed contingency` can be raised along the following lines.
@@ -84,9 +86,9 @@ If we admit to the existence of knowledge and knowability in general, then we al
 
 However, Death cannot be found in the regurgitations of existence into appearance. No matter where we turn, our own Deaths are nowhere to be found in the appearances we attach to the world. Death has no boundaries that we perceive. We cannot approach it in space. Death cannot be probed. It has no weight to be felt, no surface to touch. There is no way to know what is on the other side of it, or even if there is another side, for Death has no reflection in sensation, or at the very least this sensation is commensurate with the cessation of sensation in a way that will always remain inaccessible to us. Once Death is apprehended and integrated into our Being, we cease to be Beings. 
 
-If Death has its own interiority, i.e. a Being of Death for us, there is no mechanism to be found in the totality of existence for measuring it or bringing it into our apprehension. For as **Wittgenstein** once said, "_the picture cannot place itself outside of its form of representation_" [^4].
+If Death has its own interiority, i.e. a Being of Death for us, there is no mechanism to be found in the totality of existence for measuring it or bringing it into our apprehension. For as **Wittgenstein** once said, "_the picture cannot place itself outside of its form of representation_" [^5].
 
-[^4]: [p.98, 2.174, Wittgenstein, Tractatus Logico-Philosophicus](https://www.gutenberg.org/files/5740/5740-pdf.pdf)
+[^5]: [p.98, 2.174, Wittgenstein, Tractatus Logico-Philosophicus](https://www.gutenberg.org/files/5740/5740-pdf.pdf)
 
 ### The Death of the Definition
 
@@ -110,10 +112,12 @@ We should, at this point, lift our eyes from the page and let our gaze fall upon
 
 We shall return to the [topic of unknowability](#a-godelian-counterargument) later on and discuss it in more detail. We must remark, at this point, however, that unknowability is like disease, passing from host to host, rendering all that it touches weak and unable to withstand the force of inspection. The analogy of disease falters, however, for there exists no disease which infects itself. 
 
-_Unknowability_ as a relation when applied to _unknowability_ as an object yields back us the existence of possibilty. In other words, "_if you tried to doubt everything you would not get as far as doubting anything. The game of doubting itself presupposes certainty_"[5^] If a thing is unknowable, then there exists an infinite recursion of unknowability, because one cannot appraoch _unknowability_ without thereby coming to _know_ it, In this way, we form the chain of propositions:
+_Unknowability_ as a relation when applied to _unknowability_ as an object yields back us the existence of possibilty. In other words, "_if you tried to doubt everything you would not get as far as doubting anything. The game of doubting itself presupposes certainty_"[^6] If a thing is unknowable, then there exists an infinite recursion of unknowability, because one cannot appraoch _unknowability_ without thereby coming to _know_ it, In this way, we form the chain of propositions:
 
 - Death is unknowable.
 - "_Death is unknowable_" is unknowable
+
+[^6]: [Section 115, Wittgenstein, On Certainty](https://archive.org/details/oncertainty00witt)
 
 ### Non-Being
 
@@ -123,8 +127,6 @@ TODO
 Upon making ingress into the Other's perception, Death is no longer a subjective experience, but instead a fact among others. In this sense, Death is similar to consciousness, in that consciousness once objectified in the consciousness of another ceases to be consciousness at all, but becomes a representation of that consciousness, an indication pointing beyond the realm of Being towards the Being of another, unknowable like Death, but unlike Death, inferrable through the observance of the causal connections that unite us in our Being. 
 
 In other words, the Other is unknowable as an experience, but the experience of the Other as an objectified ingression into the sense data is knowable through the medium of representation. Put more simply, we can recognize intelligence in the world outside of ourselves through the presence of form. In this way, I know whatever entity responsible for traffic signs is also an intelligent being because traffic signs indicate a concept we both understand, and this understanding is embodied through the course of our synchronized action, and through this understanding and sychronization we come to know the point of emanation in our world of action not our own as the Other. 
-
-[5^]: [Section 115, Wittgenstein, On Certainty](https://archive.org/details/oncertainty00witt)
 
 ## A Platonic Counterargument
 
@@ -144,7 +146,7 @@ Death is not like this, as it can be neither objectified nor conceptualized. Thu
 
 In the first case, Death cannot be objectified through relations, because Death resists at an ontological level the application of the first essential relation in any proposition: that of existence. 
 
-What form remains in the statement "_the Being is dead_" when its content is subtracted? [^6]
+What form remains in the statement "_the Being is dead_" when its content is subtracted? [^7]
 
 The remainder is plainly a contradiction of the `law of the excluded middle`, i.e. it must be the case that either _A_ or the negation of _A_ is true, where _A_ is understood to be a symbol standing for a proposition upon which a judgement of truth can be rendered. A _Being_ cannot _be_ dead, because to _be_ means to _not be_ dead. In claiming that something _is_ dead, in the present tense, you cannot help but commit a logical fallacy. 
 
@@ -174,13 +176,13 @@ All this is to say, the invariance of nature provides the ultimate metric for th
 
 The relations that underlie our apprehension and perception arise through their ability to point _towards_ these absolutes. The form of our representation is time and space, thus these forms bend towards that which is invariant. 
 
-Death, then, as its relation to our Being starts to emerge through the fog of negation, is not an object, i.e. representation, but a constraint imposed on the form of our representations. In the same way that time and space become relative metrics to accomodate the invarance of the speed of light[^7], our Being becomes a relative metric to accomodate the invariance of Death. 
+Death, then, as its relation to our Being starts to emerge through the fog of negation, is not an object, i.e. representation, but a constraint imposed on the form of our representations. In the same way that time and space become relative metrics to accomodate the invarance of the speed of light[^8], our Being becomes a relative metric to accomodate the invariance of Death. 
 
 In this sense, we say the ontological substratum of Being is solipsism.
 
-[^6]: In the preceding when we say "_Being_", what we mean can be mostly nearly approximated, to the knowledge of the author, with the **Heideggerian** terminology of `Dasein`. _Being_ is understood through the sum of its possible semantical operations with respect to its object: `Being-there`, `Being-with`, `Being-towards`, etc. In what follows, we will attempt to tag on a few terms to the series and see how this alters its sum. 
+[^7]: In the preceding when we say "_Being_", what we mean can be mostly nearly approximated, to the knowledge of the author, with the **Heideggerian** terminology of `Dasein`. _Being_ is understood through the sum of its possible semantical operations with respect to its object: `Being-there`, `Being-with`, `Being-towards`, etc. In what follows, we will attempt to tag on a few terms to the series and see how this alters its sum. 
 
-[^7]: The speed of light might be more properly termed the `speed of Being`, as it relates to _metaphysics_. 
+[^8]: The speed of light might be more properly termed the `speed of Being`, as it relates to _metaphysics_. 
 
 ### Death-as-not-Concept
 
