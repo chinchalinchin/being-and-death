@@ -116,12 +116,12 @@ We should, at this point, lift our eyes from the page and let our gaze fall upon
 
 We shall return to the [topic of unknowability](#a-godelian-counterargument) later on and discuss it in more detail. We must remark, at this point, however, that unknowability is like a disease, passing from host to host, rendering all that it touches weak and unable to withstand the force of inspection. The analogy of disease falters, however, for there exists no disease which infects itself. 
 
-_Unknowability_ as a relation when applied to _unknowability_ as an object yields back to us the existence of possibilty[^6]. In other words, "_if you tried to doubt everything you would not get as far as doubting anything. The game of doubting itself presupposes certainty_"[^7]. If a thing is unknowable, then there exists a recursion of knowability, because one cannot approach _unknowability_ without thereby coming to know _of_ it. In this way, we form the chain of propositions:
+_Unknowability_ as a relation when applied to _unknowability_ as an object yields back to us the existence of possibilty[^6]. In other words, "_if you tried to doubt everything you would not get as far as doubting anything. The game of doubting itself presupposes certainty_"[^7]. If a thing is unknowable, then there exists a recursion of knowability that attaches itself through necessity to the nodes of unknowability, because one cannot approach _unknowability_ without thereby coming to know _of_ it. In this way, we form the chain of propositions:
 
 - Death is unknowable.
 - "_Death is unknowable_" is knowable
 
-We see in this argument how how the tendrils of knowability intersect with those of unknowability, and give us at least a foothold to raise our awareness towards Death.
+We see in this argument how how the tendrils of knowability intersect with those of unknowability, and give us at least a foothold to raise our awareness towards Death. If Death is unknowable, then we can at least come to know what it means to be unknowable and thus gain an understanding of Death through analogy. This is all we can possibly mean by _phenomology of Death_: that we can come to know what is unknowable, i.e. Death, "_through the back door_". 
 
 [^6]: The phrase "_existence of possibility_" is equivalent to the phrase "_possibility of possibility_", which brings to the attention the reflexive and tautological relation between _existence_ and _possbility_. 
 [^7]: [Section 115, Wittgenstein, On Certainty](https://archive.org/details/oncertainty00witt)
