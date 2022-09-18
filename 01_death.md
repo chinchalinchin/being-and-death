@@ -4,6 +4,12 @@ TODO: move all links to footnotes and order appropriately. finish writing for no
 
 ## The Stage 
 
+If the author is granted one contribution to the annals of philosophy, let it be the proof of the futility of all future philosophies. 
+
+In constructing such a proof, we shall adhere to the grand tradition of philosophy and arbitrarily capitalize these concepts to denote their precise meaning in the following discourse: _Being_, _Father_, _Life_, _Mother_, _Nothing_, _Other_ and _Death_. We do this for no other reason but because, in inimitable the words of 20th century's greatest philsopher ***Bill Waterson**, we "_ must obey the inscrutable exhortions of (our) soul_".
+
+---
+
 ```
 We shall not cease from exploration
 And the end of all our exploring
@@ -12,9 +18,9 @@ And know the place for the first time
 ```
 <sup style="margin-left: 5%;" ><sub>- T.S. Eliot, [Little Gidding](http://www.columbia.edu/itc/history/winter/w3206/edit/tseliotlittlegidding.html)</sub></sup>
 
-**NOTE**: We shall adhere to the grand tradition of philosophy and arbitrarily capitalize these concepts to denote their precise meaning in the following discourse: _Being_, _Father_, _Life_, _Mother_, _Nothing_, _Other_ and _Death_. We do this for no other reason but to illustrate the words of inimitable philsopher ***Bill Waterson**: "_I must obey the inscrutable exhortions of my soul_".
+---
 
-![](TODO: Calvin and Hobbes comic strip)
+![](./assets/calvin_and_hobbes_inscrutable_exhortations.jpeg)
 
 ## The Question
 
