@@ -152,7 +152,7 @@ We therefore have no basis for saying: if Death is Nothing (<sup><sub>in the _ph
 
 We shall return to the [topic of unknowability](#a-godelian-counterargument) later on and discuss it in more detail. We must remark, at this point, however, that unknowability is like a disease, passing from host to host, rendering all that it touches weak and unable to withstand the force of inspection. The analogy of disease falters, however, for there exists no disease which infects itself or possesses its own cure. 
 
-_Knowability_ as a relation when applied to _unknowability_ as an object yields back to us the existence of possibilty[^11]. In other words, "_if you tried to doubt everything you would not get as far as doubting anything. The game of doubting itself presupposes certainty_"[^12]. If a thing is unknowable, then there exists a recursion of knowability that attaches itself through necessity to the nodes of unknowability, because one cannot approach _unknowability_ without thereby coming to know _of_ it. In this way, we form the chain of propositions:
+_Knowability_ as a relation when applied to _unknowability_ as an object yields back to us the existence of possibilty[^11]. In other words, "_if you tried to doubt everything you would not get as far as doubting anything. The game of doubting itself presupposes certainty_"[^12]. If a thing is unknowable, then there exists a recursion of knowability that attaches itself through necessity to the nebulous mass of unknowability, because one cannot approach _unknowability_ without thereby coming to know _of_ it. In this way, we form the chain of propositions:
 
 - Death is unknowable.
 - "_Death is unknowable_" is knowable.
