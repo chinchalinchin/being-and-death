@@ -44,9 +44,3 @@
 ## Stack Exchange
 - [Proof that a function with a countable set of discontinuities is Reimann integrable](https://math.stackexchange.com/questions/263189/proof-that-a-function-with-a-countable-set-of-discontinuities-is-riemann-integra)
 - [What is the difference between metaphysics and ontology?](https://philosophy.stackexchange.com/questions/1534/what-is-the-difference-between-metaphysics-and-ontology)
-
-
-
-
-- big picture: https://www.gocomics.com/calvinandhobbes/1993/06/01
-- big picture ii: https://www.gocomics.com/calvinandhobbes/1993/06/02
