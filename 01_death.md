@@ -64,7 +64,7 @@ In this way, we mean Death exists beyond the limit of understanding; to make rel
 
 Death then, while unapproachable, becomes a way to understand our own Being, for it shows us the domain of the problem, the problem being what it means _to be_. Death is `a priori` to Being, baked into all ontologies, even if they do not explicitly acknowledge it as such. _To be_ inherently contains the possibility of _not Being_. The `invariance` of Death is a fundamental constant of nature and thus provides the metric by which to [unpack existence into representative form](#death-as-not-object). 
 
-To ask questions about a subject that perpetually recedes from all attempts to know it necessarily entails the admission up front that no answers can ever be conceived, much less perceived. The inevitable end result will be to arrive where we started, having gained Nothing, except perhaps understanding, which will anyway evaporate when we die; If any proposition can lay claim to human nature, this is it. 
+To ask questions about a subject that perpetually recedes from all attempts to know it necessarily entails the admission up front that no answers can ever be conceived, much less perceived. The inevitable end result will be to arrive where we started, having gained Nothing, except perhaps understanding of what it means to be futile, which will anyway evaporate when we die; If any proposition can lay claim to human nature, this is it. 
 
 It would seem, then, it does not matter which direction we choose to go, since we will always return to our starting point, no better or worse for having made the circuit. For this reason, the author recommends no one should read what follows. Instead, the reader is advised that going outside is by far a better course of action.
 
