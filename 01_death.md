@@ -2,6 +2,8 @@ TODO: move all links to footnotes and order appropriately. finish writing for no
 
 # Death
 
+## The Stage 
+
 ```
 We shall not cease from exploration
 And the end of all our exploring
@@ -10,7 +12,9 @@ And know the place for the first time
 ```
 <sup style="margin-left: 5%;" ><sub>- T.S. Eliot, [Little Gidding](http://www.columbia.edu/itc/history/winter/w3206/edit/tseliotlittlegidding.html)</sub></sup>
 
-**NOTE**: We shall adhere to the grand tradition of philosophy and arbitrarily capitalize the following concepts to denote their precise meaning in the following discourse: _Being_, _Nothing_, _Other_ and _Death_. 
+**NOTE**: We shall adhere to the grand tradition of philosophy and arbitrarily capitalize these concepts to denote their precise meaning in the following discourse: _Being_, _Father_, _Life_, _Mother_, _Nothing_, _Other_ and _Death_. We do this for no other reason but to illustrate the words of inimitable philsopher ***Bill Waterson**: "_I must obey the inscrutable exhortions of my soul_".
+
+![](TODO: Calvin and Hobbes comic strip)
 
 ## The Question
 
@@ -132,30 +136,46 @@ We see in this argument how how the tendrils of knowability intersect with those
 
 TODO
 
-### The Other and Death
+### Other-as-Life
 
-We now turn to one of the most important sections in establishing the proposed axioms of Death, the section in which explore the relation of our Being to that of the Other, and the relation of each of these plus their conjunction to that of Death.[^10]
+We now turn to two of the most important sections in establishing the proposed axioms of Death, this section and the next in which we explore the relation of our Being to that of the Other, and the relation of each of these plus their conjunction to that of Death.[^10]
 
 We start with a question that will at first glance appear to provide the entrypoint for the contradiction of the `axiom of failed contingency`: How do we know we die?
 
-To make the intent of the question more plain, let us recast it: Would a human raised in isolation, unexposed to the Death of the Other, comprehend its own mortality?[^11]
+To make the intent of the question more plain, let us recast it: Would a human raised in isolation comprehend its own mortality?[^11]
 
-We said before Death is the final fact towards which all ontologies, all ways of Being, must ultimately comport. We will now show how this arises through Being's apprehension of its `facticity`. The thought experiment of a human reared in isolation brings this into relief. We thus further clarify our assumptions. 
+We said before Death is the final fact towards which all ontologies, all ways of Being, must ultimately comport. We will now show how this arises through Being's apprehension of its `facticity`. The thought experiment of a human reared in isolation brings this into relief. We thus further clarify our assumptions first to avoid any ambiguities in the arguments that follow. 
 
-Let us assume the human is in an all white room (<sup><sub>to better evoke _eternity_</sub></sup>) and this is the extent of the space[^12] alloted to it throughout the course of its existence[^13]. We immediately ask ourselves how it is the human is sustained in this thought experiment. We must ask at this point whether this is a question of ontology or biology. Is Being `contingent` on biology? Is it possible _to be_ without first being a "_biological being_"? 
+Let us assume the human is in an all white room (<sup><sub>to better evoke _eternity_</sub></sup>) and this is the extent of the space[^12] alloted to it throughout the course of its existence[^13]. We immediately ask ourselves how it is the human is sustained in this thought experiment. This question begets another, more fundamental question: whether the first question, that of sustenance, is a question of ontology or biology. Is Being `contingent` on biology or is biology `contigent` on Being? Is it possible _to be_ without first being a "_biological Being_"? 
 
-**Heidegger**' would say that any philosophy that calls itself such is properly concerned with the nature, i.e. _ontology_, of Being that precedes the Being of biology. 
+**Heidegger**' would say that any philosophy that calls itself such is properly concerned with the nature of Being that precedes the Being of biology, i.e. the _ontology_ of Being versus the _onticity_ of Being. Here we meet a problem elucidated by **Eugene Thacker** in _After Life_: the ontology of Being appears at odds with the ontology of Life, for in order exorcise biology from Being, we must first account for the possibility of Life in its ontology. In other words, to pose this proposition as a question: is our _Life_ as a Being the same as our Being as a _biological Life_?
 
-What is it that initiialy draws us to the Mother's breast? Do we possess an instinct for it? The modern substitution of the bottle for the nipple seems to give lie to this claim. The human has no instinct for nourishment. 
+The advance of technology seems to point towards a point where consciousness will enter the digital realm. By entertaining this possibility, we are forced into a position where we must provide an ontological basis for a Life that is not biological, that is at once also separate from the ontology of Being. If it is the case that one day awareness will emerge via the electronic, what sort of _contingency_ would such as Being have? 
 
-Upon making ingress into the Other's perception, Death is no longer a subjective experience, but instead a fact among others. In this sense, Death is similar to consciousness, in that consciousness once objectified in the consciousness of another ceases to be consciousness at all, but becomes a representation of that consciousness, an indication pointing beyond the realm of Being towards the Being of another, unknowable like Death, but unlike Death, inferrable through the observance of the causal connections that unite us in our Being. 
+Claim: the infant does not act in the mode of assauging desires, it acts in the mode of desire itself. It does not _want_ to consume, it merely consumes when the appropriate stimuli emerge from its apprehension of the world. Through this the infant learns the `law of causality`, i.e. how it relates to its Being and how its action or inaction causes the world to respond or not respond.
 
-In other words, the Other is unknowable as an experience, but the experience of the Other as an objectified ingression into the sense data is knowable through the medium of representation. Put more simply, we can recognize intelligence in the world outside of ourselves through the presence of form. In this way, I know whatever entity responsible for traffic signs is also an intelligent being because traffic signs indicate a concept we both understand, and this understanding is embodied through the course of our synchronized action, and through this understanding and sychronization we come to know the point of emanation in our world of action not our own as the Other. 
+In the absence of the _Other_, the infant would die, its pure desire unable to reflect on how to overcome itself. The infant would perceive only raw desire and a unreactive world. In this state, we lack the conditions for consciousness. Consciousness cannot arise and come to know the world as something with which it can interact if the world does not in the first place rise to meet its presence. In that case, the Being that would be consciousness merely dies, existing as only a brief moment of unfilled desire, a flash of Being in the eternity of Nothing.
+
+Biology is only incidental to this picture. It is the form through which Death rips away Being.
+
+Our Being is a Being of knowledge, among other things. Knowledge is the coincidence of form. By form, we do not mean _matter_, or _atoms_, or _particles_. We mean the way Being is composed of _indications_ towards something which it is not, _existence_. Knowledge is `factical`, in the sense that it requires time and space as the horizon by which to express it. As infants moments from our birth, there are only the beginnings of knowledge, the first points in our _world trajectory_ which we will use as reference for the relations that form the "_nexus_" of our Being.
+
+Knowledge of nourishment requires knowledge of ourselves as humans. We cannot have knowledge of our Being human without the representative form of the Other against which to compare and contrast our own Being. We are only human insofar there are Other humans. In the case where there are no humans, the label of human no longer references to an appearance in our phemonology, unless we take it to mean _myself_. In an ontology of one, the term human becomes equivalent to _myself_, and thus loses all meaning.
+
+What is it that initiialy draws us to the Mother's breast? Do we possess an instinct for it? The modern substitution of the bottle for the nipple seems to give lie to this claim. If there is no instinct to consume, then the most we can say it we come to know what it means to consume. How else would this knowledge come to our Being, except through our recognition of the Other's representative form as it relates to our desires? 
+
+Is the distinction of Mother versus Father ontological? 
 
 [^10]: This section will necessarily involve a good deal of inquiry, as it involves questions relating to appearance of Beings outside ourselves, a tenuous area we must be careful to analyze with `care`. We therefore will assault the reader with many questions. With each _"?"_, the author would humbly request the reader to pause and contemplate the meaning of what preceded it before continuing. 
 [^11]: In what follows, we abandon the halls of solipsism for a moment, to make further progress in the event its negation is ever shown to be the case. 
 [^12]: We do not say `world` here, in anticipation of the conclusions to follow. We will see again that `world` and `space` are not synomnous, as we have remarked tangentially in the preceding discussions of **Schopenhauer**.
-[^13]: "_throughout the course of its existence_" What does this mean if not "_until it dies"? Has Death covertly entered into the dialectic, even in this early stage?
+[^13]: "_throughout the course of its existence_" What does this mean if not "_until it dies_"? Has Death covertly entered into the dialectic, even at this early stage?
+
+### Other-as-Death
+
+Upon making ingress into the Other's perception, Death is no longer a subjective experience, but instead a fact among others. In this sense, Death is similar to consciousness, in that consciousness once objectified in the consciousness of another ceases to be consciousness at all, but becomes a representation of that consciousness, an indication pointing beyond the realm of Being towards the Being of another, unknowable like Death, but unlike Death, inferrable through the observance of the causal connections that unite us in our Being. 
+
+In other words, the Other is unknowable as an experience, but the experience of the Other as an objectified ingression into the sense data is knowable through the medium of representation. Put more simply, we can recognize intelligence in the world outside of ourselves through the presence of form. In this way, I know whatever entity responsible for traffic signs is also an intelligent being because traffic signs indicate a concept we both understand, and this understanding is embodied through the course of our synchronized action, and through this understanding and sychronization we come to know the point of emanation in our world of action not our own as the Other. 
 
 ## A Platonic Counterargument
 
