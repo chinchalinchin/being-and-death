@@ -112,16 +112,19 @@ Let us in turn dwell on each question and see where it leads, if anywhere at all
 
 To the first point: If the assumption of the general unknowability of Death is granted, this would seem necessarily to lead to the exclusion of the possibilty of a _phenomonology of Death_. How can we bring into Being and experience that which can not be known? Indeed, if death is unknowable, how do we know it hasn't already occured? This is the purest form of `solipsism`: that we ourselves as Beings have no way of knowing if we have already died. 
 
-We should, at this point, lift our eyes from the page and let our gaze fall upon the world. In our deepest moments of reflection, when all pretenses are abandoned, we must admit to the `invariance` of the **Cartesian** tautology, "_I do not know if I exist_", and behold the complexity of uncertainty in vast incomprehensiblity of the world that rises in response.
+We should, at this point, lift our eyes from the page and let our gaze fall upon the world. In our deepest moments of reflection, when all pretenses are abandoned, we must admit to the `invariance` of the **Cartesian** tautology, "_I do not know if I exist_", and behold the complexity of uncertainty manifested in vast incomprehensiblity of the world that rises in response.
 
-We shall return to the [topic of unknowability](#a-godelian-counterargument) later on and discuss it in more detail. We must remark, at this point, however, that unknowability is like disease, passing from host to host, rendering all that it touches weak and unable to withstand the force of inspection. The analogy of disease falters, however, for there exists no disease which infects itself. 
+We shall return to the [topic of unknowability](#a-godelian-counterargument) later on and discuss it in more detail. We must remark, at this point, however, that unknowability is like a disease, passing from host to host, rendering all that it touches weak and unable to withstand the force of inspection. The analogy of disease falters, however, for there exists no disease which infects itself. 
 
-_Unknowability_ as a relation when applied to _unknowability_ as an object yields back us the existence of possibilty. In other words, "_if you tried to doubt everything you would not get as far as doubting anything. The game of doubting itself presupposes certainty_"[^6] If a thing is unknowable, then there exists an infinite recursion of unknowability, because one cannot appraoch _unknowability_ without thereby coming to _know_ it, In this way, we form the chain of propositions:
+_Unknowability_ as a relation when applied to _unknowability_ as an object yields back to us the existence of possibilty[^6]. In other words, "_if you tried to doubt everything you would not get as far as doubting anything. The game of doubting itself presupposes certainty_"[^7]. If a thing is unknowable, then there exists a recursion of knowability, because one cannot approach _unknowability_ without thereby coming to know _of_ it. In this way, we form the chain of propositions:
 
 - Death is unknowable.
-- "_Death is unknowable_" is unknowable
+- "_Death is unknowable_" is knowable
 
-[^6]: [Section 115, Wittgenstein, On Certainty](https://archive.org/details/oncertainty00witt)
+We see in this argument how how the tendrils of knowability intersect with those of unknowability, and give us at least a foothold to raise our awareness towards Death.
+
+[^6]: The phrase "_existence of possibility_" is equivalent to the phrase "_possibility of possibility_", which brings to the attention the reflexive and tautological relation between _existence_ and _possbility_. 
+[^7]: [Section 115, Wittgenstein, On Certainty](https://archive.org/details/oncertainty00witt)
 
 ### Non-Being
 
