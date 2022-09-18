@@ -121,7 +121,7 @@ _Unknowability_ as a relation when applied to _unknowability_ as an object yield
 - Death is unknowable.
 - "_Death is unknowable_" is knowable
 
-We see in this argument how how the tendrils of knowability intersect with those of unknowability, and give us at least a foothold to raise our awareness towards Death. If Death is unknowable, then we can at least come to know what it means to be unknowable and thus gain an understanding of Death through analogy. This is all we can possibly mean by _phenomology of Death_: that we can come to know what is unknowable, i.e. Death, "_through the back door_". 
+We see in this argument how how the tendrils of knowability intersect with those of unknowability, and give us at least a foothold to raise our awareness towards Death. If Death is unknowable, then we can at least come to know what it means to be unknowable and thus gain an understanding of Death through analogy. This is all we can possibly mean by _phenomology of Death_ in any ontology that seeks to avoid the pitfalls of `solipsism`: that we can come to know what is unknowable, i.e. Death, "_through the back door_". 
 
 [^6]: Is saying "_we have no way of knowing if we are already dead_" the same as saying "_we have no way of knowing if we exist_"?
 [^7]: We should, at this point, lift our eyes from the page and let our gaze fall upon the world. In our deepest moments of reflection, when all pretenses are abandoned and we consider the `invariance` of the **Cartesian** tautology, "_I do not know if I exist_", the complexity of uncertainty manifested in the vastness of the world rises as if in response. The answer is self-evident, "_if I do not exist, then what is this?_", i.e. we have simply played semantics and shifted the meaning of existence and Being away from language, instead of letting language take hold and illuminate. In other words, a true solipsist would read the written word without gaining consciousness of what was expressed therein and continue on as if nothing had happened. The solipsist is he who refuses to play the _language game_, and therefore the _existence game_, for all existence is mere appearance to me, and all appearance is mere representation, and all representation is _mere_ language. 
@@ -155,7 +155,7 @@ Death is not like this, as it can be neither objectified nor conceptualized. Thu
 
 In the first case, Death cannot be objectified through relations, because Death resists at an ontological level the application of the first essential relation in any proposition: that of existence. 
 
-What form remains in the statement "_the Being is dead_" when its content is subtracted? [^7]
+What form remains in the statement "_the Being is dead_" when its content is subtracted? [^10]
 
 The remainder is plainly a contradiction of the `law of the excluded middle`, i.e. it must be the case that either _A_ or the negation of _A_ is true, where _A_ is understood to be a symbol standing for a proposition upon which a judgement of truth can be rendered. A _Being_ cannot _be_ dead, because to _be_ means to _not be_ dead. In claiming that something _is_ dead, in the present tense, you cannot help but commit a logical fallacy. 
 
@@ -185,13 +185,13 @@ All this is to say, the invariance of nature provides the ultimate metric for th
 
 The relations that underlie our apprehension and perception arise through their ability to point _towards_ these absolutes. The form of our representation is time and space, thus these forms bend towards that which is invariant. 
 
-Death, then, as its relation to our Being starts to emerge through the fog of negation, is not an object, i.e. representation, but a constraint imposed on the form of our representations. In the same way that time and space become relative metrics to accomodate the invarance of the speed of light[^8], our Being becomes a relative metric to accomodate the invariance of Death. 
+Death, then, as its relation to our Being starts to emerge through the fog of negation, is not an object, i.e. representation, but a constraint imposed on the form of our representations. In the same way that time and space become relative metrics to accomodate the invarance of the speed of light[^11], our Being becomes a relative metric to accomodate the invariance of Death. 
 
 In this sense, we say the ontological substratum of Being is solipsism.
 
-[^7]: In the preceding when we say "_Being_", what we mean can be mostly nearly approximated, to the knowledge of the author, with the **Heideggerian** terminology of `Dasein`. _Being_ is understood through the sum of its possible semantical operations with respect to its object: `Being-there`, `Being-with`, `Being-towards`, etc. In what follows, we will attempt to tag on a few terms to the series and see how this alters its sum. 
+[^10]: In the preceding when we say "_Being_", what we mean can be mostly nearly approximated, to the knowledge of the author, with the **Heideggerian** terminology of `Dasein`. _Being_ is understood through the sum of its possible semantical operations with respect to its object: `Being-there`, `Being-with`, `Being-towards`, etc. In what follows, we will attempt to tag on a few terms to the series and see how this alters its sum. 
 
-[^8]: The speed of light might be more properly termed the `speed of Being`, as it relates to _metaphysics_. 
+[^11]: The speed of light might be more properly termed the `speed of Being`, as it relates to _metaphysics_. 
 
 ### Death-as-not-Concept
 
