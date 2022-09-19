@@ -75,9 +75,28 @@ It would seem, then, it does not matter which direction we choose to go, since w
 
 [^3]: We add here the caveat the terminology so far introduced is not yet a complete and exhaustive description of the ontological relations being examined. Throughout the course of the present, we will attempt to elucidate what it means _to be_ in relation to Death; this neologism is the first many we will formulate, as the primary function of philosophy seems to be the production of esoteric phrases. 
 
-### Existence by Contradiction
+## The Currrent State of Being
 
-With the warnings of futility thus dispensed, we proceed as many have proceeded before us.
+With the warnings of futility thus dispensed, we will precede our discourse with a brief tour through the current state of our understanding of what it means _to be_. If Death can be said to be anything, then it must be a negation of Being, i.e. _to not be_. Therefore, we first examine what is negated in Death to bring the scope of the current problem into view.
+
+The current state of philosophy is untenable to use as a rhetorical device for an understanding of Death. Thanks in no small part to the outrageous success of science in producing the modern world, philosophy has forked ad infinitum into a mess of aesthetics and reductionism.
+
+We have the hyper-rationalists, like **Daniel Dennett** and **Patricia Churchland**, who want to reduce everything into its material components. These philosophers have assented to the reductionism that is necessary for the course of science and introduced it into their analytics, without checking where the project initiated in the seventeenth and eighteenth century by the successive philosophical and scientific revolutions of **Kant**, **Descartes**, **Newton**, etc., has led; For physics has been dealing with the problem of quanta for over a century at this point and yet to resolve it. The essential nature of this problem is simply an echo of the fundamental nature of Being: how do you measure the metric itself? 
+
+We have the aesthetes, in **Eugene Thacker** and **Thomas Ligotti**, who brood and howl at the moon. Their work is more properly called poetry than philosophy. This is not to say the function of poetry should be minimized, for its form is that of imagination, and from its well, we may find an infinite reservoir of ideas. Yet it is not philosophy. 
+
+Philosophy, in its proper place, has not moved an inch since the days of **Heidegger** and **Sartre**, at this point half a century removed from the present. 
+
+The maturity of a science can be seen in where its crises occur. Mathematics, by far the most mature of the sciences, took more than two thousand years to move past the crises in its theorems, e.g. the determination of areas, the calculation of ratios, the solution of equations, etc., before finally grappling with the notions of primitives and the foundation of Number, through the work of **Gottlob Frege** and **Bertrand Russell**, and then passing into an examination of Infinity, through the work of **Georg Cantor**, and then into the ultimate endeavor of formal systems in their totality, with **Kurt Godel**, and so on up to the present. 
+
+The crisis in philosophy today is of such a fundamental nature that philosophy should be ashamed it has taken this long to even broach it. By what right does philosophy claim maturity if it cannot even say what an _ontology and metaphysics of Death_ looks like?
+
+### Being
+
+
+### Through Being 
+
+## Proof by Contradiction
 
 The great workhorse of mathematics is proof by contradiction. An assumption is made, an absurdity is shown to result from the assumption, therefore the assumption is shown to be false. In this way was modern mathematics constructed, by outlining the truth and demarcating its boundary with falsity. Anyone who has studied higher mathematics will attest to the way most mathematical proofs work by letting the truth "_in through the back door_"[^4], that is to say, they work by showing what cannot be the case in order to prove the opposite must be so, but this gets us no closer to _why_ it is so.
 

@@ -38,6 +38,7 @@
 - [Noumenon](https://en.wikipedia.org/wiki/Noumenon)
 - [Ontic](https://en.wikipedia.org/wiki/Ontic)
 - [Phenomenon](https://en.wikipedia.org/wiki/Phenomenology_(philosophy))
+- [Reductionism](https://en.wikipedia.org/wiki/Reductionism)
 - [Solipsism](https://en.wikipedia.org/wiki/Solipsism)
 - [Thing-in-itself](https://en.wikipedia.org/wiki/Thing-in-itself)
 - [Time Dilation](https://en.wikipedia.org/wiki/Time_dilation)
