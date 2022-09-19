@@ -169,7 +169,7 @@ Let us assume the human is in an all white room (<sup><sub>to better evoke _eter
 
 **Heidegger** would say that any philosophy that calls itself such is properly concerned with the nature of Being that precedes the Being of biology, i.e. the _ontology_ of Being versus the _onticity_ of Being. Here we meet a problem elucidated by **Eugene Thacker** in _After Life_: ontology appears at odds with Life, for in order exorcise biology from Being, we must first account for Life in ontology. To rephrase in a question: is our _Life_ as a Being the same as our Being as a _biological Life_?
 
-The advance of technology seems to point towards a point where consciousness will enter the digital realm. We need to be careful not to be pulled into the gravitation of syllogism and therefore conclude Life is not biological; it may yet be the case, but the emergence of digital consciousness would not necessitate this conclusion. 
+The advance of technology seems leading towards a point where consciousness will enter the digital realm[^13]. We need to be careful not to be pulled into the gravitation of syllogism and therefore conclude Life is not biological; it may yet be the case, but the emergence of digital consciousness would not necessitate this conclusion. 
 
 To what extent does our isolated human in the all white room, ignorant of biology, distinguish its Being from that of its Life, vis a vis its immediate apprehension of its `Being-in-the-world`? Without the Other to act as reference, with what yardstick does this human demarcate the concept of Life? 
 
@@ -189,7 +189,7 @@ Otherness, like Death, is a possibility that is everywhere at once, spread out a
 
 We encounter the Other in our representation of the world as a Being outside of ourselves, and come to understand we share our Being through representation. 
 
-Our everyday intuition and the historical accumulation of knowledge, via the mechanisms of family and society, has led us to learn the common form of the Other, i.e. human, at a young age, so that our knowledge of Being becomes nearly coincident with our knowledge of being human in the fog of memory. Indeed, the nature of humanness makes it harder to disentangle the order of ontological necessity that emerges in the human Being, for it is not so obvious if our isolated human must first encounter the Other in order to be shown its desires have an outlet to satisfaction in the world, or if the necessity of desire brings with it the apprehension of the possibility of its satisfaction. 
+Our everyday intuition and the historical accumulation of knowledge, via the mechanisms of family and society, has led us to learn the common form of the Other, i.e. human, at a young age, so that our knowledge of Being becomes nearly coincident with our knowledge of being human in the fog of memory. Indeed, the nature of humanness makes it harder to disentangle the order of ontological necessity that emerges in the human Being, for it is not so obvious if our isolated human in the white room must first encounter the Other in order to be shown its desires have an outlet to satisfaction in the world, or if the necessity of desire brings with it the apprehension of the possibility of its satisfaction. 
 
 
 ---
@@ -261,6 +261,7 @@ Is the distinction of Mother versus Father ontological?
 [^10]: In what follows, we abandon the halls of solipsism for a moment, to make further progress in the event its negation is ever shown to be the case. 
 [^11]: We do not say `world` here, in anticipation of the conclusions to follow. We will see again that `world` and `space` are not synomnous, as we have remarked tangentially in the preceding discussions of **Schopenhauer**.
 [^12]: "_throughout the course of its existence_" What does this mean if not "_until it dies_"? Has Death covertly entered into the dialectic, even at this early stage?
+[^13]: Recall that appearance is not equivalent to existence.
 
 ### Other-as-Death
 
