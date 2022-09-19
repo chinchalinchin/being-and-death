@@ -34,7 +34,7 @@ Analysis can only claim validity to extent that it can be brought into correspon
 
 Regardless, perhaps in spite of this, we proceed. In order to make these features of Death emerge from the discourse, we will attempt to create an ontology of Death. In the first pass, we will extract from the philosophers and scientists who preceded us whatever we find useful and salient. In doing so we will formulate both a metaphysics and ontology of Death.
 
-Up to this point, we have been using language that lacks a precise definition. Philosophy necessarily emerges from the colloquial "_fuzziness_" of language. If philosophy has a purpose, then it is clarity. With that in mind, the next few sections will provide, if not rigor, then precision.
+Up to this point, we have been using language that lacks precision. There is no way around this; Philosophy necessarily emerges from the colloquial "_fuzziness_" of language. If philosophy can be said to have a purpose, then it is clarity. With that in mind, the next few sections will provide, if not rigor, then precision.
 
 [^1]: 
     It may be argued we sometimes assume the posture of _giving_ Death, i.e. the human activity of _sacrifice_, where we let ourselves die in service to something else. But, in this case, Death is not the _reason_ for the _sacrifice_, it is a consequence, but in an orthogonal direction to causality, so that we may even question whether the term "_consequence_" is appropriate. In sacrificing, we first apprehend the relations that bind the world with us in it, and how it is we may get to what we seek. If, in coming to an understanding of an action that will yield this, we realize we shall die during its course, that is irrelevant to the causality that links the antecedent to the consequent. Thus, we seek what is sought regardless of our Death. Reason enters into this analysis via the causal connection between things-as-they-are and things-as-they-will-be. Do not mistake the failure of psychology to predict the state of the world after our action as evidence of Death's presence in causality. Death does not touch the causality of this process, it merely haunts it as `epiphenomenon`, like the afterglow of logic; Death only serves to underscore the importance, as it relates to Being, of what is sought, like a punctuation mark that has no material effect on the content of a sentence yet alters its meaning entirely. Death is what happens during the course of `facticity`, comes to the world through `facticity`, yet is not, in and of itself, the `factical` relation, insofar that `facticity` refers to _my_ `Being-in-the-world`. Always is it thus: Death marks the end of the form.
@@ -47,19 +47,21 @@ Up to this point, we have been using language that lacks a precise definition. P
 
 Before the introduction of the rhetorical devices that will give us the means to approach Death through analysis, we start by defining the terms of our exegesis that will be familiar to readers arriving from the locales of **Kant**, **Schopenhauer**, **Heidegger** and **Sartre**: `Being`, `Nothing`, `appearance`, `existence`, `world`. 
 
-As **Russell** and **Whitehead** explained in the introduction to _Principia Mathematica_, any formal system must necessarily contain primitive notions irreducible to further primitives; **wittgenstein** called these components of a formal system, _atomic facts_. Whatever we call them, we must leave their meaning to the reader to interpret. We will dress these terms in fanciful language, place them in analogical relations, shift them through symbolic arguments and attempt to elucidate their meaning through the forms by which we come to know existence via appearance, but ultimately they must remain as the ground upon which to build further artifices, thus we must leave their validity in the hands of contingency. 
+As **Russell** and **Whitehead** explained in the introduction to _Principia Mathematica_, any formal system must necessarily contain primitive notions irreducible to further primitives; **Wittgenstein** called these components of a formal system, _atomic facts_. Whatever we call them, we must leave their interpretation to the reader. We will dress these terms in fanciful language, place them in analogical relations, shift them through symbolic arguments and attempt to elucidate their meaning through the forms by which we come to know existence via appearance, but ultimately they must remain as the ground upon which to build further artifices, thus we must leave their validity in the hands of contingency. 
 
 1. Existence is a fact.
 2. Appearance is a representation.
 3. Existence is not identical to appearance.
-4. Being is not identical to either existence or appearance.
+4. Being is identical to neither existence nor appearance.
 5. Being has awareness, but is not awareness.
 6. Being has knowledge, but is not knowledge.
-7. The intersection of Being, existence and appearance is consciousness.
-8. The negation of Being is Nothing.
-9. All knowledge is knowledge of representation.
-10. The world is the totality of Beings, their representations of Being, and the relations that orient each Being in their representations. 
+7. Consciousness is the intersection of Being, existence and appearance.
+8. Consciousness is identical to neither awareness nor knowledge.
+9. The negation of Being is Nothing.
+10. All knowledge is knowledge of representation.
+11. The world is the totality of Beings, their representations of Being, and the relations that orient each Being in their representations. 
 
+We should be aware of the distinction between ontology and metaphysics.
 ## Postulates of Death
 
 1. `postulate of precluded existence`: Death happens to all Beings.
