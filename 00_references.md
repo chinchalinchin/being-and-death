@@ -19,7 +19,8 @@
 ## Encyclopedias
 ### Stanford Encyclopedia of Philosophy
 - [Certainty](https://plato.stanford.edu/entries/certainty/)
-  
+- [Nothingness](https://plato.stanford.edu/entries/nothingness/)
+- 
 ### Wikipedia
 - [A prior and a posteriori](https://en.wikipedia.org/wiki/A_priori_and_a_posteriori)
 - [Being-in-itself](https://en.wikipedia.org/wiki/Being_in_itself)

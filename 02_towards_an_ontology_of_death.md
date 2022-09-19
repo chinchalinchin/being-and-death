@@ -39,11 +39,12 @@ Regardless, perhaps in spite of this, we proceed. In order to make these feature
 1. Being is not identical to existence.
 2. Existence is not identical to appearance.
 3. Nothing is the negation of Being.     
-4. The world is the totality of Beings, their representations of Being, and the relations that orient each Being towards their subjective representations. 
+4. All knowledge is knowledge of representation.
+5. The world is the totality of Beings, their representations of Being, and the relations that orient each Being towards their subjective representations. 
 
 ## Axioms of Death
 
-1. `axiom of precluded existence`: Death exists for all Beings.
+1. `axiom of precluded existence`: Death happens to all Beings.
 2. `axiom of failed contingency`: Death is unknowable through phenomena (<sup><sub>_appearance_</sub></sup>). 
 3. `axiom of non-equivalence`: Unknowability is phenomenally (<sup><sub>_apparently_</sub></sup>) equivalent to Nothing.
 
@@ -53,14 +54,21 @@ With the first axiom, it is likely we all agree or are at least willing to grant
 
 ### Aside: The Metaphysics of Death
 
-Before we continue, we make a brief detour into the metaphysical. With we assume their validity, the axioms enumerated in the prior section gives us the means to deduce a few theorems about the metaphyscal nature of Death. We will call these theorems, the "_theorems of Nothingness_".
+Before we continue, we make a brief detour into metaphysics. When we assume their validity, the axioms enumerated in the prior section gives us the means to deduce a few theorems about the metaphyscal nature of Death. We will shall call these theorems, the "_theorems of Nothingness_". 
 
-First Theorem of Nothingness: If Death is unknowable through phenomena (<sup><sub>failed contingency</sub></sup>)  and if unknowability is phenomenally equivalent to Nothing(<sup><sub>precluded existence</sub></sup>), then, by syllogism, Death is Nothing.
+---
+
+First Theorem of Nothingness: If Death is unknowable through phenomena (<sup><sub>failed contingency</sub></sup>)  and if unknowability is phenomenally equivalent to Nothing (<sup><sub>non-equivalence</sub></sup>), then, by syllogism, Death is Nothing.
 
 Second Theorem of Nothingness: If all Beings will die (<sup><sub>precluded existence</sub></sup>) and if Death is Nothing (<sup><sub>first theorem of Nothingness</sub></sup>), then, by syllogism, all Beings will become Nothing.
 
-Final Theorem of Nothingness: If all Beings become Nothing (<sup><sub>second theorem of Nothingness</sub></sup>),  
+Third Theorem of Nothingness: All Beings become Nothing (<sup><sub>second theorem of Nothingness</sub></sup>), but Being is not identical to existence, therefore Nothing is existent. 
 
+--
+
+In the preceding, we take note that Nothingness, in its proper ontological place, does not negate existence. Existence is something over and above Nothingness. This should be obvious upon reflection, when we consider the possible meaning of the symbols: 0, null, none, empty, void, etc.. If Being is to have a relation to Death, then as a pre-condition we must be able to find Nothing in our Being with which to relate to it. 
+
+But, we have already assumed that Death is unknowable through phenomena. This, taken in conjunction with the non-equivalence of existence and appearance, implies if knowability is to apply to Death at all it must occur through existence, rather than appearance. But since knowability is knowability _of appearance_, we therefore conclude Death is unknowabile through existence or appearance.
 
 ## A Kantian Counterargument
 
