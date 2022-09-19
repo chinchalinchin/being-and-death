@@ -157,9 +157,9 @@ TODO
 
 ### Other-as-Life
 
-We now turn to two of the most important sections in establishing the proposed axioms of Death, this section and the next in which we explore the relation of our Being to that of the Other, and the relation of each of these plus their conjunction to that of Death.[^9]
+We now turn to two of the most important sections in establishing the proposed postulates of Death, this section and the next in which we explore the relation of our Being to that of the Other, and the relation of each of these plus their conjunction to that of Death.[^9]
 
-We start with a question that will at first glance appear to provide the entrypoint for the contradiction of the `axiom of failed contingency`: How do we know we die?
+We start with a question that will at first glance appear to provide the entrypoint for the contradiction of the `postulate of failed contingency`: How do we know we die?
 
 To make the intent of the question more plain, let us recast it: Would a human raised in isolation comprehend its own mortality?[^10]
 
@@ -167,17 +167,68 @@ We said before Death is the final fact towards which all ontologies, all the myr
 
 Let us assume the human is in an all white room (<sup><sub>to better evoke _eternity_</sub></sup>) and this is the extent of the space[^11] alloted to it throughout the course of its existence[^12]. We immediately ask ourselves how it is the human is sustained in this thought experiment. This question begets another, more fundamental question: whether the first question, that of sustenance, is a question of ontology or biology. Is Being `contingent` on biology or is biology `contingent` on Being? Is it possible _to be_ without first being a "_biological Being_"? 
 
-**Heidegger** would say that any philosophy that calls itself such is properly concerned with the nature of Being that precedes the Being of biology, i.e. the _ontology_ of Being versus the _onticity_ of Being. Here we meet a problem elucidated by **Eugene Thacker** in _After Life_: ontology appears at odds with Life, for in order exorcise biology from Being, we must first account for the possibility of Life in ontology. To rephrase in a question: is our _Life_ as a Being the same as our Being as a _biological Life_?
+**Heidegger** would say that any philosophy that calls itself such is properly concerned with the nature of Being that precedes the Being of biology, i.e. the _ontology_ of Being versus the _onticity_ of Being. Here we meet a problem elucidated by **Eugene Thacker** in _After Life_: ontology appears at odds with Life, for in order exorcise biology from Being, we must first account for Life in ontology. To rephrase in a question: is our _Life_ as a Being the same as our Being as a _biological Life_?
 
 The advance of technology seems to point towards a point where consciousness will enter the digital realm. We need to be careful not to be pulled into the gravitation of syllogism and therefore conclude Life is not biological; it may yet be the case, but the emergence of digital consciousness would not necessitate this conclusion. 
 
-To what extent does our isolated human in the all white room distinguish his Being from that of his Life? Without the Other to act as reference, with what yardstick does this human demarcate the concept of Life? 
+To what extent does our isolated human in the all white room, ignorant of biology, distinguish its Being from that of its Life, vis a vis its immediate apprehension of its `Being-in-the-world`? Without the Other to act as reference, with what yardstick does this human demarcate the concept of Life? 
 
-Claim: In the absence of the Other, the concept of Life is equivalent to the concept of Being, as if the dimensions of Being collapsed in on themselves, as if Otherness were an essential orthogonality to `Being-in-the-world` in order to span all that is, was and ever will be. We cannot say Life exists without presupposing the Other, for we would not have the conditions for the conceptualization of Life if there were not some Being outside ourselves between which the only commonality we could draw was that of Life. For this reason, **Heidegger** proposed the neologism `Being-with` to appropriately label the ontological relation thus enumerated.
+---
 
-Claim: the infant does not act in the mode of assauging desires, it acts in the mode of desire itself. It does not reflect on what, when, where or how to consume, it merely consumes as the appropriate stimuli emerge from its apprehension of the world; it does not yet have the ability to bring that which it consumes into its world through its own action, nor does it yet understand what action is, and thus it does not have the means to understand what it is that desire connotes. 
+**Claim**: In the absence of the Other, the concept of Life is equivalent to the concept of Being.
 
-Claim: The infant is initially in the mode of denotion, where it is pure awareness without reflection. We call this the infant's _onticity_, i.e. how a Being apprehends that it is _in_ the world. At this point, we have the necessary but not sufficient conditions for the emergence of _causality_, i.e. how the Being of its action or inaction causes the world to respond or not respond. At the point when sufficiency is reached can consciousness claim to have entered the picture. 
+---
+
+Our isolated human has no basis for establishing Life as separate from Being, as if the dimensions of Being collapsed in on themselves, projecting down into the lower dimensions of meaning, as if Otherness were an essential orthogonality to `Being-in-the-world` in order to span all that is, was and ever will be. We cannot say Life exists without presupposing the Other, for we would not have the conditions for the conceptualization of Life if there were not some Being outside ourselves between which the only commonality we could draw was that of Life. For this reason, **Heidegger** proposed the neologism `Being-with` to appropriately label the ontological relation thus enumerated.
+
+This still does not clarify what we mean by _Life_, but it does bring into relief its dependence to be expressed on the concept of the Other. Otherness is a possibility that haunts the representations we attach to the world. There is no experiment we may perform that denies the proposition: "_the rock was alive_". We know from our Being that _to be_ first of all means _to be in the world_, and this is a property we share by necessity with the now infamous rock, since it is _in the world with us_.
+
+To make it clear Otherness is only a possibility of representation, we may consider the proposition: "_blue was alive_". 
+
+Otherness, like Death, is a possibility that is everywhere at once, spread out across the surface of the world, lurking in every corner, but unlike Death, its presence does not annihiliate our Being. 
+
+We encounter the Other in our representation of the world as a Being outside of ourselves, and come to understand we share our Being through representation. 
+
+Our everyday intuition and the historical accumulation of knowledge, via the mechanisms of family and society, has led us to learn the common form of the Other, i.e. human, at a young age, so that our knowledge of Being becomes nearly coincident with our knowledge of being human in the fog of memory. Indeed, the nature of humanness makes it harder to disentangle the order of ontological necessity that emerges in the human Being, for it is not so obvious if our isolated human must first encounter the Other in order to be shown its desires have an outlet to satisfaction in the world, or if the necessity of desire brings with it the apprehension of the possibility of its satisfaction. 
+
+
+---
+
+**Claim**: the infant does not act in the mode of assauging desires, it acts in the mode of desire itself. It does not reflect on what, when, where or how to consume, it merely consumes as the appropriate stimuli emerge from its apprehension of the world; it does not yet have the ability to bring that which it consumes into its world through its own action, nor does it yet understand what action is, and thus it does not have the means to understand what it is that desire connotes. 
+
+---
+
+
+
+
+
+
+
+We learn what it means to be in the world by acting, but this is the project of consciousness, not Being. (is it???)
+
+
+
+This is no reason to assume Being necessarily comprehends that its actions affect the world. The relation of causality is not contained in that of Being.
+
+In our ontic apprehension of the world, we objectify and this objectification contains as part of its operation the parallel apprehension of the possibility of thingness or Otherness and also the apprehension of their mutual exclusion.
+
+This is why Carl Jung observed the correspondence of mythologies in societies at a primitive level of scientific development imbue the world around them with consciousness. __find quotes__.
+
+This is why Aristotle so obsessively catalogue and classified the different types of Life. 
+
+
+
+If Death is the negation of Being and if Life is what we have in common with the Other that is also a Being, then the death of Life is a subset of the Death of Being. 
+
+If by Life we do not mean the evolutionary process that yields through successive generations organisms adapted to a changing environment and if we must restrict our focus to ontological concerns, then in order to separate Life from biology, by Life we must mean the _possibility_ of Being. 
+
+
+
+---
+
+**Claim**: The infant is initially in the mode of denotion, where it is pure awareness without reflection. We call this the infant's _onticity_, i.e. how a Being apprehends that it is _in_ the world. At this point, we have the necessary but not sufficient conditions for the emergence of _causality_, i.e. how the Being of its action or inaction causes the world to respond or not respond. At the point when sufficiency is reached can consciousness claim to have entered the picture. 
+
+---
 
 Biology exists for the human in the sufficiency of the relation thus described, not the necessity. To reiterate: we must necessarily be aware and sufficiently "_biologized_" in order to come to an understanding of `Being-in-the-world`. "_Biologizing_" is simply `facticity`, our `contingency`, disguised in another form. In case of the human, this takes the form of neural networks and their multifoliate connections. 
 
@@ -187,8 +238,12 @@ The question, then, we are asking is this: is the transition from _onticity_ to 
 
 
 
+Upon introduction of the Other in the world of a Being, to what extent does an ontology of life emerge via necessity? Is Otherness, in and of itself, enough to conceptualize Life? 
 
-In the absence of the _Other_, the infant would die, its pure desire unable to reflect on how to overcome itself. The infant would perceive only raw desire and a unreactive world. In this state, even if the infant were brought into existence next to bottle filled with milk, it would still lack the ability to comprehend (<sup><sub>as opposed to _apprehend_</sub></sup>) what that bottle represents; it has not been _shown_ its meaning.
+
+**Claim**: In the absence of the _Other_, the infant would die.
+
+Without another present to feed it, the infant would die, its pure desire unable to reflect on how to overcome itself. The infant would perceive only raw desire and a unreactive world. In this state, even if the infant were brought into existence next to bottle filled with milk, it would still lack the ability to comprehend (<sup><sub>as opposed to _apprehend_</sub></sup>) what that bottle represents; it has not been _shown_ its meaning.
 
 At this point in the thought experiment of the isolated human, we lack the conditions for consciousness. Consciousness cannot arise and come to know the world as something with which it can interact if the world does not in the first place rise to meet its presence. In that case, the Being that would be consciousness merely dies, existing as only a brief moment of unfilled desire, a flash of Being in the eternity of Nothing.
 
