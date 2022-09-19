@@ -11,6 +11,7 @@ The selection of a title for this work has gone through several revisions:
 - _A Critique of Being_
 - _The Death in Philosophy_
 - _The Death of Philosophy_
+- _Philosophy's Suicide Note_
 - _Solipsism and Inevitability_
 - _The Misanthropy of Human Being_
 - _The Horror of Death_
