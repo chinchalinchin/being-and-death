@@ -119,10 +119,12 @@ There is a case to be made that **Gottlob Frege**'s _Foundations of Arithmetic_ 
 
 ---
 
+**Definition of Zero, version 1**
 ```
 The number 0 belongs to a concept if, whatever object considered, the proposition holds universally this object does not exist in that concept.
 ```
 
+**Definition of One, version 1**
 ```
 The number 1 belongs to a concept if, whatever object considered, the proposition does not hold universally this object does not exist that concept.
 ```
@@ -144,30 +146,40 @@ Thus, we might say Number is a "_phenomenon_" revealed over and above appearance
 **Frege**, ever precise, goes on to reformulate these defintions with more rigor, thus revealing a fundamental principle of metaphysics, to be summarized shortly,
 
 ---
+**Definition of Zero, version 2**
+
 ```
 The number 0 is the Number which belongs to the concept _not identical with itself_
 ```
+
+**Definition of One, version 2**
 
 ```
 The number 1 is the Number which belongs to the concept _identical with 0_
 ```
 ---
 
-We may instead prefer to express these definitions symbolically using modern set builder notation,
+We may instead prefer to express these definitions symbolically using the author's own variant of modern set builder notation,
 
 ---
+**Definition of Zero, version 3**
 ```
-A = { # x | x != x }
+A = { # x | x != x } <-> n(A) = 0
+```
 
-B = { # x | x = n(A) }
+**Definition of One, version 3**
+```
+B = { # x | x = n(A) } <-> n(B) = 1
 ```
 ---
 
-Where the symbol `#` represents the quantifier for existence, `@` represents the quantifier for universality, `!` represents negation, `|` represents denotion, `~` represents set membership, uppercase letters A and B represents sets, lowercase letters represents unquantified set members, and n(S) represents the cardinality of a set S, i.e. its countability[^12]. With these definitions in hand, it then remains to show the cardinality of set _A_ is zero, and that should be self-evident from its definition, i.e. the set that asserts self-identity is impossible is empty, and thus we have the metaphysical basis of 0 and 1.
+Where the symbol `#` represents the quantifier for existence, `@` represents the quantifier for universality, `!` represents negation, `|` represents denotion, `~` represents set membership, `<->` represents logical equivalence, uppercase letters A and B represents sets, lowercase letters represents unquantified set members, and n(S) represents the cardinality of a set S, i.e. its countability[^12]. With these definitions in hand, it then remains to show the cardinality of set _A_ is zero, and that should be self-evident from its definition, i.e. the set that asserts self-identity is impossible is empty, and thus we have the metaphysical basis of 0 and 1.
 
-The reader should draw his attention to the recursive nature of the concept, _self-evident_: by _self-evident_ we mean a thing that demonstrates its own truth, a thing whose truth is not in question no matter what posture we assume. The form of a _self-evident_ truth involves an object, _x_, and a recursive relation that points back to _x_ that violates the conditions of its existence, i.e. its `contingency`. In other words, **Frege** realized the form of _self-evidence_ is contradiction. It is not self-evident that "_the rock is heavy_" is true, but it is self-evident "_the rock is not the rock_" is true.
+The reader should, keeping in mind the previous discussion of `contingency`, draw his or her attention to the recursive nature of the concept contained in the definition of 0 and how it embodies _self-evidence_; by _self-evident_ we mean a thing that demonstrates its own truth, a thing whose truth is not in question no matter what posture we assume, i.e. a truth without `contingency`. The form of a _self-evident_ truth involves an object, _x_, and a recursive relation that points back to _x_ that violates the conditions of its existence, i.e. its `contingency`. In other words, **Frege** realized the form of _self-evidence_ is contradiction and its denial, i.e. denial of a _self-evident_ concept is equivalent to stating its cardinality equals zero. It is not self-evident that "_the rock is heavy_" is true, but it is self-evident "_the rock is not the rock_" is true, because we do not need a reference to anything but the form of the proposition to say it is true. 
 
-Zero is defined as the cardinality of a contradictory set. Logic, as it were, has an opinion of itself, namely that its contradictions are empty. This, however, requires the symbolism to express the contradictions that must contain nothing as it member. Take note, the form of the contradiction is irrelevant. We could just as well define zero as the cardinality of the negation of the excluded middle. In either case, this is an inherent feature to any form we substitute into the set theoretic definition of zero: it contains a circular reference. The relation thus expressed will always involve an expression of x and a relation that cannot result in a judgement of truth, in **Frege**'s the inability of a thing to be itself. Furthermore, all subsequent numbers can be expressed via the recursion back to the original proposition about the cardinality of contradictions. 
+Zero is defined as the cardinality of a contradictory set, following from its self-evident form. Logic, as it were, has an opinion of itself, namely that its contradictions are empty. 
+
+Take note: the form of the contradiction is irrelevant. We could just as well define zero as the cardinality of the negation of the excluded middle. In either case, there is an inherent feature to any form we substitute into the set theoretic definition of zero: it contains a circular relation. The relation thus expressed will always involve an expression of x and a relation that cannot result in a judgement of truth. In **Frege**'s formulation this expression the inability of a thing to be itself. Furthermore, all subsequent numbers can be expressed via the recursion back to the original proposition about the cardinality of contradictions. 
 
 In other words, Nothing is `a prior` to Being; Being is `contingent` on Nothing. In order for this to be the case, negation must also be `a prior` to Being, for as **Frege** has shown, Nothing is captured through the negation of form.
 
