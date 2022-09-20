@@ -85,11 +85,11 @@ Philosophy, too, has recently come to grapple with it foundations, passing throu
 
 ### Being
 
-What does it mean _to be_? This is by no means a simple question, even though we answer it every day simply by not being dead. That we _are_ means we must, to some extent, possess the answer to this question, but it is not at all clear how we should put that answer to words. 
+What does it mean _to be_? This is by no means a simple question, even though we answer it every day simply by not being dead. That we _are_ means we must, to some extent, possess the answer to this question, but it is not at all clear how we should put that answer into words. 
 
 The meaning of _Being_ is transfused with our everyday intuition, with our immediate apprehension of the world outside ourselves. We use _Being_ in a variety of contexts: The rock is heavy, the mountain is high, love is a pleasure, the idea was disgusting, I am hesitant, you are reading, he was sick, etc. It would seem, then, _Being_ must be a broaden concept to encompass so wide an array of phenomenon. How are we to preserve its meaning across its diverse usage?
 
-_Being_ is colloquially equated with that of _existence_, but this is not quite right. 
+_Being_ is colloquially equated with that of _existence_, but this is not quite right. The error results from the semantical misapprehension of the contrived syntax, "_The rock is_". Here we are led by the vagaries of language to conclude the rock _is_, without reference to anything else, as if Being were something that did not require a ground to draw it into repose. Among the greatest of **Heidegger**'s many insights is his realization the relation of Being contains within an implicit reference to the world in which the Being exists. For this reason, he introduced the term, `Being-in-the-world`, as a way of drawing to the reader's attention the implicit ontological relations contained in our concept of Being.
 
 
 

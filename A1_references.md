@@ -12,6 +12,7 @@
   
 ### Gutenberg.org
 - [Critique of Pure Reason](https://www.gutenberg.org/ebooks/4280)
+- [Foundations of Arithmetic](https://www.gutenberg.org/ebooks/48312)
 - [Tractatus Logico-Philosophicus](https://www.gutenberg.org/ebooks/5740)
 - [World as Will and Representation](https://www.gutenberg.org/ebooks/38427)
   
