@@ -139,9 +139,9 @@ Number is something that arrives through Being, but is independent of Being, exc
 
 To approach the metaphysical nature of Number from a different angle, consider how it is we apprehend five fingers and one hand simultaneously, via its appearance as appendage. The thing simply _is_; Number provides order from above, as it were. The perceptions of five fingers and one hand are coincident, but the conceptions are not. Or, if you prefer **Kantian** language, the appearances overlap, but the phenomena are distinct[^11].
 
-Thus, we might say Number is a "_phenomenon_" revealed over and above appearance, and thus call it _epiphenomenal_, if this term were not loaded with materialistic and psychological undertones and anyway implies, through the false syllogism of etymology that is not reflected in the reality of logic, its dependence on the existent world. Instead, we say Number is metaphysical to denote its truth without `contingency`, i.e.. 
+Thus, we might say Number is a "_phenomenon_" revealed over and above appearance, and thus call it _epiphenomenal_, if this term were not loaded with materialistic and psychological undertones and anyway implies, through the false syllogism of etymology that is not reflected in the reality of logic, its dependence on the existent world. Instead, we say Number is metaphysical to denote its truth without `contingency`, i.e. a Number is true regardless of what perceptions we have, what world we find ourselves in and how we are in that world. 
 
-**Frege**, ever precise, goes on to reformulate these defintions with more rigor,
+**Frege**, ever precise, goes on to reformulate these defintions with more rigor, thus revealing 
 
 ---
 ```
