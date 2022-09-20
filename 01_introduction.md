@@ -187,7 +187,19 @@ This is obvious in the realm of formal logic, where objects or objectified propo
 
 In all of this, we have said nothing of the Being of the concepts in this metaphysics. All we have shown is given their existence, how the contingency of Being arises through form. Existence is a property that emerges through the metaphysics of assertion and negation[^13]. The Being of the existent is beyond the realm of metaphysics, and is properly understood as subject matter for ontology. 
 
+TODO: sartre reference here
 In other words, the form of Being, its representations of the world, tells Being nothign at all about what it means to be except that to be is not to be found in form. And if we ask what it is that separates us (in the mode of Being) from ourselves (in the mode of Being form), the only possbility is Nothing. Thus, Nothing, negation and existence are the metaphysical foundation of Being, the `a priori`s of ontology. This is what we mean when say, in the sequel, that "Being is not identical to existence".
+
+With a nod to **Platonic** forms and as a harbinger of what is to come, we propose the decomposition of **Frege**'s insights into the following metaphysical laws,
+
+- Existence of form is an eternal relation in space.
+- Being of form is a transitory relation in space.
+
+We see in these laws why **Heidegger** came to understand time as the horizon over which Being is, rather than space. Space gives rise to form, but time gives rise to change, and a thing only becomes in relation to change. The Being of a form in time is a degeneration of the existence of the form in space[^14]. A Being becomes so that it be and in so doing, exposes itself to the possibility of perishablity. Its own Nothingness precedes the Being of form. 
+
+We also note that, since Being is always in time, we must necessarily append another law to approach metaphysical completeness, i.e. we must have a law that explains what happens _after_ what is becomes what was.
+
+- Nothing belongs to the existence of form after it no longer is in time. 
 
 [^4]: Although in this sense, **Kant**'s title of _Prologmena to any Future Metaphysics_ is quite adapt.
 [^5]: Frege would say `function` or `signify` instead of `relation`.
@@ -199,6 +211,7 @@ In other words, the form of Being, its representations of the world, tells Being
 [^11]: This signals a missing dimension to **Kant**'s rough draft of ontology of `noumena` vs `phenomena`. In other words, appearance and phenomena are not identical, for there are phenomenal apprehensions that do not reside in the appearances we attach to the world. This is one of **Frege**'s greatest contributions to philosophy. 
 [^12]: **Frege** deserves full credit for his discovery that numbers are mappings between sets, i.e. concepts. However, as he made this discovery over a hundred years ago, we have updated the language of our analysis to reflect our modern understanding of his ideas. 
 [^13]: We should say, properly, "_through the metaphysics of assertion and logic_", but we only wish to bring into relief at the current moment in time the contingency of Being on negation.
+[^14]: Do not be mislead by the notion of _space_ used here. This is not the _space_ of distance, but the _space_ of relation, where a thing exists through the logical necessity of its form. The relation "_is equal to_" applies not only to distances, but just as well to abstract concepts, as seen in the phrase "_speed of the car is equal to the angle of the speedometer multiplied by a constant_". Relations operate on domains of concepts, and it of this space made of the totality of relational domains that we now speak.
 
 ### Concept
 
