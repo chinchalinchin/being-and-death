@@ -75,7 +75,7 @@ It would seem, then, it does not matter which direction we choose to go, since w
 
 [^3]: We add here the caveat the terminology so far introduced is not yet a complete and exhaustive description of the ontological relations being examined. Throughout the course of the present, we will attempt to elucidate what it means _to be_ in relation to Death; this neologism is the first many we will formulate, as the primary function of philosophy seems to be the production of esoteric phrases. 
 
-## The Currrent State of Being
+## What is Being?
 
 With the warnings of futility thus dispensed, we will precede our discourse with a brief tour through the current state of our understanding of what it means _to be_. If Death can be said to be anything, then it must be as a negation of Being, i.e. _to not be_. Therefore, we first examine what is negated in Death to bring the scope of the problem into view. This will necessarily entail a brief discussion of the history of philosophy and what has led to our current understanding. What is presented in the next sections is by no means an exhaustive commentary, but only meant to highlight concepts as they pertain to the current analysis.
 
@@ -83,7 +83,7 @@ The maturity of a field of inquirty can be seen in where its crises occur. Mathe
 
 Philosophy, too, has recently come to grapple with it foundations. The crisis to be found in the current state of philsophy is mostly clearly seen in the vague division between metaphysics and ontology. There is no general consensus as to what constitutes the subject matter of one versus the other. In the following sections, we will focus our attention on this vagueness, so it might be dispersed and replaced with clarity. We will do so by recounting our curent understanding of the problem of _Being_, pointing out as we go along how the fields of ontology and metaphysics emerge naturally from considerations of _Being_.
 
-### Being
+### What is Ontology?
 
 What does it mean _to be_? This is by no means a simple question, even though we answer it every day simply by not being dead. That we _are_ means we must, to some extent, possess the answer to this question, but it is not at all clear how we should put that answer into words. 
 
@@ -113,7 +113,7 @@ How are we to separate the consequences of our assumptions, the consequences of 
 
 Death is a proposition about form: that it will cease be. 
 
-### Metaphysics
+### What is Metaphysics
 
 There is a case to be made that **Gottlob Frege**'s _Foundations of Arithmetic_ is the first truly metaphysical treatise, despite all that preceded it and claimed the title[^4]. **Frege** acknowledges as much in the conclusion where he says the laws of Number are "_the laws of laws of nature_". [^5] In his work, he provides the metaphysical, and therefore philosophical, basis for Number, through an analysis of the terms: `object`, `concept` and `relation`. [^6] He defines the number "_0_" and the number "_1_" in the following way[^7]
 
@@ -141,7 +141,7 @@ To approach the metaphysical nature of Number from a different angle, consider h
 
 Thus, we might say Number is a "_phenomenon_" revealed over and above appearance, and thus call it _epiphenomenal_, if this term were not loaded with materialistic and psychological undertones and anyway implies, through the false syllogism of etymology that is not reflected in the reality of logic, its dependence on the existent world. Instead, we say Number is metaphysical to denote its truth without `contingency`, i.e. a Number is true regardless of what perceptions we have, what world we find ourselves in and how we are in that world. 
 
-**Frege**, ever precise, goes on to reformulate these defintions with more rigor, thus revealing 
+**Frege**, ever precise, goes on to reformulate these defintions with more rigor, thus revealing a fundamental principle of metaphysics, to be summarized shortly,
 
 ---
 ```
@@ -163,12 +163,19 @@ B = { # x | x = n(A) }
 ```
 ---
 
-Where the symbol `#` represents the quantifier for existence, `@` represents the quantifier for universality, `~` represents set membership, uppercase letters A and B represents sets, lowercase letters represents unquantified set members, and n(S) represents the cardinality of a set, i.e. its numerability. It then remains to show the cardinality of set _A_ is zero, and that should be self-evident from its definition. 
+Where the symbol `#` represents the quantifier for existence, `@` represents the quantifier for universality, `!` represents negation, `|` represents denotion, `~` represents set membership, uppercase letters A and B represents sets, lowercase letters represents unquantified set members, and n(S) represents the cardinality of a set S, i.e. its countability[^12]. With these definitions in hand, it then remains to show the cardinality of set _A_ is zero, and that should be self-evident from its definition, i.e. the set that asserts self-identity is impossible is empty, and thus we have the metaphysical basis of 0 and 1.
 
 The reader should draw his attention to the recursive nature of the concept, _self-evident_: by _self-evident_ we mean a thing that demonstrates its own truth, a thing whose truth is not in question no matter what posture we assume. The form of a _self-evident_ truth involves an object, _x_, and a recursive relation that points back to _x_ that violates the conditions of its existence, i.e. its `contingency`. In other words, **Frege** realized the form of _self-evidence_ is contradiction. It is not self-evident that "_the rock is heavy_" is true, but it is self-evident "_the rock is not the rock_" is true.
 
-Zero is defined as the cardinality of a contradictory set. Logic, as it were, has an opinion of itself, namely that its contradictions are empty. This, however, requires the symbolism to express the contradictions that must contain nothing as it member. Take note, the form of the contradiction is irrelevant. We could just as well define zero as the cardinality of the negation of the excluded middle. In either case, this is an inherent feature to any form we substitute into the set theoretic definition of zero: it contains a circular reference. The relation thus expressed will always involve an expression of x and a relation that cannot result in a judgement of truth, in **Frege**'s the inability of a thing to be itself. Furthermore, all subsequent numbers can be expressed via the recursion back to the original proposition about the cardinality of contradictions. The foundation of Frege's arithmetic rests on our ontological apprehension of Nothing as nullity.
+Zero is defined as the cardinality of a contradictory set. Logic, as it were, has an opinion of itself, namely that its contradictions are empty. This, however, requires the symbolism to express the contradictions that must contain nothing as it member. Take note, the form of the contradiction is irrelevant. We could just as well define zero as the cardinality of the negation of the excluded middle. In either case, this is an inherent feature to any form we substitute into the set theoretic definition of zero: it contains a circular reference. The relation thus expressed will always involve an expression of x and a relation that cannot result in a judgement of truth, in **Frege**'s the inability of a thing to be itself. Furthermore, all subsequent numbers can be expressed via the recursion back to the original proposition about the cardinality of contradictions. 
 
+In other words, Nothing is `a prior` to Being; Being is `contingent` on Nothing. In order for this to be the case, negation must also be `a prior` to Being, for as **Frege** has shown, Nothing is captured through the negation of form.
+
+This is obvious in the realm of formal logic, where objects or objectified propositions are the operands of negation, conjunction or disjunction, over which existence is asserted via quantification. As an example, consider the formal proposition, "_for all a greater than zero, there exists an x such that x^2 + a = 0_" versus "_for all a greater than zero, there does not exist an x such that x^2 + a = 0_"; in both cases the form of the denoted content, i.e. the square of a number plus one equals zero, is identical, but the concept which solves the equation depends on the quantifier applied, i.e. how many exist. In the first case, the concept thus asserted is that of complex numbers, whereas in the second, the concept asserted is that of real numbers.
+
+In all of this, we have said nothing of the Being of the concepts in this metaphysics. All we have shown is given their existence, how the contingency of Being arises through form. Existence is a property that emerges through the metaphysics of assertion and negation[^13]. The Being of the existent is beyond the realm of metaphysics, and is properly understood as subject matter for ontology. 
+
+In other words, the form of Being, its representations of the world, tells Being nothign at all about what it means to be except that to be is not to be found in form. And if we ask what it is that separates us (in the mode of Being) from ourselves (in the mode of Being form), the only possbility is Nothing. Thus, Nothing, negation and existence are the metaphysical foundation of Being, the `a priori`s of ontology. This is what we mean when say, in the sequel, that "Being is not identical to existence".
 
 [^4]: Although in this sense, **Kant**'s title of _Prologmena to any Future Metaphysics_ is quite adapt.
 [^5]: Frege would say `function` or `signify` instead of `relation`.
@@ -178,6 +185,8 @@ Zero is defined as the cardinality of a contradictory set. Logic, as it were, ha
 [^9]: We may this in the metaphorical sense, lest we dare rouse **Frege**'s ghost. 
 [^10]: [The Foundations of Arithmetic, Section III: Views on One and Oneness, Frege Gottlob, Frege, 1884](https://www.gutenberg.org/ebooks/48312) Note: the parenthesis are the author's own addition to bring **Frege**'s analysis in line our own.
 [^11]: This signals a missing dimension to **Kant**'s rough draft of ontology of `noumena` vs `phenomena`. In other words, appearance and phenomena are not identical, for there are phenomenal apprehensions that do not reside in the appearances we attach to the world. This is one of **Frege**'s greatest contributions to philosophy. 
+[^12]: **Frege** deserves full credit for his discovery that numbers are mappings between sets, i.e. concepts. However, as he made this discovery over a hundred years ago, we have updated the language of our analysis to reflect our modern understanding of his ideas. 
+[^13]: We should say, properly, "_through the metaphysics of assertion and logic_", but we only wish to bring into relief at the current moment in time the contingency of Being on negation.
 
 ### Concept
 
