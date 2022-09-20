@@ -115,7 +115,7 @@ Death is a proposition about form: that it will cease be.
 
 ### Metaphysics
 
-There is a case to be made that **Gottlob Frege**'s _Foundations of Arithmetic_ is the first truly metaphysical treatise about the nature of mathematics. In this work, he provides a philosophical basis for Number through an analysis of the terms: `object`, `concept` and `relation`. [^4] He defines the number "_0_" and the number "_1_" in the following way[^5]
+There is a case to be made that **Gottlob Frege**'s _Foundations of Arithmetic_ is the first truly metaphysical treatise, despite all that preceded it and claimed the title[^5]. In this work, he provides a philosophical basis for Number through an analysis of the terms: `object`, `concept` and `relation`. [^4] He defines the number "_0_" and the number "_1_" in the following way[^6]
 
 ---
 
@@ -133,14 +133,23 @@ The number 1 belongs to a concept if, whatever object considered, the propositio
 
 ---
 
-Within these two definitions, **Frege** has provided an immediately comprehendable way of defining Number as that which make assertions about the _cardinality_ of sets. The profundity of this should not be ignored, for what **Frege** has shown here is Number is metaphysical[^6], i.e. they are not properties _of_ things, but properties _about_ things. 
+Within these two definitions, **Frege** has provided an immediately comprehensible way of defining Number as that which make assertions about the _cardinality_ of sets. The profundity of this should not be ignored, for what **Frege** has shown here is Number is metaphysical[^7], i.e. Number is not a property _of_ a thing, but it is a proposition _about_ things. 
+
+**Frege** is telling us: do not confuse the `factical` origin of numbers, i.e. abstraction, for the existence of Number. Since the term `factic` has not yet been introduced into the present discourse, we will give examples of possible `factic` origins of numbers that will make the preceding clear: consider three bicycles or twelve eggs or a hundred Senators or a ten thousand soldiers. The "_numberness_" we perceive is not there, _in_ the objects to which Number is affixed. For instance, our phenomenal experience of a carton of eggs does not contain in and of itself the concept of twelve; our experience is the immediate apprehension of sensory information in a way that tells us what _is_ before us and with us in the world.
+
+Number is something that arrives through Being, but is independent of Being, except insofar that it is what the representations of certain Beings are about. Number is a metaphysical orthogonality in existence, an absolute metric that scales and ascribes itself to particular existents.
+
+To make the metaphysical nature of Number plainer even further, consider how it is we apprehend five fingers or one hand simultaneously. The thing simply _is_; Number provides order and relation from above, as it were. The perceptions of five fingers and one hand are coincident, but the conceptions are not. Or, if you prefer **Kantian** language, the appearances overlap, but the phenomena are distinct[^8].
+
+Thus, we might say Number is an "_phenomenon_" revealed over and above appearance. We might call it _epiphenomenal_, if this term were not loaded with materialistic and psychological undertones. Whereas calling Number epiphenomenal would imply, through syllogism, its dependence on the existence world, rather, we say Number is metaphysical to denote its truth without `contingency`, i.e.. 
 
 
 
-
-[^4]: Frege would say `function` or `signify` instead of `relation`.
-[^5]: We have modified the terminology here slightly from **Frege**'s actual definition. In the case of zero, the original definition reads, "the number 0 belongs to a concept if, whatever _a_ may be, the proposition holds universally that _a_ does not fall under that concept". The substitution of object for _a_ should be no cause for concern, otherwise what use is a variable? However the equivalence of _does not fall under_ to _does not exist_ deserves a further remark. **Frege**'s goal was to complete the universal language proposed by **Leibniz**, a goal that requires utter precision. The author thought it best to remove the ambiguity of "_falling_" from **Frege**'s definition, as this definition was taken from a translation, and the so-called "_sense_" of the current definition seems more in keeping with the purpose of the original project. Regardless, the current work is not meant as a commentary on **Frege**, or any philosopher for that matter.
-[^6]: **Frege** would say `objective` instead of `metaphysical`, but here again we edit in modern terminology. The term `objective` shall be used the sense intended by **Schopenhauer**, in later sections.
+[^4] Although in this sense, **Kant**'s title of _Prologmena to any Future Metaphysics_ is quite adapt.
+[^5]: Frege would say `function` or `signify` instead of `relation`.
+[^6]: We have modified the terminology here slightly from **Frege**'s actual definition. In the case of zero, the original definition reads, "the number 0 belongs to a concept if, whatever _a_ may be, the proposition holds universally that _a_ does not fall under that concept". The substitution of object for _a_ should be no cause for concern, otherwise what use is a variable? However the equivalence of _does not fall under_ to _does not exist_ deserves a further remark. **Frege**'s goal was to complete the universal language proposed by **Leibniz**, a goal that requires utter precision. The author thought it best to remove the ambiguity of "_falling_" from **Frege**'s definition, as this definition was taken from a translation, and the so-called "_sense_" of the current definition seems more in keeping with the purpose of the original project. Regardless, the current work is not meant as a commentary on **Frege**, or any philosopher for that matter.
+[^7]: **Frege** would say `objective` instead of `metaphysical`, but here again we edit in modern terminology. The term `objective` shall be used the sense intended by **Schopenhauer**, in later sections.
+[^8]: This signals a missing dimension to **Kant**'s rough draft of ontology of `noumena` vs `phenomena`. In other words, appearance and phenomena are not identical, for there are phenomenal apprehensions that do not reside in the appearances we attach to the world. This is one of **Frege**'s greatest contributions to philosophy. 
 
 ### Concept
 
