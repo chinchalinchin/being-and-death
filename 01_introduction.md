@@ -115,17 +115,13 @@ Death is a proposition about form: that it will cease be.
 
 ### Metaphysics
 
-There is a case to be made that **Gottlob Frege**'s _Foundations of Arithmetic_ is the first truly metaphysical treatise, despite all that preceded it and claimed the title[^5]. In this work, he provides a philosophical basis for Number through an analysis of the terms: `object`, `concept` and `relation`. [^4] He defines the number "_0_" and the number "_1_" in the following way[^6]
+There is a case to be made that **Gottlob Frege**'s _Foundations of Arithmetic_ is the first truly metaphysical treatise, despite all that preceded it and claimed the title[^4]. **Frege** acknowledges as much in the conclusion where he says the laws of Number are "_the laws of laws of nature_". [^5] In his work, he provides the metaphysical, and therefore philosophical, basis for Number, through an analysis of the terms: `object`, `concept` and `relation`. [^6] He defines the number "_0_" and the number "_1_" in the following way[^7]
 
 ---
 
 ```
-The number 0 belongs to a concept if, whatever object considered, the proposition holds universally this object exists in that concept.
+The number 0 belongs to a concept if, whatever object considered, the proposition holds universally this object does not exist in that concept.
 ```
-
----
-
----
 
 ```
 The number 1 belongs to a concept if, whatever object considered, the proposition does not hold universally this object does not exist that concept.
@@ -133,23 +129,55 @@ The number 1 belongs to a concept if, whatever object considered, the propositio
 
 ---
 
-Within these two definitions, **Frege** has provided an immediately comprehensible way of defining Number as that which make assertions about the _cardinality_ of sets of existent things. The profundity of this should not be ignored, for what **Frege** has shown here is Number is metaphysical[^7], i.e. Number is not a property _of_ a thing, but a proposition _about_ things. 
+Within these two definitions, **Frege** has provided an immediately comprehensible and clearly logical way of defining Number as that which makes an assertion about the _cardinality_ of sets of existent things, i.e. the numerability of existent things. The profundity of this should not be ignored, for what **Frege** has shown here is Number is metaphysical[^8], i.e. Number is not a property _of_ a thing, but a proposition _about_ things. 
 
-**Frege** is telling us: do not confuse the `factical` origin of numbers, i.e. abstraction, for the existence of Number. Since the term `factic` has not yet been introduced into the present discourse, we will give examples of possible `factic` origins of numbers that will make the preceding clear: consider three bicycles or twelve eggs or a hundred Senators or a ten thousand soldiers. The "_numberness_" we perceive is not there, _in_ the objects to which Number is affixed. For instance, the sensory impression of a carton of eggs does not contain in and of itself the concept of twelve; our experience is the immediate apprehension of the world in a way that tells us what _is_ before us and with us in the world.
+**Frege** is telling us: do not confuse the `factical` origin of numbers, i.e. abstraction, for the existence of Number. Since the term `factic` has not yet been introduced into the present discourse, we will give examples of possible `factic` origins of numbers that will make the preceding clear: consider three bicycles or twelve eggs or a hundred Senators or a ten thousand soldiers. The "_numberness_" we perceive is not there, _in_ the objects to which Number is affixed. For instance, the sensory impression of a carton of eggs does not contain in and of itself the concept of twelve; our experience is the immediate apprehension of the world in a way that tells us what _is_ before us and with us in the world: the concept enters into this _picture_[^9] in parallel to our ontic awareness of the world; the concept is a dimension available to us through Being, that discloses us to a `metaphysical` truth about Being, but is not found in Being. 
+
+In this way, **Frege** examines the proposition "_all whales are mammals_" to point out the metaphysical `subordination` inherent to conceptualization, i.e. the concept of whales is contained in the concept of mammals. This proposition does not reveal anything about `Being-in-the-world`, for "even assuming that the a (thing which is phenomenally present) whale is present, our proposition assets nothing about it. We cannot infer from it that the animal present is a mammal, without the additional proposition that is is a whale, as to which our proposition says nothing"[^10]
 
 Number is something that arrives through Being, but is independent of Being, except insofar that it is what the representations of certain Beings are about. Number is a metaphysical orthogonality in existence, an absolute metric that scales and ascribes itself to particular existents.
 
-To approach the metaphysical nature of Number from different angle, consider how it is we apprehend five fingers and one hand simultaneously, via its appearance as appendage. The thing simply _is_; Number provides order and relation from above, as it were. The perceptions of five fingers and one hand are coincident, but the conceptions are not. Or, if you prefer **Kantian** language, the appearances overlap, but the phenomena are distinct[^8].
+To approach the metaphysical nature of Number from different angle, consider how it is we apprehend five fingers and one hand simultaneously, via its appearance as appendage. The thing simply _is_; Number provides order and relation from above, as it were. The perceptions of five fingers and one hand are coincident, but the conceptions are not. Or, if you prefer **Kantian** language, the appearances overlap, but the phenomena are distinct[^11].
 
 Thus, we might say Number is an "_phenomenon_" revealed over and above appearance. We might call it _epiphenomenal_, if this term were not loaded with materialistic and psychological undertones; Calling Number epiphenomenal would imply, through syllogism, its dependence on the existent world. Instead, we say Number is metaphysical to denote its truth without `contingency`, i.e.. 
 
+**Frege**, ever precise, goes on to reformulate these defintions with more rigor,
+
+---
+```
+The number 0 is the Number which belongs to the concept _not identical with itself_
+```
+
+```
+The number 1 is the Number which belongs to the concept _identical with 0_
+```
+---
+
+We may instead prefer to express these definitions symbolically using modern set builder notation,
+
+---
+```
+A = { # x | x != x }
+
+B = { # x | x = n(A) }
+```
+---
+
+Where the symbol `#` represents the quantifier for existence, `@` represents the quantifier for universality, `~` represents set membership, uppercase letters A and B represents sets, lowercase letters represents unquantified set members, and n(S) represents the cardinality of a set, i.e. its numerability. It then remains to show the cardinality of set _A_ is zero, and that should be self-evident from its definition. 
+
+The reader should draw his attention to the recursive nature of the concept, _self-evident_: by _self-evident_ we mean a thing that demonstrates its own truth, a thing whose truth is not in question no matter what posture we assume. The form of a _self-evident_ truth involves an object, _x_, and a recursive relation that points back to _x_ that violates the conditions of its existence, i.e. its `contingency`. In other words, **Frege** realized the form of _self-evidence_ is contradiction. It is not self-evident that "_the rock is heavy_" is true, but it is self-evident "_the rock is not the rock_" is true.
+
+Zero is defined as the cardinality of a contradictory set. Logic, as it were, has an opinion of itself, namely that its contradictions are empty. This, however, requires the symbolism to express the contradictions that must contain nothing as it member. Take note, the form of the contradiction is irrelevant. We could just as well define zero as the cardinality of the negation of the excluded middle. In either case, this is an inherent feature to any form we substitute into the set theoretic definition of zero: it contains a circular reference. The relation thus expressed will always involve an expression of x and a relation that cannot result in a judgement of truth, in **Frege**'s the inability of a thing to be itself. Furthermore, all subsequent numbers can be expressed via the recursion back to the original proposition about the cardinality of contradictions. The foundation of Frege's arithmetic rests on our ontological apprehension of Nothing as nullity.
 
 
-[^4] Although in this sense, **Kant**'s title of _Prologmena to any Future Metaphysics_ is quite adapt.
+[^4]: Although in this sense, **Kant**'s title of _Prologmena to any Future Metaphysics_ is quite adapt.
 [^5]: Frege would say `function` or `signify` instead of `relation`.
-[^6]: We have modified the terminology here slightly from **Frege**'s actual definition. In the case of zero, the original definition reads, "the number 0 belongs to a concept if, whatever _a_ may be, the proposition holds universally that _a_ does not fall under that concept". The substitution of object for _a_ should be no cause for concern, otherwise what use is a variable? However the equivalence of _does not fall under_ to _does not exist_ deserves a further remark. **Frege**'s goal was to complete the universal language proposed by **Leibniz**, a goal that requires utter precision. The author thought it best to remove the ambiguity of "_falling_" from **Frege**'s definition, as this definition was taken from a translation, and the so-called "_sense_" of the current definition seems more in keeping with the purpose of the original project. Regardless, the current work is not meant as a commentary on **Frege**, or any philosopher for that matter.
-[^7]: **Frege** would say `objective` instead of `metaphysical`, but here again we edit in modern terminology. The term `objective` shall be used the sense intended by **Schopenhauer**, in later sections.
-[^8]: This signals a missing dimension to **Kant**'s rough draft of ontology of `noumena` vs `phenomena`. In other words, appearance and phenomena are not identical, for there are phenomenal apprehensions that do not reside in the appearances we attach to the world. This is one of **Frege**'s greatest contributions to philosophy. 
+[^6]: [The Foundations of Arithmetic, Section V: Conclusion, Frege Gottlob, Frege, 1884](https://www.gutenberg.org/ebooks/48312)
+[^7]: We have modified the terminology here slightly from **Frege**'s actual definition. In the case of zero, the original definition reads, "the number 0 belongs to a concept if, whatever _a_ may be, the proposition holds universally that _a_ does not fall under that concept". The substitution of object for _a_ should be no cause for concern, otherwise what use is a variable? However the equivalence of _does not fall under_ to _does not exist_ deserves a further remark. **Frege**'s goal was to complete the universal language proposed by **Leibniz**, a goal that requires utter precision. The author thought it best to remove the ambiguity of "_falling_" from **Frege**'s definition, as this definition was taken from a translation, and the so-called "_sense_" of the current definition seems more in keeping with the purpose of the original project. Regardless, the current work is not meant as a commentary on **Frege**, or any philosopher for that matter.
+[^8]: **Frege** would say `objective` instead of `metaphysical`, but here again we edit in modern terminology. The term `objective` shall be used the sense intended by **Schopenhauer**, in later sections.
+[^9]: We may this in the metaphorical sense, lest we dare rouse **Frege**'s ghost. 
+[^11]: [The Foundations of Arithmetic, Section III: Views on One and Oneness, Frege Gottlob, Frege, 1884](https://www.gutenberg.org/ebooks/48312)
+[^10]: This signals a missing dimension to **Kant**'s rough draft of ontology of `noumena` vs `phenomena`. In other words, appearance and phenomena are not identical, for there are phenomenal apprehensions that do not reside in the appearances we attach to the world. This is one of **Frege**'s greatest contributions to philosophy. 
 
 ### Concept
 
@@ -157,7 +185,7 @@ Thus, we might say Number is an "_phenomenon_" revealed over and above appearanc
 
 ## Proof by Contradiction
 
-The great workhorse of mathematics is proof by contradiction. An assumption is made, an absurdity is shown to result from the assumption, therefore the assumption is shown to be false. In this way was modern mathematics constructed, by outlining the truth and demarcating its boundary with falsity. Anyone who has studied higher mathematics will attest to the way most mathematical proofs work by letting the truth "_in through the back door_"[^4], that is to say, they work by showing what cannot be the case in order to prove the opposite must be so, but this gets us no closer to _why_ it is so.
+The great workhorse of mathematics is proof by contradiction. An assumption is made, an absurdity is shown to result from the assumption, therefore the assumption is shown to be false. In this way was modern mathematics constructed, by outlining the truth and demarcating its boundary with falsity. Anyone who has studied higher mathematics will attest to the way most mathematical proofs work by letting the truth "_in through the back door_"[^10], that is to say, they work by showing what cannot be the case in order to prove the opposite must be so, but this gets us no closer to _why_ it is so.
 
 This method does not reveal the "_intuition_" of the theorem to the observer; indeed one can comprehend a proof without understanding anything about what it trying to say and in the converse direction, one may understand a concept without being able to grasp its proof in the slightest.
 
@@ -165,4 +193,4 @@ So it is with induction: a proof of induction, and therefore a proof _by_ induct
 
 This, however, is a logical method well-suited for Death, since as we have noted, Death will never be understood. The only course we may avail ourselves of is to define what Death is not and trace its outline through the ink of negation. Indeed, this will be the course of the present work. We shall attempt to negate our way towards an understanding of Death, an understanding that we have already noted is impossible. _C'est la vie_.
 
-[^4]: [p. ?, Vol 1, Section ?, Schopenhauer, The World As Will and Representation](https://www.gutenberg.org/ebooks/38427)
+[^10]: [The World As Will and Representation, Vol 1, Section ?, Arthur Schopenhauer, 1859](https://www.gutenberg.org/ebooks/38427)

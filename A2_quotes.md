@@ -47,6 +47,25 @@ In fact, would it not be most appropriate to call a concept the unit that relate
 
 ---
 
+### Section IV: The Concept of Number
+
+---
+
+```
+All that can be demanded of a concept on the part of logic and for rigour of proof is its sharp boundary, that for every object it is determined whether it falls under the concept or not. Now this demand is completely satisifed by a concept containing a contradiction such as "not identical with itself"; since of every object it is known that it does not fall under such a concept.
+```
+
+---
+
+### Section V: Conclusion
+
+---
+
+```
+The laws of number will not need, as Baumann thinks, to prove their worth in practice in order to be applicable to the external world; for in the external world, in the totality of the spatial, there are no concepts, no properties of concepts, no numbers. The laws of number are thus not really applicable to external things: they are not laws of nature. But they are certainly applicable to judgements that are made about things in the external world: they are laws of laws of nature.
+```
+
+---
 # Jean-Paul Sartre
 
 ## Being and Nothingness
