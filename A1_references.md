@@ -20,6 +20,7 @@
 ## Encyclopedias
 ### Stanford Encyclopedia of Philosophy
 - [Certainty](https://plato.stanford.edu/entries/certainty/)
+- [Concept](https://plato.stanford.edu/entries/concepts/)
 - [Nothingness](https://plato.stanford.edu/entries/nothingness/)
 - 
 ### Wikipedia

@@ -87,13 +87,18 @@ Philosophy, too, has recently come to grapple with it foundations, passing throu
 
 What does it mean _to be_? This is by no means a simple question, even though we answer it every day simply by not being dead. That we _are_ means we must, to some extent, possess the answer to this question, but it is not at all clear how we should put that answer into words. 
 
-The meaning of _Being_ is transfused with our everyday intuition, with our immediate apprehension of the world outside ourselves. We use _Being_ in a variety of contexts: The rock is heavy, the mountain is high, love is a pleasure, the idea was disgusting, I am hesitant, you are reading, he was sick, etc. It would seem, then, _Being_ must be a broaden concept to encompass so wide an array of phenomenon. How are we to preserve its meaning across its diverse usage?
+The meaning of _Being_ is transfused with our everyday intuition, with our immediate apprehension of the world outside ourselves. We use _Being_ in a variety of contexts: The rock is heavy, the mountain is high, love is a pleasure, the idea was disgusting, I am hesitant, you are reading, he was sick, etc. It would seem, then, _Being_ must be a broad concept to encompass so wide an array of phenomenon. How are we to preserve its meaning across its diverse usage?
 
-_Being_ is colloquially equated with that of _existence_, but this is not quite right. The error results from the semantical misapprehension of the contrived syntax, "_The rock is_". Here we are led by the vagaries of language to conclude the rock _is_, without reference to anything else, as if Being were something that did not require a ground to draw it into repose. Among the greatest of **Heidegger**'s many insights is his realization the relation of Being contains within an implicit reference to the world in which the Being exists. For this reason, he introduced the term, `Being-in-the-world`, as a way of drawing to the reader's attention the implicit ontological relations contained in our concept of Being.
+Often, _Being_ is colloquially equated with that of _existence_, but this is not quite right. The error results from a misunderstanding of semantics, as seen in the contrived syntax, "_The rock is_". Here we are led along the paths of a syntactically correct sentence to a semantic meaning that does not correspond to reality, i.e. the rock _is_, without reference to anything else, as if Being were something that did not require a ground to draw it into repose. 
+
+Among the greatest of **Martin Heidegger**'s many insights is his realization the relation of Being contains within it an implicit reference to the world in which the Being exists. For this reason, he introduced the term, `Being-in-the-world`, as an indication to draw the reader's attention towards the implicit ontological relations contained in our concept of Being. The _world_ in this neologism is not the world of space and time, although that is one aspect of it, but a world of everything that exists, including the possibility of that existence.
 
 
 
-_Being_ is a relation. This relation implicitly contains the world and the entity that relates to the wrodl. It is the way in which an existent entity is in the world. Being is with respect to the forms it apprehends, an apprehension of forms that necessarily contains within it the form that is apprehending.
+_Being_ is a relation. This relation implicitly contains the world and the entity that relates to the wrodl. It is the way in which an existent entity is in the world. 
+
+
+    ??? Being is with respect to the forms it apprehends, an apprehension of forms that necessarily contains within it the form that is apprehending.
 
 Our Being, and the Being of all other entities, is recursive in this sense. It contains a reference to itself. We are, in so far, that we can be in relation to ourselves
 
@@ -110,8 +115,37 @@ How are we to separate the consequences of our assumptions, the consequences of 
 
 Death is a proposition about form: that it will cease be. 
 
+### Metaphysics
 
-### Through Being 
+There is a case to be made that **Gottlob Frege**'s _Foundations of Arithmetic_ is the first truly metaphysical treatise about the nature of mathematics. In this work, he provides a philosophical basis for Number through an analysis of the terms: `object`, `concept` and `relation`. [^4] He defines the number "_0_" and the number "_1_" in the following way[^5]
+
+---
+
+```
+The number 0 belongs to a concept if, whatever object considered, the proposition holds universally this object exists in that concept.
+```
+
+---
+
+---
+
+```
+The number 1 belongs to a concept if, whatever object considered, the proposition does not hold universally this object does not exist that concept.
+```
+
+---
+
+Within these two definitions, **Frege** has provided an immediately comprehendable way of defining Number as that which make assertions about the _cardinality_ of sets. The profundity of this should not be ignored, for what **Frege** has shown here is Number is metaphysical[^6], i.e. they are not properties _of_ things, but properties _about_ things. 
+
+
+
+
+[^4]: Frege would say `function` or `signify` instead of `relation`.
+[^5]: We have modified the terminology here slightly from **Frege**'s actual definition. In the case of zero, the original definition reads, "the number 0 belongs to a concept if, whatever _a_ may be, the proposition holds universally that _a_ does not fall under that concept". The substitution of object for _a_ should be no cause for concern, otherwise what use is a variable? However the equivalence of _does not fall under_ to _does not exist_ deserves a further remark. **Frege**'s goal was to complete the universal language proposed by **Leibniz**, a goal that requires utter precision. The author thought it best to remove the ambiguity of "_falling_" from **Frege**'s definition, as this definition was taken from a translation, and the so-called "_sense_" of the current definition seems more in keeping with the purpose of the original project. Regardless, the current work is not meant as a commentary on **Frege**, or any philosopher for that matter.
+[^6]: **Frege** would say `objective` instead of `metaphysical`, but here again we edit in modern terminology. The term `objective` shall be used the sense intended by **Schopenhauer**, in later sections.
+
+### Concept
+
 
 
 ## Proof by Contradiction
