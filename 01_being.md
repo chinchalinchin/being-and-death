@@ -1,4 +1,4 @@
-# Being and Death
+# Being
 
 ## The Stage 
 
@@ -71,21 +71,34 @@ It would seem, then, it does not matter which direction we choose to go, since w
 
 [^1]: As if often the case when playing the exisentialist language game, we adopt the **Heideggerian** sense of the word _care_, or _concern_, i.e. the way in which a conscious Being orients itself in the world, or the manner in which we are drawn into the world, so that we might engage with it. 
 
-[^2]: `reflective consciousness` as opposed to `ontical consciousness`; i.e. the consciousness of being conscious versus being conscious. This is what **Heidegger** called the split between _ontology_ and _onticity_. The human, or more generally, the `Dasein`, is a type of Being which is capable of reflecting on its Being. 
+[^2]: `reflective consciousness` as opposed to `ontical consciousness`; i.e. the consciousness of being conscious versus being conscious. This is what **Heidegger** called the split between _ontology_ and _onticity_. According to **Heidegger**, the human is a `factical` implementation of the `Dasein`, a type of Being which is capable of reflecting on its Being. All of these terms will hopefully be clarified over the course of what is to come. It may be remarked that already the terminology is cumbersome and overwrought, to which the response is submitted, with either determination or resignation: if we are destroy philosophy, we must first understand what it is saying. 
 
 [^3]: We add here the caveat the terminology so far introduced is not yet a complete and exhaustive description of the ontological relations being examined. Throughout the course of the present, we will attempt to elucidate what it means _to be_ in relation to Death; this neologism is the first many we will formulate, as the primary function of philosophy seems to be the production of esoteric phrases. 
 
 ## What is Being?
 
-With the warnings of futility thus dispensed, we will precede our discourse with a brief tour through the current state of our understanding of what it means _to be_. If Death can be said to be anything, then it must be as a negation of Being, i.e. _to not be_. Therefore, we first examine what is negated in Death to bring the scope of the problem into view. This will necessarily entail a brief discussion of the history of philosophy and what has led to our current understanding. What is presented in the next sections is by no means an exhaustive commentary, but only meant to highlight concepts as they pertain to the current analysis.
+With the warnings of futility thus dispensed, we will preface our discourse with a brief tour through the current state of our understanding of what it means _to be_. If Death can be said to be anything, then it must be as a negation of Being, i.e. _to not be_, a not-Being-there-in-the-world. Therefore, we first examine what is negated in Death to bring the scope of the problem into view. This will necessarily entail a brief discussion of the history of philosophy and what has led to our current understanding of Being. What is presented in the next sections is by no means an exhaustive commentary, but only meant to highlight concepts as they pertain to the current analysis.
 
 The maturity of a field of inquirty can be seen in where its crises occur. Mathematics, by far the most mature of the sciences, took more than two thousand years to move past the crises in its theorems, e.g. the determination of areas, the calculation of ratios, the solution of equations, etc., before finally grappling with the crises in its foundations, i.e. notions of primitives and Number, of Infinity, of completeness and consistency (<sup><sub>or the inherent lack thereof</sub></sup>), etc.
 
-Philosophy, too, has recently come to grapple with it foundations. The crisis to be found in the current state of philsophy is mostly clearly seen in the vague division between metaphysics and ontology. There is no general consensus as to what constitutes the subject matter of one versus the other. In the following sections, we will focus our attention on this vagueness, so it might be dispersed and replaced with clarity. We will do so by recounting our curent understanding of the problem of _Being_, pointing out as we go along how the fields of ontology and metaphysics emerge naturally from considerations of _Being_.
+Philosophy, too, has recently come to grapple with it foundations. The crisis to be found in the current state of philsophy is mostly clearly seen in the vague division between metaphysics and ontology, which cuts to the very heart of Being. There is no general consensus as to what constitutes the subject matter of one subdivision of the study of Being separate the other. In the following sections, we will focus our attention on this vagueness, so it might be dispersed and replaced with clarity. We will do so by recounting our curent understanding of the problem of _Being_, pointing out as we go along how the fields of ontology and metaphysics emerge naturally from considerations of _Being_.
+
+### Appearance versus Existence
+
+
+This is how **Kant** re-conceptualized the problem of Being: A Being does not come to be through existence, but through its appearance, the representations of the existents that arise in perception. Thus we have the distinction between `noumena` and `phenomena`, existence versus appearance. For **Kant**, the `noumenon` exists beyond the `phenomenon`, its interiority as a Being inaccessible in itself
+
+We need only reflect on this to acknowledge, if not its absolute truth, then its approximate truth. It is the case that our 
+
+
+**Schopenhauer** would go further and say the (replace with actual quote) world of the objects exists for the subject and only insofar as the subject exists for the object. 
+
+
+### Object versus Concept
 
 ### What is Ontology?
 
-What does it mean _to be_? This is by no means a simple question, even though we answer it every day simply by not being dead. That we _are_ means we must, to some extent, possess the answer to this question, but it is not at all clear how we should put that answer into words. 
+_Ontology_, if we simply define it by its root words, is the study of Being. It takes as its subject matter the _meaning_ of Being. In short, ontology asks a single question: What does it mean _to be_? This is by no means a simple question, even though we answer it every day simply by not being dead. That we _are_ means we must, to some extent, possess the answer to this question, but it is not at all clear how we should put that answer into words. 
 
 The meaning of _Being_ is transfused with our everyday intuition, with our immediate apprehension of the world outside ourselves. We use _Being_ in a variety of contexts: The rock _is_ heavy, the mountain _is_ high, love _is_ delightful, red _is_ pretty, the idea _was_ disgusting, I _am_ hesitant, you _are_ reading, he _was_ sick, the teacher _was_ doubtful, and so on, ad infinitum. It would seem, then, _Being_ must be a broad concept to encompass so wide an array of phenomenon. How are we to preserve its meaning across its diverse usage? To put another way, _am_ I the same way a rock _is_?
 
@@ -188,6 +201,7 @@ This is obvious in the realm of formal logic, where objects or objectified propo
 In all of this, we have said nothing of the Being of the concepts in this metaphysics. All we have shown is given their existence, how the contingency of Being arises through form. Existence is a property that emerges through the metaphysics of assertion and negation[^13]. The Being of the existent is beyond the realm of metaphysics, and is properly understood as subject matter for ontology. 
 
 TODO: sartre reference here
+
 In other words, the form of Being, its representations of the world, tells Being nothign at all about what it means to be except that to be is not to be found in form. And if we ask what it is that separates us (in the mode of Being) from ourselves (in the mode of Being form), the only possbility is Nothing. Thus, Nothing, negation and existence are the metaphysical foundation of Being, the `a priori`s of ontology. This is what we mean when say, in the sequel, that "Being is not identical to existence".
 
 With a nod to **Platonic** forms and as a harbinger of what is to come, we propose the decomposition of **Frege**'s insights into the following metaphysical laws,

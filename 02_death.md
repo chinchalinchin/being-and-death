@@ -1,6 +1,6 @@
-# Towards an Ontology of Death
+# Death
 
-We now begin the laborious work of constructing an ontology of Death. We do this so that no one need ever concern themselves again with the misery and pointlessness of the whole endeavor. In this moment of respite between nihilistic soliloquies, the author once again reminds the reader there are far better way they could be spending their time: learning a new skill, watching dogs in the park, enjoying a well cooked meal amongst friends. The author implores the reader that nothing further will be gained, that what awaits us is primal horror of Being and our inability to come to terms with it. Applying analysis and logic will not force Death into repose. Any naive hope we retain to contrary thus far will, by the end, be smashed to bits and cast into the wind.
+We now begin the laborious work of constructing an ontology and metaphysics of Death, in order to show how philosophy is by necessity an incomplete field of inquiry and will forever remain so. We do this so that no one need ever concern themselves again with the misery and pointlessness of the whole endeavor. In this moment of respite between nihilistic soliloquies, the author once again reminds the reader there are far better way they could be spending their time: learning a new skill, watching dogs in the park, enjoying a well cooked meal amongst friends. The author implores the reader that nothing further will be gained, that what awaits us is primal horror of Being and our inability to come to terms with it. Applying analysis and logic will not force Death to yield anything of value. Any naive hope we retain to contrary thus far will, by the end, be smashed to bits and cast into the wind.
 
 ---
 
@@ -24,17 +24,15 @@ for.
 
 In the previous sections, we said an understanding of Death is impossible. A close correlate of _understanding_ is _reason_.
 
-Likewise, Death can not be the reason for anything in our _phenomenal_ perception, because it is Nothing at all in the first place; Death is the distinct and inexplicable lack of Being where we should be, an ontological _lacking_ of the highest order. Death cannot be given as motive to explain an action because Death implies the impossiblity of action[^1]. If Death has a logic, an algebra of its own by which we pass from one equivalent form of Death to the next, it is not one the mind can grasp; Death has no form to manipulate, no symbology to short-circuit, no appearance to transform. Death is that which we cannot get to through representation.
+Likewise, Death can not be the reason for anything in our _phenomenal_ perception, because it is Nothing at all in the first place; Death is the distinct and inexplicable lack of Being where we should be, an ontological _lacking_ of the highest order. Death cannot be given as motive to explain an action because Death implies the impossiblity of action[^1]. If Death has a logic, an algebra of its own by which we pass from one equivalent form of Death to the next, it is not one the mind can grasp; Death has no form to manipulate, no indication to point towards it, no appearances to announce its presence with us. Death is that which we cannot get to through representation. We have in Death a Kantian `nihil negativum`, a Nothingness born from absurdity, a nullity by necessity, a concept without content or form. 
 
-Death will not fit into the grooves of logic, into the operations of modus ponens or syllogism, because there can never be any intuitive jump from a hypothesis that presupposes nonexistence (<sup><sub>[a topic to which we will return in later sections](#death-as-not-object)</sub></sup>). We have in Death a Kantian `nihil negativum`, a Nothingness born from absurdity, a nullity by necessity, a concept without content or form. 
+Death will not fit into the grooves of logic, into the operations of modus ponens or syllogism, because there can never be any intuitive jump from a hypothesis that presupposes nonexistence (<sup><sub>[a topic to which we will return in later sections](#death-as-not-object)</sub></sup>); Death cannot be tested as a hypothesis in any field of inquiry rooted in phenomology, which is our present course, because Death is not the cause of anything with respect to Being; Death is the end result. What happens thereafter cannot be communicated back through the mechanisms of causality to the Being we were. Death is the ultimate datum to which all possibilities of Being must point but never reveal, the terminus of all causality, all facticity, all contingency. Because of this, our endeavor is doomed from the start arrive at Nothing. 
 
-Death cannot be tested as a hypothesis, because Death is not the cause of anything; Death is the end result. What happens thereafter cannot be communicated back through the mechanisms of causality to Being we were. Death is the ultimate datum to which all hypotheses must point but never reveal, the terminus of all causality. Because of this, our endeavor is doomed from the start arrive at Nothing. 
+Analysis can only claim validity to extent that it can be brought into correspondence with the concepts it purports to analyze. Any analysis of Death must eventually come to the point where it is held up against the Nothingness it represents and finds a lacking therein, not in itself, for lacking cannot be found in pure form, but in what the form attempts to represent, the absence of Being, the hole where Nothing now remains. Thus fails the project of analysis in its entirety, unable to contend with the entirety of existence because all it can say is what is or happens, by its nature as representation, never able to represent what is not, which is the exact definition of Death. 
 
-Analysis can only claim validity to extent that it can be brought into correspondence with the objects it purports to analyze. Any analysis of Death must eventually come to the point where it is held up against the Nothingness it represents and finds a lacking therein, not in itself, for lacking is not in the contingency of form, but in what the form attempts to represent, the absence of Being, the hole where Nothing now remains. Thus fails the project of analysis in its entirety, unable to contend with all that is or happens, by its nature as representation.
+Regardless, perhaps in spite of this, we proceed. In order to make these features of Death emerge from the discourse, we will attempt to formulate an ontology and metaphysics of Death. In the first pass, we will extract from the philosophers and scientists who preceded us whatever we find useful and salient. 
 
-Regardless, perhaps in spite of this, we proceed. In order to make these features of Death emerge from the discourse, we will attempt to create an ontology of Death. In the first pass, we will extract from the philosophers and scientists who preceded us whatever we find useful and salient. In doing so we will formulate both a metaphysics and ontology of Death.
-
-Up to this point, we have been using language that lacks precision. There is no way around this; Philosophy necessarily emerges from the colloquial "_fuzziness_" of language. If philosophy can be said to have a purpose, then it is clarity. With that in mind, the next few sections will provide, if not rigor, then precision.
+Up to this point, we have been using language that lacks precision. There is no way around this; Philosophy necessarily emerges from the colloquial "_fuzziness_" of language. If philosophy can be said to have a purpose, then it is clarity. With that in mind, the next few sections will provide, if not rigor, then hopefully at least clarity.
 
 [^1]: 
     It may be argued we sometimes assume the posture of _giving_ Death, i.e. the human activity of _sacrifice_, where we let ourselves die in service to something else. But, in this case, Death is not the _reason_ for the _sacrifice_, it is a consequence, but in an orthogonal direction to causality, so that we may even question whether the term "_consequence_" is appropriate. In sacrificing, we first apprehend the relations that bind the world with us in it, and how it is we may get to what we seek. If, in coming to an understanding of an action that will yield this, we realize we shall die during its course, that is irrelevant to the causality that links the antecedent to the consequent. Thus, we seek what is sought regardless of our Death. Reason enters into this analysis via the causal connection between things-as-they-are and things-as-they-will-be. Do not mistake the failure of psychology to predict the state of the world after our action as evidence of Death's presence in causality. Death does not touch the causality of this process, it merely haunts it as `epiphenomenon`, like the afterglow of logic; Death only serves to underscore the importance, as it relates to Being, of what is sought, like a punctuation mark that has no material effect on the content of a sentence yet alters its meaning entirely. Death is what happens during the course of `facticity`, comes to the world through `facticity`, yet is not, in and of itself, the `factical` relation, insofar that `facticity` refers to _my_ `Being-in-the-world`. Always is it thus: Death marks the end of the form.
@@ -43,32 +41,28 @@ Up to this point, we have been using language that lacks precision. There is no 
 
     We will return to the [topic of suicide]() in due time.
 
-## Defintions
+## Definitions
 
-Before the introduction of the rhetorical devices that will give us the means to approach Death through analysis, we start by defining the terms of our exegesis that will be familiar to readers arriving from the locales of **Kant**, **Schopenhauer**, **Heidegger** and **Sartre**: `Being`, `Nothing`, `appearance`, `existence`, `world`. 
+Before the introduction of the rhetorical devices that will give us the means to approach Death through analysis, we must comment on the endeavour of `speculative philosophy`. 
+
+
+We start by defining the terms of our exegesis, in light of the previous commentary: `Being`, `Nothing`, `appearance`, `existence`, `world`. 
 
 As **Russell** and **Whitehead** explained in the introduction to _Principia Mathematica_, any formal system must necessarily contain primitive notions irreducible to further primitives; **Wittgenstein** called these components of a formal system, _atomic facts_. Whatever we call them, we must leave their interpretation to the reader. We will dress these terms in fanciful language, place them in analogical relations, shift them through symbolic arguments and attempt to elucidate their meaning through the forms by which we come to know existence via appearance, but ultimately they must remain as the ground upon which to build further artifices, thus we must leave their validity in the hands of contingency. 
 
-1. Existence is a fact.
-2. Appearance is a representation.
-3. Existence is not identical to appearance.
-4. Being is identical to neither existence nor appearance.
-5. Being has awareness, but is not awareness.
-6. Being has knowledge, but is not knowledge.
-7. Consciousness is the intersection of Being, existence and appearance.
-8. Consciousness is identical to neither awareness nor knowledge.
-9. The negation of Being is Nothing.
-10. All knowledge is knowledge of representation.
-11. The world is the totality of Beings, their representations of Being, and the relations that orient each Being in their representations. 
+1. Existence is the only fact.
+2. Appearance is not identical to existence.
+3. Being is identical to neither existence nor appearance.
+4. The negation of Being is Nothing.
 
-We should be aware of the distinction between ontology and metaphysics.
+
 ## Postulates of Death
 
 1. `postulate of precluded existence`: Death happens to all Beings.
 2. `postulate of failed contingency`: Death is unknowable through phenomena (<sup><sub>_appearance_</sub></sup>). 
 3. `postulate of non-equivalence`: Unknowability is phenomenally (<sup><sub>_apparently_</sub></sup>) equivalent to Nothing.
 
-With the first axiom, it is likely we all agree or are at least willing to grant truth long enough to see what follows. We then turn to the justification of the latter two axioms, as the meaning of either the `postulate of failed contingency` or the `postulate of non-equivalence` is not clear at first glance. 
+With the first postulate, it is likely we all agree or are at least willing to grant truth long enough to see what follows. We then turn to the justification of the latter two axioms, as the meaning of either the `postulate of failed contingency` or the `postulate of non-equivalence` is not clear at first glance. 
 
 ### Aside: The Metaphysics of Death
 
