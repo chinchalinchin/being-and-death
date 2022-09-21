@@ -7,6 +7,7 @@
 - [On Certainty](https://archive.org/details/oncertainty00witt)
 - [Philosophical Investigations](https://archive.org/details/philosophicalinv0000witt/page/n3/mode/2up)
 - [Principia Mathematica](https://archive.org/details/cu31924001575244)
+- [Process and Reality](https://archive.org/details/processrealitygi00alfr)
 - [Tractatus Logico-Philosophicus](https://archive.org/details/dli.ministry.23985)
 - [World as Will and Representation, The](https://archive.org/details/worldaswillrepre01scho)
   
