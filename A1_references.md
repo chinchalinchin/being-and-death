@@ -10,6 +10,7 @@
 - [Process and Reality](https://archive.org/details/processrealitygi00alfr)
 - [Tractatus Logico-Philosophicus](https://archive.org/details/dli.ministry.23985)
 - [World as Will and Representation, The](https://archive.org/details/worldaswillrepre01scho)
+- [What Is Metaphysics?](https://archive.org/details/basicwritingsfro0000heid)
   
 ### Gutenberg.org
 - [Critique of Pure Reason](https://www.gutenberg.org/ebooks/4280)

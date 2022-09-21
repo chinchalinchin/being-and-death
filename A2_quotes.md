@@ -67,6 +67,64 @@ The laws of number will not need, as Baumann thinks, to prove their worth in pra
 
 ---
 
+# Heidegger, Martin
+
+## What is Metaphysics? Section II: The Elaboration of the Question
+
+---
+
+```
+What is the nothing? Our very first approach to this question has something unusual about it. In our asking we posit the nothing in advance as something that "is" such and such; we posit it as a being. But that is exactly what it is distinguished from. Interrogating the nothing--asking what and how it, the nothing, is--turns what is interrogated into its opposite. The question deprives itself of its own object.
+
+Accordindly, every answer to this question is also impossible from the start. For it necessarily assumes the form: the nothing "is" this or that. With regard to the nothing, question and answer alike are inherently absurd.
+```
+
+---
+
+---
+
+```
+For thinking, which is always essentially thinking about something, must act in a way contrary to its own essence when it thinks of the nothing.
+```
+
+---
+
+---
+
+```
+Does not the "not", negatedness, and thereby negation too represent the higher determiniation under which the nothing falls as a particular kind of negated matter? is the nothing given only because the "not", i.e. negation, is given? Or is it the other way around? Are negation and the "not" given only because the nothing is given? That has not been decided; it has not even been raised expressly as a question. We assert that the nothing is mor original than the "not" and negation.
+
+If this thesis is right, then the possibility of negation as an act of the intellect, and thereby the intellect itself, are somehow dependent upon the nothing. Then how can the intellect hope to decide about the nothing? Does the ostensible absurdity of question and answer with respect to the nothign in the end rest solely in a blind conceit of the far-ranging intellect?
+```
+
+---
+
+---
+
+```
+If nothing itself is to be questioned as we have been questioning it, then it must be given beforehand. We must able to encounter it.
+
+Where shall we seek the nothing?
+```
+
+---
+
+---
+
+```
+The nothing is the complete negation of the totality of beings.
+```
+
+---
+
+---
+
+```
+As surely as we can never comprehend absolutely the whole of beings in themselves we certainly do find ourselves stationed in the midst of beings that are revealed somehow as a whole. In the end an essential distinction prevails between comprehending the whole of beings in themselves and finding oneself in the midst of beings as a whole.
+```
+
+---
+
 # Sartre, Jean-Paul
 
 ## Being and Nothingness
