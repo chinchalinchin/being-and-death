@@ -1,4 +1,4 @@
-# Gottlob Frege
+# Frege, Gottlob
 
 ## Foundations of Arithmetic
 
@@ -66,7 +66,8 @@ The laws of number will not need, as Baumann thinks, to prove their worth in pra
 ```
 
 ---
-# Jean-Paul Sartre
+
+# Sartre, Jean-Paul
 
 ## Being and Nothingness
 
@@ -150,6 +151,101 @@ Nothingness is the putting into question of being by being--that is, precisely c
 
 ```
 We know the question posed by physiologists: "How can we set upright the objects which are painted upside down on our retina?" We know as well the answer of the philosophers: "There is no problem. An object is upright or inverted in relation to the rest of the universe. To perceive the whole universe inverted means nothing, for it would have to be inverted in relation to something." But what paritcularly interests us is the origin of this false problem. It is the fact that people have wanted to link my consciousness of objects to the body of the Other. Here are the candle, the crystalline lens, the inverted image on the screne of the retina. But to be exact, the retina enters here into a physical system: it is a _screen_ and only that; the crystalline lens is a _lens_ and only a lens; both are homogeneous in their being with the candle which completes the system. Therefore we have deliberately chosen the physical point of view--i.e., the point of view of the outside, of exteriority--in order to study the problem of vision; we have considered a dead eye in the midst of the visible world in order to account for the visibility of this world. Consequently, how can we be surprised later when consciousness, which is absolute interiority, refuses to allow itself to be beound to this object? The relations which I establish between the Other"s body and the external object are really existing relations, but they have for thier being the being of the for-others.
+```
+
+---
+
+# Whitehead, Alfred
+
+## Process and Reality
+
+### Chapter 1: Speculative Philosophy, Section II
+
+---
+
+```
+In philosophic theory there is an ultimate which is actual in virtue of its accidents. It is only then capable of characterization through its accidental embodiments, and apart from these accidents is devoid of actuality. In the philosophy of organism this ultimate is termed "creativity"; and God is its primordial, non-temporal (non-historical) accident. In monistic philosophies, Spinoza's or absolute idealism, this ultimate is God, who is also equivalently termed "The Absolute". In such monistic schemes, the ultimate is illegimately allowed a final, "eminent" reality, beyond that ascribed to any of its accidents. In this general position the philosophy of organism seems to approximate more to some strains of Indian, or Chinese thought, than to western Asiatic, or European, thought. One side makes process ultimate; the other side makes fact ultimate.
+```
+
+---
+
+### Chapter 1: Speculative Philosophy, Section V
+
+---
+
+```
+The point is that every proposition refers to a universe exhibiting some general systematic metaphysical character. Apart from this background, the separate entities which go to form the proposition, and the proposition as a whole, are without determinate character. Nothign has been defined, because every definite entity requires a systematic universe to supply its requisite status. Thus every proposition proposing a fact must, in its complete analysis, propose the general character of the universe required for that fact. There are no self-sustained facts, floating in nonentity.
+```
+
+---
+
+---
+
+```
+One practical aim of metaphysics is the accurate analysis of propositions; not merely of metaphysical propositions, but of quite ordinary propositions such as "There is beef for dinner today" and "Socrates is mortal" The one genus of facts which constitutes the field of some special sciences requires some common metaphysical presupposition respecting the universe.
+```
+
+---
+
+---
+
+```
+Language is thoroughly indeterminate, by reason of the fact that every occurrence presupposes some systematic type of environment.
+```
+
+---
+
+---
+
+```
+The truth itself is nothing else than how the composite nature of the organice actualities of the world obtain adequate representations in the divine nature.
+```
+
+---
+
+### Chapter 1: Section VI
+
+---
+
+```
+Whenever we attempt to express the matter of immediate experience, we find that its understanding leads us beyond itself, to its contemporaries, to its past, to its future, and to the universals in terms of which its definiteness is exhibited. But such universals, by their very character of universality, embody the potentiality of other facts with variant types of definiteness. Thus the understanding of the immediate brute fact requires its metaphysical interpretation as an item in the world with some systematic relation to it. When thought comes upon the scene, it finds the intreperations as matters of practice. Philosophy does not initiate interpretations. Its search for a rationalistic scheme is the search for more adequate criticism, and fore more adequate justifications of the interpretations which we perforce employ. Our habitual experience is a complex of failure and succes in the enterprise of interpretation. If we desire a record of uninterpreted experience, we must ask a stone to record its autobiography. Every scientific memoir in its records of the "facts" is shot through and through with interpretation. The methodology of rational interpretaiton is the product of the fitful vagueness of consciounsess. Elements which shine with immediate distinctness, in some circumstances, retire into penumbral shadow in other circumstances, and into black darkness on other occasions. And yet all occasions proclaim themselves as actualities within the flux of a solid world, demanding a unity of interpretation.
+
+Philosophy is the self-correction by consciousness of its own initial experience of subjectivity.
+```
+
+---
+
+---
+
+```
+Religion is an ultimate craving to infuse into the insistent particularity of emotion that non-temporal generality which primarily belongs to conceptual thought alone.
+```
+
+---
+
+---
+
+```
+Religion is centered upon the harmony of rational thought with the sensitive reaction to the percepta from which experience originates. Science is concerned with the harmony of rational thought with the percepta themselves. When sciences deals with emotions, the emotions in question are percepta and not immediate passions--other people's emotions and not our own; at least our own in recollection, and not in immediacy. Religion deals with the formation of the experiencing subject; whereas science deals with the objects, which are the data forming the primary phase in this experience. The subject originates from, and amid, given conditions; sciences conciliates thought with this primary matter of fact; and religion conciliates the thought involved in the process with the sensitive reaction involved in that same process. The process is nothign else thatn the experiencing subject itself. In this explanation it presumed that an experiencing subject in one occasion of sensitive reaction to an actual world. Science finds religious experiences among its percepta; and religion finds scientific conetps among the conceptual experiences to be fused with particular sensitive reactions.
+
+The conclusion of thie discusssion is, first, the assertion of the old doctine that breadth of thought reacting with intensity of sensitive experience stands out as an utlimate claim of existence.
+```
+
+---
+
+
+---
+
+```
+There are simplicities connected with the motion of a bar of steel which are obscured if we refuse to abstract from the individual molecules; and there are certain simplicites concerning the behaviour of men which are obscured if we refuse to abstract from the individual peculiarities of particular specimens. In the same way, there are certain general truths, about actual things in the common world of activity, which will be obscured when attention is confined to some paritcular detailed mode of considering them. These general truths, involved in the meaning of every particular notion respecting the actions of things, are the subject matter for speculative philosophy. 
+```
+
+---
+
+---
+
+```
+Its ultimate appeal is to the general consciousness of what in practice we experience.
 ```
 
 ---
