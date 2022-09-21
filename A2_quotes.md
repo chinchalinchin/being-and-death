@@ -126,7 +126,7 @@ We must recognize that there is never a motive _in_ consciousness; motives are o
 ---
 
 ```
-Presence to self, on the contrary, supposes that an impalpable fissure has slipped into being. If being is present to itself, it is because it is not wholly itself. Presence is an immediate deterioration of coincidence, for it supposes separation. But if we ask ourselves at this point _what it is_ which separates the subject from himself, we are forced to admit it is _nothing_. Ordinarily what separates is a distance in space, a lapse in time, a psychological difference, or simply the individuality of two co-presents--in short, a _qualified_ reality. But in the case which concerns us, _nothing_ can separate the consciousness of belief from belief, since belief is _nothing other_ than the consciousness of belief.
+Presence to self, on the contrary, supposes that an impalpable fissure has slipped into being. If being is present to itself, it is because it is not wholly itself. Presence is an immediate deterioration of coincidence, for it supposes separation. But if we ask ourselves at this point _what it is_ which separates the subject from himself, we are forced to admit it is 'nothing'. Ordinarily what separates is a distance in space, a lapse in time, a psychological difference, or simply the individuality of two co-presents--in short, a _qualified_ reality. But in the case which concerns us, 'nothing' can separate the consciousness of belief from belief, since belief is _nothing other_ than the consciousness of belief.
 ```
 
 ---

@@ -39,6 +39,7 @@
 - [Facticity](https://en.wikipedia.org/wiki/Facticity)
 - [Invariance](https://en.wikipedia.org/wiki/Invariant_(mathematics))
 - [Law of Excluded Middle](https://en.wikipedia.org/wiki/Law_of_excluded_middle)
+- [Negation](https://en.wikipedia.org/wiki/Negation)
 - [Noumenon](https://en.wikipedia.org/wiki/Noumenon)
 - [Ontic](https://en.wikipedia.org/wiki/Ontic)
 - [Phenomenon](https://en.wikipedia.org/wiki/Phenomenology_(philosophy))
