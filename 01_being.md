@@ -222,6 +222,8 @@ In other words, the form of Being, its representations of the world, tells Being
 ![](./assets/negation_of_existence.svg)
 ![](./assets/negation_of_universality.svg)
 
+TODO: 
+
 Thus, Nothing, negation and existence are the metaphysical foundation of Being, the `a priori`s of ontology. This is what we mean when say, in the sequel, that "_Being is not identical to existence_".
 
 **Heidegger**'s failing was not realizing our ontological nature, our way of Being in the world, has an inherently metaphysical dimension. We find ourselves being in the world, with an inherent interpretation of that Being as a Being in the world. We have assumed a metaphysical posture by Being here, not there; this, not that. Our very Being is a metaphysical assertion that this is the way it is and not some other way. It is by Being and through Being that metaphysics become physics, if by physics we understand what is actual rather the inquiry of physics
