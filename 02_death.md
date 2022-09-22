@@ -1,4 +1,4 @@
-# Death
+# Book 2: Death
 
 We now begin the laborious work of constructing an ontology and metaphysics of Death, in order to show how philosophy is by necessity an incomplete field of inquiry and will forever remain so. We do this so that no one need ever concern themselves again with the misery and pointlessness of the whole endeavor. In this moment of respite between nihilistic soliloquies, the author once again reminds the reader there are far better way they could be spending their time: learning a new skill, watching dogs in the park, enjoying a well cooked meal amongst friends. The author implores the reader that nothing further will be gained, that what awaits us is primal horror of Being and our inability to come to terms with it. Applying analysis and logic will not force Death to yield anything of value. Any naive hope we retain to contrary thus far will, by the end, be smashed to bits and cast into the wind.
 
@@ -450,6 +450,7 @@ It is strange to the human to say the image is both things at once and neither a
 
 
 
+#
 
 Death, in its inestimatible way, has yet another unique property. For it is always with us in the form of possibility. This is not like other possibilities, which only emerge when we comport ourselves in a specific way. In other words, a thing is possible insofar that we understand how it may come to be, given where, when and how we are at this current moment in time. For this reason, we can understand propositions such as "the human had five eyes" or "the car drank a quart of whiskey" in terms of their possible explanation with respect to Being as hypotheticals that may manifest under the right circumstances, like a chemical compound that only forms its crystalline structure within a restricted range of temperature and pressure, whereas propositions such as "the distance is blue" or "five is salty" can only assume possibilities if we admit different interpretations of their respective forms. In this way, we say possibilitiy is contingent on Being. 
 

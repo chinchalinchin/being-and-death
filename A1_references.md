@@ -29,8 +29,7 @@
 ### Wikipedia
 - [A prior and a posteriori](https://en.wikipedia.org/wiki/A_priori_and_a_posteriori)
 - [Being-in-itself](https://en.wikipedia.org/wiki/Being_in_itself)
-- [Being-toward-death](https://en.wikipedia.org/wiki/Heideggerian_terminology#Being-toward-death)
-- [Concern](https://en.wikipedia.org/wiki/Heideggerian_terminology#Care_(or_concern))
+- [Characteristica Universalis](https://en.wikipedia.org/wiki/Characteristica_universalis)
 - [Conditional Disjunction](https://en.wikipedia.org/wiki/Conditional_disjunction)
 - [Contingency](https://en.wikipedia.org/wiki/Contingency_(philosophy))
 - [Dasein](https://en.wikipedia.org/wiki/Dasein)
@@ -38,6 +37,7 @@
 - [Dialectic](https://en.wikipedia.org/wiki/Dialectic)
 - [Epiphenomenon](https://en.wikipedia.org/wiki/Epiphenomenon)
 - [Facticity](https://en.wikipedia.org/wiki/Facticity)
+- [Heideggerian terminology](https://en.wikipedia.org/wiki/Heideggerian_terminology)
 - [Invariance](https://en.wikipedia.org/wiki/Invariant_(mathematics))
 - [Law of Excluded Middle](https://en.wikipedia.org/wiki/Law_of_excluded_middle)
 - [Negation](https://en.wikipedia.org/wiki/Negation)
