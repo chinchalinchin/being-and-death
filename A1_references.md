@@ -50,5 +50,10 @@
 - [Time Dilation](https://en.wikipedia.org/wiki/Time_dilation)
 
 ## Stack Exchange
+- [How can I get the negation of non-existential quantifier?](https://math.stackexchange.com/questions/228285/how-can-i-get-the-negation-of-exists-unique-existential-quantification)
 - [Proof that a function with a countable set of discontinuities is Reimann integrable](https://math.stackexchange.com/questions/263189/proof-that-a-function-with-a-countable-set-of-discontinuities-is-riemann-integra)
 - [What is the difference between metaphysics and ontology?](https://philosophy.stackexchange.com/questions/1534/what-is-the-difference-between-metaphysics-and-ontology)
+- [Why negating universal quantifier gives existential quantifier](https://math.stackexchange.com/questions/657931/why-negating-universal-quantifier-gives-existential-quantifier)
+
+## Videos
+- [![Negating Universal and Existential Quantifiers](http://img.youtube.com/vi/q1rKFGSiZE8/0.jpg)](http://www.youtube.com/watch?v=q1rKFGSiZE8)
