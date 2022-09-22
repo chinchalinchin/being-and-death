@@ -465,3 +465,26 @@ Death is the only possibility that has no contingency on Being, on so-called `fa
 
 
 Indeed, Death is always with us but we do not apprehend it in our Being until we first see its outline in the absence of another's Being, i.e. the Death of the Other. As children, we do not understand Death until we first understand the Other, that outside of ourselves are others like us, unknowable yet inferrable. Knowledge of death then follows when we finally confront it in the end of the Other. 
+
+
+
+
+
+
+
+
+### Anxiety
+
+**Heidegger** identifies anxiety as that which gives rise to Nothing; however, as we have seen, Nothing precedes Being, as Nothing is primarily a relation of existence and only negates Being through the transcedence of existence into Being. Therefore, we should properly say that Nothing is that which gives rise to the Being of anxiety.
+
+We must be careful with the terminology here; anxiety is meant in its precise ontological sense, which we shall now show.
+
+Consider, dear reader, the proposition your Being, as Being in the here and now, is Nothing at all. That all your wants and desires, all your friends and family, everything that you are, has no ground, that none of it can be justified, that it all may disappear for no reason at all. Being in every moment in time is like perpetually waking up to find yourself not dead; there is no reason to assume what follows should be, no reason to assume the world won't in the next moment cease to exist. Being is constantly running ahead of Death, saying: here, here, here, here, ... and then all of the sudden, Nothing. This is the anxiety of Being, the horror of Being, this is what Being is, fundamentally in its heart of hearts, that which always possesses the ability to not be.
+
+This is the ontic meaning of anxiety, that nagging at the periphery that _something is not quite right_, that what you feel might be Nothing. 
+
+There is only one mode of Being which seeks Nothing as its "object", and it is not anxiety as Heidegger postulates. Rather, in this case, Camus has the right of it. Suicide is the only interpretation of Being that orients itself to Death; We call this authentic suicide, by which we mean suicide that seeks to not be;  as opposed to inauthentic sucidie, that type of suicide which seeks Being in Death, as in the case of a soldier who charges headfirst into battle in order to die a hero, the hero symbol being what persists in Being after his death; this is not true suicide. Suicide is what happens when a Being is so distraught and anxious by its Being that it no longer desires to be.
+
+It is in this authentic way of Being towards suicide that we get a glimpse, at least obliquely, into the nature of Death. The Being of suicide is anguish and despair, when one has been torn from the world and all that remains is the pain inside, not the pain of the nervous system, but the raw and primordial pain of Being, whose meaning can only be captured in prose, where the form breaks down and stands for Nothing but pure and utter desolation, where the syntactical chaos of a fleeing imagination draws our semantic attachments swirling in its wake, where meaning is taken in hand and escorted beyond the bounds of reason and causality into unfiltered madness of passion, "_because such states spring up from the deepest and most intimate part of our being, from the substantial center of subjectivity, as from a radiation zone. One becomes lyrical when one's life beats to an essential rhythm and the experience is so intense that it synthesizes the entire meaning of one's personality_"[]
+
+[]: [The Heights of Despair, On Being Lyrical, Emil Cioran, 1934]()
