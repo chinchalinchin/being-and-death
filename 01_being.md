@@ -183,16 +183,7 @@ We may instead prefer to express these definitions symbolically using the author
 
 > B = { # x | x = n(A) } <-> n(B) = 1
 
-**NOTE**:
-- `#` represents the quantifier for existence
-- `@` represents the quantifier for universality
-- `!` represents negation
-- `|` represents denotion
-- `~` represents set membership
-- `<->` represents logical equivalence
-- uppercase letters A and B represents sets
-- lowercase letters represents unquantified set members
-- n(S) represents the cardinality of a set S, i.e. its countability[^13]
+See [appendix for symbol definitions](./A0_appendix.md#definitions)
 
 ---
 
@@ -204,7 +195,7 @@ Zero is defined as the cardinality of a contradictory set, following from its se
 
 Take note: the form of the contradiction is irrelevant. We could just as well define zero as the cardinality of the negation of the excluded middle. In either case, there is an inherent feature to any form we substitute into the set theoretic definition of zero: it contains a circular relation. The relation thus expressed will always involve an expression of x and a relation that cannot result in a judgement of truth. In **Frege**'s formulation this expression the inability of a thing to be itself. Furthermore, all subsequent numbers can be expressed via the recursion back to the original proposition about the cardinality of contradictions. 
 
-In other words, Nothing is `a priori` to Being; Being is `contingent` on Nothing[^14]. In order for this to be the case, negation must also be `a priori` to Being, for as **Frege** has shown, Nothing is captured through the negation of form.
+In other words, Nothing is `a priori` to Being; Being is `contingent` on Nothing[^13]. In order for this to be the case, negation must also be `a priori` to Being, for as **Frege** has shown, Nothing is captured through the negation of form.
 
 This is obvious in the realm of formal logic, where objects or objectified propositions are the operands of negation, conjunction or disjunction, over which existence is asserted via quantification. As an example, consider the formal proposition, "_for all a greater than zero, there exists an x such that x^2 + a = 0_" versus "_for all a greater than zero, there does not exist an x such that x^2 + a = 0_"; in both cases the form of the denoted content, i.e. the square of a number plus one equals zero, is identical, but the concept which solves the equation depends on the quantifier applied, i.e. how many exist. In the first case, the concept thus asserted is that of complex numbers, whereas in the second, the concept asserted is that of real numbers.
 
@@ -219,9 +210,9 @@ That these propositions becomes assertions is evident only in their reference to
 
 The conceptualization of objects is the essential metaphysical process. Metaphysics is the inquiry into the properties of this process.
 
-In all of this, we have said nothing of the Being of the concepts in this metaphysics. All we have shown is given their existence, how the contingency of Being arises through form, but is itself not the form, for we find ourselves in the world with the form. Existence is a property that emerges through the metaphysics of assertion and negation[^15]. The Being of the existent is beyond the realm of metaphysics, and is properly understood as subject matter for ontology. 
+In all of this, we have said nothing of the Being of the concepts in this metaphysics. All we have shown is given their existence, how the contingency of Being arises through form, but is itself not the form, for we find ourselves in the world with the form. Existence is a property that emerges through the metaphysics of assertion and negation[^14]. The Being of the existent is beyond the realm of metaphysics, and is properly understood as subject matter for ontology. 
 
-In other words, the form of Being, its representations of the world, tells Being nothing at all about what it means to be except that to be is not to be found in form thus expressed, but among these forms, otherwise it would not encounter that form in its Being. And if we ask what it is that separates us (in the mode of Being) from ourselves (in the mode of Being form), the only possbility is Nothing. This what **Jean-Paul Sartre** meant when he said, "_Presence to self, on the contrary, supposes that an impalpable fissure has slipped into being. If being is present to itself, it is because it is not wholly itself. Presence is an immediate deterioration of coincidence, for it supposes separation. But if we ask ourselves at this point 'what it is' which separates the subject from himself, we are forced to admit it is 'Nothing'."[^16]
+In other words, the form of Being, its representations of the world, tells Being nothing at all about what it means to be except that to be is not to be found in form thus expressed, but among these forms, otherwise it would not encounter that form in its Being. And if we ask what it is that separates us (in the mode of Being) from ourselves (in the mode of Being form), the only possbility is Nothing. This what **Jean-Paul Sartre** meant when he said, "_Presence to self, on the contrary, supposes that an impalpable fissure has slipped into being. If being is present to itself, it is because it is not wholly itself. Presence is an immediate deterioration of coincidence, for it supposes separation. But if we ask ourselves at this point 'what it is' which separates the subject from himself, we are forced to admit it is 'Nothing'."[^15]
 
 **Frege** has another stunning insight to stack on top of all of this talk of Nothing and negation, and its apparent `a priori` nature. We shall first state his result using modern symbolism and then provide a commentary on its meaning,
 
@@ -234,9 +225,9 @@ Thus, Nothing, negation and existence are the metaphysical foundation of Being, 
 
 **Heidegger**'s failing was not realizing our ontological nature, our way of Being in the world, has an inherently metaphysical dimension. We find ourselves being in the world, with an inherent interpretation of that Being as a Being in the world. We have assumed a metaphysical posture by Being here, not there; this, not that. Our very Being is a metaphysical assertion that this is the way it is and not some other way. It is by Being and through Being that metaphysics become physics, if by physics we understand what is actual rather the inquiry of physics
 
-**Alfred Whitehead**'s insight into this matter can be found in _Process and Reality_: "_Whenever we attempt to express the matter of immediate experience, we find that its understanding leads us beyond itself, to its contemporaries, to its past, to its future, and to the universals in terms of which its definiteness is exhibited. But such universals, by their very character of universality, embody the potentiality of other facts with variant types of definiteness. Thus the understanding of the immediate brute fact requires its metaphysical interpretation as an item in the world with some systematic relation to it_"[^17]
+**Alfred Whitehead**'s insight into this matter can be found in _Process and Reality_: "_Whenever we attempt to express the matter of immediate experience, we find that its understanding leads us beyond itself, to its contemporaries, to its past, to its future, and to the universals in terms of which its definiteness is exhibited. But such universals, by their very character of universality, embody the potentiality of other facts with variant types of definiteness. Thus the understanding of the immediate brute fact requires its metaphysical interpretation as an item in the world with some systematic relation to it_"[^16]
 
-This interpretation of which Whitehead speaks is implicitly metaphysical, because interpretation is with respect to the Being interpretting, which requires a world against which to interpret. But every interpretation is necessarily focused on its object inquiry, which can never be Being in its generality, but a Being in its particularity, and therefore fails to encompass the totality of Being. The Being of physics, for instance, will never coincide with the Being of the objects of its inquiry. In other words, "_If we consider any scheme of philosophic categories as one complex assertion, and apply to it the logician's alternative, true or false, the answer must be that the scheme is false_"[^18] because Being will always separate the inquiry from the inquired; or, "_the fallacy consists in neglecting the degree of abstraction involved when an actual entity is considered merely so far as it exemplies certain categories of thought_"[^19].
+This interpretation of which Whitehead speaks is implicitly metaphysical, because interpretation is with respect to the Being interpretting, which requires a world against which to interpret. But every interpretation is necessarily focused on its object inquiry, which can never be Being in its generality, but a Being in its particularity, and therefore fails to encompass the totality of Being. The Being of physics, for instance, will never coincide with the Being of the objects of its inquiry. In other words, "_If we consider any scheme of philosophic categories as one complex assertion, and apply to it the logician's alternative, true or false, the answer must be that the scheme is false_"[^17] because Being will always separate the inquiry from the inquired; or, "_the fallacy consists in neglecting the degree of abstraction involved when an actual entity is considered merely so far as it exemplies certain categories of thought_"[^18].
 
 TODO: sartre origin of negation reference here
 
@@ -247,7 +238,7 @@ With a nod to **Platonic** forms and as a harbinger of what is to come, we propo
 - Existence of form is an eternal relation in space.
 - Being of form is a transitory relation in time.
 
-We see in these laws why **Heidegger** came to understand time as the horizon over which Being is, rather than space. Space gives rise to form, but time gives rise to change, and a thing only becomes in relation to change. The Being of a form in time is a degeneration of the existence of the form in space[^20]. A Being becomes so that it be and in so doing, exposes itself to the possibility of perishablity. Its own Nothingness precedes the Being of form. 
+We see in these laws why **Heidegger** came to understand time as the horizon over which Being is, rather than space. Space gives rise to form, but time gives rise to change, and a thing only becomes in relation to change. The Being of a form in time is a degeneration of the existence of the form in space[^19]. A Being becomes so that it be and in so doing, exposes itself to the possibility of perishablity. Its own Nothingness precedes the Being of form. 
 
 We also note that, since Being is always in time, we must necessarily append another law to approach metaphysical completeness, i.e. we must have a law that explains what happens _after_ what is becomes what was.
 
@@ -260,15 +251,14 @@ We also note that, since Being is always in time, we must necessarily append ano
 [^8]: **Frege** would say `objective` instead of `metaphysical`, but here again we edit in modern terminology. The term `objective` shall be used the sense intended by **Schopenhauer**, in later sections.
 [^9]: We may this in the metaphorical sense, lest we dare rouse **Frege**'s ghost. 
 [^10]: [The Foundations of Arithmetic, Section III: Views on One and Oneness, Frege Gottlob, Frege, 1884](https://www.gutenberg.org/ebooks/48312) Note: the parenthesis are the author's own addition to bring **Frege**'s analysis in line our own.
-[^11]: This signals a missing dimension to **Kant**'s rough draft of ontology of `noumena` vs `phenomena`. In other words, appearance and phenomena are not identical, for there are phenomenal apprehensions that do not reside in the appearances we attach to the world. This is one of **Frege**'s greatest contributions to philosophy. 
-[^13]: **Frege** deserves full credit for his discovery that numbers are mappings between sets, i.e. concepts. However, as he made this discovery over a hundred years ago, we have updated the language of our analysis to reflect our modern understanding of his ideas. 
-[^14]: A tautology, if one ever existed.
-[^15]: We should say, properly, "_through the metaphysics of assertion and logic_", but we only wish to bring into relief at the current moment in time the contingency of Being on negation.
-[^16]: Do not be mislead by the notion of _space_ used here. This is not the _space_ of distance, but the _space_ of relation, where a thing exists through the logical necessity of its form. The relation "_is equal to_" applies not only to distances, but just as well to abstract concepts, as seen in the phrase "_speed of the car is equal to the angle of the speedometer multiplied by a constant_". Relations operate on domains of concepts, and it of this space made of the totality of relational domains that we now speak.
-[^17]: [Being and Nothingness, Chapter 1: Immediate Structure of the For-Itself, Section I: Presence to Self, Jean-Paul Sartre, 1958](https://archive.org/details/beingnothingness0000unse)
-[^18]: [Process and Reality, Chapter 1, Section VI, Alfred Whitehead, 1978](https://archive.org/details/processrealitygi00alfr)
-[^19]: [Process and Reality, Chapter 1, Section V, Alfred Whitehead, 1978](https://archive.org/details/processrealitygi00alfr)
-[^20]: [Process and Reality, Chapter 1, Section III, Alfred Whitehead, 1978](https://archive.org/details/processrealitygi00alfr)
+[^12]: This signals a missing dimension to **Kant**'s rough draft of ontology of `noumena` vs `phenomena`. In other words, appearance and phenomena are not identical, for there are phenomenal apprehensions that do not reside in the appearances we attach to the world, i.e. Number. This is one of **Frege**'s greatest contributions to philosophy. 
+[^13]: A tautology, if one ever existed.
+[^14]: We should say, properly, "_through the metaphysics of assertion and logic_", but we only wish to bring into relief at the current moment in time the contingency of Being on negation.
+[^15]: Do not be mislead by the notion of _space_ used here. This is not the _space_ of distance, but the _space_ of relation, where a thing exists through the logical necessity of its form. The relation "_is equal to_" applies not only to distances, but just as well to abstract concepts, as seen in the phrase "_speed of the car is equal to the angle of the speedometer multiplied by a constant_". Relations operate on domains of concepts, and it of this space made of the totality of relational domains that we now speak.
+[^16]: [Being and Nothingness, Chapter 1: Immediate Structure of the For-Itself, Section I: Presence to Self, Jean-Paul Sartre, 1958](https://archive.org/details/beingnothingness0000unse)
+[^17]: [Process and Reality, Chapter 1, Section VI, Alfred Whitehead, 1978](https://archive.org/details/processrealitygi00alfr)
+[^18]: [Process and Reality, Chapter 1, Section V, Alfred Whitehead, 1978](https://archive.org/details/processrealitygi00alfr)
+[^19]: [Process and Reality, Chapter 1, Section III, Alfred Whitehead, 1978](https://archive.org/details/processrealitygi00alfr)
 
 
 ### Concept

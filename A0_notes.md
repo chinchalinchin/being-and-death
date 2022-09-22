@@ -1,4 +1,0 @@
-## Symbols
-
-
-### Negating
