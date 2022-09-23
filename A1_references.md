@@ -10,22 +10,22 @@
 - [Process and Reality](https://archive.org/details/processrealitygi00alfr)
 - [Tractatus Logico-Philosophicus](https://archive.org/details/dli.ministry.23985)
 - [World as Will and Representation, The](https://archive.org/details/worldaswillrepre01scho)
-- [What Is Metaphysics?](https://archive.org/details/basicwritingsfro0000heid)
-  
 ### Gutenberg.org
 - [Critique of Pure Reason](https://www.gutenberg.org/ebooks/4280)
 - [Foundations of Arithmetic, The](https://www.gutenberg.org/ebooks/48312)
 - [Tractatus Logico-Philosophicus](https://www.gutenberg.org/ebooks/5740)
 - [World as Will and Representation](https://www.gutenberg.org/ebooks/38427)
-  
-
+## Essays
+### Archive.org
+- [What Is Metaphysics?](https://archive.org/details/basicwritingsfro0000heid)
+### Gutenberg.org
+- [On The Fourfold Rot of the Principle of Sufficient Reason](https://www.gutenberg.org/ebooks/50966)
 ## Encyclopedias
 ### Stanford Encyclopedia of Philosophy
 - [Certainty](https://plato.stanford.edu/entries/certainty/)
 - [Concept](https://plato.stanford.edu/entries/concepts/)
 - [Metaphysics](https://plato.stanford.edu/entries/metaphysics/)
 - [Nothingness](https://plato.stanford.edu/entries/nothingness/)
-- 
 ### Wikipedia
 - [A prior and a posteriori](https://en.wikipedia.org/wiki/A_priori_and_a_posteriori)
 - [Being-in-itself](https://en.wikipedia.org/wiki/Being_in_itself)
@@ -48,12 +48,12 @@
 - [Solipsism](https://en.wikipedia.org/wiki/Solipsism)
 - [Thing-in-itself](https://en.wikipedia.org/wiki/Thing-in-itself)
 - [Time Dilation](https://en.wikipedia.org/wiki/Time_dilation)
-
-## Stack Exchange
+## StackExchange
+### Mathematics
 - [How can I get the negation of non-existential quantifier?](https://math.stackexchange.com/questions/228285/how-can-i-get-the-negation-of-exists-unique-existential-quantification)
 - [Proof that a function with a countable set of discontinuities is Reimann integrable](https://math.stackexchange.com/questions/263189/proof-that-a-function-with-a-countable-set-of-discontinuities-is-riemann-integra)
-- [What is the difference between metaphysics and ontology?](https://philosophy.stackexchange.com/questions/1534/what-is-the-difference-between-metaphysics-and-ontology)
 - [Why negating universal quantifier gives existential quantifier](https://math.stackexchange.com/questions/657931/why-negating-universal-quantifier-gives-existential-quantifier)
-
+### Philosophy
+- [What is the difference between metaphysics and ontology?](https://philosophy.stackexchange.com/questions/1534/what-is-the-difference-between-metaphysics-and-ontology)
 ## Videos
 - [![Negating Universal and Existential Quantifiers](http://img.youtube.com/vi/q1rKFGSiZE8/0.jpg)](http://www.youtube.com/watch?v=q1rKFGSiZE8)
