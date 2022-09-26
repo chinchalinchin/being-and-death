@@ -174,4 +174,49 @@
 
 > We know the question posed by physiologists: "How can we set upright the objects which are painted upside down on our retina?" We know as well the answer of the philosophers: "There is no problem. An object is upright or inverted in relation to the rest of the universe. To perceive the whole universe inverted means nothing, for it would have to be inverted in relation to something." But what paritcularly interests us is the origin of this false problem. It is the fact that people have wanted to link my consciousness of objects to the body of the Other. Here are the candle, the crystalline lens, the inverted image on the screne of the retina. But to be exact, the retina enters here into a physical system: it is a "screen" and only that; the crystalline lens is a _lens_ and only a lens; both are homogeneous in their being with the candle which completes the system. Therefore we have deliberately chosen the physical point of view--i.e., the point of view of the outside, of exteriority--in order to study the problem of vision; we have considered a dead eye in the midst of the visible world in order to account for the visibility of this world. Consequently, how can we be surprised later when consciousness, which is absolute interiority, refuses to allow itself to be beound to this object? The relations which I establish between the Other"s body and the external object are really existing relations, but they have for their being the being of the for-others.
 
+1950s
+-----
 
+# Wittgenstein, Ludwig: Philosophical Investigations
+
+### Section 11
+
+> Think of the tools in a tool-box: there is a hammer, pliers, a saw, a screw-drive, a rule, a glue-pot, glue, nails and screws--The function of words are as diverse as the functions of these objects. (And in both cases there are similarities)
+
+> Of course what confuses us in the uniform appearance of words when we hear them spoken or meet them in script and print. For their application is not presented to us so clearly. Especially not, when we are doing philosophy!
+
+### Section 14
+
+> Imagine someone saying: "All tools serve to modify something. Thus the hammer modifies the position of the nail, the saw the shape of the board, and so on."--And what is modified by the rule, the glue-pot, the nails?--"Our knowledge of a thing's length, the temperature of the glue, the solidity of the box."--Would anything be gained by this assimilation of expressions?
+
+### Section 15
+
+> The word "to signify" is perhaps used in the most straight-forward way when the objet signified is marked with the sign.
+
+> It is in this and more or less similar ways that a name means and is given to a thing--It will often prove useful in philosophy to say to ourselves: naming something is like attaching a label to a thing.
+
+### Section 18
+
+> Ask yourself if our language is complete;--whether is was so before the symbolism of chemistry and the notation of the infinitesmial calculus were incorporated in it; for these are, so tp speak, suburbs of our language. (And how many houses or streets does it take before a town begins to be a town?) Our langague can be seen as an ancient city: a maze of little streets and squares, of old and new houses, and of houses with additions from various periods; and this surrounded by a multitude of new boroughs with straight regular streets and uniform houses.
+
+### Section 22
+
+> Frege's idea that every assertion contains an assumption, which is the thing that is asserted, really rests on the possibility found in our language of writing every statement in the form: "It is asserted that such-and-such is the case."--But "that such-and-such is the case" is not a sentence in our language--so far it is not a "move" in the language-game. And I write, not "It is asserted that ..." but, "It is asserted: such-and-such is the case", the words "it is asserted" simply become superfluous.
+
+> We might very well also write every statement in the form of a question followed by a "Yes"; for instance, "Is it raining? Yes!" Would this shew that every statement contains a question?
+
+**Author's note**: Yes. 
+
+### Section 27
+
+> "We name things and then we can talk about them: can refer to them in talk." --As if what we did next were given with the mere act of naming. As if there were only one thing called "talking about a thing". Whereas in fact we do the most various things with our sentences. Think of the exclamations alone, with their completely different functions: "Water!", "Away!", Ow!", "Help!", "Fine!", "No!". Are you still included to call these words "names of objects"?
+
+> We are brought up, trained, to ask: "What is that called?" --upon which the name is given. And there is also a language-game of inventing a name for something, hence of saying, "This is ..." and then using the new name. (Thus, for example, children give names to their dools and then talk about them and to them. Think in this connexion how singular is the use of a person's name to call him!)
+
+### Section 28
+
+> Now one can ostensively define a proper name, the name of a colour, the name of a material, a numeral, the name of a point of the compass and son. THe definition of the number two, "That is called 'two'"--point to two nuts--is perfectly exact.--But how can two be defined like that? The person one gives the definition to doesn't know what one wants to call "two"; he will suppose that "two" is the name given to "this" group of nuts!--He "may" suppose this; but perhaps he does not. He might make the opposite mistake; when I want to assign a name to this group of nuts, he might understand it as a numeral. And he might equally well take the name of a person, of which I give an ostensive definition, as that of a colour, of a race, or even of a point of the compass. That is to say: an ostensive definition can be variously interpretted in every case.
+
+### Section 29
+
+> Perhaps you say: two can onyl be ostensively defined in this way: "This number is called 'two'". For the word "number" her shews what place in language, in grammar, we assign to the word. But this means that the word"number" must be explained before the ostensive definition can be understood.--The word "number" in the definition does indeed shew this place; does shew the post at which we station the word. ANd we can prevent misunderstandsings by saying: "This colour is called so-and-so", "this length is called so-and-so", and so on. THat is to say: musunderstandings are sometimes averted in this way. But is there only one way of taking the word" oclor " or "length"?--Well, they just need defininig--DEfining, then, by means of other words! And what about the last definition in this cahin? (Do not say: "There isn't a 'last' definition." That is just as if you chose to say: "There isn't a last house in this road; one can always build an additional one."
