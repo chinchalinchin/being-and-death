@@ -81,12 +81,43 @@ It would seem, then, it does not matter which direction we choose to go, since w
 
 ## What is Being?
 
-With the warnings of futility thus dispensed, we will preface our discourse with a brief tour through the current state of our understanding of what it means _to be_. If Death can be said to be anything, then it must be as a negation of Being, i.e. _to not be_, a not-Being-there-in-the-world. Therefore, we first examine what is negated in Death to bring the scope of the problem into view. This will necessarily entail a brief discussion of the history of philosophy and what has led to our current understanding of Being. What is presented in the next sections is by no means an exhaustive commentary, but only meant to highlight concepts as they pertain to the current analysis.
+With the warnings of futility thus dispensed, we will preface our discourse with a brief tour through the current state of our understanding of what it means _to be_. If Death can be said to be anything, then it must be as a negation of Being, i.e. _to not be_, a not-Being-here-in-the-world. Therefore, we first examine what is negated in Death to bring the scope of the problem into view. This will necessarily entail a brief discussion of the history of philosophy and what has led to our current understanding of Being. What is presented in the next sections is by no means an exhaustive commentary, but only meant to highlight concepts as they pertain to the current analysis.
 
-The maturity of a field of inquirty can be seen in where its crises occur. Mathematics, by far the most mature of the sciences, took more than two thousand years to move past the crises in its theorems, e.g. the determination of areas, the calculation of ratios, the solution of equations, etc., before finally grappling with the crises in its foundations, i.e. notions of primitives and Number, of Infinity, of completeness and consistency (<sup><sub>or the inherent lack thereof</sub></sup>), etc.
+The maturity of a field of inquirty can be seen in where its crises occur. Mathematics, by far the most mature of the sciences, took more than two thousand years to move past the crises in its theorems, e.g. the determination of areas, the calculation of ratios, the solution of equations, etc., before finally grappling with the crises in its foundations, i.e. notions of primitives and Number, of Infinity, of completeness and consistency (<sup><sub>and their inherent mutual exclusion</sub></sup>), etc. This direction of progress bears an interesting feature, in that it is the opposite of what we would expect if the intellect were purely rational. In logic you start with assumptions and apply rules of inference until arriving at the complex conclusion; this is the exact opposite of the actual history of mathematics. Humanity first needed to study the application of mathematics, via the straight edge and compass, via computation and ratio, before grappling with the meaning of its precepts, as if the foundation of mathematics was consequent upon its use. While counter-intuitive, further reflection reveals this is as it should be, for to know a thing deeply you must first know it approximately. There are no marriages built in darkness.
 
-Philosophy, too, has recently come to grapple with it foundations. The crisis to be found in the current state of philsophy is mostly clearly seen in the vague division between metaphysics and ontology, which cuts to the very heart of Being. There is no general consensus as to what constitutes the subject matter of one subdivision of the study of Being over the other. In the following sections, we will focus our attention on this vagueness, so it might be dispersed and replaced with clarity. We will do so by recounting our curent understanding of the problem of _Being_, pointing out as we go along how the fields of ontology and metaphysics emerge naturally from considerations of _Being_.
+Philosophy, though arguably older than mathematics, has lanquished by comparison. If mathematics is a wildflower, multiplying wherever it takes root, then philosophy is a desert cactus, parcelling out its reserves only in times of need. Without the guidance of a powerful discipline, philosophy often degenerates into either a pale imitation of science or whimsical lyricism. Of these two options, the latter is preferrable, for atleast it revels in the proper domain of philosophy: that of language and meaning, and how they intersect or otherwise pass each without notice.
+ 
+This is most clearly seen in the vague division between metaphysics and ontology, two branches of philosophy which cut to the very heart of Being. There is no general consensus as to what constitutes the subject matter of one subdivision of the study of Being over the other. In the following sections, we will focus our attention on this vagueness, so it might be dispersed and replaced with clarity. We will do so by recounting our curent understanding of the problem of _Being_, pointing out as we go along how the fields of ontology and metaphysics emerge naturally from considerations of _Being_.
 
+### The Darkness That Comes Before
+
+In order to approach an understanding of _Being_, we must understand its place in our language. Therefore, we first turn to language and its structures in our analysis.
+
+Language is a historical artifact hiding in plain sight. Indeed, language is like a living autobiography, telling the story of our shared experience. **Ludwig Wittgenstein** likened language to "_an ancienty city: a maze of little streets and squares, of old and new houses, and of houses with additions from various periods; and this surrounded by a multitude of new boroughs with straight regular streets and uniform houses"[^4] By this he meant to draw attention to the fact that language is not absolute, but an evolutionary process, constantly shifting form and revealing new realms of meaning, but retaining its essential function: that of representation and signification between Beings. 
+
+Language has much to tells us about the origins of humanity, but it is coy in its explanations, never offering them except obliquely, through indication. By necessity, the origins of languages extend beyond the pages of history. 
+
+It is an interesting question whether or not this precedence of language on history is unique to human existence or is indeed a property of our collective Being. That a child is not born with language, but acquires it, suggests it is not a direct consequence of genetics; rahter it suggests language is a only a possibility of Being, something that need not have occurred, but did, as evidence by these words.
+
+If the origin of language can be generalized through the fog of uncertain history at all, then it must be said to be the result of humans coming to be and finding themselves in the world with the Other, i.e. the lurking possibility of Beings like themselves hiding in the forms they perceive. Every word we use to express a thought was claimed after a great primordial war, where one side was that of diverse intellects, armed with the ability to interpret each other's Being within their own, and the other was the Nothingness that separated these intellects from knowing each other directly, in the immediate way they knew themselves. 
+
+Imagine a pane of glass separating you from another person. Imagine further you do not share a common language, i.e. English, so that the possibility of reading lips is removed. Now, remove all knowledge gained from culture and society, all the lessons you learned in elementary school, all the route memorization where letters and numbers were ingrained into your understanding of the world, all the associations learned from your parents in your infancy when you were first discovering that language could signify and represent. 
+
+Now imagine the person on the other side has food and you do not. Imagine there is a slot in the glass, not dissimilar to a prison cell, through which objects can be passed. The only way for you to feed yourself is to somehow cajole, or otherwise induce, in the person on the other side of the glass the idea of passing food through the slot that connects your rooms. 
+
+How is conversation to be had in this thought experiment? How do you express yourself to the party on the other side of the glass, and visa versa? Through what symbolic space are we to project our intentions? In order to communicate, we must necessarily invent a new language. This is the situation our primitive ancestors found themselves in  (<sup><sub>metaphorically speaking, of course</sub></sup>), when they first attempted the experiment of communication.
+
+**Wittgenstein** pointed out that language is akin to a set of tools. The purpose of a tool is a product of the problem it solves. Likewise, the meaning of a word is only drawn from its context, and we often mistake that meaning as the _thingness_ of the word, when applied in a different context it would have yielded a different use. "_It is as if someone were to say: a game consists in moving objects about on a surface according to certain rules..."--and we replied: You seem to be thinking of board games, but there are others. You can make your definition correct by expressly restricting it to those games_"[^5]
+
+
+A hammer may be used to strike just as well as pry, and in each case its usage reveals a different purpose, as if slotting into a nexus made solely for it to slot. **Wittgenstein** cautions, however, not to conclude, then, that a tool "_serves to modify something_"[^6], for what is modified by the measuring tape, the level or the volt-meter? You may reply, "_our knowledge_", but is this the same type of modification undergone by the struck nail, or are we merely stretching our definitions to cover a gamut of phenomenon?
+
+"_What confuses us is the uniform appearance of words_"[^7], i.e. 
+
+[^4]: [Philosophical Investigations, Section 18, Ludwig Wittgenstein, 1953]()
+[^5]: [Philosophical Investigations, Section 3, Ludwig Wittgenstein, 1953]()
+[^6]: [Philosophical Investigations, Section 14, Ludwig Wittgenstein, 1953]()
+[^7]: [Philosophical Investigations, Section 11, Ludwig Wittgenstein, 1953]()
 ### Appearance versus Existence
 
 If modern philosophy has a spiritual grandfather, then few would argue that designation belongs to **Immanuel Kant**. 
@@ -150,7 +181,7 @@ How are we to separate the consequences of our assumptions, the consequences of 
 
 Death is a proposition about form: that it will cease be. 
 
-[^4]: [Process and Reality, Chapter 1, Section VI, Alfred Whitehead, 1978](https://archive.org/details/processrealitygi00alfr)
+[^4]: [Process and Reality, Chapter 1, Section VI, Alfred Whitehead, 1929](https://archive.org/details/processrealitygi00alfr)
 
 ### What is Metaphysics?
 
