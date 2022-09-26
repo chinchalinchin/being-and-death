@@ -114,10 +114,11 @@ A hammer may be used to strike just as well as pry, and in each case its usage r
 
 "_What confuses us is the uniform appearance of words_"[^7], i.e. 
 
-[^4]: [Philosophical Investigations, Section 18, Ludwig Wittgenstein, 1953]()
-[^5]: [Philosophical Investigations, Section 3, Ludwig Wittgenstein, 1953]()
-[^6]: [Philosophical Investigations, Section 14, Ludwig Wittgenstein, 1953]()
-[^7]: [Philosophical Investigations, Section 11, Ludwig Wittgenstein, 1953]()
+[^4]: [Philosophical Investigations, Section 18, Ludwig Wittgenstein, 1953](https://archive.org/details/philosophicalinv0000witt/page/n3/mode/2up)
+[^5]: [Philosophical Investigations, Section 3, Ludwig Wittgenstein, 1953](https://archive.org/details/philosophicalinv0000witt/page/n3/mode/2up)
+[^6]: [Philosophical Investigations, Section 14, Ludwig Wittgenstein, 1953](https://archive.org/details/philosophicalinv0000witt/page/n3/mode/2up)
+[^7]: [Philosophical Investigations, Section 11, Ludwig Wittgenstein, 1953](https://archive.org/details/philosophicalinv0000witt/page/n3/mode/2up)
+
 ### Appearance versus Existence
 
 If modern philosophy has a spiritual grandfather, then few would argue that designation belongs to **Immanuel Kant**. 
