@@ -98,6 +98,68 @@
 
 > As surely as we can never comprehend absolutely the whole of beings in themselves we certainly do find ourselves stationed in the midst of beings that are revealed somehow as a whole. In the end an essential distinction prevails between comprehending the whole of beings in themselves and finding oneself in the midst of beings as a whole.
 
+# Heidegger, Martin: Being and Time
+
+## Introduction, Chapter I: Exposition of the Question of the Meaning of Being
+
+### Section 3: The Formal Struture of the Question of Being
+
+> What we seek when we inquire into Being is not something entirely unfamiliar, even if at first we cannot grasp it at all.
+
+> When we come to what is to be interrogated, the question of Being requires that the right way of access to entities shall have been obtained and secured in advance.
+
+### Section 4: The Ontical Priority of the Question of Being
+
+> So far as existence is the determining character of the Dasein, the ontological analytic of this entity always requires that existentiality be considered beforehand. By "existentiality" we understand the state of Being that is constitutive for those entities that exist. But in the idea of such a constitutive state of Being, the idea of Being is already included. And thus even the possbility of carrying through the analytic of Dasein depends on working out beforehand the question about the meaning of Being in general.
+
+> Sciences are aways of Being in which Dasein comports itself towards entities which it need not be itself. But to Dasein, Being in a world is something that belongs essentially. Thus Dasein's understanding of Being pertains with equal primordiality both to an understanding of something like a "world", and to the understanding of the Being of those entities which become accessible within the world. So whenever an ontology takes for its theme entities whose character of Being is other than that of Dasein, it has its own foundation and motivation in Dasein's own ontical structure, in which a pre-ontological understanding of Being is comprised as a definite characteristic. 
+
+> Dasein accordingly takes priority  over all other entities in several ways. THe first priority is an ontical one: Dasein is an entity whose Being has the determinate character of existence. The second priority is an ontological one: Dasein is in itself "ontological", because existence is thus determinative for it. But with equal primordiality Dasein also possesses--as constitutive for its understanding of existence--an understand of the BEing of all entities of a character other than its own. Dasein has therefore a third priority as providing the ontico-ontological condition for the possibility of any ontologies.
+
+## Introduction, Chapter II: The Twofold Task in Working Out the Question of Being. Method and Design of our Investigation
+
+### Section 6: The Task of Destroying the History of Ontology
+
+> In its factical Being, any Dasein is as it already was, and it is "what" it already was.
+
+> When Dasein understand either itself of Being in general, it does so in terms of the "world".
+
+> We understand this task as one in which by taking "the question of BEing as our clue" we are to "Destory" the traditional content of ancient ontology until we arrive at those primordial experiences in which we achieved our first ways of determining the nature of Being.
+
+### Section 7: The Phenomenological Method of Investigation
+
+> The expression "phenomenology" signifies primarily a "methodological concepttion".
+
+> The more genuinely a methodological concept is worked out and the more comprehensively it determine sthe principles on which a science is to be conducted ,all the more primordially is it rooted i nthe way we come to terms with the things themselves, and the farther is it removed from what we call "technical devices", though there are many such devices even in the theoretical disciplines.
+
+> Thus we must keep in mind that the epxression "phenomenon" signifies that which shows itself in itself, the manifest.
+
+> Only when the meaning of something is such that it makes a pretension of showing itself--that is, of being a phenomenon--can it show itself as something which it is not; only then can it "merely look like so-and-so".
+
+> Appearing is an announcing-itself through something that shows itself. IF one then says that with the word "appearance" we allude to something wherein something appears without being itself an apperance, one has thereby defined the concept of phenomenon: one has rather presupposed it. 
+
+> According to this, phenomena are never appearances, though on the other hand every apperance is dependent on phenomena. 
+
+> So again the expression "appearance" itself can have a double-signification: first, "appearing", in the sense of announcing-itself, as not-showing-itself; and next, that which does the announcing--that which in its showing-itself indicates something which does not show itself. ANd finally one can use "appearing" as a term for the genuine sense of "phenomenon" as showing-itself. If one designates these three different thigns as "appearance", bewilderment is unavoidable.
+
+> "Phenomenon", the showing-itself-in-itself, signifies a distinctive way in which something can be encountered. "Appearance", on the other hand, means a reference-relationship which is in an entity itself, and which is such that what does the referring (or the announcing) can fulfill its possible function only if it shows itself in itself and is thus a "phenomenon".
+
+> Thus the term "phenomenology" is quite different in its meaning from expressions such as "theology" and the like. Those terms designate the objects of their respective sciences according to the subject matter which they comprise at the time. "Phenomenology" neither designates the object of its researches, nor characterizes the subject-matter thus comprised. The word merely informs us of a the "how" with which "what" is to be treated in this science gets exhibited and handled. To have a science "of" phenomena means to grasp its objects in such a way that everything about them which is up for discussion must be treated by exhibiting it directly and demonstrating it directly. THe expression "descriptive phenomenology", which is at the bottom tautological, has the same meaning.
+
+> Now what must be taken into account if the formal conception of phenomenon is to be deformalized into the phenomenological one and how is this latter to be distinguised from the ordinary conception? WHat is it taht phenomenology is to "let us see"? WHat is it that must be called a "phenomenon" in a distinctive sense? WHat is it that by its very essence is necessarily the theme whenever we exhibit something explicitly? Manifestly, it is somethign that proximally and for the msot part does not show itself at all: it is somethign that lies hidden, in contract to that which proximally and for the most part does show itself, and it belongs to it so essentially as to constitute its meaning and its ground.
+
+> Yet that which remains hidden in an egregious snes, or which relapses and gets covered up again, or which shwos itself only "in disguise", is not just this entity of that, but rather the Being of entities, as our previous observations have shown.
+
+> Only as phenomenology, is ontology possible. In the phenomenological conception of "phenomenon", what one has in mind s that which shows itself is the Being of entities, its meaning, its modifications and derivatives. And this showing-tself is not just any showing-itself, nor is it some such thing as appearing. Least of all can the Being of entities ever be anythign such that "behind it" stands something else "which does not appear"
+
+> Now that we have delimited our preliminary conception of phenomenology, the terms "phenomenal" and "phenomenological" can also be fixed in their signification. That which is given and explicable in the way the phenomenon is encountered is called "phenomenal"; this is what we have in mind we talk about "phenomenal structures". Everything which belongs to the species of exhibiting and explicating and which goes to make up the way of conveing demanded by this research, is called "phenomenological".
+
+## Part I: The Interpretation of Dasein in Terms of Temporality, and the Explication of Time as the Transcendental Horizon for the Question of Being
+
+### Section 9: The Theme of the Analytic of Dasein
+
+>
+
 # Whitehead, Alfred: Process and Reality
 
 ## Chapter 1: Speculative Philosophy
