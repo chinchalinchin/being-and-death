@@ -56,4 +56,13 @@
 ### Philosophy
 - [What is the difference between metaphysics and ontology?](https://philosophy.stackexchange.com/questions/1534/what-is-the-difference-between-metaphysics-and-ontology)
 ## Videos
+### MIT OpenCourseWare
+- [Introduction to Machine Learning](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/resources/lecture-11-introduction-to-machine-learning/)
+### Youtube
+**Stanford Online**
+- [![Logic 1 - Propositional Logic](http://img.youtube.com/vi/q1rKFGSiZE8/0.jpg)](https://www.youtube.com/watch?v=xL0kNw5TudI)
+**Dr. Trefor Bazett**
+- [![Logic Quantifiers](http://img.youtube.com/vi/GJpezCUMOxA/0.jpg)](https://www.youtube.com/watch?v=GJpezCUMOxA)
 - [![Negating Universal and Existential Quantifiers](http://img.youtube.com/vi/q1rKFGSiZE8/0.jpg)](http://www.youtube.com/watch?v=q1rKFGSiZE8)
+**3Blue1Brown**
+- [![What is a Neural Network?](http://img.youtube.com/vi/aircAruvnKk/0.jpg)](https://www.youtube.com/watch?v=aircAruvnKk)
