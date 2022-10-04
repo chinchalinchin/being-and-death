@@ -62,7 +62,8 @@
 
 **Stanford Online**
 
-- [![Logic 1 - Propositional Logic](http://img.youtube.com/vi/h0e2HAPTGF4/0.jpg)](https://www.youtube.com/watch?v=h0e2HAPTGF4)
+- [![Logic I - Propositional Logic](http://img.youtube.com/vi/h0e2HAPTGF4/0.jpg)](https://www.youtube.com/watch?v=h0e2HAPTGF4)
+- [![Machine Learning - Linear Regression & Gradient Descent](http://img.youtube.com/vi/h0e2HAPTGF4/0.jpg)](https://www.youtube.com/watch?v=jGwO_UgTS7I)
 
 **Dr. Trefor Bazett**
 

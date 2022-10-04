@@ -407,3 +407,18 @@ So it is with induction: a proof of induction, and therefore a proof _by_ induct
 This, however, is a logical method well-suited for Death, since as we have noted, Death will never be understood. The only course we may avail ourselves of is to define what Death is not and trace its outline through the ink of negation. Indeed, this will be the course of the present work. We shall attempt to negate our way towards an understanding of Death, an understanding that we have already noted is impossible. _C'est la vie_.
 
 [^10]: [The World As Will and Representation, Vol 1, Section ?, Arthur Schopenhauer, 1859](https://www.gutenberg.org/ebooks/38427)
+
+
+
+To those who hold fast to determinism and cling to the belief that possibility is psychological and not ontological, that the universe is a clockwork with initial conditions and laws of evolutions, one need consider the d'Alembert Principle and the work of Hamiliton and Lagrange.
+
+While Newton was in England developing his three laws from which he would deduce a broad array of phenomenon, such as planetary motion, geometric optics, etc., work was being done in continential Europe to express physical law in terms of an extremum principle. Rather than asserting the three laws of the motion as the primitives of mechanics, Hamilton and Lagrange showed these laws were the result of a more fundamental principle, that of _least action_:
+
+
+> The trajectory of a particle between two fixed points in _time_ is such that extremizes the quantity of _action_. 
+
+Where _action_ is defined as the difference between the potential and kinetic energy in a system integrated over the time period in consideration, i.e. the accumulated excess energy over and above what is proscribed by the system itself. By asserting motion is such that it minimizes this quantity, the Newton's laws naturally fall out of the mathematical balance of energy, i.e. the conservation of energy.
+
+By positing the laws of motions thus, Hamilton and Lagrange showed that within their formulation, they inherently contain the possibility of the world. It is as if the universe looked at all the possible lines that connected two points and brought into existence only that which satisfies the conditions of necessity, i.e. _least action_. 
+
+Except when we say universe in the preceding, we should be careful, for what we truly mean is the subject apprehending the universe, the _Dasein_ that reflects on its Being. Hamilton has expressed in his formulation a ontological primitive, i.e. a necessity of form.  
