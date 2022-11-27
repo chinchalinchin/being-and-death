@@ -105,6 +105,53 @@ For instance, we might model our brain's image recognition as a network that tak
 
 Model trees like this can be calibrated to datasets, so each node of the tree has a formulae for constructing the input to the next level. We feed into the model datasets that have been pre-labeled, i.e. this image contains a cat, this image contains a dog, etc. This network, or tree, of models is then trained against this control data set, so that it can be used to ingest unknown images and render predictions as to their content.
 
+TODO
+
+### Being and Existence
+
+The path before us is littered with questions the answers to which are not at all clear. We do not get very far into understanding what we are when we begin with even the simplest of questions. To wit, the notion of _is_, perhaps the foundation of all language, bears in it a confusion of concepts, so that when we pose the question _what is?_ versus _what is this?_, it is not clear the role played by _is_ is in fact the same in both cases.
+
+For when we say _a thing is_ and _a thing is this_, we mean two very different things. There is in these two possible interpretation of _is_ the notions of existence and Being, respectively. In the former case, the proposition is a claim of existence and in the latter, it is a claim about how, what and when _a thing must be_ in order that it exists, i.e. it is a qualification of existence.
+
+With the separation of Being and existence from the semantic meaning of _is_, we are then led to ask the type of relation that binds the two concepts together. If if it one of hiearchy, which has precedence? In other words, does one contain the other? That they are mutually exclusive does not seem to be the case, for the simple reason that the meanings are often conflated colloquially, that is to say, the distinction between the terms must be so fine as to slip all but the most attentive of gazes. Which is not to say we should discount the possibility, but rather that we should first see where the alternative leads.
+
+If the relation between Being and existence is one of containment, then it is either the case they are identical, a thing exists without being or a thing can be without existing. The first case, that of identity, can be ruled out, for the aforementioned reasons. Therefore, if a hierarchy relates existence to Being, then it is either the case Being contains existence, or existence contains Being.
+
+We now further clarify what is meant by the term _existence_ and the term _Being_
+
+In one way, when we say a _thing exists_ we mean that a _thing_ can be located at particular place, at a particular time. It exists by virtue of its encounterability. In this formulation, existence is an _instantiation_ of a category of _thingness_, a projection from possibility-space to real-space.
+
+In another way, we say things, such as triangles, exist. But in this sense, existence has a transitive property, for the existence of triangles is necessitated by the existence of more primitive terms, namely lines and angles and these from more primitive terms still, such as extension and curvature, and the operations thereof used to combine them. The existence of triangles is dependent on the existence of the axioms used to construct its concept, so that when we claim the existence of a triangle, ultimately our claim is reduced to the existence of it constituents.
+
+In truth, these two aspects of existence lead back to each other. When the aforementioned transitive property of existence is applied to the natural world and we claim a _thing_ exists, the proposition, as properly understood, is a claim about the actual components of the _thing_, that is, there is an existent underlying the thing. In seeking to find the primary _thing_, the _thing_ upon which all other existences are based, we are led down a series of divisions, segrating the _thing_ into its components, until its components become nothing but pure existence. At some point, the end of this series leads to particles, to quanta of attributes (i.e. mass, charge, spin, position, velocity, etc.), these attributes being the "stuff" of existence. 
+
+But in attempting to define a thing as existence, we have passed by its Being entirely. For if the Being of a table was reducible to its existence, i.e. its chemical composition, then it should not occur that separate existents should be separate tables, that is to say, if Being were identical to existence, a steel table would be a wholly different Being from the tree stump offered to the midday travellers as their lunch table. It is, however, the case that a table can exist through different mediums and retain its "table-ness", so that in the account of only its physical properties, we do not touch upon at all what it is that defines a table. 
+
+These ambiguities between Being and existnce no doubt result from double duty _is_ performs in our language. For when we say a _thing is_, we typically mean a _thing exists_, where as when we say a _thing is this_, we should understand this proposition as a proposition about Being. 
+  
+TODO
+
+With this preparatory remarks made and primitive defined, we arrive at our first stop in the long of history of our understanding of Being: Aristotle.
+
+### Substance and Form
+
+The first account of Being of which we are aware comes down to us through **Aristotle**, more than two thousand years ago. Despite the age of his works, they have remained throughout history a source of considerable study, in particular his contributions to the so-called _primary_ philosophy, what would be called today _ontology_, the study of Being itself. The essence of his contributions to untangling of the puzzle of Being are chiefly found in _Physics_ and _Metaphysics_. 
+
+The essential problem is this: A being is on one hand a substance, a material, matter. On the other hand, it is a multiplicity of _things_. A thing is at once a substance and a representative of something beyond the subtance. For instance, wood is a substance that assumes the form of a table or a chair. In either case, a different thing _becomes_ from the same underlying substance, yet the form of the substance differentiates the _things_ in their thinghood.
+
+The substance signifies through its form its inclusion in a _category_ of Being. This wood _is_ a table; the substance _is_ a thing. But in this, there is, as **Aristotle** was wont to say a puzzle (_aporia_); for a substance can _be_ many things; the table _is_ brown; the table _is_ three feet high; the table _is_ where meals happen. In each of these _beings_, there is an element of _coincidence_, where the particular thing, the table, need not have these _attributes_. Because of this, there is a _category_ demarcating a space of attributes, of the complete enumeration of possibilities of a given substantial form, encompassing the _being_ of a table, in all its multivariate ways. Being is, in Aristotelian physics, the becoming of Form through Substance. 
+
+In this division between Substance and Form, there is a trap that is perhaps impossible to avoid, for it perplexed a millenia of philsophers until the time of **Heidegger**. With the Aristotelian dyad of Substance and Form, we have the beginnings of the so-called mind-body dualism, which was properly synthesized as a framework by **Descartes**, that posits two modes of Being, mapping roughly one-to-one with substance and form, the _res extensa_ and the _res cogitans_, the Being of the physical and the Being of the mental. 
+
+It is this system of thought that mathematizes the physical as pure extension and duration. All things are ordered pairs of attributes and the universe is determined via the changing relationships of its parts. In other words, the _res extensa_, the Being of substance, is a volume of space changing with respect to time. 
+
+The _res cogitans_ is separate from this substance, in the way that we mean it _is_ _about_ the substance. In other words, the Being of the mental, because it _is not_ substance, is _insubstantial_. In this way, we cannot properly say a table _is_ a table at all, for a table is a mental construct on top of the physical Being of matter, so we must rather say, in a "scientific way", its physical counterpart is all that is, and all other designations are purely subjective. The thing which we call a table is in reality reduced to natural forces operating on the world-substance; it is a mathematical equilibrium, or atleast temporarily so. 
+
+There is an element of truth in this interpretation. How could there not be? It is this insight into the nature of Being that led to great revolutions of mathematics and science seen in the eighteenth and nineteenth century. Yet, we must admit, with respect to our phenomenal experience, this description is somehow lacking. With this interpretation, the table is a table because the Being of the mental designates it so, not because it _is_ a table. If we recall a table need not be constructed by human hand to be a table, for a tree stump or any elevated surface would serve the function just as well, the puzzle becomes clearer. 
+
+We here recall the immortal words of the Bard, "A rose by any other name would smell just as sweet." 
+
+
 ### The Darkness That Comes Before
 
 Each of us comes to the table with an innate understanding of what it means _to be_. We do it, _be_ that is, without so much as thought. In fact, this is the first point we should make in our analysis: Being doesn't require thought. Consciousness is not the determinative factor in our ability to be. This proposition runs counter to the conventional wisdom of the modern world, conditioned as it is by the emergence of machine learning and statistical models and the opinions of these algorithmic processes that view them as the forerunner to artificial intelligence, for we assume in narrating these facts that an artifical intelligence must also be conscious, misled perhaps by the label "_intelligence_". Intelligence, the author believes, comes later; we should understand these emerging fields as the precursor to _artificial Being_, if such an adjective can even be applied to a concept like Being.
