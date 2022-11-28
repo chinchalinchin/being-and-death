@@ -58,6 +58,22 @@
 
 > Also evident, and a point that raises a puzzle, is that movement is in the thing moved, since movement is the actualization of the moveable by what can in fact move something. And the activation of what is capable of moving something is no other than this. For there must be the actulaization of both, since it _can move_ something by having the potentiality to do so, and it _is moving_ it by being active. But it is on the moveable that the mover is capable of acting, so that the activation of both alike is one, just like the interval from one to two and from two to one, or the hill up and the hill down. For these thingss are one, but their account is not one. And similarly in the case of the mover and the moved.
 
+1630s
+-----
+
+# Descartes, Rene: Discourse on Method
+
+**Translated by Elizabeth S. Haldane and G.R.T Ross**
+
+## Part IV
+
+> I noticed that whilst I thus wished to think all things false, it was absolutely essential that the 'I' who thought this should be somewhat, and remarking that this truth '_I think, therefore I am_' was so certain and so assured that all the most extravagant suppositions brought forward by the sceptics were incapable of shaking it, I came to the conclusion that I could receive it without scruple as the first principle of the Philosophy for which I was seeking.
+
+> And then, examining attentively that which I was, I saw that I could conceive that I had no body, and that there was no world nor place where I might be; but yet that I could not for all that conceive that I was not. On the contrary, I saw from the very fact that I thought of doubting the truth of other things, it very evidently and certainly followed that I was; on the other hand, if I had only ceased from thinking, even if all the rest of what I had ever imagined had really existed, I should have no reason for thinking that I had existed. From that I knew that I was a substance the whole essence or nature of which is to think, and that for its existence there is no need of any place, nor does it depend on any material thing; so that this 'me', that is to say, the soul by which I am what I am, is entirely distinct from body, and is even more easy to know than is the latter; and even if body were not, the sould would not cease to be what it is.
+
+> And having remarked that there was nothing at all in the statement: '_I think, therefore I am_' which assures me of having thereby made a true assertion excepting that I see very clearly that to think it is necessary to be.
+
+> In addition to this, I had ideas of many things which are sensible and corporeal, for, although I might suppose that I was dreaming, and that all that I saw or imagined was false, I could not at the same time deny that the ideas were really in my thoughts. But because I had already recognized very clearly in myself that the nature of intelligence is distinct from that of the body, and observing that all composition gives evidence of dependency, and that dependency is manifestly an imperfection, I came to the conclusion that it could not be a perfection in God to be composed of these two natures, and that consequently He was not so composed.
 
 1780s
 -----
