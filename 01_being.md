@@ -104,7 +104,7 @@ These ambiguities between Being and existnce no doubt result from double duty _i
   
 TODO
 
-With this preparatory remarks made and primitive defined, we arrive at our first stop in the long of history of our understanding of Being: Aristotle.
+With this preparatory remarks made and primitives defined, we arrive at our first stop in the long of history of our understanding of Being: Aristotle.
 
 ### Substance and Form
 
@@ -127,7 +127,7 @@ We here recall the immortal words of the Bard, "A rose by any other name would s
 
 ### The Darkness That Comes Before
 
-Each of us comes to the table with an innate understanding of what it means _to be_. We do it, _be_ that is, without so much as thought. In fact, this is the first point we should make in our analysis: Being doesn't require thought. Consciousness is not the determinative factor in our ability to be. This proposition runs counter to the conventional wisdom of the modern world, conditioned as it is by the emergence of machine learning and statistical models and the opinions of these algorithmic processes that view them as the forerunner to artificial intelligence, for we assume in narrating these facts that an artifical intelligence must also be conscious, misled perhaps by the label "_intelligence_". Intelligence, the author believes, comes later; we should understand these emerging fields as the precursor to _artificial Being_, if such an adjective can even be applied to a concept like Being.
+Each of us comes to the table, in the coincidentally literal _and_ figurative sense, with an innate understanding of what it means _to be_. We do it, _be_ that is, without so much as thought. In fact, this is the first point we should make in this section's analysis: Being doesn't require thought. Consciousness is not the determinative factor in our ability to be. This proposition runs counter to the conventional wisdom of the modern world, conditioned as it is by the emergence of machine learning and statistical models and the opinions of these algorithmic processes that view them as the forerunner to artificial intelligence, for we assume in narrating these facts that an artifical intelligence must also be conscious, misled perhaps by the label "_intelligence_". Intelligence, the author believes, comes later; we should understand these emerging fields as the precursor to _artificial Being_, if such an adjective can even be applied to a concept like Being.
 
 The true nature of Being can be seen in its extremities, when it forced in an unsustainable mode. This is most apparent in experiences of great pain or ecstasy, when the self drains away, abstraction melts into concrete reality and we are left with the raw sensous impressions of experience itself; in these moments, the world narrows down to the immediate, to what is directly at hand and readily apparent in our senses. One need only attempt a calculus problem after shattering a femur to attest to the truth of this; It is only with tremendous effort the self can be reclaimed in moments such as these, and it is these stories we make legend, for resisting temptation in pursuit of a higher goal or ceasing to die in the face of Death until your purpose is fulfilled are the highest mark a Being can attain. These themes speak to us because they return us to a primordial state, before considerations of consciousness crowd out all others, and show what the self really is: a struggle to sustain itself despite the incessant efforts of nature it to its primary state of Nothing.
 
