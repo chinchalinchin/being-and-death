@@ -72,24 +72,29 @@ TODO
 
 ### הָיָה and הָוָה 
 
-It should come as no surprise, given the importance and precedence of Being, that it is in the origins of humanity's culture and religion that we likewise find the beginning of the historical account of Being. The Bible, while its accuracy as it relates to the actual events of history may up for question, nonetheless serves as a time capsule of our understanding of Being, circa four thousand years ago. In its passages, we discover humanity's early attempts to understand what is they are.
+It should come as no surprise, given the importance and precedence of Being, that it is in the origins of humanity's culture and religion that we likewise find the beginning of the historical account of Being. The Bible, while its accuracy as it relates to the actual events of history may up for question, nonetheless serves as a time capsule for our understanding of Being, circa four thousand years ago. In its passages, we discover our early attempts to understand what is we are.
 
-In very beginning, within the text of **Exodus**, God reveals his true name to Moses on Mount Sinai, 
+In the opening books of the Old Testament, within the text of **Exodus**, God reveals his true name to Moses on Mount Sinai, 
 
 > And Moses said unto God: 'Behold, when I come unto the children of Israel, and shall say unto them: The God of your fathers hath sent me unto you; and they shall say to me: What is His name? what shall I say unto them?'
 
 > And God said unto Moses: 'I AM THAT I AM'; and He said: 'Thus shalt thou say unto the children of Israel: I AM hath sent me unto you.'
 
-God's reply to Moses,
+God's reply to Moses, derived from Hebrew,
 
-> אֶהְיֶה (ehyé)
+> אֶהְיֶה (ehyé) אֲשֶׁר (’ăšer) אֶהְיֶה (ehyé)
 
-has been translated numerous ways: _I am that I am_, _I am what I am_, _I am what am_, _I am what exists_. The Hebrew word, אֶהְיֶה, is the first person singular of the simpler הָיָה, pronounced phonetically as hâyâh, which has been translated as _to be, become, come to pass, exist, happen, fall out_[^4]. Modern Hebrew interprets the conjugation of God's reply in the future tense, however Hebrew at the time did not differentiate tenses. There was no difference, atleast grammatically speaking, in Ancient Hebrew between the notions of _will be_, _has been_, _is now_. That their grammar did not allow for conjugation must be taken into account, but nonetheless there is much to be gained by understanding the Bible's concept of Being. This is how the name Judaism gave to God, _Yahweh_, must be interpretted: as an attempt to enunciate and categorize types of Being, before language had properly clarified it meanings.
+has been translated numerous ways: _I am that I am_, _I am what I am_, _I am what am_, _I am that am_, _I am who am_. 
 
-Our earliest stories of God are draped in the semantics of Being. Our first incliation to the divine, insofar as it has come down to us, was an expression of what is meant by Being, in particular the Being of the divine, and the BEing of the divine, the Bible tells us, is identified exactly as the type of Being contained in the modern proposition _I am_. 
+The Hebrew word, אֶהְיֶה, is the first person singular of the infinitive הָיָה, pronounced phonetically as "hâyâh", which translates to _to be, become, come to pass, exist, happen, fall out_[^4]. Modern Hebrew interprets the conjugation of God's reply in the future tense, i.e. _I will be what I will be_. however Hebrew at the time did not differentiate tenses. There was no difference, atleast grammatically speaking, in Ancient Hebrew between the notions of _will be_, _has been_, _is now_. 
 
-According to our ancestors' account, God is what I am. Interpretted in the literal sense, this account of the divine identifies our type of Being, the Being that is contained in the I's _am_[^5], as a a separate sort of Being from that of other Beings, and it is this separateness that includes it under the heading of divine.
+The term, אֲשֶׁר, is a semantic device known as a _relativizer_ that plays the analogous role of the English _that_ in sentences such as _I am writing so **that** you may read this_, _here is something **that** you can use_ or _he told us that it is so_. 
 
+Our earliest stories of God are draped in the semantics of Being. The name Judaism gave to God, _Yahweh_, interpretted in this fashion, should be understood, by the dispassionate observer, as an attempt to enunciate and categorize types of Being, before language had properly clarified it meanings into the diversity of meanings seen in _am_, _are_, _was_, _were_, _has been_, etc. The choice of first person singular, as opposed to the impersonal third person, is telling, in this respect, for it is a claim about the Being of God, namely that God is in the same way the subject of _I am_ is. Our first incliation to the divine, insofar as it has come down to us, was an expression of what is meant by Being, in particular the Being of the divine, and the Being of the divine, the Bible tells us, is identified exactly as the type of Being contained in the modern proposition _I am_. 
+
+According to our ancestors' account, God is what I am. Interpretted in the literal sense, this account of the divine identifies our type of Being, the Being that is contained in the I's _am_[^5], as a a separate sort of Being from that of other Beings, and this separateness is exactly what gives rises to the classification of the divine.
+
+TODO
 
 What significance does the invention/discovery of the linguistic component of Being[^6] bring with it in the history of language? Can we say definitively the notion of Being did not precede language, historically speaking? Did humans have any idea what was meant by _Being_ without a representation that signified, through its related parts, all the ways a thing could be: this _is_ blue, this _is_ dangerous, this _is_ love. Were the concepts of blue, danger and love pre-existing, or were they a by-product of the development of language?
 
