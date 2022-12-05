@@ -6,7 +6,7 @@
 
 ## Book XII, Chatper 14
 
-> Of things that reciprocate as to implication of being (_einai_), that which is in some way the cause of the other's being might perfectly sensibly be called prior in nature. And that there are some such cases is clear. FOr there being a human reciprocates as to implication of being with the true statement about it: if there is a human, the statement whereby we say that there is a human is true, and reciprocally--since if the statement whereby we say there is a human is true, there is a human. And whereas teh true statement is in no way the cause of the thing's being, the thing does seem in some way to be the cause of the statement's being true. For it is because of the thing's being or not being that the statement is called true or false.
+> Of things that reciprocate as to implication of being, that which is in some way the cause of the other's being might perfectly sensibly be called prior in nature. And that there are some such cases is clear. FOr there being a human reciprocates as to implication of being with the true statement about it: if there is a human, the statement whereby we say that there is a human is true, and reciprocally--since if the statement whereby we say there is a human is true, there is a human. And whereas teh true statement is in no way the cause of the thing's being, the thing does seem in some way to be the cause of the statement's being true. For it is because of the thing's being or not being that the statement is called true or false.
 
 
 # Aristotle: Physics
@@ -16,7 +16,7 @@
 
 > Of beings, some are by nature, while others are due to other causes. THose that are by nature are animals and their parts, plants, and simple bodies--for example, earth, fire, air, and water (for we say that these and things like them are by nature). ALl these things evidently differ from things thtat are not composed by nature. FOr each of them has within itself a starting-point of moving and being at rest--some with respect to place, some with respect to increase and decrease, others with respect to alteration.
 
-> A bed, by contrast, or a clock, or anything else of that king (_genos_), insofar as each such predicate applies to it--that is, to the extent that it is a product of craft--has no innate impulse to change. But insofar as it is coincidentally made of stone, earth of a mixture of the two, to taht very extent, it _does_ have one. THis is because nature is a sort of starting-point and cause of moving and being at rest in that to which it belongs primarily, intrinsically, and not coicidentally. 
+> A bed, by contrast, or a clock, or anything else of that kind, insofar as each such predicate applies to it--that is, to the extent that it is a product of craft--has no innate impulse to change. But insofar as it is coincidentally made of stone, earth of a mixture of the two, to taht very extent, it _does_ have one. THis is because nature is a sort of starting-point and cause of moving and being at rest in that to which it belongs primarily, intrinsically, and not coicidentally. 
 
 > Nature, then, is what has been stated. Andd things that have this sort of starting-point have a nature. And each of them is a substance. FOr a substance is a sort of underlying subject, and a nature is always in an underlying subject. ANd these things are also in accord with nature, as too is whatever belongs intrinsically to them, as spatial movement upward belongs to fire--for this neither is nor has a nature but is by nature and in accord with nature.
 

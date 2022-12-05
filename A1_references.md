@@ -10,6 +10,7 @@
 - [Principia Mathematica](https://archive.org/details/cu31924001575244)
 - [Process and Reality](https://archive.org/details/processrealitygi00alfr)
 - [Tractatus Logico-Philosophicus](https://archive.org/details/dli.ministry.23985)
+- [White Yajurveda](https://archive.org/details/textswhiteyajur00grifgoog/page/n326/mode/2up)
 - [World as Will and Representation, The](https://archive.org/details/worldaswillrepre01scho)
 ### gutenberg.org
 - [Critique of Pure Reason](https://www.gutenberg.org/ebooks/4280)
