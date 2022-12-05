@@ -1,8 +1,9 @@
 # References
 ## Books
-### Archive.org
+### archive.org
 - [Being and Nothingness](https://archive.org/details/beingnothingness0000unse)
 - [Being and Time](https://archive.org/details/pdfy-6-meFnHxBTAbkLAv/page/n7/mode/2up)
+- [Ideas](https://archive.org/details/IdeasPartI)
 - [Myth of Sisyphus, the](https://archive.org/details/mythofsisyphus0000unse/page/n5/mode/2up)
 - [On Certainty](https://archive.org/details/oncertainty00witt)
 - [Philosophical Investigations](https://archive.org/details/philosophicalinv0000witt/page/n3/mode/2up)
@@ -10,16 +11,19 @@
 - [Process and Reality](https://archive.org/details/processrealitygi00alfr)
 - [Tractatus Logico-Philosophicus](https://archive.org/details/dli.ministry.23985)
 - [World as Will and Representation, The](https://archive.org/details/worldaswillrepre01scho)
-### Gutenberg.org
+### gutenberg.org
 - [Critique of Pure Reason](https://www.gutenberg.org/ebooks/4280)
 - [Foundations of Arithmetic, The](https://www.gutenberg.org/ebooks/48312)
 - [Tractatus Logico-Philosophicus](https://www.gutenberg.org/ebooks/5740)
 - [World as Will and Representation](https://www.gutenberg.org/ebooks/38427)
+### classics.mit.edu
+- [Physics](http://classics.mit.edu/Aristotle/physics.html)
+- [Metaphysics](http://classics.mit.edu/Aristotle/metaphysics.html)
 ## Essays
 ### Archive.org
 - [What Is Metaphysics?](https://archive.org/details/basicwritingsfro0000heid)
 ### Gutenberg.org
-- [On The Fourfold Rot of the Principle of Sufficient Reason](https://www.gutenberg.org/ebooks/50966)
+- [On The Fourfold Root of the Principle of Sufficient Reason](https://www.gutenberg.org/ebooks/50966)
 ## Encyclopedias
 ### Stanford Encyclopedia of Philosophy
 - [Certainty](https://plato.stanford.edu/entries/certainty/)
@@ -46,8 +50,13 @@
 - [Phenomenon](https://en.wikipedia.org/wiki/Phenomenology_(philosophy))
 - [Reductionism](https://en.wikipedia.org/wiki/Reductionism)
 - [Solipsism](https://en.wikipedia.org/wiki/Solipsism)
+- [Strong's Concordance](https://en.wikipedia.org/wiki/Strong's_Concordance)
+- [Tetragrammatron](https://en.wikipedia.org/wiki/Tetragrammaton)
 - [Thing-in-itself](https://en.wikipedia.org/wiki/Thing-in-itself)
 - [Time Dilation](https://en.wikipedia.org/wiki/Time_dilation)
+### Exhaustive Concordance of the Bible
+- [hâyâh (haw-yaw)](https://www.blueletterbible.org/lexicon/h1961/wlc/wlc/0-1/)
+- [hâvâh (haw-vaw)](https://www.blueletterbible.org/lexicon/h1933/wlc/wlc/0-1/)
 ## StackExchange
 ### Mathematics
 - [How can I get the negation of non-existential quantifier?](https://math.stackexchange.com/questions/228285/how-can-i-get-the-negation-of-exists-unique-existential-quantification)
@@ -59,17 +68,11 @@
 ### MIT OpenCourseWare
 - [Introduction to Machine Learning](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/resources/lecture-11-introduction-to-machine-learning/)
 ### Youtube
-
 **Stanford Online**
-
 - [![Logic I - Propositional Logic](http://img.youtube.com/vi/h0e2HAPTGF4/0.jpg)](https://www.youtube.com/watch?v=h0e2HAPTGF4)
 - [![Machine Learning - Linear Regression & Gradient Descent](http://img.youtube.com/vi/h0e2HAPTGF4/0.jpg)](https://www.youtube.com/watch?v=jGwO_UgTS7I)
-
-**Dr. Trefor Bazett**
-
+**Dr. 
 - [![Logic Quantifiers](http://img.youtube.com/vi/GJpezCUMOxA/0.jpg)](https://www.youtube.com/watch?v=GJpezCUMOxA)
 - [![Negating Universal and Existential Quantifiers](http://img.youtube.com/vi/q1rKFGSiZE8/0.jpg)](http://www.youtube.com/watch?v=q1rKFGSiZE8)
-
 **3Blue1Brown**
-
 - [![What is a Neural Network?](http://img.youtube.com/vi/aircAruvnKk/0.jpg)](https://www.youtube.com/watch?v=aircAruvnKk)

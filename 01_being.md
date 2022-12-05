@@ -48,6 +48,8 @@ When philosophy attempts to hew to the scientific method and objectifies the sub
 
 No doubt the advance of machine learning and artifical intelligence has helped mislead philosophy back into the rationalist trap in which it has so often found itself stuck throughout history. The results of these fields are staggering and alluring, as if everything we are might be reduced to the mechanical equations of a machine, as if consciousness and Being were contained in the regression coefficient matrices underlying machine learning and not _their application over time and space_. 
 
+TODO 
+
 It seems likely that we will, in the near future, have an algorithm capable of producing a process that yields digital sentience, but we must be careful to understand the implications of such an algorithm. It will not be the symbols themselves that offer up another soul to the universal meat grinder, but the utter incomprehensibility of their results uninterprettable without the presupposition of the Other that will give rise to digital Being. We should not expect to find the meaning of the algorithm in the instructions it prescribes, but in the actual conceptualizations formed by the algorithm.
 
 Neural networks provide an interesting case study in Being, if we suppose these models do in fact possess some resemblance to actuality. A neural network, as currently understood in computer science, is nothing more than a recursive tree of regression models, where each node in a layer of the tree is dependent on the nodes from the previous layer and in turn feeds into the next layer.
@@ -62,7 +64,56 @@ Model trees like this can be calibrated to datasets, so each node of the tree ha
 
 TODO
 
-### Heuristics of Seeming
+### הָיָה and הָוָה 
+
+It should come as no surprise, given the importance and precedence of Being, that it is in the origins of humanity's culture and religion that we likewise find the beginning of the historical account of Being. The Bible, while its accuracy as it relates to the actual events of history may up for question, nonetheless serves as a time capsule of our understanding of Being, circa four thousand years ago. In its passages, we discover humanity's early attempts to understand what is they are.
+
+In very beginning, within the text of **Exodus**, God reveals his true name to Moses on Mount Sinai, 
+
+> And Moses said unto God: 'Behold, when I come unto the children of Israel, and shall say unto them: The God of your fathers hath sent me unto you; and they shall say to me: What is His name? what shall I say unto them?'
+
+> And God said unto Moses: 'I AM THAT I AM'; and He said: 'Thus shalt thou say unto the children of Israel: I AM hath sent me unto you.'
+
+God's reply to Moses,
+
+> אֶהְיֶה (ehyé)
+
+has been translated numerous ways: _I am that I am_, _I am what I am_, _I am what am_, _I am what exists_. The Hebrew word, אֶהְיֶה, is the first person singular of the simpler הָיָה, pronounced phonetically as hâyâh, which has been translated as _to be, become, come to pass, exist, happen, fall out_[^4]. Modern Hebrew interprets the conjugation of God's reply in the future tense, however Hebrew at the time did not differentiate tenses. There was no difference, atleast grammatically speaking, in Ancient Hebrew between the notions of _will be_, _has been_, _is now_. That their grammar did not allow for conjugation must be taken into account, but nonetheless there is much to be gained by understanding the Bible's concept of Being. This is how the name Judaism gave to God, _Yahweh_, must be interpretted: as an attempt to enunciate and categorize types of Being, before language had properly clarified it meanings.
+
+Our earliest stories of God are draped in the semantics of Being. Our first incliation to the divine, insofar as it has come down to us, was an expression of what is meant by Being, in particular the Being of the divine, and the BEing of the divine, the Bible tells us, is identified exactly as the type of Being contained in the modern proposition _I am_. 
+
+According to our ancestors' account, God is what I am. Interpretted in the literal sense, this account of the divine identifies our type of Being, the Being that is contained in the I's _am_[^5], as a a separate sort of Being from that of other Beings, and it is this separateness that includes it under the heading of divine.
+
+
+What significance does the invention/discovery of the linguistic component of Being[^6] bring with it in the history of language? Can we say definitively the notion of Being did not precede language, historically speaking? Did humans have any idea what was meant by _Being_ without a representation that signified, through its related parts, all the ways a thing could be: this _is_ blue, this _is_ dangerous, this _is_ love. Were the concepts of blue, danger and love pre-existing, or were they a by-product of the development of language?
+
+What would language be expressing, if not the Being of its subject matter? Is the concept of Being implicitly contained in even the most rudimentary of languages, or is it explicit, in that those who are said to speak, must first recognize themselves as Beings and have their thoughts ordered by a mental heuristic that approximates the linguistic quanta of Being? 
+
+How would one talk about abstractions like color and sound without the notion of Being? How would one reference the blueness of ink without saying _this part is blue_ and _this part is ink_, and then demonstrating, through their use, how it is that a thing is said to be blue and how it is a thing is said to be ink?
+
+In a certain way, the concept of blue identified as belonging, in Being, to the partS of a complex identified as a pen, has its meaning tied up in its relation to the color of other things. We can separate blue from the other colors by enumerating _this is not blue; this is red_, _this is not blue; this is green_, but we cannot separate blue from the thing itself,.e. we say _this is blue ink_, and this thing we have that we call _blue_ink_ cannot be called as such without the color blue Being a part of the thing. 
+
+The Being of color is partitioned within its concept, so that each color is separate from other colors while still retaining the _colorness_ that binds them as a mode of representation, but color is not separated from the thing of which it is an attribute. In other words, the color _blue_ obtains its meaning through its relation to the other concepts it find within the annals of language, but only insofar as that relation is a representation of something existent. 
+
+How would motion be captured in language, if an object that was previously somewhere else cannot be identified as an object that is now here through the relation of Being? 
+
+Without Being, there is no way to draw the commonality of things outside of themselves into a higher order without the notion of _is_ providing its basis. 
+
+The modern world has, by virtue of its historicality, filled in the meaning of most words we know, so that when we come to be, we are no longer inventing, but discovering the meaning of language, or so it seems. We learn the words of the Other as they were objects unto themselves, using them as bootstraps to pull up our own imagination in word-space. This process, however, hides the true origin of language in ourselves. 
+
+Language begins in Being. It is a way of describing the nature of things. THe world can be known through information ebcause there is a correspondence of forms between the parts of a language and their complex and the world at large. The way we are in the world, that is the image project up through the lines of language. 
+
+It must have been surprising to the first being who recognized in language the image of the world. One is tempted to posit that exact moment as the historical origin of sentience. Akin to a photograph or a painting, a sentence is a reflection of Being; even when a painting depicts a fiction, it stil does so through the dimensions of necessity, through color and perspective, through representation; the same can be said of a sentence, for when we sketch the image of a paritcular Being in a proposition such as _the pencil is over there_, we have, with words, captured the type (essence) of relation embodied by an existent entity that is before us. We have "photographed" Being, reduced its momentary effervescence to a reproducible formulation. 
+
+In light of this, the famous passage from **Genesis** deserves a reinterpretation,
+
+> God mad Man in his image.
+
+As we have just seen, God is, in the Old Testament, defined as the type of Being possessed by the conjugation of _is_ into _am_, the projection of the infinitive into the first person singular. This word, _am_, a literal image in language of our own Being, is, according to the Bible, the very type of Being belonging to God. 
+
+[^4]:[Strong's H1961](https://www.blueletterbible.org/lexicon/h1961/kjv/wlc/0-1/)
+[^5]: Or, it might be more appropriate to say: the Being that is _revealed_ by the I's _am_.
+[^6]: Or, should we say: _the formal representation of Being_. 
 
 ### Being and Existence
 
@@ -113,8 +164,6 @@ Likewise, the linguistic notion of _am_ brings with it a certain domain and a ce
 This can be seen in the syntactical error that arises in the proposition _the thing am this_; the meaning of _am_ is only understood through _I am this_.
 
 TODO
-
-With this preparatory remarks made and primitives defined, we arrive at our first stop in the long of history of our understanding of Being: Aristotle.
 
 ### Substance and Form
 
