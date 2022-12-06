@@ -168,13 +168,11 @@ In light of this, the famous passage from **Genesis** deserves a reinterpretatio
 
 As we have just seen, God is, in the Old Testament, defined as the type of Being possessed by the conjugation of _is_ into _am_, the projection of the infinitive into the first person singular. This word, _am_, a literal image in language of our own Being, is, according to the Bible, the very type of Being belonging to God. 
 
+TODO: Upanishads
+
 [^4]:[Strong's H1961](https://www.blueletterbible.org/lexicon/h1961/kjv/wlc/0-1/)
 [^5]: Or, it might be more appropriate to say: the Being that is _revealed_ by the I's _am_.
 [^6]: Or, should we say: _the formal representation of Being_. 
-
-###
-
-TODO: Upanishads
 
 ### Substance and Form
 
