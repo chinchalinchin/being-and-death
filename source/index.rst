@@ -1,5 +1,5 @@
-a cage went searching for a bird
-================================
+Being and Death
+===============
 
 .. toctree::
    :maxdepth: 2
