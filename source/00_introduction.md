@@ -1,3 +1,5 @@
+# Preface
+
 The selection of a title for this work has gone through several revisions:
 
 - _Death_
@@ -45,4 +47,4 @@ And know the place for the first time
 ```
 <sup style="margin-left: 5%;" ><sub>- T.S. Eliot, [Little Gidding V](http://www.columbia.edu/itc/history/winter/w3206/edit/tseliotlittlegidding.html)</sub></sup>
 
----
+
