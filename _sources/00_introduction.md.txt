@@ -33,24 +33,19 @@ If the preceding lacks clarity, then let us rephrase more flippantly, in the hop
 
 ---
 
-
-<p style="display: flex;">
-<img src="/assets/calvin_and_hobbes_inscrutable_exhortations.jpeg">
-</p>
+![](./assets/calvin_and_hobbes_inscrutable_exhortations.jpeg)
 
 <sup style="margin-left: 5%;"><sub>- Bill Waterson, [March 13, 1995](https://www.gocomics.com/calvinandhobbes/1995/03/13)</sub></sup>
 
 ---
 
-<p style="display: flex; flex-direction: row; justify-content: center;">
 ```
 We shall not cease from exploration
 And the end of all our exploring
 Will be to arrive where we started
 And know the place for the first time
 ```
-</p>
-
 <sup style="margin-left: 5%;" ><sub>- T.S. Eliot, [Little Gidding V](http://www.columbia.edu/itc/history/winter/w3206/edit/tseliotlittlegidding.html)</sub></sup>
+
 
 
