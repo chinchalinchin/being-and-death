@@ -23,6 +23,8 @@
 ## Essays
 ### Archive.org
 - [What Is Metaphysics?](https://archive.org/details/basicwritingsfro0000heid)
+### JSTOR
+- [An Account of Some Observations Made by a Young Gentleman, Who Was Born Blind, or Lost His Sight so Early, That He Had no Remembrance of Ever Having Seen, and Was Couch d between 13 and 14 Years of Age. ](https://www.jstor.org/stable/103697#metadata_info_tab_contents)
 ### Gutenberg.org
 - [On The Fourfold Root of the Principle of Sufficient Reason](https://www.gutenberg.org/ebooks/50966)
 ## Encyclopedias
