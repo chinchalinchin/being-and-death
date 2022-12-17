@@ -1,3 +1,6 @@
+
+some nonsense i've been working on for years.
+
 [being and death](https://chinchalinchin.github.io/being-and-death/)
 
 ### Build 
