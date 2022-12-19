@@ -1,4 +1,4 @@
-# Removed Thoughts
+# Note #3: Removed Thoughts
 
 Accumulated thoughts editted from the work the author does not yet want to consign to oblivion, until he is certain that what is contained within them is non-sense.
 

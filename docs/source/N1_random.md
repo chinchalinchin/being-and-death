@@ -1,5 +1,4 @@
-
-# Random Thoughts
+# Note #2: Random Thoughts
 
 Random thoughts that have not yet shown their place within the work. 
 
