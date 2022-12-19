@@ -11,5 +11,7 @@ Being and Death
    A0_appendix
    A1_references
    A2_history
-   xx_random
+   N0_raw
+   N1_random
+   N2_removed
 
