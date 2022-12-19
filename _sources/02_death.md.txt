@@ -122,7 +122,7 @@ If Death has its own interiority, i.e. a Being of Death for us, there is no mech
 
 [^2]: [p.98, 2.174, Wittgenstein, Tractatus Logico-Philosophicus](https://www.gutenberg.org/files/5740/5740-pdf.pdf)
 
-### The Life and Death of the Definition
+### 
 
 It may be argued the definition of Death adopted in the preceding is too narrow, that is seeks to restrict itself to the personal, to the experiential, to the phenomenal and in doing so fails to acknowledge the objective and communal aspect of Death. In other words, the definition of Death that has been discussed so far does not include our apprehension of the Death of the Other.
 
@@ -136,7 +136,7 @@ To this point, we counter immediately with three counterpoints:
 
 Let us in turn dwell on each question and how it relates back to the objection that our definition of Death does not include the Other, before we continue.
 
-### Phenomenology of Death
+### 
 
 To the first point: If the assumption of the general unknowability of Death is granted, this would seem necessarily to lead to the exclusion of the possibilty of a _phenomonology of Death_. How can we bring into Being and experience that which cannot be known? Indeed, if Death is unknowable, how do we know it hasn't already occurred? This is the purest form of `solipsism`, a species of thought whose derivative forms will inhabit the remainder of this work: that we ourselves as Beings have no way of knowing if we already dead.[^3] [^4]
 
@@ -165,11 +165,7 @@ We see in this argument how the tendrils of knowability intersect with those of 
 
 [^8]: [Section 115, Wittgenstein, On Certainty](https://archive.org/details/oncertainty00witt)
 
-### Non-Being
-
-TODO
-
-### Other-as-Life
+### 
 
 We now turn to two of the most important sections in establishing the proposed postulates of Death, this section and the next in which we explore the relation of our Being to that of the Other, and the relation of each of these plus their conjunction to that of Death.[^9]
 
@@ -277,13 +273,13 @@ Is the distinction of Mother versus Father ontological?
 [^12]: "_throughout the course of its existence_" What does this mean if not "_until it dies_"? Has Death covertly entered into the dialectic, even at this early stage?
 [^13]: Recall that appearance is not equivalent to existence.
 
-### Other-as-Death
+###
 
 Upon making ingress into the Other's perception, Death is no longer a subjective experience, but instead a fact among others. In this sense, Death is similar to consciousness, in that consciousness once objectified in the consciousness of another ceases to be consciousness at all, but becomes a representation of that consciousness, an indication pointing beyond the realm of Being towards the Being of another, unknowable like Death, but unlike Death, inferrable through the observance of the causal connections that unite us in our Being. 
 
 In other words, the Other is unknowable as an experience, but the experience of the Other as an objectified ingression into the sense data is knowable through the medium of representation. Put more simply, we can recognize intelligence in the world outside of ourselves through the presence of form. In this way, I know whatever entity responsible for traffic signs is also an intelligent being because traffic signs indicate a concept we both understand, and this understanding is embodied through the course of our synchronized action, and through this understanding and sychronization we come to know the point of emanation in our world of action not our own as the Other. 
 
-## A Platonic Counterargument
+##
 
 A further counterargument may be made by the **Platonists**: If Death cannot be approached or felt, this does not signify a rupture in Being, a fundamental horror woven into the fabric of existence, for this is also the nature of concepts. Ephemeral ideas like honor and duty cannot be approached. You cannot probe the interiority of love. These things nonetheless exist, not concretely as in the case of physical matter, i.e. as objects, but abstractly, through the reflection of consciousness, i.e. as concepts. They become existent in our Being despite their lack of "_substance_", as it were, first as awareness through the objectification of the sense data and then as consciousness through the classification of the represented objects into concepts. 
 
@@ -297,7 +293,7 @@ By way of analogy, love is what remains when the bride and groom have been negat
 
 Death is not like this, as it can be neither objectified nor conceptualized. Thus, it can not claim existence through either of these modes of Being. We will elaborate upon these two ideas in the following sections. 
 
-### Death-as-not-Object
+###
 
 In the first case, Death cannot be objectified through relations, because Death resists at an ontological level the application of the first essential relation in any proposition: that of existence. 
 
@@ -338,7 +334,7 @@ In this sense, we say the ontological substratum of Being is Death.
 
 [^15]: The speed of light might be more properly termed the `speed of Being`, as it relates to _metaphysics_. 
 
-### Death-as-not-Concept
+### 
 
 In the second case, Death cannot be conceptualized, except insofar as the Death of the Other makes ingress into the representations of my Being, but then, in this case, it is not _my_ Death that has been conceptualized, but the Death of the Other. The process of conceptualizing Death passes over my own experience of it and leaves me with an empty concept, a concept that does not have Being in the way **Platonic** concepts do, because the abstraction of the Death of the Other does not lead me any closer to an understanding of my own Death in the way the abstraction of love does lead me to understand what the love of the Other is, because I too have a phenomenal experience of love that I may, assuming a pretense of uncertainty, infer in the Other.
 
@@ -346,7 +342,7 @@ Furthermore, Death as a feeling is like neither love nor duty. The concept of De
 
 Death is not a motive concept, in the sense that it induces in the conceiving subject the action denoted by its concept. There is no _phenomonology of Death_, no _qualia of Death_, no Being of Death for the subject, only what **Martin Heidegger** termed `Being-toward-death`. The subject can only orient themselves toward Death, but they can not bring it any closer without thereby ceasing to exist. 
 
-### Language Games
+### 
 
 The concept of `Being-toward-death`, this ontological polarity between Being and Death, brings with it a whole host of subjugated concepts that stand in relation to it: grief, horror, acceptance, denial, love, hate, anger, awe, adulation, worship. Indeed, one might be tempted to conclude Death is the fountainhead from which all other emotions spring. The only other analogous concept is to be found in the spiritual; for instance, in the Judeo-Christian concept of the `mysterium tremendum`, whereby the worshipper enters into a state of rapture, by turns jubliant and horrified, when considering the object of his or her worship. Death, in this sense, overlaps with the Holy. 
 
@@ -366,7 +362,7 @@ In this language game we are playing, we see why, then, it is possible to draw a
 
 Death, then, is a strange type of concept, a oddity among things. It lacks content, it lacks Being, it cannot be observed, it cannot be felt, it recedes from our perception as we approach it, yet it is an inevitability no living Being can escape. What sort of thing, then, is Death? How do we begin to come to terms with it, if it cannot be understood?
 
-## A Godelian Counterargument
+## 
 
 A final argument may be raised against the supposition that Death is unknowable, an argument resulting from the exhaustion of philosophers; when they find the foundation of their logic crumbling beneath them and all other options gone, they retreat to the warm embrace of their one true ally: solipsism, but in this case, a perverse, negative sort of solipsism. 
 
@@ -382,7 +378,7 @@ It is here we find the one support upon which logic may extend into Death: that 
 
 It has oft been remarked the only true philosophical proposition is that of our own uncertainty, which as a proposition negates itself. Thus ends the problem of philosophy, an ouroboros destined to eat itself. The problems of philosophy, that of existence and Being, occur within this loop, and will therefore never be solvable. 
 
-### Death-as-not-Analogy
+###
 
 We have, through the course of this work, attempted to cast Death into various analogies. An analogy brings forth into the attention the similarities contained in two or more concepts, so that their overlapping parts are brought to the foreground, while their disjoint parts fade into the background; Analogy plays the role of conjunction in linguistics, in that it intersects a set of concepts to reveal their common geography. Analogy, in this sense, is syntactic, rather than semantic; analogy is a bare relation that takes no opinion of its operands. It can therefore be applied haphazardly and without condition. That analogy is always possible can be seen in analogies that do not immediately yield to sense, as in "the chainsaw is a like a hot coffee on a cold morning"; the mind reels to find a plausible explanation. 
 
@@ -430,7 +426,7 @@ the only thing the null set has in common with a non-null set is Nothing
 
 
 
-## Sartre
+## 
 
 The concept of Death as an objective fact within a complex of knowledge, however, refers to something that does not exist. It is a negative fact, an indication without source. In this sense, Death is similar to Sartre's `Being-for-Itself`, in that the essence of Death is a type of Being that can never be what it is, but can only be in the mode of not Being, a type of Nothingness. Sartre, like Schopenhaur, Heidegger and Kant, was an existentialist, and like those prior existentialists, he too liked to play language games. He thought the essential human nature was one of contradiction, that we cannot understand ourselves except in terms of a logic of absurdity, so his ontology is littered with contradictions that seek to capture the essential human nature.
 
@@ -440,7 +436,7 @@ The great project of pre-modern philosophy was the enumeration of the laws of Be
 
 There is however a glaring omission in each ontologies hitherto proposed as a framework for understanding Being. Only tangentially do these frameworks discuss and examine Death. Death is not baked into their foundation; it was only until the attempts of Camus, Bataille and Derrida that we have our first philosophical forays in the realm of the truly unknowable, and with them their approach was more aesthetic than it was analytical. There is a reason for this, as outlined in the introduction and expounded upon at great length: all the crystalline perfection of a systematic dissertation of Being is undone by the concept of Death. If an ontological system is held up to the light of Death, it immediately evaporates into sophistry. 
 
-## Schopenhauer
+## 
 
 As an example, Schopenhauer states the world exists for the subject, all time and space are merely the phenomenal intepretation of the `thing-in-itself`. In the absence of the subject, there is no time or space with which to apprehend Being, there is no form to be perceived, because the object presupposes the subject. In order to prevent this absurdity, he introduces `Will` as that which remains when the form of Being has been subtracted, i.e. the residue of Being when its appearance is dispersed. Time and space are contingent on `Will` objectifying existence and thus bringing the subject-object dyad into Being. 
 
@@ -450,7 +446,7 @@ What Schopenhauer did not consider, perhaps because thermodynamics was still in 
 
 There is in this problem illuminated the meaning of solipism, to which no satisfactory answer can ever be given. My Being is just so that it can never know if it truly exists. Any ontology must necessarily become solipism at the point in which the subject enters into it. 
 
-## Indetermination
+## 
 
 Wittgenstein used the following diagram to illustrate the nebulousness of conceptualization.
 
@@ -484,7 +480,7 @@ Indeed, Death is always with us but we do not apprehend it in our Being until we
 
 TODO
 
-### Anxiety
+### 
 
 **Heidegger** identifies anxiety as that which gives rise to Nothing; however, as we have seen, Nothing precedes Being, as Nothing is primarily a relation of existence and only negates Being through the transcedence of existence into Being. Therefore, we should properly say that Nothing is that which gives rise to the Being of anxiety.
 
