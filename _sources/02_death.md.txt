@@ -1,7 +1,5 @@
 # Book 2: Death
 
----
-
 ![](./assets/calvin_and_hobbes_pointless.jpeg)
 
 <sup style="margin-left: 5%;"><sub>- Bill Waterson, [June 02, 1993](https://www.gocomics.com/calvinandhobbes/1993/06/02)</sub></sup>
