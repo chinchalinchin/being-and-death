@@ -1,12 +1,16 @@
 # Note #1: Raw Thoughts
 
-Thoughts transcribed directly onto the author's smartphone. Under no circumstances should anything on this page ever be read by any person.
+Thoughts from the author's head without order or structure. Under no circumstances should anything on this page ever be read by any person.
 
-# September 13, 2022
+## Phone Thoughts
+
+Thoughts transcribed directly onto the author's smartphone.
+
+### September 13, 2022
 
 The investigation of the appearance of Death reveals plainly the nature of Life. WHen we witness Death, we see that Life is process and Death is what happens when that ends.
 
-# September 15, 2022
+### September 15, 2022
 
 If we pass through the gates of solipsism and finally admit there must be existence outside of ourselves, we might therefore conclude we atleast have attained an uncertain confidence in the validity of our Being.
 
@@ -14,7 +18,7 @@ As proper scientists, we resolves to that aforementioned ballast of cotnradictio
 
 For the nature of science is to hold up a hypothesis and the form of its consequences to the existent and thus determine whether the given data disproves the assumptions by aligning their representative forms to one another and checking for error.
 
-# September 17, 2022
+### September 17, 2022
 
 The relations of Being to Deathexpressed in neologistic prepositions:
 
@@ -29,7 +33,7 @@ If we now toy with the likely hypothesis that Death is a form of ontological neg
 
 Death as hiding, or that which is hidden.
 
-# September 17, 2022
+### September 17, 2022
 
 **Pessimist**: would could possibly happen?
 
@@ -37,7 +41,7 @@ Death as hiding, or that which is hidden.
 
 **Pessimist**: and then what?
 
-# September 18, 2022
+### September 18, 2022
 
 We now turn to oen of the most important sections in establishing the validity of the proposed postulates of Death, the Death of the Other.
 
@@ -51,27 +55,27 @@ If we supposed Death is essential to Being, we might be lead to the conclusion a
 
 In looking to the animal kingdom, we might be tempted to introduce the jargon of _grades of awareness_. That Beings possess different _levels_ of awarness, and we might posit the ultiamte form of awareness as that awareness which consists of knowedge lof Death. In this way, we might theorize the biological world casts Being into stratas, but this course reeks of absurdity. How can Being be stratified when I only experience things as they are? I do not _shift_ between different ways of Being. I always _am_, despite the manifold changes that operate on me. Are we to suppose the way a dog _is_ is different, that its Being changes as its world changes? 
 
-# September 18, 2022
+### September 18, 2022
 
 If the author is granted one contribution to the annals of philosophy, let it be the proof of the futility of any future philosophies.
 
-# September 19, 2022
+### September 19, 2022
 
 The totality of forms we use to represent the world contains within it a reference to itself.
 
 As if, existence were indicating: you are form to be found in form.
 
-# September 19, 2022
+### September 19, 2022
 
 Death is what individualizes. If there were no Death, then Being would be eternal. There would be no reason to divide it into _this_ Being and _that_ Being.
 
-# September 19, 2022
+### September 19, 2022
 
 Consciousness is neither identical to awareness or knowledge.
 
 Consciousness _is not_ the intersection; consciousness is _in_ the intersection.
 
-# September 19, 2022
+### September 19, 2022
 
 Philosophy says what is unsaid.
 
@@ -83,7 +87,7 @@ The philosophy, like an ant on a sinking ship, has no notion that his world crum
 
 Committing their original sin, philosophers suppose what can be said is all there is to say on the matter. Where philosophy fails is in trying to grapple with those unsaid things that are also unsayable.
 
-# September 19, 2022
+### September 19, 2022
 
 Being is a relation. This relation implicitly contains the world and the entity that relates to the world. It is the way in which an existent entity is in the world. Being is with respect to the forms it apprehends, an apprehension of forms that necessarily contains within it the form that is apprehending.
 
@@ -93,6 +97,6 @@ Our Being, and the Being of all other entities, is recursive in this sense. It c
 
 **Heidegger** acknowledges the split between ontology and metaphysics, but nevertheless here implicitly references a metaphysical theorem in the construction of his ontology, namely that the Being of some entites, such as rocks and asteroids, are not concered with Being. Indeed, it seems a likely hypothesis on which to build an ontology: that our Being is distinct from other BEings of a certain species or genre. It is apparent in the world that we, as humans, have unique properties that distinguish us from, say, a park bench. Appearances, however, are no foundation for an ontology. SO that is all it can remain: a hypothesis, a proposition whose truth is to be ascertained empirically, a posteriori. It is, on the contrary, a prior assumption we bring to our ontologies, over and above the ontic priors we implicitly bring with us int our apprehensions, the very priors of which we are trying to discern. IF we build a top a mixture of priors and posteriors, how are to separate the consequences of our assumptions, the consequences of our priors and the variations with respect to one another? If the ontological pursuity is understood as the removal of factical posteriors masquerading as priors from an understanding of our Being, then we must not allow ourselves to be fooled into thinking there is a basis for the differentation of Being into partitions. **Heidegger** means as much when he talks about the _unity_ of Being.
 
-# September 19, 2022
+### September 19, 2022
 
 Death is a proposition about form: that it will cease to be.
