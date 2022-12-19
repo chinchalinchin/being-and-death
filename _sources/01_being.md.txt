@@ -239,6 +239,7 @@ TODO
 Modern set theory has shown the phenomenon of number can be understood using logic and symbolic propositional calculus. The derivation of the number 1 is
 Enumeration emerges naturally from certain assumptions made in axiomatic set theory. A curiousity that will be dealt with the sequel regards the fact that enumeration, that is the Being of Numbers, can be shown as a result 
 
+[^TODO]: [The Foundations of Arithmetic, Section V: Conclusion, Frege Gottlob, Frege, 1884](https://www.gutenberg.org/ebooks/48312)
 ### What is God?
 
 It should come as no surprise, given the importance and precedence of Being in the world as we are, that it is in the origins of humanity's culture and religion that we likewise find the beginning of the historical account of our understanding of our Being, the Being of the _am_. The Bible, while its accuracy as it relates to the actual events of history may up for question, nonetheless serves as a time capsule for our understanding of Being, circa four thousand years ago. In its passages, we discover our early attempts to understand what is we are.

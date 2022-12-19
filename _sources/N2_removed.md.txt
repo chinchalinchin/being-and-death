@@ -1,6 +1,6 @@
 # Note #3: Removed Thoughts
 
-Accumulated thoughts editted from the work the author does not yet want to consign to oblivion, until he is certain that what is contained within them is non-sense.
+Thoughts edited from the work the author does not yet want to consign to oblivion, until he is certain that what is contained within them is non-sense.
 
 ## 1. Frege Considerations
 
@@ -40,15 +40,7 @@ We also note that, since Being is always in time, we must necessarily append ano
 
 - Nothing belongs to the existence of form after it is no longer in time. 
 
-[^12]: Although in this sense, **Kant**'s title of _Prologmena to any Future Metaphysics_ is quite adapt.
-[^13]: Frege would say `function` or `signify` instead of `relation`.
-[^14]: [The Foundations of Arithmetic, Section V: Conclusion, Frege Gottlob, Frege, 1884](https://www.gutenberg.org/ebooks/48312)
-[^15]: We have modified the terminology here slightly from **Frege**'s actual definition. In the case of zero, the original definition reads, "the number 0 belongs to a concept if, whatever _a_ may be, the proposition holds universally that _a_ does not fall under that concept". The substitution of object for _a_ should be no cause for concern, otherwise what use is a variable? However the equivalence of _does not fall under_ to _does not exist_ deserves a further remark. **Frege**'s goal was to complete the universal language proposed by **Leibniz**, a goal that requires utter precision. The author thought it best to remove the ambiguity of "_falling_" from **Frege**'s definition, as this definition was taken from a translation, and the so-called "_sense_" of the current definition seems more in keeping with the purpose of the original project. Regardless, the current work is not meant as a commentary on **Frege**, or any philosopher for that matter.
-[^16]: **Frege** would say `objective` instead of `metaphysical`, but here again we edit in modern terminology. The term `objective` shall be used the sense intended by **Schopenhauer**, in later sections.
-[^17]: We may this in the metaphorical sense, lest we dare rouse **Frege**'s ghost. 
-[^18]: [The Foundations of Arithmetic, Section III: Views on One and Oneness, Frege Gottlob, Frege, 1884](https://www.gutenberg.org/ebooks/48312) Note: the parenthesis are the author's own addition to bring **Frege**'s analysis in line our own.
-[^19]: This signals a missing dimension to **Kant**'s rough draft of ontology of `noumena` vs `phenomena`. In other words, appearance and phenomena are not identical, for there are phenomenal apprehensions that do not reside in the appearances we attach to the world, i.e. Number. This is one of **Frege**'s greatest contributions to philosophy. 
-[^20]: A tautology, if one ever existed.
+
 [^21]: We should say, properly, "_through the metaphysics of assertion and logic_", but we only wish to bring into relief at the current moment in time the contingency of Being on negation.
 [^22]: [Being and Nothingness, Chapter 1: Immediate Structure of the For-Itself, Section I: Presence to Self, Jean-Paul Sartre, 1958](https://archive.org/details/beingnothingness0000unse)
 [^23]: [Process and Reality, Chapter 1, Section VI, Alfred Whitehead, 1978](https://archive.org/details/processrealitygi00alfr)
