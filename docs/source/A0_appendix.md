@@ -19,7 +19,7 @@ In what follows, you will find the definitions and explanations for the author's
 - `n(S)` represents the cardinality of a set _S_, i.e. its countability[^13]
 - `[]` are placeholders to separate content, i.e. the "_comma_".
 
-## Examples
+### Examples
 - _for all x such that x satisfies P_ : `@ x | P(x)`
 - _for not all x such that x satisfies P_: `~ [ @ x | P(x) ]`
 - _there exists an x such that x satisifes P_ : `# x | P(x)`
@@ -27,8 +27,38 @@ In what follows, you will find the definitions and explanations for the author's
 
 **NOTE**: I have been careful to remove any linguistic ambiguities in the preceding that might arise through the conjugation of `to be`, i.e instead of saying _x is P_ we say _x satisfies P_. Notice we may phrase all of these forms in terms of existence, not Being. In logic, where precision is of the utmost importance, we be careful not to let our subjective intrepretation of Being influence our understanding of existence and universals.
 
-## Negating A Universal Quantification
+### Variables
 
+TODO
 
+## Quantified Propositions
 
-## Negating An Existential Quantification
+TODO
+
+### Existential Quantification
+
+TODO
+
+### Universal Quantification
+
+TODO
+
+### Negating A Universal Quantification
+
+TODO
+
+### Negating An Existential Quantification
+
+TODO
+
+## Axioms
+
+TODO
+
+### Axiom of Separation
+
+TODO
+
+### Axiom of Extensionability
+
+TODO

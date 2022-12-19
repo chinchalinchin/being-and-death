@@ -1,4 +1,4 @@
-# Appendix 2: References
+# Appendix 3: References
 ## Books
 ### archive.org
 - [Being and Nothingness](https://archive.org/details/beingnothingness0000unse)

@@ -1,4 +1,4 @@
-# Appendix 3: The History of Being
+# Appendix 2: The History of Being
 
 ## 400s (BC)
 
