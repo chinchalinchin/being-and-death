@@ -10,6 +10,6 @@ Being and Death
    02_death
    A0_appendix
    A1_references
-   A2_quotes
+   A2_history
    xx_random
 
