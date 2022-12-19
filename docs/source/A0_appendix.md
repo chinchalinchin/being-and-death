@@ -1,4 +1,6 @@
-# Propositional Calculus
+# Appendix 1: Propositional Calculus
+
+In what follows, you will find the definitions and explanations for the author's [Markdown]() compliant variation of propositional calculus. This variant was adopted for ease of use.
 
 ## Definitions
 
@@ -27,6 +29,6 @@
 
 ## Negating A Universal Quantification
 
-**NOTE**: I submit for consideration that a _universal quantification_ is equivalent to a _qualification_; it makes that which it quantifies existent in all things that have thus been quantified.
+
 
 ## Negating An Existential Quantification
