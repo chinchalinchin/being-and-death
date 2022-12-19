@@ -36,12 +36,7 @@ Let us suppose the contrary, that is to say let us grant the rationalists all th
 
 If it were the case that our Being, in its primary essence, was contained in the laws of physics and mathematics, there will come a day when a(n) (un)lucky physicist is solving his equations and recognizes in their computation himself and not merely his image, but himself embodied in the equations themselves, as an extension of his own Being; for that is the conclusion of rationalism, that we must be reducible to priors, and those priors must ultimate be reducible to the forms of time and space. If that is so, then we are already in the representations which represent us, for our Being cannot be anything but what it is and so if it is mathematical then what we are is already mathematical, and upon our discovery of its theorems and foundation, we will have found outside ourselves a quanta of experience, our experience outside of our experience; The end result of rationalism, any and all rationalist schemes no matter their form and procedures, is to find yourself in two distinct places at the same time, which any rationalist would admit is absurd. Rationalism is undone ipso facto by rationalism itself. 
 
-## The Answers
-
-TODO
-
-
-## Death by Deduction
+## 
 
 In the previous sections, we said an understanding of Death is impossible. A close correlate of _understanding_ is _reason_.
 
@@ -61,7 +56,7 @@ With a nod to **Camus**, we then naturally turn our analysis to find a place for
 
 We will return to the topic of suicide in due time.
 
-## Definitions
+## 
 
 Before the introduction of the rhetorical devices that will give us the means to approach Death through analysis, we must comment on the endeavour of `speculative philosophy`. 
 
@@ -76,7 +71,7 @@ As **Russell** and **Whitehead** explained in the introduction to _Principia Mat
 4. The negation of Being is Nothing.
 
 
-## Postulates of Death
+## 
 
 1. `postulate of precluded existence`: Death happens to all Beings.
 2. `postulate of failed contingency`: Death is unknowable through phenomena (<sup><sub>_appearance_</sub></sup>). 
@@ -84,7 +79,7 @@ As **Russell** and **Whitehead** explained in the introduction to _Principia Mat
 
 With the first postulate, it is likely we all agree or are at least willing to grant truth long enough to see what follows. We then turn to the justification of the latter two axioms, as the meaning of either the `postulate of failed contingency` or the `postulate of non-equivalence` is not clear at first glance. 
 
-### Aside: The Metaphysics of Death
+### 
 
 Before we continue, we make a brief detour into metaphysics. When we assume their validity, the postulates enumerated in the prior section give us the means to deduce a few theorems about the metaphyscal nature of Death. We will shall call these theorems, the "_theorems of Nothingness_". 
 
@@ -102,7 +97,7 @@ In the preceding, we take note that Nothingness, in its proper ontological place
 
 But, we have already assumed that Death is unknowable through phenomena. This, taken in conjunction with the non-equivalence of existence and appearance, implies if knowability is to apply to Death at all it must occur through existence, rather than appearance. But since knowability is knowability _of appearance_, we therefore conclude Death is unknowabile through existence or appearance.
 
-## A Kantian Counterargument
+##
 
 In true negative fashion, we will start by asssuming what is false and show how it leads to a contradiction. The negation of the `axiom of failed contingency` is that Death _is_ knowable through phenomena. With this in hand, the counterargument to the `axiom of failed contingency` can be raised along the lines detailed in the paragraphs that follow. Through the course of this counterargument, we will encounter the `axiom of non-equivalence` but defer a full discussion of it until the later headings in this section. 
 
