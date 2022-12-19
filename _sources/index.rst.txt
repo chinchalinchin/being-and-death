@@ -8,6 +8,7 @@ Being and Death
    00_introduction
    01_being
    02_death
+   xx_random
    A0_appendix
    A1_references
    A2_quotes
