@@ -1,10 +1,26 @@
 # Book 1: Being
 
-## The Question
+---
+
+![](./assets/calvin_and_hobbes_inscrutable_exhortations.jpeg)
+
+<sup style="margin-left: 5%;"><sub>- Bill Waterson, [March 13, 1995](https://www.gocomics.com/calvinandhobbes/1995/03/13)</sub></sup>
+
+---
+
+```
+We shall not cease from exploration
+And the end of all our exploring
+Will be to arrive where we started
+And know the place for the first time
+```
+<sup style="margin-left: 5%;" ><sub>- T.S. Eliot, [Little Gidding V](http://www.columbia.edu/itc/history/winter/w3206/edit/tseliotlittlegidding.html)</sub></sup>
+
+## The Questions
 
 **Albert Camus** once stated there is but one philosophical question and that is suicide. In this, **Camus** skipped over much to arrive at his starting point. However, to his credit, he only meant it in the rhetorical sense, as way to examine the absurdity of living in a universe where you are fated from the very start to die at the end. Nevertheless, there is a definite proximity to primordial truth in his formulation of the so-called "_philosophical question_". 
 
-This is what **Camus** got wrong: There is no choice to be made in the face of Death. _All_ life is suicide, in a sense; it is merely the method of dying we are allowed to pick, and only then up to a point, as the survivors of self-inflicted gunshot wounds will attest. When one chooses to die, all that is accomplished is akin to skipping ahead to the end of a book. Everyone implicitly knows time is a poison that kills them, for it is taught to us from the very second of birth; a new-born infant left to its devices would surely die and if its cries can be understood at all it is only as a gasping for life, a choking on Being, a dim awareness that it is a thing and it is in mortal danger; Death is not conceptualized intellectually in this moment, but is apprehending in its true form, that of unbridled fear and uncontrollable passion; only through the intervention of an Other thing is the infant allowed to live; from this we learn, or are atleast given the raw material for the conception of, causality, that our Being as a thing is affected by the Being of Other things, and, this being the point, that this affectation arises as an alteration of the infant's trajectory towards Death: a thing which is Other to ourselves prevents us from dying in our very first moment as a separate entity. If, in what follows, we come to see the Other as life, then it is only insofar that our Deaths are held at bay with their cooperation. Life, in this formulation, is not a positive phenomenon, but a negation of a total Nothingness. I am because I am not dead, and I do not die, at least for the time being, because the Other is.
+This is what **Camus** got wrong: There is no choice to be made in the face of Death. _All_ life is suicide, in a sense; it is merely the method of dying we are allowed to pick, and only then up to a point, as the survivors of self-inflicted gunshot wounds will attest. When one chooses to die, all that is accomplished is akin to skipping ahead to the end of a book. Everyone implicitly knows time is a poison that kills them, for it is taught to us from the very second of birth; a new-born infant left to its devices would surely die and if its cries can be understood at all it is only as a gasping for life, a choking on Being, a dim awareness that it is a thing and it is in mortal danger; Death is not conceptualized intellectually in this moment, but is apprehended in the nearest glance we ever get at its true form, that of unbridled fear and uncontrollable passion, a void where no reason can prevail; only through the intervention of an Other thing, a Being outside ourselves, is the infant we were allowed to live; from this we learn, or are atleast given the raw material for the conception of, causality, that our Being as a thing is affected by the Being of Other things, and, this being the point, that this affectation arises as an alteration of the infant's trajectory towards Death: a thing which is Other to ourselves prevents us from dying in our very first moment as a separate entity. If, in what follows, we come to see the Other as life, then it is only insofar that our Deaths are held at bay with their cooperation. Life, in this formulation, is not a positive phenomenon, but a denial of a total Nothingness. I am because I am not dead, and I do not die, at least for the time being, because the Other is and will not let me.
 
 Only in the sequel, once Death is no longer immediate, do we come to understand the nature of time, in the way leaves wilt on dead tree limbs, in the way organic material rots, in the way delicate things are liable to break. A Being cannot _be_ without the phantom of Death shadowing its every step, making its presence known obliquely. All of these things we must realize before we consider the philosophical problem of terminating our own lives. Only in the subsequent development of self, once reflective consciousness[^1] enters into the equation, and we realize we are of a genre with all those things that pass away from Being in an abstract sense, do we ask whether or not a life always imperilled is worth living.
 
@@ -14,7 +30,7 @@ Despite being the foundation of almost every human pathology, Death as a field o
 
 There is a reason for this: Death as a subject is repellant to individual understanding. Its very definition presupposes the limit of the knower; That is to say, Death is inherently unknowable. Death can only be understood through the mechanisms of analogy and metaphor, via the circuituous and torturous route of empty symbolism, for when we turn our attention directly to the object of Death it reveals itself as something which is not to be found in our Being. 
 
-We can be aware that we will eventually die, we can perceive others passing from this world, we can even in unique circumstances perceive the manner of our own Death, but none of this gets us any closer to the experience of Death, none of this allows us to see what it is like to die. Our experience and awareness of experience will never be extended into Death itself. We never see Death for what it is, because it is Nothing, the absence of our Being. Death is the point where experience and awareness stops.
+We can be aware that we will eventually die, we can perceive Others passing from this world, we can even in unique circumstances perceive the manner of our own Death, but none of this gets us any closer to the experience of Death, none of this allows us to see what it is like to die. Our experience and awareness of experience will never be extended into Death itself. We never see Death for what it is, because it is Nothing, the absence of our Being. Death is the point where experience and awareness stops.
 
 In this way, we mean Death exists beyond the limit of understanding, in a way that it destroys that which it transcends. For our Being in the world is inextricably tied to an understanding of our Being, so much so we may be tempted to posit Death as that which removes this possibility from our Being, and thus annihiliates our Being. In this way, as a result of the unknowability of Death, the ontological necessity between our Being and knowledge emerges, for if our Being and Death are inverses and if Death is by definition unknowable, then it must follow that our Being is that which is knowable. The provisional aim of this work is to show this unknowability metaphysically precedes and constrains Being, and that furthermore this constraint imposes upon Being an ontological character. Death, in the unknowability of its Nothingness, illuminates Being. 
 
@@ -32,51 +48,50 @@ It would seem, then, it does not matter which direction we choose to go, since w
 
 [^2]: As if often the case when playing the exisentialist language game, we adopt the **Heideggerian** sense of the word _care_, or _concern_, i.e. the way in which a Being orients itself in the world, or the manner in which we, as Beings, are drawn into the world, so that we might engage with it through action. 
 
-[^3]: We add here the caveat the terminology so far introduced is not yet a complete and exhaustive description of the ontological relations being examined. Throughout the course of the present, we will attempt to elucidate what it means _to be_ in relation to Death; this neologism is the first of many we will formulate, as the primary function of philosophy seems to be the production of esoteric phrases. 
+### What is Philosophy?
 
-## What is Being?
-
-With the warnings of futility thus dispensed, we will preface our discourse with a brief tour through the current state of our understanding of what it means _to be_. If Death can be said to be anything, then it seems likely it must be as a negation of Being, or at the very least a certain _type_ of Being, the type of Being we ourselves have. Whether or not the subject of Death's negation is life, or a living thing, cannot yet be concluded, for it is not clear at this stage in what ways not Being dead is equivalent to Being alive, for a rock is said to not be dead, yet we do not conclude therefore it is alive. We therefore take it as a provisional hypothesis, that Death is a negation of a _type_ of Being, with the understanding that we have much to show before this statement can be taken as fact and in what way it is to be understood. We have not yet defined what it, the Being to which we refer in the preceding as subject to Death, _is_, so that its negation likewise lacks clarity. We must first ask whether Being is uniform, and thus Death is its universal negation, or if Being itself is divided, and if it is, which type of Being it is that is negated in Death. 
+With the warnings of futility thus dispensed, we will preface our discourse with a brief tour through the current state of our understanding of what it means _to be_. If Death, as a philosophical concept, can be said to be anything, then it seems likely it must be as a negation of Being, or at the very least a certain _type_ of Being, the type of Being we ourselves have. Whether or not the subject of Death's negation is life, or a living thing, cannot yet be concluded, for it is not clear at this stage in what ways not Being dead is equivalent to Being alive, for a rock is said to not be dead, yet we do not conclude therefore it is alive. We therefore take it as a provisional hypothesis, that Death is a negation of a _type_ of Being, with the understanding that we have much to show before this statement can be taken as fact and in what way it is to be understood. We have not yet defined what it, the Being to which we refer in the preceding as subject to Death, _is_, so that its negation likewise lacks clarity. We must first ask whether Being is uniform, and thus Death is its universal negation, or if Being itself is divided, and if it is, which type of Being it is that is negated in Death. 
 
 Therefore, we first examine our understanding of Being to bring the scope of the problem into view. This will necessarily entail a brief discussion of the history of philosophy and what has led to our current understanding of Being. What is presented in the next sections is by no means an exhaustive commentary, but only meant to highlight concepts as they pertain to the current analysis.
 
 The maturity of a field of inquirty can be seen in how close to its foundations its crises occur. Mathematics, by far the most mature of the sciences, took more than two thousand years to move past the crises in its theorems, e.g. the determination of areas, the calculation of ratios, the solution of equations, etc., before finally grappling with the crises in its foundations, e.g. notions of primitives and Number, of Infinity, of completeness and consistency (<sup><sub>and their inherent mutual exclusion</sub></sup>), etc. This direction of progress bears an interesting feature, in that it is the opposite of what we would expect if the intellect were purely rational. In logic you start with assumptions and apply rules of inference until arriving at the complex conclusion; this is the exact opposite of the actual history of mathematics. Humanity first needed to study the application of mathematics, via the straight edge and compass, via computation and ratio, before grappling with the meaning of its precepts, as if the foundation of mathematics was consequent upon its use. While counter-intuitive, further reflection reveals this is as it should be, for to know a thing deeply you must first know it approximately. There are no marriages built in darkness.
 
-In the last three hundred years, a similar reckoning has been underway in philsophy. As a species, for the past millenium, we have spent considerable time pondering the consequences of morals and aesthetics, taking their existence as givens and working out the results of their application. With the formulation of Cartesian scepticism, the artifacts of **Aristotelian** philosophy were shattered in order to examine their constituent pieces and then reworked into grander schemes. A clear line of philosophers extending through **Descartes**, **Kant**, **Husserl** and **Heidegger** began to challenge the notions upon which philosophy itself was built, by applying the analytical methods of rationalism to the most immediate of all datum: experience itself. We thus come to a crisis of philosophy in which even the most elementary questions one would think answerable provoke silence: What _are_ we? What _am_ I? What _is_ this? What _is_, in general?
+In the last three hundred years, a similar reckoning has been underway in philsophy. As a species, for the past millenium, we have spent considerable time pondering the ephemeral consequences of morals and aesthetics, taking their existence as givens and working out the results of their application. With the formulation of **Cartesian** scepticism, the artifacts of **Aristotelian** philosophy were shattered in order to examine their constituent pieces and then reworked into grander schemes. A clear line of philosophers extending through **Descartes**, **Kant**, **Schopenhauer** and **Heidegger** began to challenge the notions upon which philosophy itself was built, by applying the analytical methods of rationalism to the most immediate of all datum: experience itself. We thus come to a crisis of philosophy in which even the most elementary questions one would think answerable provoke silence: What _are_ we? What _am_ I? What _is_ this? What _is_, in general?
 
-There is an inherent problem with the application of the scientific method to the problem of Being, which these thinkers grappled with at great length, in that a investigation into Being will necessarily come to the point in which it must investigate, as a Being, that which is investigating, i.e. itself. Having placed the faculty of judgement that allows us to draw conclusions about the physical from the mechanics of the mental wholly within the physical, we lack the outside perspective to judge the effects of such judgement and are left with only the proposition itself as a ballast, that is to say, the truth of our observations about Being depends on whether those observations contain within themselves the metric by which they are judged true. But, in our dealings, the only way we approach truth and falsity is by understanding what is and what is not the case, which necessarily entails our judgement. We can not expect a judgement to be rendered outside of our faculty for judgement, for otherwise, truth would be something that could be encountered, in itself. That we cannot hold truth and measure its dimensions speaks to its metaphysical nature. For when I say, _I am this_, what proof is there but self-evidence? _Look and see_, that is the only thing we can mean by such a proposition.
+There is an inherent problem with the application of the scientific method to the problem of Being, which these thinkers grappled with at great length, in that a investigation into Being will necessarily come to the point in which it must investigate, as a Being, that which is investigating, i.e. itself. Having placed the faculty of judgement that allows us to draw conclusions about the world _in the world_, we lack the outside perspective to judge the validity of such judgement and are left with only the proposition itself as a ballast, that is to say, the truth of our judgements about Being depend on whether those judgements contain within themselves their own truth, since that truth cannot be ascertained by reference to an external Being when the judgement is about the Being which judges.
 
-By objectifying our Being and making it the subject of study, we necessarily lose its personal subjectivity, and render our object of study unapproachable, passing it by like a ship in the night. When one attempts to engage with phenomenology, one must careful with the avenues of inquiries one selects to make clear and apparent the object of study, which in this case is no object at all, but the subject itself insofar that it is pure subjectivity.
+By objectifying our Being and making it the subject of study, we necessarily lose its personal subjectivity, and render our object of study unapproachable, passing by each other like two ships in the night. When one attempts to study that which studies, one must careful with the avenues of inquiry one selects to make clear and apparent the object of study, which in this case is no object at all, but the subject itself insofar that it is pure subjectivity.
 
 When philosophy attempts to hew to the scientific method and objectifies the subject, it necessarily becomes reductionism. For this reason, the project of philosophy in the modern world, instead of elucidating and clarifying the meaning of these terms with respect to the advances of modern science, by attempting to emulate the results of science outside the domain of its problemset, has become to explain away, not only consciousness, but Being itself, by reducing everything to representation and formulae, as if these representations and formulae did not exist as representation and formulae through our Being first before their subsequent interpretation.
 
-No doubt the advance of machine learning and artifical intelligence has helped mislead philosophy back into the rationalist trap in which it has so often found itself stuck throughout history. The results of these fields are staggering and alluring, as if everything we are might be reduced to the mechanical equations of a machine, as if consciousness and Being were contained in the regression coefficient matrices underlying machine learning and not _their application over time and space_. 
+If philosophy is to remain in the modern world a field of inquiry independent of science, science being a field concerned with truth (or at the very least the removal of falsity), then philosophers must seek refuge in meaning, for meaning is the last stronghold not yet stormed by science and for good reason; Science, for all its exactness, cannot touch our Being. No description can become experience except through experience. It is the one and only task of philosophy to explain the way in which this transcedence occurs, and what it is that is happening when this occurs. 
 
-TODO 
-
-It seems likely that we will, in the near future, have an algorithm capable of producing a process that yields digital sentience, but we must be careful to understand the implications of such an algorithm. It will not be the symbols themselves that offer up another soul to the universal meat grinder, but the utter incomprehensibility of their results uninterprettable without the presupposition of the Other that will give rise to digital Being. We should not expect to find the meaning of the algorithm in the instructions it prescribes, but in the actual conceptualizations formed by the algorithm.
-
-Neural networks provide an interesting case study in Being, if we suppose these models do in fact possess some resemblance to actuality. A neural network, as currently understood in computer science, is nothing more than a recursive tree of regression models, where each node in a layer of the tree is dependent on the nodes from the previous layer and in turn feeds into the next layer.
-
-When
-
-[neural network image goes here]
-
-For instance, we might model our brain's image recognition as a network that takes as its initial input the excitation levels of the red, blue and green cones in our eyes. The first level of inputs would take the form of a `(R, G, B)` vector and produce a tree of output that feeds into the next layer of the network, analyzes the cross-interactions of each input variable in the previous layer, and so on, until finally reaching a concept node that maps the initial input through the layers of the network to an concept such as _dog_, _cat_ or _boat_. 
-
-Model trees like this can be calibrated to datasets, so each node of the tree has a formulae for constructing the input to the next level. We feed into the model datasets that have been pre-labeled, i.e. this image contains a cat, this image contains a dog, etc. This network, or tree, of models is then trained against this control data set, so that it can be used to ingest unknown images and render predictions as to their content.
-
-TODO
-
-### Being and Existence
+### What is Being?
 
 The path before us is littered with questions the answers to which are not at all clear. We do not get very far towards understanding our nature when we begin with even the simplest of questions. To wit, when asking _what are we?_, we must first understand what we mean by the notion of _is_, so that we precede this understanding with an attempt to understand an even simpler formulation that is no less tangled in its meaning, _what is this?_, before arriving at what we suppose to be simplest question of all and thus easiest to understand: _what is?_. This simple word, perhaps the foundation of all language, _is_, the present tense of _to be_, bears in it a confusion of concepts, so that when we pose the question _what is?_ versus _what is this?_ versus _what are we?_, it is not clear the role played by _is_ is in fact the same in all cases. 
 
-For when we say _a thing is_ and _a thing is this_, at first glance we mean two different things. There is in these two possible applications of _is_ the notions of existence and Being, respectively. In the former case, the proposition is a claim of existence in general, regardless of its particulars, and in the latter, it is a claim about how, what and when _a thing is_. 
+For when we say _a thing is_ and _a thing is this_, at first glance we have in mind two different ideas. There is in these two possible applications of _is_ the notions of existence and Being, respectively. 
 
-As an example, we might take on one hand the proposition, _the color red is_ and on the other hand, _the blanket is red_. We intuitively understand the former as an abstraction while the latter is what Whitehead termed a _concretization_, an actual occurence of the abstraction _red_. To put it another way, the former proposition can only be understood in thought, because the color red never occurs except _through_ a Being, which is what the latter proposition makes clear.
+In the former case, the proposition is a claim of existence in general, regardless of its particulars; the proposition _a thing is_ could be restated in equivalent form as _a thing exists_. To achieve the broadest generality and thus bring the full range of meaning into view, we make the subject of the sentence indefinite and say _something is_. 
 
-The former proposition says nothing about the ways in which the thing exists, only that it is so, whereas the latter proposition seems to belong to the former in that it declares not only is it so, but further, it is so in such-and-such a way, so we are easily led to the conclusion the latter is a more particular case of the former. Before drawing that conclusion, let us examine the negation of each, for the relation of the negated parts makes clearer the relation obtaining between the original parts.
+Allowing the subject of this simple proposition to take on any value, we have arrived at the most elementary truth that can be expressed in any philosophical framework. It is self-evident, however distorted our perception of the world may be and however uncertain we are of all that we experience, that we can at the very least say, _something is_. What it is this something is, while possibly beyond our ability to comprehend, cannot be Nothing for the simple fact that it _is_. If the world is nothing but illusion, then it _is_ still illusion. 
+
+The **Cartesian** _sum_ is really a particular form of the essential truth _something is_, where the primary state of Being from which all others proceed is assumed to be that of consciousness. The fallacy in the ontological proof _cogito ergo sum_ is the _cogito_ is not primitive; there are truths that precede it in form, namely _TODO: latin for it is_. 
+
+The existence of _something_, of the general thing, is more certain than the I's _am_, because in order to be an _I_, _I_ must first be separate from _something_, _I_ must be differentiated in type and form from the general thing. Therefore, the _something is_ precedes the _I am_. From the thing's general form, the arbitrariness contained in the _some_, we see the _thing_ which _I am not_ that precedes _me_ need not be a particular thing, it need not have any properties except Being distinct from _me_. For this reason, the thing which is prior to _I_ is not necessarily determined in its form; It is only existence, in indeterminate form, that precedes _my_ Being. 
+
+We do not require in this formulation, at this point, that a _thing_'s appearance correspond to its existence, for whether or not things are as they appear is irrelevant with respect to their differentation from _my_ Being. If what I perceive is not what actually is, then it is only because _something is_ that I cannot perceive. Existence must be presupposed before that of consciousness. 
+
+_I_ can not be mistaken for _this thing_, because what _I am_ is not what _that is_. 
+
+TODO
+
+
+The proposition _a thing is_ says nothing about the ways in which the thing exists, only that it is so, whereas the proposition _a thing is this_ seems to belong to the former case in that it declares not only is it so, but further, it is so in such-and-such a way, so we are easily led to the conclusion the latter is a more particular case of the former. 
+
+TODO
+
+Before drawing that conclusion, let us examine the negation of each, for the relation of the negated parts makes clearer the relation obtaining between the original parts.
 
 When we say _a thing is not_, we mean that it does not exist. With this claim, a _thing_'s potential to be a _thing_ has been removed, except removed absolutely in the sense that it can never be in the first place. We must be careful in the interpretation of this proposition, for we bump against the process of Being when we vaguely apply the rules of conjugation and propose: _this does not exist yet, but it may come to be_ or _this did exist, but now no longer does_. For we have invited the notion of Being in through the backdoors of _does_ and _did_, when what we wanted was to examine the notion of negated existence in isolation. We therefore clarify that by existence we do not mean with respect to time and space, but absolutely in itself. 
 
@@ -116,7 +131,117 @@ Likewise, the linguistic notion of _am_ brings with it a certain domain and a ce
 
 This can be seen in the syntactical error that arises in the proposition _the thing am this_; the meaning of _am_ is only understood through _I am this_.
 
-### The Being of God
+### What is Number?
+
+We have seen in the previous section that the phenomenon of numerability admits of numbers whose existence cannot have Being, specifically no matter the order of Being, there will always exist a certain class of number, denoted _transfinite_ in the language of **George Cantor**, which exceeds the order of all that is. These numbers are sometimes called _ordinal_ numbers, to make obvious these numbers emerge through the phenomenon of _ordering_ and are opposed to the _cardinal_ numbers which emerge through the phenomenon of _enumeration_. Numberability is thus composed of those two ontological dimensions, order and count, whereas in our everyday dealings we typically associate numerability with only the latter feature of count. To understand the nature of numbers, one must consider both of its aspects. 
+
+What, then, is meant by the Being of numbers, that which exists with the possibility of non-Being? That numbers are, in some sense, is obvious in the declarations _this is one_, _this is two_, etc., made while counting a set of objects, such as coins or sheep or planets.
+
+Yet for all of that, we must not be led astray into viewing numbers as something _physical_, or that which possesses _substance_. We do not encounter numbers directly in our experience; numbers are not phenomenal insofar that we can not approach or touch them and have a sensation regarding their texture or shape. There is never an absolute instance of a number that we perceive in our senses. Rather, we say we encounter numbers _through_ the perception of objects and the number we ascribe to a particular constellation of objects is dependent on the structure we impose on that constellation, on the way we partition the objects participating in the structure into its various constituent sets of objects. 
+
+For example, we may say _one hand_ has _five fingers_. Or, to make the multiplicity of number apparent, we may _there is one car_, but we may also say, _there is four wheels_, _there is two axels_, _there is six windows_, etc.  In none of these cases have we said anything factually inaccurate, but in each case we have ascribed a different number to the same underlying _thing_. In this way, we mean the Being of number, its predication of the subject, i.e _is two_, _is three_, etc., is dependent on the structure of the subject. 
+
+The Being of numbers is fundamentally different from the Being of objects; The Being of a number is a property of the structure of Being. This is what **Alain Badiou** meant when he declared _"mathematics is ontology"_: that to understand how a thing is and to understand what it is that makes a thing a thing, we need mathematics. We will return to **Badiou**'s pronouncment in a little while, after we have the tools to understand why, strictly speaking, he was wrong. Mathematics is not ontology, mathematics _is metaphysics_, but we get ahead of ourselves.
+
+TODO
+
+The first attempt to formalize the notion of a number was made by **Gottlob Frege**. A lifelong project, it found its purest expression in his seminal _Foundations of Arithmetic_. In his work, he provides a basis for understanding what a number is, through an analysis of the terms `object`, `concept` and `existence`. [^TODO] 
+
+Returning to the concept of concept, the concept is an abstraction on top of the phenomenon, an ingression into our perception of a commonality over and above what is apparent, i.e. the "_moons of Earth_" is an abstraction over the correspondence and persistence in our sense impression of light reflected over an object falling on our retina. The appearance in our perception is not the concept, it is "_gestalt_", a mere phenomenon. Upon conceptualization, it makes ingress into the metaphysical, or it makes manifest the metaphysical.  It is in metaphysical "_space_" where we formulate propositions such as 
+
+> P = 1 belongs to the concept "moons of Earth"
+> Q = 8 belongs to concept "moons of Jupiter"
+
+It is there, in "metaphysical space",  where we can make assertions such as "_P is true_" versus "_Q is false_". That the form to which the assertion attaches refers to something found or not found in our Being is incidental to its form. The truth of the form is not found in the form, or else appearance would be the ultimate reality.
+
+That these propositions becomes assertions is evident only in their reference to something that is found its Being in the world, i.e. **Frege**'s `bedeutung`. However, that the form to which the assertion attaches refers to something found in Being is incidental to its form. Only in the self-evident form does truth obtain regardless, otherwise the truth of the form is not found in the form, or else appearance would be the ultimate reality. The truth of non-self-evident propositions is ascertained via their `contingency`, their descent from the metaphysical into the physical, or if your prefer, via a process of _transcedence_. A proposition is only metaphysical in the sense that is conceivable to suppose _P_ were not the case, i.e. a world where Earth has two moons. The metaphysical proposition _P_ becomes physical with respect to Being, when its assertion obtains Truth, i.e. there exists a world where Earth has one moon versus there does not exist a world where Earth has one moon. Truth, or more generally judgement, is the bridge between metaphysical and physical, between the possibility of form, i.e. its existence, and its Being. 
+
+In this way, **Frege** examines the proposition "_all whales are mammals_" to point out the metaphysical `subordination` inherent to conceptualization, i.e. the concept of whales is contained in the concept of mammals. This proposition does not reveal anything about `Being-in-the-world`, for "even assuming that the (thing which is phenomenally present with us to which we attach the symbol of) whale is present, our proposition asserts nothing about it. We cannot infer from it that the animal present is a mammal, without the additional proposition that it is a whale, as to which our proposition says nothing"[^18] In other words, the propositions quantifies over all whales, but makes no assertion about the creature now before us. If we but had that one foothold, we might thus give "_mammals_" qualified metaphysical status, for the truth of "_mammals_" would obtain regardless of its Being, i.e. it would free itself from `contingency` and become eternal. But the concept of "_mammals_" is not like this, for it is a concept dependent on the unique history of the world.
+
+TODO
+
+What **Frege** is arguing is that Number is a concept without `contingency`, i.e. a metaphysical tautology. Number is something that is always true because it exists without reference to Being. Number is something that arrives through Being, but is independent of Being, except insofar that it is what the representations of certain Beings are about. Number is a metaphysical orthogonality in existence, an absolute metric that scales and ascribes itself to particular existents.
+
+To approach the metaphysical nature of Number from a different angle, consider how it is we apprehend five fingers and one hand simultaneously, via its appearance as appendage. The thing simply _is_; Number provides order from above, as it were. The perceptions of five fingers and one hand are coincident, but the conceptions are not. Or, if you prefer **Kantian** language, the appearances overlap, but the phenomena are distinct[^19].
+
+Thus, we might say Number is a "_phenomenon_" revealed over and above appearance, and thus call it _epiphenomenal_, if this term were not loaded with materialistic and psychological undertones and anyway implies, through the false syllogism of etymology that is not reflected in the reality of logic, its dependence on the existent world. Instead, we say Number is metaphysical to denote its truth without `contingency`, i.e. a Number is true regardless of what perceptions we have, what world we find ourselves in and how we are in that world. 
+
+TODO
+
+The conceptualization of objects is the essential metaphysical process. Metaphysics is the inquiry into the properties of this process.
+
+TODO
+
+Throughout the pages of his paper, he defines the numbers _0_ and _1_ in a few different ways. We turn now to his first attempt at capturing, within the confines of representation, the logical definitions of the two simplest numbers,[^TODO]
+
+---
+
+**Definition of Zero, version 1**
+> The number 0 belongs to a concept if, whatever object considered, the proposition holds universally this object does not exist in that concept.
+
+**Definition of One, version 1**
+> The number 1 belongs to a concept if, whatever object considered, the proposition does not hold universally this object does not exist in that concept.
+ 
+---
+
+TODO
+
+**Frege**, ever precise, goes on to reformulate these defintions with more rigor, thus revealing a fundamental principle of metaphysics, to be summarized shortly,
+
+---
+**Definition of Zero, version 2**
+
+> The number 0 is the Number which belongs to the concept _not identical with itself_
+
+**Definition of One, version 2**
+
+> The number 1 is the Number which belongs to the concept _identical with 0_
+
+We may instead prefer to express these definitions symbolically using the author's own MarkDown variant of modern set builder notation,
+
+---
+**Definition of Zero, version 3**
+
+> A = { x | x != x } <-> n(A) = 0
+
+
+**Definition of One, version 3**
+
+> B = { x | x = n(A) } <-> n(B) = 1
+
+See [appendix for symbol definitions](./A0_appendix.md)
+
+---
+
+TODO
+
+With these definitions in hand, it then remains to show the cardinality of set _A_ is zero, and that should be self-evident from its definition, i.e. the set that asserts self-identity is impossible is empty, and thus we have the metaphysical basis of 0 and 1.
+
+The reader should, keeping in mind the previous discussion of `contingency`, draw his or her attention to the recursive nature of the concept contained in the definition of 0 and how it embodies _self-evidence_; by _self-evident_ we mean a thing that demonstrates its own truth, a thing whose truth is not in question no matter what posture we assume, i.e. a truth without `contingency`. The form of a _self-evident_ truth involves an object, _x_, and a recursive relation that points back to _x_ that violates the conditions of its existence, i.e. its `contingency`. In other words, **Frege** realized the form of _self-evidence_ is contradiction and its denial, i.e. denial of a _self-evidently_ contradictory concept is equivalent to stating its cardinality equals zero. It is not self-evident that "_the rock is heavy_" is true, but it is self-evident "_the rock is not the rock_" is false, because we do not need a reference to anything but the form of the proposition to say it is true. 
+
+Zero is defined as the cardinality of a contradictory set, following from its self-evident form. Logic, as it were, has an opinion of itself, namely that its contradictions are empty. 
+
+Take note: the form of the contradiction is irrelevant. We could just as well define zero as the cardinality of the negation of the excluded middle. In either case, there is an inherent feature to any form we substitute into the set theoretic definition of zero: it contains a circular relation. The relation thus expressed will always involve an expression of x and a relation that cannot result in a judgement of truth. In **Frege**'s formulation this expression the inability of a thing to be itself. Furthermore, all subsequent numbers can be expressed via the recursion back to the original proposition about the cardinality of contradictions. 
+
+In other words, Nothing is `a priori` to Being; Being is `contingent` on Nothing[^20]. In order for this to be the case, negation must also be `a priori` to Being, for as **Frege** has shown, Nothing is captured through the negation of form.
+
+This is obvious in the realm of formal logic, where objects or objectified propositions are the operands of negation, conjunction or disjunction, over which existence is asserted via quantification. As an example, consider the formal proposition, "_for all a greater than zero, there exists an x such that x^2 + a = 0_" versus "_for all a greater than zero, there does not exist an x such that x^2 + a = 0_"; in both cases the form of the denoted content, i.e. the square of a number plus one equals zero, is identical, but the concept which solves the equation depends on the quantifier applied, i.e. how many exist. In the first case, the concept thus asserted is that of complex numbers, whereas in the second, the concept asserted is that of real numbers.
+
+TODO
+
+Within these two definitions, **Frege** has provided an immediately comprehensible and clearly logical way of defining Number as that which makes an assertion about the _cardinality_ of sets of existent things, i.e. the numerability of existent things that fall under a concept. The profundity of this should not be ignored, for what **Frege** has shown here is Number is metaphysical[^16], i.e. Number is not a property _of_ a thing, strictly speaking, but a property _about_ things.
+
+
+TODO
+
+Frege wanted to make clear the distinction between the existence of numbers and the `factical` origin of numbers, i.e. the psychological abstraction that occurs in the human brain when processing sense data representing a collection of objects. For instance, the sensory impression of a carton of eggs does not contain in and of itself the concept of twelve because of the dozen eggs contained in it no more than it does the concept of one because of the single carton in it; our experience is the immediate apprehension of the world in _gestalt_, in a way that tells us what _is_ before us and with us in the world: the concept enters in this _picture_[^TODO] in parallel to our awareness of the world; the concept is a dimension available to us through Being, that discloses to us aspects of Being, but is not in and of itself found in Being.
+
+TODO
+
+Modern set theory has shown the phenomenon of number can be understood using logic and symbolic propositional calculus. The derivation of the number 1 is
+Enumeration emerges naturally from certain assumptions made in axiomatic set theory. A curiousity that will be dealt with the sequel regards the fact that enumeration, that is the Being of Numbers, can be shown as a result 
+
+### What is God?
 
 It should come as no surprise, given the importance and precedence of Being in the world as we are, that it is in the origins of humanity's culture and religion that we likewise find the beginning of the historical account of our understanding of our Being, the Being of the _am_. The Bible, while its accuracy as it relates to the actual events of history may up for question, nonetheless serves as a time capsule for our understanding of Being, circa four thousand years ago. In its passages, we discover our early attempts to understand what is we are.
 
@@ -184,7 +309,7 @@ TODO: Upanishads
 [^5]: Or, it might be more appropriate to say: the Being that is _revealed_ by the I's _am_.
 [^6]: Or, should we say: _the formal representation of Being_. 
 
-### Substance and Form
+### What is Stuff?
 
 Outside of spirituality, the first analysis of Being of which we are aware comes down to us through **Aristotle**, more than two thousand years ago. Despite the age of his works, they have remained throughout history a source of considerable study, in particular his contributions to the so-called _primary_ philosophy, what would be called today _ontology_, the study of Being itself. The essence of his contributions to untangling of the puzzle of Being are chiefly found in _Physics_ and _Metaphysics_. 
 
@@ -203,7 +328,7 @@ There is an element of truth in this interpretation. How could there not be? It 
 We here recall the immortal words of the Bard, "A rose by any other name would smell just as sweet." 
 
 
-### The Darkness That Comes Before
+### What is Consciousness?
 
 Each of us comes to the table, in the coincidentally literal _and_ figurative sense, with an innate understanding of what it means _to be_. We do it, _be_ that is, without so much as thought. In fact, this is the first point we should make in this section's analysis: Being doesn't require thought. Consciousness is not the determinative factor in our ability to be. This proposition runs counter to the conventional wisdom of the modern world, conditioned as it is by the emergence of machine learning and statistical models and the opinions of these algorithmic processes that view them as the forerunner to artificial intelligence, for we assume in narrating these facts that an artifical intelligence must also be conscious, misled perhaps by the label "_intelligence_". Intelligence, the author believes, comes later; we should understand these emerging fields as the precursor to _artificial Being_, if such an adjective can even be applied to a concept like Being.
 
@@ -213,7 +338,7 @@ Consciousness is an abstraction that requires the concept of self and the concep
 
 A darkness exists before we think, when we have not yet become ourselves and yet remain in the presence of the world, a Being entire, without reference to itself except as a conduit for experience. It is this `a priori` mode of Being, where the necessary and essential forms of Being are imposed on it, namely that of time and space and causality, that conditions our `a posteriori` reflective Being, i.e. our ability to generalize across form and conceptualize objects into abstract concepts. 
 
-### Language Games
+### What is Language?
 
 In order to extricate an understanding of _Being_ from our learned biases, we must understand its place in our language. Therefore, we first turn to language and its structures in our analysis.
 
@@ -245,7 +370,7 @@ A hammer may be used to strike just as well as pry, and in each case its usage r
 [^9]: [Philosophical Investigations, Section 14, Ludwig Wittgenstein, 1953](https://archive.org/details/philosophicalinv0000witt/page/n3/mode/2up)
 [^10]: [Philosophical Investigations, Section 11, Ludwig Wittgenstein, 1953](https://archive.org/details/philosophicalinv0000witt/page/n3/mode/2up)
 
-### Appearance versus Existence
+### What is Phenomenon?
 
 If modern philosophy has a spiritual grandfather, then few would argue that designation belongs to **Immanuel Kant**. 
 
@@ -273,202 +398,3 @@ TODO: sinn vs bedeutung
 
 TODO: heidegger's announcing
 
-
-### Object versus Concept
-
-
-
-### What is Ontology?
-
-_Ontology_, if we simply define it by its root words, is the study of Being. It takes as its subject matter the _meaning_ of Being. In short, ontology asks a single question: What does it mean _to be_? This is by no means a simple question, even though we answer it every day simply by not being dead. That we _are_ means we must, to some extent, possess the answer to this question, but it is not at all clear how we should put that answer into words. By even asking the question we assume the posture of interpretting our Being as a Being inquiring into the meaning of its Being. This recursion is an inherent feature of inquiry; we approach the subject matter of inquiry with a presupposition about what it means to be. "_Every scientific memoir in its records of the 'facts' is shot through and through with interpretation_". [^11]
-
-The meaning of _Being_ is transfused with our everyday intuition, with our immediate apprehension of the world outside ourselves. We use _Being_ in a variety of contexts: The rock _is_ heavy, the mountain _is_ high, love _is_ delightful, red _is_ pretty, the idea _was_ disgusting, I _am_ hesitant, you _are_ reading, he _was_ sick, the teacher _was_ doubtful, and so on, ad infinitum. It would seem, then, _Being_ must be a broad concept to encompass so wide an array of possibilities. How are we to preserve its meaning across its diverse usage? To put another way, _am_ I the same way a rock _is_?
-
-Often, _Being_ is colloquially equated with that of _existence_, but this is not quite right. The error results from a misunderstanding of semantics, as seen in the contrived syntax, "_The rock is_". Here we are led along the path of a syntactically correct sentence to a semantic meaning that does not adequately express reality, i.e. the rock _is_, without reference to anything else, as if Being were something that did not require a ground to draw it into repose. 
-
-Among the greatest of **Martin Heidegger**'s many insights is his realization the relation of Being contains within it an implicit reference to the world in which to the thing/entity/being is. For this reason, he introduced the term, `Being-in-the-world`, as a way of drawing the reader's attention towards the implicit ontological relations contained in our concept of Being. The _world_ in this neologism is not the world of space and time, although that is one aspect of it, but a world of everything that exists, including the possibility of that existence.
-
-
-
-_Being_ is a relation. This relation implicitly contains the world and the entity that relates to the world. It is the way in which an existent entity is in the world. 
- 
-
-Our Being, and the Being of all other entities, is recursive in this sense: It contains an implicit reference to itself. We are, in so far, that we can be in relation to ourselves. The rock is the rock, I am I, you are you. Do not conclude these propositions are nonsense, haphazard permutations of syntax. Instead, they should be perceived for what they are: tautological trivialities, a form of ontological identity. fR
-
-**Heidegger** conceptualized a type of Being called `Dasein`, in order to distinguish it from the types of being possessed by things like plants, rocks, numbers or concepts. Our Being is such that it is concerned with its Being. Our Being is with respect to the forms it apprehends, an apprehension of forms that necessarily contains within it the form that is apprehending.
-
-**Heidegger** acknowledges the split between ontology and metaphysics, rightly giving priority, as its relates it us and our experience of ourselves, to ontology over metaphysics. Nevertheless, in supposing a characteristic separation between the properties of our Being and the properties of the Being of things, he tacitly assumes a metaphysical theorem _about_ Being in the construction of his ontology, namely that the Being of some entities, such as rocks and asteroids, are not concerned with their Being. This seems a likely hypothesis, and one cannot fault **Heidegger** for its assumption if he were conducting himself in his everyday routines, but when doing philosophy, we must be explicit in acknowledging our priors.
-
-The hypothesis is alluring, for it appears self-evident. It would seem to be the case our Being is distinct from other Beings of a certain species or genre. It is apparent that we, as humans, have unique properties that distinguish us from, say, a park bench. Appearances, however, are no foundation for an ontological philosophy. So that is all it can remain: a hypothesis. It is a prior assumption we bring to the table over and above the ontic priors we implicitly bring with us into our apprehensions, the very priors we are trying to discern in the construction of any ontology. 
-
-If we build a top of a mixture 
-
-How are we to separate the consequences of our assumptions, the consequences of our priors, and the variations with respect to one another? If the ontological pursuit is understood as the removal of `factical` priors from our understanding of Being, then we must not allow ourselves to be fooled into thinking there is a basis for the differentiation of Being into partitions. Heidegger means as much when he talks about the "unity" of Being.
-
-
-Death is a proposition about form: that it will cease be. 
-
-[^11]: [Process and Reality, Chapter 1, Section VI, Alfred Whitehead, 1929](https://archive.org/details/processrealitygi00alfr)
-
-### What is Metaphysics?
-
-There is a case to be made that **Gottlob Frege**'s _Foundations of Arithmetic_ is the first truly metaphysical treatise, despite all that preceded it and claimed the title[^12]. **Frege** acknowledges as much in the conclusion where he says the laws of Number are "_the laws of laws of nature_". [^13] In his work, he provides the metaphysical basis for Number, through an analysis of the terms: `object`, `concept` and `existence`. [^14] He defines the number "_0_" and the number "_1_" in the following way[^15]
-
----
-
-**Definition of Zero, version 1**
-> The number 0 belongs to a concept if, whatever object considered, the proposition holds universally this object does not exist in that concept.
-
-**Definition of One, version 1**
-> The number 1 belongs to a concept if, whatever object considered, the proposition does not hold universally this object does not exist in that concept.
- 
----
-
-Before we even examine the content of the definitions, let us take a note of a curiosity in its form. Where is the `to be` in these definitions? Is it hiding? Do all verbs implicitly mask a Being, so that when we say "_whatever object considered_" what we really mean is "_whatever object is considered_"? The aspect of "_consideration_" seems incidental to the sense of the sentence. Indeed, the ambiguities of language seem to be impinging upon our ability to get at the true meaning of what the sentence itself it saying.
-
-Is there something else going on here? Is the Being in this sentence merely an artifact of Being language? As we proceed, we will see how **Frege** reformulates these definitions, abstracting away all ambiguities in an attempt to approach **Leibniz**'s [universal calculus](https://en.wikipedia.org/wiki/Characteristica_universalis), the logicist project of crystal clarity, where all things are apparent through their form. 
-
-Within these two definitions, **Frege** has provided an immediately comprehensible and clearly logical way of defining Number as that which makes an assertion about the _cardinality_ of sets of existent things, i.e. the numerability of existent things that fall under a concept. The profundity of this should not be ignored, for what **Frege** has shown here is Number is metaphysical[^16], i.e. Number is not a property _of_ a thing, but a proposition _about_ things. 
-
-**Frege** is telling us: do not confuse the `factical` origin of numbers, i.e. abstraction, for the existence of Number. Since the term `factic` has not yet been introduced into the present discourse, we will give examples of possible `factic` origins of numbers that will make the preceding clear: consider three bicycles or twelve eggs or a hundred Senators or a ten thousand soldiers. The "_numberness_" we perceive is not there, _in_ the objects to which Number is affixed. For instance, the sensory impression of a carton of eggs does not contain in and of itself the concept of twelve no more than it does the concept of one because of the single carton; our experience is the immediate apprehension of the world in a way that tells us what _is_ before us and with us in the world: the concept enters into this _picture_[^17] in parallel to our ontic awareness of the world; the concept is a dimension available to us through Being, that discloses to us a `metaphysical` truth about Being, but is not found in Being. 
-
-In this way, **Frege** examines the proposition "_all whales are mammals_" to point out the metaphysical `subordination` inherent to conceptualization, i.e. the concept of whales is contained in the concept of mammals. This proposition does not reveal anything about `Being-in-the-world`, for "even assuming that the (thing which is phenomenally present with us to which we attach the symbol of) whale is present, our proposition asserts nothing about it. We cannot infer from it that the animal present is a mammal, without the additional proposition that it is a whale, as to which our proposition says nothing"[^18] In other words, the propositions quantifies over all whales, but makes no assertion about the creature now before us. If we but had that one foothold, we might thus give "_mammals_" qualified metaphysical status, for the truth of "_mammals_" would obtain regardless of its Being, i.e. it would free itself from `contingency` and become eternal. But the concept of "_mammals_" is not like this, for it is a concept dependent on the unique history of the world. 
-
-What **Frege** is arguing is that Number is a concept without `contingency`, i.e. a metaphysical tautology. Number is something that is always true because it exists without reference to Being. Number is something that arrives through Being, but is independent of Being, except insofar that it is what the representations of certain Beings are about. Number is a metaphysical orthogonality in existence, an absolute metric that scales and ascribes itself to particular existents.
-
-To approach the metaphysical nature of Number from a different angle, consider how it is we apprehend five fingers and one hand simultaneously, via its appearance as appendage. The thing simply _is_; Number provides order from above, as it were. The perceptions of five fingers and one hand are coincident, but the conceptions are not. Or, if you prefer **Kantian** language, the appearances overlap, but the phenomena are distinct[^19].
-
-Thus, we might say Number is a "_phenomenon_" revealed over and above appearance, and thus call it _epiphenomenal_, if this term were not loaded with materialistic and psychological undertones and anyway implies, through the false syllogism of etymology that is not reflected in the reality of logic, its dependence on the existent world. Instead, we say Number is metaphysical to denote its truth without `contingency`, i.e. a Number is true regardless of what perceptions we have, what world we find ourselves in and how we are in that world. 
-
-**Frege**, ever precise, goes on to reformulate these defintions with more rigor, thus revealing a fundamental principle of metaphysics, to be summarized shortly,
-
----
-**Definition of Zero, version 2**
-
-> The number 0 is the Number which belongs to the concept _not identical with itself_
-
-**Definition of One, version 2**
-
-> The number 1 is the Number which belongs to the concept _identical with 0_
-
-We may instead prefer to express these definitions symbolically using the author's own variant of modern set builder notation,
-
----
-**Definition of Zero, version 3**
-
-> A = { x | x != x } <-> n(A) = 0
-
-
-**Definition of One, version 3**
-
-> B = { x | x = n(A) } <-> n(B) = 1
-
-See [appendix for symbol definitions](./A0_appendix.md)
-
----
-
-With these definitions in hand, it then remains to show the cardinality of set _A_ is zero, and that should be self-evident from its definition, i.e. the set that asserts self-identity is impossible is empty, and thus we have the metaphysical basis of 0 and 1.
-
-The reader should, keeping in mind the previous discussion of `contingency`, draw his or her attention to the recursive nature of the concept contained in the definition of 0 and how it embodies _self-evidence_; by _self-evident_ we mean a thing that demonstrates its own truth, a thing whose truth is not in question no matter what posture we assume, i.e. a truth without `contingency`. The form of a _self-evident_ truth involves an object, _x_, and a recursive relation that points back to _x_ that violates the conditions of its existence, i.e. its `contingency`. In other words, **Frege** realized the form of _self-evidence_ is contradiction and its denial, i.e. denial of a _self-evident_ concept is equivalent to stating its cardinality equals zero. It is not self-evident that "_the rock is heavy_" is true, but it is self-evident "_the rock is not the rock_" is false, because we do not need a reference to anything but the form of the proposition to say it is true. 
-
-Zero is defined as the cardinality of a contradictory set, following from its self-evident form. Logic, as it were, has an opinion of itself, namely that its contradictions are empty. 
-
-Take note: the form of the contradiction is irrelevant. We could just as well define zero as the cardinality of the negation of the excluded middle. In either case, there is an inherent feature to any form we substitute into the set theoretic definition of zero: it contains a circular relation. The relation thus expressed will always involve an expression of x and a relation that cannot result in a judgement of truth. In **Frege**'s formulation this expression the inability of a thing to be itself. Furthermore, all subsequent numbers can be expressed via the recursion back to the original proposition about the cardinality of contradictions. 
-
-In other words, Nothing is `a priori` to Being; Being is `contingent` on Nothing[^20]. In order for this to be the case, negation must also be `a priori` to Being, for as **Frege** has shown, Nothing is captured through the negation of form.
-
-This is obvious in the realm of formal logic, where objects or objectified propositions are the operands of negation, conjunction or disjunction, over which existence is asserted via quantification. As an example, consider the formal proposition, "_for all a greater than zero, there exists an x such that x^2 + a = 0_" versus "_for all a greater than zero, there does not exist an x such that x^2 + a = 0_"; in both cases the form of the denoted content, i.e. the square of a number plus one equals zero, is identical, but the concept which solves the equation depends on the quantifier applied, i.e. how many exist. In the first case, the concept thus asserted is that of complex numbers, whereas in the second, the concept asserted is that of real numbers.
-
-Returning to the concept of concept, the concept is an abstraction on top of the phenomenon, an ingression into our perception of a commonality over and above what is apparent, i.e. the "_moons of Earth_" is an abstraction over the correspondence and persistence in our sense impression of light reflected over an object falling on our retina. The appearance in our perception is not the concept, it is "_gestalt_", a mere phenomenon. Upon conceptualization, it makes ingress into the metaphysical, or it makes manifest the metaphysical.  It is in metaphysical "_space_" where we formulate propositions such as 
-
-> P = 1 belongs to the concept "moons of Earth"
-> Q = 8 belongs to concept "moons of Jupiter"
-
-It is there, in "metaphysical space",  where we can make assertions such as "_P is true_" versus "_Q is false_". That the form to which the assertion attaches refers to something found or not found in our Being is incidental to its form. The truth of the form is not found in the form, or else appearance would be the ultimate reality.
-
-That these propositions becomes assertions is evident only in their reference to something that is found its Being in the world, i.e. **Frege**'s `bedeutung`. However, that the form to which the assertion attaches refers to something found in Being is incidental to its form. Only in the self-evident form does truth obtain regardless, otherwise the truth of the form is not found in the form, or else appearance would be the ultimate reality. The truth of non-self-evident propositions is ascertained via their `contingency`, their descent from the metaphysical into the physical, or if your prefer, via a process of _transcedence_. A proposition is only metaphysical in the sense that is conceivable to suppose _P_ were not the case, i.e. a world where Earth has two moons. The metaphysical proposition _P_ becomes physical with respect to Being, when its assertion obtains Truth, i.e. there exists a world where Earth has one moon versus there does not exist a world where Earth has one moon. Truth, or more generally judgement, is the bridge between metaphysical and physical, between the possibility of form, i.e. its existence, and its Being. 
-
-The conceptualization of objects is the essential metaphysical process. Metaphysics is the inquiry into the properties of this process.
-
-TODO: reread this and rethink
-
-In all of this, we have said nothing of the Being of the concepts in this metaphysics. All we have shown is given their existence, how the contingency of Being arises through form, but is itself not the form, for we find ourselves in the world with the form. Existence is a property that emerges through the metaphysics of assertion and negation[^21]. The Being of the existent is beyond the realm of metaphysics, and is properly understood as subject matter for ontology. 
-
-In other words, the form of Being, its representations of the world, tells Being nothing at all about what it means to be except that to be is not to be found in form thus expressed, but among these forms, otherwise it would not encounter that form in its Being. And if we ask what it is that separates us (in the mode of Being) from ourselves (in the mode of Being form), the only possbility is Nothing. This what **Jean-Paul Sartre** meant when he said, "_Presence to self, on the contrary, supposes that an impalpable fissure has slipped into being. If being is present to itself, it is because it is not wholly itself. Presence is an immediate deterioration of coincidence, for it supposes separation. But if we ask ourselves at this point 'what it is' which separates the subject from himself, we are forced to admit it is 'Nothing'."[^22]
-
-**Frege** has another stunning insight to stack on top of all of this talk of Nothing and negation, and its apparent `a priori` nature. We shall first state his result using modern symbolism and then provide a commentary on its meaning,
-
-![](./assets/negation_of_existence.svg)
-![](./assets/negation_of_universality.svg)
-
-TODO: 
-
-Thus, Nothing, negation and existence are the metaphysical foundation of Being, the `a priori`s of ontology. This is what we mean when say, in the sequel, that "_Being is not identical to existence_".
-
-**Heidegger**'s failing was not realizing our ontological nature, our way of Being in the world, has an inherently metaphysical dimension. We find ourselves being in the world, with an inherent interpretation of that Being as a Being in the world. We have assumed a metaphysical posture by Being here, not there; this, not that. Our very Being is a metaphysical assertion that this is the way it is and not some other way. It is by Being and through Being that metaphysics become physics, if by physics we understand what is actual rather the inquiry of physics
-
-**Alfred Whitehead**'s insight into this matter can be found in _Process and Reality_: "_Whenever we attempt to express the matter of immediate experience, we find that its understanding leads us beyond itself, to its contemporaries, to its past, to its future, and to the universals in terms of which its definiteness is exhibited. But such universals, by their very character of universality, embody the potentiality of other facts with variant types of definiteness. Thus the understanding of the immediate brute fact requires its metaphysical interpretation as an item in the world with some systematic relation to it_"[^23]
-
-This interpretation of which Whitehead speaks is implicitly metaphysical, because interpretation is with respect to the Being interpretting, which requires a world against which to interpret. But every interpretation is necessarily focused on its object inquiry, which can never be Being in its generality, but a Being in its particularity, and therefore fails to encompass the totality of Being. The Being of physics, for instance, will never coincide with the Being of the objects of its inquiry. In other words, "_If we consider any scheme of philosophic categories as one complex assertion, and apply to it the logician's alternative, true or false, the answer must be that the scheme is false_"[^24] because Being will always separate the inquiry from the inquired; or, "_the fallacy consists in neglecting the degree of abstraction involved when an actual entity is considered merely so far as it exemplies certain categories of thought_"[^25].
-
-TODO: sartre origin of negation reference here
-
-TODO: heidegger what is metaphysics reference here
-
-With a nod to **Platonic** forms and as a harbinger of what is to come, we propose the decomposition of **Frege**'s insights into the following metaphysical laws,
-
-- Existence of form is an eternal relation in space.
-- Being of form is a transitory relation in time.
-
-We see in these laws why **Heidegger** came to understand time as the horizon over which Being is, rather than space. Space gives rise to form, but time gives rise to change, and a thing only becomes in relation to change. The Being of a form in time is a degeneration of the existence of the form in space[^26]. A Being becomes so that it be and in so doing, exposes itself to the possibility of perishablity. Its own Nothingness precedes the Being of form. 
-
-We also note that, since Being is always in time, we must necessarily append another law to approach metaphysical completeness, i.e. we must have a law that explains what happens _after_ what is becomes what was.
-
-- Nothing belongs to the existence of form after it is no longer in time. 
-
-[^12]: Although in this sense, **Kant**'s title of _Prologmena to any Future Metaphysics_ is quite adapt.
-[^13]: Frege would say `function` or `signify` instead of `relation`.
-[^14]: [The Foundations of Arithmetic, Section V: Conclusion, Frege Gottlob, Frege, 1884](https://www.gutenberg.org/ebooks/48312)
-[^15]: We have modified the terminology here slightly from **Frege**'s actual definition. In the case of zero, the original definition reads, "the number 0 belongs to a concept if, whatever _a_ may be, the proposition holds universally that _a_ does not fall under that concept". The substitution of object for _a_ should be no cause for concern, otherwise what use is a variable? However the equivalence of _does not fall under_ to _does not exist_ deserves a further remark. **Frege**'s goal was to complete the universal language proposed by **Leibniz**, a goal that requires utter precision. The author thought it best to remove the ambiguity of "_falling_" from **Frege**'s definition, as this definition was taken from a translation, and the so-called "_sense_" of the current definition seems more in keeping with the purpose of the original project. Regardless, the current work is not meant as a commentary on **Frege**, or any philosopher for that matter.
-[^16]: **Frege** would say `objective` instead of `metaphysical`, but here again we edit in modern terminology. The term `objective` shall be used the sense intended by **Schopenhauer**, in later sections.
-[^17]: We may this in the metaphorical sense, lest we dare rouse **Frege**'s ghost. 
-[^18]: [The Foundations of Arithmetic, Section III: Views on One and Oneness, Frege Gottlob, Frege, 1884](https://www.gutenberg.org/ebooks/48312) Note: the parenthesis are the author's own addition to bring **Frege**'s analysis in line our own.
-[^19]: This signals a missing dimension to **Kant**'s rough draft of ontology of `noumena` vs `phenomena`. In other words, appearance and phenomena are not identical, for there are phenomenal apprehensions that do not reside in the appearances we attach to the world, i.e. Number. This is one of **Frege**'s greatest contributions to philosophy. 
-[^20]: A tautology, if one ever existed.
-[^21]: We should say, properly, "_through the metaphysics of assertion and logic_", but we only wish to bring into relief at the current moment in time the contingency of Being on negation.
-[^22]: [Being and Nothingness, Chapter 1: Immediate Structure of the For-Itself, Section I: Presence to Self, Jean-Paul Sartre, 1958](https://archive.org/details/beingnothingness0000unse)
-[^23]: [Process and Reality, Chapter 1, Section VI, Alfred Whitehead, 1978](https://archive.org/details/processrealitygi00alfr)
-[^24]: [Process and Reality, Chapter 1, Section V, Alfred Whitehead, 1978](https://archive.org/details/processrealitygi00alfr)
-[^25]: [Process and Reality, Chapter 1, Section III, Alfred Whitehead, 1978](https://archive.org/details/processrealitygi00alfr)
-[^26]: Do not be mislead by the notion of _space_ used here. This is not the _space_ of distance, but the _space_ of relation, where a thing exists through the logical necessity of its form. The relation "_is equal to_" applies not only to distances, but just as well to abstract concepts, as seen in the phrase "_speed of the car is equal to the angle of the speedometer multiplied by a constant_". Relations operate on domains of concepts, and it of this space made of the totality of relational domains that we now speak.
-
-### Concept
-
-
-
-## Proof by Contradiction
-
-The great workhorse of mathematics is proof by contradiction. An assumption is made, an absurdity is shown to result from the assumption, therefore the assumption is shown to be false. In this way was modern mathematics constructed, by outlining the truth and demarcating its boundary with falsity. Anyone who has studied higher mathematics will attest to the way most mathematical proofs work by letting the truth "_in through the back door_"[^27], that is to say, they work by showing what cannot be the case in order to prove the opposite must be so, but this gets us no closer to _why_ it is so.
-
-This method does not reveal the "_intuition_" of the theorem to the observer; indeed one can comprehend a proof without understanding anything about what it trying to say and in the converse direction, one may understand a concept without being able to grasp its proof in the slightest.
-
-So it is with induction: a proof of induction, and therefore a proof _by_ induction, relies on a contradiction that an element belongs to two mutually exclusive sets, which we are forced to admit is absurdity, therefore we conclude induction must be true; but nowhere in the proof do we see why the form in an induced series is transmitted from one term to the next. Likewise, a student can spend an entire academic career studying the axioms and theorems of real analysis and still have no intuition for how a falling stone's trajectory traces a parabola with respect to time, despite having memorized a series of proofs that show how to go from set theory to differential calculus.
-
-This, however, is a logical method well-suited for Death, since as we have noted, Death will never be understood. The only course we may avail ourselves of is to define what Death is not and trace its outline through the ink of negation. Indeed, this will be the course of the present work. We shall attempt to negate our way towards an understanding of Death, an understanding that we have already noted is impossible. _C'est la vie_.
-
-[^27]: [The World As Will and Representation, Vol 1, Section ?, Arthur Schopenhauer, 1859](https://www.gutenberg.org/ebooks/38427)
-
-
-
-To those who hold fast to determinism and cling to the belief that possibility is psychological and not ontological, that the universe is a clockwork with initial conditions and laws of evolutions, one need consider the d'Alembert Principle and the work of Hamiliton and Lagrange.
-
-While Newton was in England developing his three laws from which he would deduce a broad array of phenomenon, such as planetary motion, geometric optics, etc., work was being done in continential Europe to express physical law in terms of an extremum principle. Rather than asserting the three laws of the motion as the primitives of mechanics, Hamilton and Lagrange showed these laws were the result of a more fundamental principle, that of _least action_:
-
-
-> The trajectory of a particle between two fixed points in _time_ is such that it extremizes the quantity of _action_. 
-
-Where _action_ is defined as the difference between the potential and kinetic energy in a system integrated over the time period in consideration, i.e. the accumulated excess energy over and above what is proscribed by the system itself. By asserting motion is such that it minimizes this quantity, the Newton's laws naturally fall out of the mathematical balance of energy, i.e. the conservation of energy.
-
-By positing the laws of motions thus, Hamilton and Lagrange showed that within their formulation, they inherently contain the possibility of the world. It is as if the universe looked at all the possible lines that connected two points and brought into existence only that which satisfies the conditions of necessity, i.e. _least action_. 
-
-Except when we say universe in the preceding, we should be careful, for what we truly mean is the subject apprehending the universe, the _Dasein_ that reflects on its Being. Hamilton has expressed in his formulation a ontological primitive, i.e. a necessity of form.  
