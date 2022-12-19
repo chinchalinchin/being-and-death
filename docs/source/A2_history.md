@@ -109,7 +109,6 @@ Part IV
 ## 1720s
 
 ### Chesselden, William: An Account of Some Observations Made by a Young Gentleman, Who Was Born Blind, or Lost His Sight so Early, That He Had no Remembrance of Ever Having Seen, and Was Couch d between 13 and 14 Years of Age
-## 1780s
 
 > Tho' we say of the Gentleman that he was blind, as do do of all People who have Ripe Cataracts, yet they are never so blind from that Cause, but that they can discern Day from Night; and for the most Part in the strong Light, distinguish Black, White and Scarlet; but they cannot perceive the Shape of any thing; for the Light by which these Perceptions are made, being let in obliquely thro; the aqueous Humor, or the anterior Surface of the Chrystallin (by which the Rays cannot be brought into a Focus upon the Retina) they can discern in no other Manner, than a found Eye can thro; a Glass of broken Jelly, where a great Variety of Surfaces so differently refract the Light, that the several distinct Pencisl of Rays cannot be collected by the Eye into their proper Foci; wherefore the Shape of an Object is such a Case, cannot be at all discern'd, tho' the Colour may: And thus it was with this young Gentleman, who though he knew these Colours asunder in a good Light; yet when he saw them after he was couch'd, the faint Ideas he had of them before, were not sufficient for him to know them by afterwardsl and therefore he did not think them the same, which he had before known by those Names. Now Scarlet he htought the most beautiful of all Colours, and of others the most gay were the most pleasing, whereas the first Time he saw Black, it gave him great Uneasiness, yet after a little Time he was reconcil'd to it; but some Months after, seeing by Accident a Negroe woman, he was struck with great Horror at the Sight.
 
@@ -118,6 +117,8 @@ Part IV
 > Being shewn his Father's Picture in a Locket at his Mother's Watch, and told what it was, he acknowledged a Likness, but was vastly surpriz'd; asking, how it could be, that a large Face could be express'd in so little Room, saying, it should have seemed as impossible to him, as to put a Bushel of anything into a Pint.
 
 > At first, he could bear but very little Sight, and the Things he saw, he thought extremely large; but upon seeing THings larger, thoe first seen he conceiv'd less, never being able to image any Lines beyond the Bounds he saw; the ROom he was in he said, he knew to be but Part of the House, yet he could nto conceive that the whole House could look bigger. Be he was couch'd, he expected little Advantage from Seeing, worth undergoing an Operation for, except reading and writing; for he said, he thought he could have no more Pleasure in walking abrad than he had in the Garden, which he could so safely and readily. And even Blindness he observ'd, had this Advantage, that he could go any where in the Dark much better than those who can see; and after he had seen, he not soon lose this QUality, nor desire a Light to go about the House in the Night. He said, every new OBject was a new Delight, and the Pleasure so great, that he wanted Ways to express it; but his Gratitude to his Operator he could not conceal, never seeing him for some TIme without Tears of Joy in his Eyes, and other Marks of Affection: And if he did not happen to come at any TIme when he was expected, he would be so griev'd, that he could not forbear crying at his Disappointment. A year after first Seeing, being carried upon _Epsom DOwns_, and observing a large Prospect, he was exceedingly delighted with it, and call'd it a new King of Seeing. And now being lately couch'd of his other Eye, he says, that Obejcts at first appear'd large to this Eye, but not so large as they did at first to the other; and looking upon the same OBject with both Eyes, he thought it look'd about twice as large as with the first couch'd Eye only, but not Double, that we can Ways discover.
+
+## 1780s
 
 ### Kant, Immanuel: Prolegomena to any Future Metaphysics
 
@@ -315,7 +316,7 @@ Chapter 1: Speculative Philosophy, Section VI
 
 > Its ultimate appeal is to the general consciousness of what in practice we experience.
 
-## 19302
+## 1930s
 
 ### Cioran, Emil: The Heights of Despair
 
