@@ -324,6 +324,10 @@ The Passion for the Absurd
 
 > There are people who are destined to taste only the poison in things, from whom any surprise is a painful surprise and any experience a new occasion for torture. If someone were to say to me that such suffering has subjective reasons, relative to the individual's particular makeup, I would then ask: Is there an objective criterion for evaluating suffering? Who can say with precision that my neighbor suffers more than I do or that Jesus suffered more than all of us? There is no objective standard because suffering cannot be measured according to the external stimulation or local irritation of the organism, but only as it is felt and reflected in conciousness. Alas, from this point of view, any hierarchy is out of the question. Each person remains with his own suffering, which he believes absolute and unlimited. How much would we diminish our personal suffering if we were to compare it to all the world's sufferings until now, to the most horrifying agonies and the most complicated tortues, the most cruel deaths and the most painful betrayals, all the lepers, all those burned alive or starved to death? Nobody is comforted in his sufferings by the thought that we are all mortals, nor does anybody who suffers really find comfort in the past or present suffering of others. Because in this organically insufficient and fragmentary world, the individual is set to live fully, wishing to make of his own existence an absolute. Each subjective existence is absolute to itself. For this reason each man lives as if he were the center of the universe or the center of history. Then how could his suffering fail to be absolute? I cannot understand another's suffering in order to diminish my own. Comparisons in such cases are irrelevant, because suffering is an interior state, in which nothing external can help.
 
+### Tarski, Alfred: Logic, Semantics, Metamathematics
+
+> The main source of the difficulties met with seems to lie in the following: it has not always been kept in mind that the semantical concepts have a relative character, that they must always be related to a particular language. People have not been aware that the language about which we speak need by no means coincide with the language in which we speak. They have carried out the semantics of a language in that language itself and, generally speaking, they have proceeded as though there was only one language in the world. The analysis of the antimonies mentioned shows, on the contrary, that the semantical concepts simply have no place in the language to which they relate, that the language which contains its own semantics, and within which the usual logical laws hold, must inevitably be inconsistent.
+
 ## 1940s
 
 ### Sartre, Jean-Paul: Being and Nothingness
@@ -342,7 +346,7 @@ Introduction: Pursuit of Being, Chapter 1: The Origin of Negation, Section V: Th
 
 > ...
 
-> If "nothing" compels me to save my life, _nothing_ prevents me from precipitating myself into the abyss
+> If _nothing_ compels me to save my life, _nothing_ prevents me from precipitating myself into the abyss.
 
 > ...
 

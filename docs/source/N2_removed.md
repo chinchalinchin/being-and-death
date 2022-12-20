@@ -1,10 +1,16 @@
 # Note #3: Removed Thoughts
 
-Thoughts edited from the work the author does not yet want to consign to oblivion, until he is certain that what is contained within them is non-sense.
+Thoughts edited from the work the author does not yet want to consign to oblivion, until he is certain that what is contained within them is nonsense.
 
 ## 1. Frege Considerations
 
-TODO: reread this and rethink
+TODO
+
+In other words, Nothing is `a priori` to Being; Being is `contingent` on Nothing[^20]. In order for this to be the case, negation must also be `a priori` to Being, for as **Frege** has shown, Nothing is captured through the negation of form.
+
+This is obvious in the realm of formal logic, where objects or objectified propositions are the operands of negation, conjunction or disjunction, over which existence is asserted via quantification. As an example, consider the formal proposition, "_for all a greater than zero, there exists an x such that x^2 + a = 0_" versus "_for all a greater than zero, there does not exist an x such that x^2 + a = 0_"; in both cases the form of the denoted content, i.e. the square of a number plus one equals zero, is identical, but the concept which solves the equation depends on the quantifier applied, i.e. how many exist. In the first case, the concept thus asserted is that of complex numbers, whereas in the second, the concept asserted is that of real numbers.
+
+TODO
 
 In all of this, we have said nothing of the Being of the concepts in this metaphysics. All we have shown is given their existence, how the contingency of Being arises through form, but is itself not the form, for we find ourselves in the world with the form. Existence is a property that emerges through the metaphysics of assertion and negation[^21]. The Being of the existent is beyond the realm of metaphysics, and is properly understood as subject matter for ontology. 
 
