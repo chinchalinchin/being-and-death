@@ -42,70 +42,121 @@
             
   <section class="tex2jax_ignore mathjax_ignore" id="appendix-1-propositional-calculus">
 <h1>Appendix 1: Propositional Calculus<a class="headerlink" href="#appendix-1-propositional-calculus" title="Permalink to this headline">¶</a></h1>
-<p>In what follows, you will find the definitions and explanations for the author’s <span class="xref myst">Markdown</span> compliant variation of propositional calculus. This variant was adopted for ease of use.</p>
+<p>In what follows, you will find the definitions and explanations for the author’s <span class="xref myst">Markdown</span> compliant variation of propositional calculus. This variant was adopted for ease of use with webpages. Solutions exist for JavaScript based <em>LaTeX</em> through libraries like <span class="xref myst">MathJAX</span>, and perhaps if the content of this work is ever completed to the author’s satisfaction, he will refactor the syntax to be more in line with general conventions, but for now, this will suffice.</p>
 <section id="definitions">
 <h2>Definitions<a class="headerlink" href="#definitions" title="Permalink to this headline">¶</a></h2>
+<section id="symbols">
+<h3>Symbols<a class="headerlink" href="#symbols" title="Permalink to this headline">¶</a></h3>
 <ul class="simple">
-<li><p><code class="docutils literal notranslate"><span class="pre">P()</span></code> represents a predicate</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">P()</span></code> represents a predicate function</p></li>
 <li><p><code class="docutils literal notranslate"><span class="pre">#</span></code> represents the quantifier for existence</p></li>
 <li><p><code class="docutils literal notranslate"><span class="pre">&#64;</span></code> represents the quantifier for universality</p></li>
 <li><p><code class="docutils literal notranslate"><span class="pre">!</span></code> represents negation</p></li>
 <li><p><code class="docutils literal notranslate"><span class="pre">|</span></code> represents denotion</p></li>
-<li><p><code class="docutils literal notranslate"><span class="pre">~</span></code> represents set membership</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">~</span></code> represents set membership.</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">%</span></code> represents set exclusion.</p></li>
 <li><p><code class="docutils literal notranslate"><span class="pre">-&gt;</span></code> represents implication.</p></li>
 <li><p><code class="docutils literal notranslate"><span class="pre">&amp;</span></code> represents conjunction.</p></li>
-<li><p><code class="docutils literal notranslate"><span class="pre">||</span></code> represents disjunction.</p></li>
-<li><p><code class="docutils literal notranslate"><span class="pre">&lt;-&gt;</span></code> represents logical equivalence</p></li>
-<li><p>uppercase letters, such as <em>A</em> and <em>B</em>, represents sets. <strong>NOTE</strong>: <code class="docutils literal notranslate"><span class="pre">{}</span></code> also denote sets, when set builder notation is employed.</p></li>
-<li><p>lowercase letters, such as <em>a</em> and <em>b</em>, represents unquantified, or indeterminate, set members</p></li>
-<li><p><code class="docutils literal notranslate"><span class="pre">n(S)</span></code> represents the cardinality of a set <em>S</em>, i.e. its countability[^13]</p></li>
-<li><p><code class="docutils literal notranslate"><span class="pre">[]</span></code> are placeholders to separate content, i.e. the “<em>comma</em>”.</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">v</span></code> represents disjunction.</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">&lt;-&gt;</span></code> represents equivalence</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">=</span></code> represents equality</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">n(S)</span></code> represents the cardinality of a set <em>S</em></p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">[]</span></code> represent content separation, i.e. the “<em>comma</em>”.</p></li>
 </ul>
-<section id="examples">
-<h3>Examples<a class="headerlink" href="#examples" title="Permalink to this headline">¶</a></h3>
-<ul class="simple">
-<li><p><em>for all x such that x satisfies P</em> : <code class="docutils literal notranslate"><span class="pre">&#64;</span> <span class="pre">x</span> <span class="pre">|</span> <span class="pre">P(x)</span></code></p></li>
-<li><p><em>for not all x such that x satisfies P</em>: <code class="docutils literal notranslate"><span class="pre">~</span> <span class="pre">[</span> <span class="pre">&#64;</span> <span class="pre">x</span> <span class="pre">|</span> <span class="pre">P(x)</span> <span class="pre">]</span></code></p></li>
-<li><p><em>there exists an x such that x satisifes P</em> : <code class="docutils literal notranslate"><span class="pre">#</span> <span class="pre">x</span> <span class="pre">|</span> <span class="pre">P(x)</span></code></p></li>
-<li><p><em>there does not exist an x such that x satifies P</em>: <code class="docutils literal notranslate"><span class="pre">~</span> <span class="pre">[</span> <span class="pre">#</span> <span class="pre">x</span> <span class="pre">|</span> <span class="pre">P(x)</span> <span class="pre">]</span></code></p></li>
-</ul>
-<p><strong>NOTE</strong>: I have been careful to remove any linguistic ambiguities in the preceding that might arise through the conjugation of <code class="docutils literal notranslate"><span class="pre">to</span> <span class="pre">be</span></code>, i.e instead of saying <em>x is P</em> we say <em>x satisfies P</em>. Notice we may phrase all of these forms in terms of existence, not Being. In logic, where precision is of the utmost importance, we be careful not to let our subjective intrepretation of Being influence our understanding of existence and universals.</p>
 </section>
 <section id="variables">
 <h3>Variables<a class="headerlink" href="#variables" title="Permalink to this headline">¶</a></h3>
-<p>TODO</p>
+<ul class="simple">
+<li><p>uppercase letters, such as <em>A</em> and <em>B</em>, represents sets.</p>
+<ul>
+<li><p><code class="docutils literal notranslate"><span class="pre">{}</span></code> also denotes a set.</p></li>
+</ul>
+</li>
+<li><p>lowercase letters, such as <em>a</em> and <em>b</em>, represents unquantified, indeterminate set members</p></li>
+</ul>
 </section>
 </section>
-<section id="quantified-propositions">
-<h2>Quantified Propositions<a class="headerlink" href="#quantified-propositions" title="Permalink to this headline">¶</a></h2>
+<section id="propositions">
+<h2>Propositions<a class="headerlink" href="#propositions" title="Permalink to this headline">¶</a></h2>
 <p>TODO</p>
-<section id="existential-quantification">
-<h3>Existential Quantification<a class="headerlink" href="#existential-quantification" title="Permalink to this headline">¶</a></h3>
-<p>TODO</p>
+<section id="excluded-middle">
+<h3>Excluded Middle<a class="headerlink" href="#excluded-middle" title="Permalink to this headline">¶</a></h3>
+<p>The law of the excluded middle simply states that it must either be the case that <em>P</em> or its negation is true,</p>
+<p><code class="docutils literal notranslate"><span class="pre">P</span> <span class="pre">v</span> <span class="pre">!P</span></code></p>
+<p>For example, it cannot be the case that both propositions, <em>12 is even</em> and <em>12 is odd</em>, are simultaneously true, because the concepts of even and odd are negations of one another with respect to the natural numbers (i.e., <code class="docutils literal notranslate"><span class="pre">odd</span> <span class="pre">&lt;-&gt;</span> <span class="pre">!even</span></code>). The set theoretic definitions of even and odd partition the natural numbers into non-overlapping sets, therefore a number must be contained in one or the other, but not both. This is what is captured in the law of the excluded middle.</p>
 </section>
-<section id="universal-quantification">
-<h3>Universal Quantification<a class="headerlink" href="#universal-quantification" title="Permalink to this headline">¶</a></h3>
-<p>TODO</p>
+<section id="quantification">
+<h3>Quantification<a class="headerlink" href="#quantification" title="Permalink to this headline">¶</a></h3>
+<p>The following list shows how the English language can be mapped to the semantics of propositional calculus. Examples are given letting <em>x</em> represent an indefinite but distinct bunny rabbit, the propositional function <code class="docutils literal notranslate"><span class="pre">P(-)</span></code> represent the predicate <em>is fluffy</em>, and <em>A</em> represents the set of bunnies which have the property of being fluffy,</p>
+<ul class="simple">
+<li><p>(Q1) <strong>Universal</strong>: <code class="docutils literal notranslate"><span class="pre">&#64;x</span> <span class="pre">|</span> <span class="pre">P(x)</span></code></p>
+<ul>
+<li><p><em>General</em>: all <em>x</em> that satisfy <em>P</em></p></li>
+<li><p><em>Particular</em>: all bunnies are fluffy</p></li>
+</ul>
+</li>
+<li><p>(Q2) <strong>Negated Universal</strong>: <code class="docutils literal notranslate"><span class="pre">![</span> <span class="pre">&#64;x</span> <span class="pre">|</span> <span class="pre">P(x)</span> <span class="pre">]</span></code></p>
+<ul>
+<li><p><em>General</em>:  not all <em>x</em> satisfy <em>P</em></p></li>
+<li><p><em>Particular</em>: not all bunnies are fluffy</p></li>
+</ul>
+</li>
+<li><p>(Q3) <strong>Existential</strong>: <code class="docutils literal notranslate"><span class="pre">#x</span> <span class="pre">|</span> <span class="pre">P(x)</span></code></p>
+<ul>
+<li><p><em>General</em>: atleast one <em>x</em> exists that satisifes P_</p></li>
+<li><p><em>Particular</em>: some bunnies are fluffy</p></li>
+</ul>
+</li>
+<li><p>(Q4) <strong>Negated Existential</strong>: <code class="docutils literal notranslate"><span class="pre">![</span> <span class="pre">#x</span> <span class="pre">|</span> <span class="pre">P(x)</span> <span class="pre">]</span></code></p>
+<ul>
+<li><p><em>General</em>: no <em>x</em> exists that satifies <em>P</em></p></li>
+<li><p><em>Particular</em>: no bunnies are fluffy</p></li>
+</ul>
+</li>
+<li><p>(Q5) <strong>Universal Membership</strong> <code class="docutils literal notranslate"><span class="pre">&#64;x</span> <span class="pre">|</span> <span class="pre">x</span> <span class="pre">~</span> <span class="pre">A</span></code></p>
+<ul>
+<li><p><em>General</em>: all <em>x</em> in the set <em>A</em></p></li>
+<li><p><em>Particular</em>: all things in the concept <em>fluffy bunnies</em></p></li>
+</ul>
+</li>
+<li><p>(Q6) <strong>Universal Exclusion</strong>: <code class="docutils literal notranslate"><span class="pre">&#64;x</span> <span class="pre">|</span> <span class="pre">x</span> <span class="pre">%</span> <span class="pre">A</span></code></p>
+<ul>
+<li><p><em>General</em>: all x not in the set <em>A</em></p></li>
+<li><p><em>Particular</em>: all things not in the concept <em>fluffy bunnies</em></p></li>
+</ul>
+</li>
+</ul>
 </section>
-<section id="negating-a-universal-quantification">
-<h3>Negating A Universal Quantification<a class="headerlink" href="#negating-a-universal-quantification" title="Permalink to this headline">¶</a></h3>
-<p>TODO</p>
 </section>
-<section id="negating-an-existential-quantification">
-<h3>Negating An Existential Quantification<a class="headerlink" href="#negating-an-existential-quantification" title="Permalink to this headline">¶</a></h3>
-<p>TODO</p>
-</section>
-</section>
-<section id="axioms">
-<h2>Axioms<a class="headerlink" href="#axioms" title="Permalink to this headline">¶</a></h2>
-<p>TODO</p>
+<section id="sets">
+<h2>Sets<a class="headerlink" href="#sets" title="Permalink to this headline">¶</a></h2>
+<p>In the preceding, we have written <code class="docutils literal notranslate"><span class="pre">#x</span> <span class="pre">|</span> <span class="pre">P(x)</span></code> as a way of abstracting from the general proposition contained in the English sentence <em>there is an x that is P</em> its purely formal characteristics.</p>
+<p>This formulation implies when a proposition is asserted, it is equivalent to applying a function to a subject, embodied in the term <code class="docutils literal notranslate"><span class="pre">P(x)</span></code>. When a subject is predicated by a descriptive clause, the predicate is transferred to the subject in its entirety, without meditation. This implies the subject <em>is</em> the predicate. Rather, when we write <code class="docutils literal notranslate"><span class="pre">P(x)</span></code>, what we really mean is the subject <em>x</em> has the property of having the predicate <em>P</em>. It is in their belonging to a set that objects are predicated by a property <em>P</em>. In mathematics, the thing which has a property has that property by virtue of its inclusion in a set. Sets are analogous to concepts; they are collections of objects that share the same property, and it is because they belong to this collection that predication is possible. In other words, when we write <code class="docutils literal notranslate"><span class="pre">#x</span> <span class="pre">|</span> <span class="pre">P(x)</span></code>, we are implicitly writing,</p>
+<p>(D1) <code class="docutils literal notranslate"><span class="pre">#x</span> <span class="pre">|</span> <span class="pre">x</span> <span class="pre">~</span> <span class="pre">A</span> <span class="pre">&amp;</span> <span class="pre">P(x)</span></code></p>
+<p>where <em>A</em> is the set of things having the property <em>P</em>.</p>
+<p>A set can be understood intuitively as a collection of objects. More formally, using the above definitions, a set <em>A</em> can be defined through the symbolic proposition,</p>
+<p>(D2) <code class="docutils literal notranslate"><span class="pre">#A</span> <span class="pre">|</span> <span class="pre">[</span> <span class="pre">&#64;x</span> <span class="pre">|</span> <span class="pre">x</span> <span class="pre">~</span> <span class="pre">A</span> <span class="pre">v</span> <span class="pre">A</span> <span class="pre">=</span> <span class="pre">0</span> <span class="pre">]</span></code></p>
+<p>This translate roughly into the sentence: <em>there exists a set A such that for all x, x belongs to A or A is empty</em>.</p>
 <section id="axiom-of-separation">
 <h3>Axiom of Separation<a class="headerlink" href="#axiom-of-separation" title="Permalink to this headline">¶</a></h3>
-<p>TODO</p>
+<p>In the first attempt to formalize the foundations of mathematics, before the concept of <em>sets</em> was well defined in its lexicon, <strong>Frege</strong> proposed the following <em>axiom of separation</em>,</p>
+<p>(A1.1) <code class="docutils literal notranslate"><span class="pre">#A</span> <span class="pre">|</span> <span class="pre">[</span> <span class="pre">&#64;x</span> <span class="pre">|</span> <span class="pre">x</span> <span class="pre">~</span> <span class="pre">A</span> <span class="pre">&lt;-&gt;</span> <span class="pre">P(x)</span> <span class="pre">]</span></code></p>
+<p>This translate into _there exists an A such that for all x, if and only if x belongs to A, then x has the property of belong to that set.</p>
+<p><strong>Zermelo</strong> modified the <em>axiom of separation</em> so as to remove the possibility of <strong>Russell</strong>’s paradox from the possibilities of its application in the following way,</p>
+<p>(A1.2) <code class="docutils literal notranslate"><span class="pre">#A</span> <span class="pre">|</span> <span class="pre">[</span> <span class="pre">&#64;x</span> <span class="pre">|</span> <span class="pre">x</span> <span class="pre">~</span> <span class="pre">A</span> <span class="pre">&lt;-&gt;</span> <span class="pre">x</span> <span class="pre">~</span> <span class="pre">B</span> <span class="pre">&amp;</span> <span class="pre">P(x)]</span></code></p>
+<p>Roughly speaking, this axioms says, <em>given a set B, there exists a set A such that for all x, if and only if x is a member of A, then x is a member of B and has the property of belonging to the set A</em>.</p>
+<p>The existence of set <em>B</em> must be given prior to the application of the axiom, or else
+TODO</p>
 </section>
 <section id="axiom-of-extensionability">
 <h3>Axiom of Extensionability<a class="headerlink" href="#axiom-of-extensionability" title="Permalink to this headline">¶</a></h3>
 <p>TODO</p>
+</section>
+<section id="theorems">
+<h3>Theorems<a class="headerlink" href="#theorems" title="Permalink to this headline">¶</a></h3>
+<ol class="simple">
+<li><p>Individuation:</p></li>
+</ol>
 </section>
 </section>
 </section>
@@ -121,20 +172,19 @@
   <ul>
 <li><a class="reference internal" href="#">Appendix 1: Propositional Calculus</a><ul>
 <li><a class="reference internal" href="#definitions">Definitions</a><ul>
-<li><a class="reference internal" href="#examples">Examples</a></li>
+<li><a class="reference internal" href="#symbols">Symbols</a></li>
 <li><a class="reference internal" href="#variables">Variables</a></li>
 </ul>
 </li>
-<li><a class="reference internal" href="#quantified-propositions">Quantified Propositions</a><ul>
-<li><a class="reference internal" href="#existential-quantification">Existential Quantification</a></li>
-<li><a class="reference internal" href="#universal-quantification">Universal Quantification</a></li>
-<li><a class="reference internal" href="#negating-a-universal-quantification">Negating A Universal Quantification</a></li>
-<li><a class="reference internal" href="#negating-an-existential-quantification">Negating An Existential Quantification</a></li>
+<li><a class="reference internal" href="#propositions">Propositions</a><ul>
+<li><a class="reference internal" href="#excluded-middle">Excluded Middle</a></li>
+<li><a class="reference internal" href="#quantification">Quantification</a></li>
 </ul>
 </li>
-<li><a class="reference internal" href="#axioms">Axioms</a><ul>
+<li><a class="reference internal" href="#sets">Sets</a><ul>
 <li><a class="reference internal" href="#axiom-of-separation">Axiom of Separation</a></li>
 <li><a class="reference internal" href="#axiom-of-extensionability">Axiom of Extensionability</a></li>
+<li><a class="reference internal" href="#theorems">Theorems</a></li>
 </ul>
 </li>
 </ul>
