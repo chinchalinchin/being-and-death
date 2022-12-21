@@ -101,3 +101,7 @@ Our Being, and the Being of all other entities, is recursive in this sense. It c
 ---
 
 Death is a proposition about form: that it will cease to be.
+
+### September 20, 2022
+
+**Frege**: do not confuse the `factical` origin of numbers
