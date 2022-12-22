@@ -14,22 +14,21 @@ The investigation of the appearance of Death reveals plainly the nature of Life.
 
 If we pass through the gates of solipsism and finally admit there must be existence outside of ourselves, we might therefore conclude we atleast have attained an uncertain confidence in the validity of our Being.
 
-As proper scientists, we resolves to that aforementioned ballast of cotnradiction. It is an oft misunderstood tenet of statistical reasoning that a hypothesis can be proved true; instead, a hypothesis can only be assumed in order to be shown false. And in this dialectic we will inevitably slip back into the inescapable gravity of Death.
+But confidence in a probability is not the same as knowledge of truth. It is curiosity of science that is not, properly speaking, concerned with truth. Science, in its wisdom, realizes truth can never be stated as fact. Rather, the only thing that can be said is what is not the case. As proper scientists, we can only approach truth asymptotically, by showing the outline of what is through what it is not. It is an oft misunderstood tenet of statistical reasoning that a hypothesis can be proved true; instead, a hypothesis can only be assumed in order to be shown false. And in this dialectic we will inevitably slip back into the inescapable gravity of uncertainty.
 
 For the nature of science is to hold up a hypothesis and the form of its consequences to the existent and thus determine whether the given data disproves the assumptions by aligning their representative forms to one another and checking for error.
 
 ### September 17, 2022
 
-The relations of Being to Deathexpressed in neologistic prepositions:
+The relations of Being to Death expressed in neologistic prepositions:
 
-- Being-not-before
 - Being-always-near
 - Being-never-here
 - Being-always-before-Death
 - Being-always-with-Death
 - Being-not-in-death
 
-If we now toy with the likely hypothesis that Death is a form of ontological negation, we see only in one of the proposed relations any hint of negation. Upon reflection, the negation in the other forms is hiding.
+If we now toy with the likely hypothesis that Death is a form of ontological negation, we see only in some of the proposed relations any hint of negation. Upon reflection, the negation in the other forms is hiding.
 
 Death as hiding, or that which is hidden.
 
@@ -225,3 +224,43 @@ The author posits it is Nothing that gives gives to the anxiety of Being. Consid
 There is only one mode of Being which seeks NOthing and that is suicide. Authentic suicide, by which we mean suicide that seesk to not be, as opposed to suicide that seeks Being in death, as in the case of a solider who charges headfirst into battle in order to die a hero, the symbol of the hero Being what persists after his Death. This is not authentic suicide. Authentic suicide is what happens when a Being is so distraught and anxious by Being that it seeks to no longer be, i.e. Being in order to not be. 
 
 It is in this authentic way of Being towards suicide that we are able to glimpse, at least tangentially, the true nature of Death. The Being of suicide is anguish and despair, when one has been torn from the world and all that remains is the pain inside, not the pain of the nervous system, but the raw and primordial pain of Being whose meaning can onyl be captured in prose, where the form breaks down and stands for nothing but pure and utter desolation.
+
+---
+
+The great project of rationalism is reducing everything to logic so tthat all that is, was and ever will be is reducible to form and the rules that govern the transition of forms.
+
+The proof of the falsity of this is simple. _I_ have an opinion about rationalism and that BEing towards it induces a phenomenal experience. 
+
+Nonsense, say the rationlsits. Your phenomenal apprehension can be reduced to biology and then to chemistry and then to physics and then to mathematics. This we grant, but with the caveat we be shown where in the forms we use to express this knowledge we can find what it is that tells us how it is we are to feel to about rationalism.
+
+Well, the light falling on the retina excites the optic never, which delivers information to the brain and the brain maps the sense into overlapping neural networks which induce an efferent reaction that is carried back down through the nervous system resulting in action.
+
+Why, then, do we feel such revulsion at this description? Where can that be found in the description?
+
+To put it another way and cast it into a modern understnading, are we to suppose that in addition to Being able to program the conditions for artifical consciousness to become a Being that, by employing the principles used to bring about its conditions, we will thereby be able to chart its course through Being? That its Being will be mere form, a set of instructions from which the turmoil of Being arises?
+
+Where in this algorithm is the procedure for suicide? What set of steps produce the motivation to end one's Being for the sake of Nothing?
+
+Where are the conditions for suicide to be found if not in Being, i.e. in Being depressed, in Being anxious, in Being sorrowful, in Being guilty, etc. No matter what form you present, you will never present a method by which that form  can become the heart-rending anguish of Being suicidal, unless that form is in the world, where the possibility of Being Other resides, where I can understand the Other through my own Being towards suicide.
+
+But we already knew logic was incomplete.
+
+### September 22, 2022
+
+Nullity is of the same nature as cardinality. Nothing, however, is a subtler notion by far. 
+
+--- 
+
+Assertion is the glue which bings propositions to Reality, the Being of existence. 
+
+Is equality a form of assertion? Does not the statement `x(x+1) = x^2 + x` assert something about form itself, i.e. that both sides may _stand for_ or _announce themselves in place of_ what they represent. Here is what **Heidegger** meant by _announcing_; _announcing_ reveals that which what announces is not.
+
+**Heidegger**'s _announcing_ as the ontological statement of the `axiom of extensionality`. _Announcing_ as ontological substitution.
+
+### September 24, 2022
+
+Oh, **Schopenhauer**, so close, just a little further. If all objects come to Being through the principle of sufficient reason and are nothing but that, and I recognize myself as an object among objects, what use is _Will_?
+
+What happens when the last person dies? When the last subject perishes from this world we share? IF time and space are nothing but mere representational form, what happens when there is no more subject to presuppose it?
+
+Nothing, dear **Schopenhauer**. Nothing at all.
