@@ -67,6 +67,8 @@
 - [Book of Ecclesiates, Rabbi A.J. Rosenberg](https://www.chabad.org/library/bible_cdo/aid/16462)
 ### wikisource
 - [Book of Ecclesiastes, King James](https://en.wikisource.org/wiki/Bible_(King_James)/Ecclesiastes)
+### wisdomlib.org
+- [Mandukya Upanishad](https://www.wisdomlib.org/hinduism/book/mandukya-upanishad-karika-bhashya/d/doc143598.html)
 ## StackExchange
 ### math.stackexchange.com
 - [How can I get the negation of non-existential quantifier?](https://math.stackexchange.com/questions/228285/how-can-i-get-the-negation-of-exists-unique-existential-quantification)
