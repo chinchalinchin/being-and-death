@@ -15,6 +15,8 @@
 
 <sup style="margin-left: 5%;"><sub>- Charles Bukowski, [Air and Light and Time and Space](https://www.poemhunter.com/poem/air-and-light-and-time-and-space/)</sub></sup>
 
+---
+
 ## Interlude
 
 We now begin the laborious work of constructing an ontology and metaphysics of Death, in order to show how philosophy is by necessity an incomplete field of inquiry and will forever remain so. We do this so that no one need ever again concern themselves with the misery and pointlessness of the whole endeavor. In this moment of respite between nihilistic soliloquies, the author once again reminds the reader there are far better way they could be spending their time: learning a new skill, watching dogs in the park, enjoying a conversation with friends. The author implores the reader that nothing further will be gained, that what awaits us is primal horror of Being and our inability to come to terms with it. Applying analysis and logic will not force Death to yield anything of value. Any naive hope we retain to contrary thus far will, by the end, be smashed to bits and cast into the wind.
