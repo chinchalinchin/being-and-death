@@ -1,5 +1,23 @@
 # Appendix 2: The History of Being
 
+## 600s (BC)
+
+## Mandukya Upanishard
+
+**Translated by  Swami Nikhilananda**
+
+>  Aum, the word, is all this. A clear explanation of it (is the following). All that is past, present and future is verily Aum. That which is beyond the triple conception of time, is also truly Aum. <br>
+
+> All this is verily Brahman. This Ātman is Brahman. This Ātman has four quarters.<br>
+
+> The first quarter (Pāda) is Vaiśvānara whose sphere (of activity) is the waking state, who is conscious of external objects, who has seven limbs and nineteen mouths and whose experience consists of gross (material) objects. <br>
+
+> The second quarter (Pāda) is the Taijasa whose sphere (of activity) is the dream, who is conscious of internal objects, who has seven limbs and nineteen mouths and who experiences the subtle objects. <br>
+
+> That is the state of deep sleep wherein the sleeper does not desire any objects nor does he see any dream. The third quarter (Pāda) is the Prājña whose sphere is deep sleep, in whom all (experiences) become unified or undifferentiated, who is verily, a mass of consciousness entire, who is full of bliss and who experiences bliss, and who is the path leading to the knowledge (of the two other states). <br>
+
+> This is the Lord of all; this is the knower of all; this is the controller within; this is the source of all; and this is that from which all things originate and in which they finally disappear. <br>
+
 ## 400s (BC)
 
 ### Aristotle: Categories
@@ -83,6 +101,41 @@ Book III, Chapter 1
 Book III, Chapter 3
 
 > Also evident, and a point that raises a puzzle, is that movement is in the thing moved, since movement is the actualization of the moveable by what can in fact move something. And the activation of what is capable of moving something is no other than this. For there must be the actulaization of both, since it _can move_ something by having the potentiality to do so, and it _is moving_ it by being active. But it is on the moveable that the mover is capable of acting, so that the activation of both alike is one, just like the interval from one to two and from two to one, or the hill up and the hill down. For these thingss are one, but their account is not one. And similarly in the case of the mover and the moved.
+
+## 200s (BC)
+
+### Unknown: Book of Eccelesiates 
+
+**Translated by Rabbi A.J. Rosenberg.**
+
+Chapter 1
+
+> The words of Koheleth son of David, king in Jerusalem. <br>
+> (2) Vanity of vanities, said Koheleth, vanity of vanities, all is vanity. <br> 
+> (3) What profit has man in all his toil that he toils under the sun? <br> 
+> (4) A generation goes and a generation comes, but the earth endures forever. <br> 
+> (5) The sun rises and the sun sets, and to its place it yearns and rises there. <br> 
+> (6) It goes to the south and goes around to the north; the will goes around and around, and the will returns to its circuits. <br> 
+> (7) All the rivers flow into the sea, yet the sea is not full; to the place where the rivers flow, there they repeatedly go. <br> 
+> (8) All things are wearisome; no one can utter it; the eye shall not be sated from seeing, nor shall the ear be filled from hearing. <br> 
+> (9) What has been is what will be, and what has been done is what will be done, and there is nothing new under the sun. <br> 
+> (10) There is a thing of which someone will say, "See this, it is new" It has already been for ages which were before us. <br> 
+> (11) But there is no remembrance of former generations, neither will the latter ones that will be have any remembrance among those that will be afterwards. <br> 
+> (12) I am Kohelth; I was king over Israel in Jerusalem. <br> 
+> (13) And I applied my heart to inquire and to search with wisdom all that was done under the heaven. It is a sore task that God has given to the sons of men with which to occupy themselves. <br> 
+> (14) I saw all the deeds that were done under the sun, and behold, everything is vanity and frustation. <br> 
+> (15) What is crooked will not be able to be straightened, and what is missing will not be able to be counted. <br> 
+> (16) I spoke to myself, saying, "I acquired and increased great wisdom, more than all who were before me over Jerusalem"; and my heart saw much wisdom and knowledge. <br> 
+> (17) And I applied my heart to know wisom and to know madness and folly; I know that this too is a frustration. <br> 
+> (18) For in much wisdom is much vexation, and he who increases knowledge, increases pain. <br> 
+
+## 100s (BC)
+
+### Svetasvatara Upanishad
+
+> What is the cause? Brahma? Whence are we born? Whereby do we live? And on what are we established? Overruled by whom, in pains and pleasures, Do we live our various conditions, O ye theologians?<br>
+> Time, or inherent nature, or necessity, or chance, or the elements, or a womb, or a person are to be considered; Not a combination of these, because of the existence of the Ātman. The Ātman certainly is impotent over the cause of pleasure and pain. <br>
+> Those who have followed meditation and abstraction Saw the self-power of God hidden in his own qualities. He is the One who rules over all these causes, From time to the Ātman.
 
 ## 1630s
 

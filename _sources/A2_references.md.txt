@@ -60,6 +60,13 @@
 ### Exhaustive Concordance of the Bible
 - [hâyâh (haw-yaw)](https://www.blueletterbible.org/lexicon/h1961/wlc/wlc/0-1/)
 - [hâvâh (haw-vaw)](https://www.blueletterbible.org/lexicon/h1933/wlc/wlc/0-1/)
+## Scripture
+### archive.org
+- [Svetasvatara Uphanishad](https://archive.org/details/thirteenprincipa028442mbp/page/394/mode/2up)
+### chabad.org
+- [Book of Ecclesiates, Rabbi A.J. Rosenberg](https://www.chabad.org/library/bible_cdo/aid/16462)
+### wikisource
+- [Book of Ecclesiastes, King James](https://en.wikisource.org/wiki/Bible_(King_James)/Ecclesiastes)
 ## StackExchange
 ### Mathematics
 - [How can I get the negation of non-existential quantifier?](https://math.stackexchange.com/questions/228285/how-can-i-get-the-negation-of-exists-unique-existential-quantification)
