@@ -17,7 +17,7 @@
 
 ## The Questions
 
-**Albert Camus** once stated there is but one philosophical question and that is suicide[^1]. In this, **Camus** skipped over much to arrive at his starting point. However, to his credit, he only meant it in the rhetorical sense, as way to examine the absurdity of living in a universe where you are fated from the very start to die at the end. Nevertheless, there is a definite proximity to primordial truth in his formulation of the so-called "_philosophical question_". 
+**Albert Camus** once stated there is but one philosophical question and that is suicide[^Camus#1]. In this, **Camus** skipped over much to arrive at his starting point. However, to his credit, he only meant it in the rhetorical sense, as way to examine the absurdity of living in a universe where you are fated from the very start to die at the end. Nevertheless, there is a definite proximity to primordial truth in his formulation of the so-called "_philosophical question_". 
 
 This is what **Camus** got wrong: There is no choice to be made in the face of Death. _All_ life is suicide, in a sense; it is merely the method of dying we are allowed to pick, and only then up to a point, as the survivors of self-inflicted gunshot wounds will attest. When one chooses to die, all that is accomplished is akin to skipping ahead to the end of a book. Everyone implicitly knows time is a poison that slowly kills, for it is taught to us from the very second of birth; a new-born infant left to its devices would surely die and if its cries can be understood at all it is only as a gasping for life, a choking on Being, a dim awareness that it is a thing and it is in mortal danger; Death is not conceptualized intellectually in this moment, but is apprehended in the nearest glance we ever get at its true form, that of unbridled fear and uncontrollable passion, a void where no reason can prevail; only through the intervention of an Other thing, a Being outside ourselves, is the infant we were allowed to live; from this we learn, or are atleast given the raw material for the conception of, causality, that our Being as a thing is affected by the Being of Other things, and, this being the point, that this affectation arises as an alteration of the infant's trajectory towards Death: a thing which is Other to ourselves prevents us from dying in our very first moment as a separate entity. If, in what follows, we come to see the Other as life, then it is only insofar that our Deaths are held at bay with their cooperation. Life, in this formulation, is not a positive phenomenon, but a denial of a total Nothingness. I am because I am not dead, and I do not die, at least for the time being, because the Other is and will not let me.
 
@@ -43,11 +43,13 @@ To ask questions about a subject that perpetually recedes from all attempts to k
 
 It would seem, then, it does not matter which direction we choose to go, since we will always return to our starting point, no better or worse for having made the circuit. For this reason, the author recommends no one should read what follows. Instead, the reader is advised that going outside is by far a better course of action.
 
-[^1]: [The Myth of Sisyphus](TODO)
+[^Camus#1]: [The Myth of Sisyphus](TODO)
 
 ### What is Philosophy?
 
-With the warnings of futility thus dispensed, we will preface our discourse with a brief tour through the current state of our understanding of what it means _to be_. If Death, as a philosophical concept, can be said to be anything, then it seems likely it must be as a negation of Being, or at the very least a certain _type_ of Being, the type of Being we ourselves have. Whether or not the subject of Death's negation is life, or a living thing, cannot yet be concluded, for it is not clear at this stage in what ways not Being dead is equivalent to Being alive, for a rock is said to not be dead, yet we do not conclude from that it is alive. We therefore take it as a provisional hypothesis that Death is a negation of a _type_ of Being, with the understanding that we have much to show before this statement can be taken as fact and in what way it is to be understood. We have not yet defined what it, the Being to which we refer in the preceding as subject to Death, _is_ exactly, so that its negation likewise lacks clarity. 
+With the warnings of futility thus dispensed, we will preface our discourse with a brief tour through the current state of our understanding of what it means _to be_. If Death, as a philosophical concept, can be said to be anything, then it seems likely it must be as a negation of Being, or at the very least a certain _type_ of Being, the type of Being we ourselves have. 
+
+There is in this an almost natural proclivity to view Death as the opposite of life, the terminus of life or boundary of life. In the colloquial sense, there is obviously true enough, but we are here inquiring in the precise of meaning of Death, the place it occupies in the mechanics of Being. Whether or not the subject of Death's negation is life, or a living thing, cannot yet be concluded, for it is not clear at this stage in what ways not Being dead is equivalent to Being alive, for a rock is said to not be dead, yet we do not conclude from that it is alive. Indeed, upon consideration, the exact definition of life is hard to pin down, for "_what is common among the living is life, but life in itself has no properties, attributes or characteristics. Thus, what is held in common among the living it itself nothing in particular_"[^Thacker#1] We therefore take it as a provisional hypothesis that Death is a negation of a _type_ of Being, with the understanding that we have much to show before this statement can be taken as fact and in what way it is to be understood. We have not yet defined what it, the Being to which we refer in the preceding as subject to Death, _is_ exactly, so that its negation likewise lacks clarity. 
 
 Therefore, we first examine our understanding of Being in general to bring the scope of the problem into view. This will necessarily entail a discussion on the history of philosophy, language and logic, all in reference to how these fields have informed our understanding of Being. What is presented in this first book is by no means an exhaustive commentary, nor should it be taken as a coherent, chronological narrative; what follows is only meant to highlight pertinent concepts as they relate to the current analysis.
 
@@ -66,6 +68,8 @@ When philosophy attempts to hew to the scientific method and objectifies the sub
 If philosophy is to remain in the modern world a field of inquiry independent of science, science being a field concerned with truth (or at the very least the removal of falsity), then philosophers must seek refuge in meaning, for meaning is the last stronghold not yet stormed by science and for good reason; Science, for all its exactness, cannot touch our Being. No description is capable of anything beyond indicating what is the case; _what is the case_, however, is not an indication, but the actual events that make up the world. Every description is a description _of_ the world _in_ the world; the only way a word could have true Being is if it stood for its own letters, instead of meaning something beyond its letters, something that can only be encountered by a Being that deals in meaning. It is the one and only task of philosophy to explain the way in which this transcedence occurs, and what it is that is happening when this happens. 
 
 Philosophy cannot be disavowed of this task even if that happening happens to be Nothing. Indeed, if what we are turns out to be Nothing at all, then there is no more urgent task to consider than that of philosophy. What other tool ready-to-hand would stand chance against Nothing? In the annihiliating nightmare of nihilism, we all necessarily become philosophers. 
+
+[^Thacker#1]: [After Life, Chapter 1: Life and the Living, Section 3: The Ontology of Life, Eugene Thacker](https://openlibrary.org/books/OL24110393M/After_life)
 
 ### What is Being?
 
@@ -177,7 +181,7 @@ Likewise, the linguistic notion of _am_ brings with it a certain domain and a ce
 
 This can be seen in the syntactical error that arises in the proposition _the thing am this_; the meaning of _am_ is only understood through _I am this_.
 
-[^Tarski#1]: [Tarski, A. Logic, Semantics, Metamathematics](TODO)
+[^Tarski#1]: [Logic, Semantics, Metamathematics, Alfred Tarski](TODO)
 
 ### What is Number?
 
@@ -189,11 +193,11 @@ Yet for all of that, we must not be led astray into viewing numbers as something
 
 For example, we may say _one hand_ has _five fingers_. Or, to make the multiplicity of number apparent, we may _there is one car_, but we may also say, _there is four wheels_, _there is two axels_, _there is six windows_, etc.  In none of these cases have we said anything factually inaccurate, but in each case we have ascribed a different number to the same underlying _thing_. In this way, we mean the Being of number, its predication of the subject, i.e _is two_, _is three_, etc., is dependent on the structure of the subject. 
 
-The Being of numbers is fundamentally different from the Being of objects; The Being of a number is a property of the structure of Being. This is what **Alain Badiou** meant when he declared _"mathematics is ontology"_: that to understand how a thing is and to understand what it is that makes a thing a thing, we need mathematics. We will return to **Badiou**'s pronouncment in a little while, after we have the tools to understand why, strictly speaking, he was wrong. Mathematics is not ontology, mathematics _is metaphysics_, but we get ahead of ourselves.
+The Being of numbers is fundamentally different from the Being of objects; The Being of a number is a property of the structure of Being. This is what **Alain Badiou** meant when he declared _"mathematics is ontology"_[^Badiou#1]: that to understand how a thing is and to understand what it is that makes a thing a thing, we need mathematics. We will return to **Badiou**'s pronouncment in a little while, after we have the tools to understand why, strictly speaking, he was wrong. Mathematics is not ontology, mathematics _is metaphysics_, but we get ahead of ourselves.
 
 TODO
 
-The first attempt to formalize the notion of a number was made by **Gottlob Frege**. A lifelong project, it found its purest expression in his seminal _Foundations of Arithmetic_. In his work, he provides a basis for understanding what a number is, through an analysis of the terms `object`, `concept` and `existence`. [^Frege#1] 
+The first attempt to formalize the notion of a number was made by **Gottlob Frege**. A lifelong project, it found its purest expression in his seminal _Foundations of Arithmetic_[^Frege#1]. In his work, he provides a basis for understanding what a number is, through an analysis of the terms `object`, `concept` and `existence`. 
 
 Returning to the concept of concept, the concept is an abstraction on top of the phenomenon, an ingression into our perception of a commonality over and above what is apparent, i.e. the "_moons of Earth_" is an abstraction over the correspondence and persistence in our sense impression of light reflected over an object falling on our retina. The appearance in our perception is not the concept, it is "_gestalt_", a mere phenomenon. Upon conceptualization, it makes ingress into the metaphysical, or it makes manifest the metaphysical.  It is in metaphysical "_space_" where we formulate propositions such as 
 
@@ -285,6 +289,7 @@ The sensory impression of a carton of eggs does not contain in and of itself the
 TODO
 
 [^Frege#1]: [The Foundations of Arithmetic, Section V: Conclusion, Gottlob Frege, 1884](https://www.gutenberg.org/ebooks/48312)
+[^Badiou#1]: [Being and Event, Preface, Alain Badiou](https://openlibrary.org/works/OL21507640W/Being_and_Event)
 [^Frege#2]: [](TODO)
 [^Frege#3]: [](TODO)
 
