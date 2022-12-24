@@ -13,6 +13,8 @@
 
 <sup style="margin-left: 5%;" ><sub>- T.S. Eliot, [Little Gidding V](http://www.columbia.edu/itc/history/winter/w3206/edit/tseliotlittlegidding.html)</sub></sup>
 
+---
+
 ## The Questions
 
 **Albert Camus** once stated there is but one philosophical question and that is suicide[^1]. In this, **Camus** skipped over much to arrive at his starting point. However, to his credit, he only meant it in the rhetorical sense, as way to examine the absurdity of living in a universe where you are fated from the very start to die at the end. Nevertheless, there is a definite proximity to primordial truth in his formulation of the so-called "_philosophical question_". 

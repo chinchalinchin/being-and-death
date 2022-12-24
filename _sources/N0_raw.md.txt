@@ -1,10 +1,10 @@
-# Note #1: Raw Thoughts
+# Notes
 
 Thoughts from the author's head without order or structure. Under no circumstances should anything on this page ever be read by any person.
 
-## Phone Thoughts
+## Cloud Notes
 
-Thoughts transcribed directly onto the author's smartphone.
+Thoughts transcribed directly onto the author's smartphone and uploaded to the cloud.
 
 ### September 13, 2022
 
