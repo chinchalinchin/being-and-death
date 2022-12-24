@@ -6,19 +6,18 @@
 
 ---
 
-```
-baby, air and light and time and space 
-have nothing to do with it 
-and don't create anything 
-except maybe a longer life to find 
-new excuses 
-for.
-```
+> baby, air and light and time and space <br>
+> have nothing to do with it <br>
+> and don't create anything <br>
+> except maybe a longer life to find <br>
+> new excuses <br>
+> for <br>
+
 <sup style="margin-left: 5%;"><sub>- Charles Bukowski, [Air and Light and Time and Space](https://www.poemhunter.com/poem/air-and-light-and-time-and-space/)</sub></sup>
 
 ## Interlude
 
-We now begin the laborious work of constructing an ontology and metaphysics of Death, in order to show how philosophy is by necessity an incomplete field of inquiry and will forever remain so. We do this so that no one need ever concern themselves again with the misery and pointlessness of the whole endeavor. In this moment of respite between nihilistic soliloquies, the author once again reminds the reader there are far better way they could be spending their time: learning a new skill, watching dogs in the park, enjoying a conversation with friends. The author implores the reader that nothing further will be gained, that what awaits us is primal horror of Being and our inability to come to terms with it. Applying analysis and logic will not force Death to yield anything of value. Any naive hope we retain to contrary thus far will, by the end, be smashed to bits and cast into the wind.
+We now begin the laborious work of constructing an ontology and metaphysics of Death, in order to show how philosophy is by necessity an incomplete field of inquiry and will forever remain so. We do this so that no one need ever again concern themselves with the misery and pointlessness of the whole endeavor. In this moment of respite between nihilistic soliloquies, the author once again reminds the reader there are far better way they could be spending their time: learning a new skill, watching dogs in the park, enjoying a conversation with friends. The author implores the reader that nothing further will be gained, that what awaits us is primal horror of Being and our inability to come to terms with it. Applying analysis and logic will not force Death to yield anything of value. Any naive hope we retain to contrary thus far will, by the end, be smashed to bits and cast into the wind.
 
 In doing so, we will necessarily touch on the futility of searching for answers to life's mysteries. There are none to be found, it must be said. We are forced to content ourselves, if at all, in small doses, in the clarity that can be found in the margins.
 
