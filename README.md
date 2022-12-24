@@ -6,7 +6,7 @@ some nonsense i've been working on for years.
 ### Build 
 
 ```shell
-pip install -r requirements
+pip install -r requirements.txt
 cd docs
 make html
 ```
