@@ -40,7 +40,7 @@
 - [Conditional Disjunction](https://en.wikipedia.org/wiki/Conditional_disjunction)
 - [Contingency](https://en.wikipedia.org/wiki/Contingency_(philosophy))
 - [Dasein](https://en.wikipedia.org/wiki/Dasein)
-- [Delta-epsilon definition of a limit](https://en.wikipedia.org/wiki/Continuous_function#Weierstrass_and_Jordan_definitions_(epsilon–delta)_of_continuous_functions))
+- [Delta-epsilon definition of a limit](https://en.wikipedia.org/wiki/Continuous_function#Weierstrass_and_Jordan_definitions_(epsilon–delta)_of_continuous_functions)
 - [Dialectic](https://en.wikipedia.org/wiki/Dialectic)
 - [Epiphenomenon](https://en.wikipedia.org/wiki/Epiphenomenon)
 - [Facticity](https://en.wikipedia.org/wiki/Facticity)
