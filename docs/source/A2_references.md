@@ -21,19 +21,19 @@
 - [Physics](http://classics.mit.edu/Aristotle/physics.html)
 - [Metaphysics](http://classics.mit.edu/Aristotle/metaphysics.html)
 ## Essays
-### Archive.org
+### archive.org
 - [What Is Metaphysics?](https://archive.org/details/basicwritingsfro0000heid)
-### JSTOR
+### jstor.org
 - [An Account of Some Observations Made by a Young Gentleman, Who Was Born Blind, or Lost His Sight so Early, That He Had no Remembrance of Ever Having Seen, and Was Couch d between 13 and 14 Years of Age. ](https://www.jstor.org/stable/103697#metadata_info_tab_contents)
-### Gutenberg.org
+### gutenberg.org
 - [On The Fourfold Root of the Principle of Sufficient Reason](https://www.gutenberg.org/ebooks/50966)
 ## Encyclopedias
-### Stanford Encyclopedia of Philosophy
+### plato.stanford.edu
 - [Certainty](https://plato.stanford.edu/entries/certainty/)
 - [Concept](https://plato.stanford.edu/entries/concepts/)
 - [Metaphysics](https://plato.stanford.edu/entries/metaphysics/)
 - [Nothingness](https://plato.stanford.edu/entries/nothingness/)
-### Wikipedia
+### wikipedia.org
 - [A prior and a posteriori](https://en.wikipedia.org/wiki/A_priori_and_a_posteriori)
 - [Being-in-itself](https://en.wikipedia.org/wiki/Being_in_itself)
 - [Characteristica Universalis](https://en.wikipedia.org/wiki/Characteristica_universalis)
@@ -57,7 +57,7 @@
 - [Tetragrammatron](https://en.wikipedia.org/wiki/Tetragrammaton)
 - [Thing-in-itself](https://en.wikipedia.org/wiki/Thing-in-itself)
 - [Time Dilation](https://en.wikipedia.org/wiki/Time_dilation)
-### Exhaustive Concordance of the Bible
+### blueletterbible.org
 - [hâyâh (haw-yaw)](https://www.blueletterbible.org/lexicon/h1961/wlc/wlc/0-1/)
 - [hâvâh (haw-vaw)](https://www.blueletterbible.org/lexicon/h1933/wlc/wlc/0-1/)
 ## Scripture
@@ -68,21 +68,26 @@
 ### wikisource
 - [Book of Ecclesiastes, King James](https://en.wikisource.org/wiki/Bible_(King_James)/Ecclesiastes)
 ## StackExchange
-### Mathematics
+### math.stackexchange.com
 - [How can I get the negation of non-existential quantifier?](https://math.stackexchange.com/questions/228285/how-can-i-get-the-negation-of-exists-unique-existential-quantification)
 - [Proof that a function with a countable set of discontinuities is Reimann integrable](https://math.stackexchange.com/questions/263189/proof-that-a-function-with-a-countable-set-of-discontinuities-is-riemann-integra)
 - [Why negating universal quantifier gives existential quantifier](https://math.stackexchange.com/questions/657931/why-negating-universal-quantifier-gives-existential-quantifier)
-### Philosophy
+### philosophy.stackexchange.com
 - [What is the difference between metaphysics and ontology?](https://philosophy.stackexchange.com/questions/1534/what-is-the-difference-between-metaphysics-and-ontology)
 ## Videos
-### MIT OpenCourseWare
+### ocw.mit.edu
 - [Introduction to Machine Learning](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/resources/lecture-11-introduction-to-machine-learning/)
-### Youtube
+### youtube.com
 **Stanford Online**
 - [![Logic I - Propositional Logic](http://img.youtube.com/vi/h0e2HAPTGF4/0.jpg)](https://www.youtube.com/watch?v=h0e2HAPTGF4)
 - [![Machine Learning - Linear Regression & Gradient Descent](http://img.youtube.com/vi/h0e2HAPTGF4/0.jpg)](https://www.youtube.com/watch?v=jGwO_UgTS7I)
-**Dr. 
+**Dr. Trefor Bazett**
 - [![Logic Quantifiers](http://img.youtube.com/vi/GJpezCUMOxA/0.jpg)](https://www.youtube.com/watch?v=GJpezCUMOxA)
 - [![Negating Universal and Existential Quantifiers](http://img.youtube.com/vi/q1rKFGSiZE8/0.jpg)](http://www.youtube.com/watch?v=q1rKFGSiZE8)
+**Dr. Richard Borcherds**
+- [![Infinity](https://img.youtube.com/watch?v=0fzh_1EWSqc)](https://www.youtube.com/watch?v=0fzh_1EWSqc)
+- [![Powersets](https://img.youtube.com/watch?v=XCMvljsu84s)](https://www.youtube.com/watch?v=XCMvljsu84s)
+- [![Axiom of Separation](https://img.youtube.com/watch?v=4OMD1REFawc)](https://www.youtube.com/watch?v=4OMD1REFawc)
+
 **3Blue1Brown**
 - [![What is a Neural Network?](http://img.youtube.com/vi/aircAruvnKk/0.jpg)](https://www.youtube.com/watch?v=aircAruvnKk)
