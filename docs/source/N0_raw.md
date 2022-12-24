@@ -14,22 +14,21 @@ The investigation of the appearance of Death reveals plainly the nature of Life.
 
 If we pass through the gates of solipsism and finally admit there must be existence outside of ourselves, we might therefore conclude we atleast have attained an uncertain confidence in the validity of our Being.
 
-As proper scientists, we resolves to that aforementioned ballast of cotnradiction. It is an oft misunderstood tenet of statistical reasoning that a hypothesis can be proved true; instead, a hypothesis can only be assumed in order to be shown false. And in this dialectic we will inevitably slip back into the inescapable gravity of Death.
+But confidence in a probability is not the same as knowledge of truth. It is curiosity of science that is not, properly speaking, concerned with truth. Science, in its wisdom, realizes truth can never be stated as fact. Rather, the only thing that can be said is what is not the case. As proper scientists, we can only approach truth asymptotically, by showing the outline of what is through what it is not. It is an oft misunderstood tenet of statistical reasoning that a hypothesis can be proved true; instead, a hypothesis can only be assumed in order to be shown false. And in this dialectic we will inevitably slip back into the inescapable gravity of uncertainty.
 
 For the nature of science is to hold up a hypothesis and the form of its consequences to the existent and thus determine whether the given data disproves the assumptions by aligning their representative forms to one another and checking for error.
 
 ### September 17, 2022
 
-The relations of Being to Deathexpressed in neologistic prepositions:
+The relations of Being to Death expressed in neologistic prepositions:
 
-- Being-not-before
 - Being-always-near
 - Being-never-here
 - Being-always-before-Death
 - Being-always-with-Death
 - Being-not-in-death
 
-If we now toy with the likely hypothesis that Death is a form of ontological negation, we see only in one of the proposed relations any hint of negation. Upon reflection, the negation in the other forms is hiding.
+If we now toy with the likely hypothesis that Death is a form of ontological negation, we see only in some of the proposed relations any hint of negation. Upon reflection, the negation in the other forms is hiding.
 
 Death as hiding, or that which is hidden.
 
@@ -225,3 +224,121 @@ The author posits it is Nothing that gives gives to the anxiety of Being. Consid
 There is only one mode of Being which seeks NOthing and that is suicide. Authentic suicide, by which we mean suicide that seesk to not be, as opposed to suicide that seeks Being in death, as in the case of a solider who charges headfirst into battle in order to die a hero, the symbol of the hero Being what persists after his Death. This is not authentic suicide. Authentic suicide is what happens when a Being is so distraught and anxious by Being that it seeks to no longer be, i.e. Being in order to not be. 
 
 It is in this authentic way of Being towards suicide that we are able to glimpse, at least tangentially, the true nature of Death. The Being of suicide is anguish and despair, when one has been torn from the world and all that remains is the pain inside, not the pain of the nervous system, but the raw and primordial pain of Being whose meaning can onyl be captured in prose, where the form breaks down and stands for nothing but pure and utter desolation.
+
+---
+
+The great project of rationalism is reducing everything to logic so tthat all that is, was and ever will be is reducible to form and the rules that govern the transition of forms.
+
+The proof of the falsity of this is simple. _I_ have an opinion about rationalism and that BEing towards it induces a phenomenal experience. 
+
+Nonsense, say the rationlsits. Your phenomenal apprehension can be reduced to biology and then to chemistry and then to physics and then to mathematics. This we grant, but with the caveat we be shown where in the forms we use to express this knowledge we can find what it is that tells us how it is we are to feel to about rationalism.
+
+Well, the light falling on the retina excites the optic never, which delivers information to the brain and the brain maps the sense into overlapping neural networks which induce an efferent reaction that is carried back down through the nervous system resulting in action.
+
+Why, then, do we feel such revulsion at this description? Where can that be found in the description?
+
+To put it another way and cast it into a modern understnading, are we to suppose that in addition to Being able to program the conditions for artifical consciousness to become a Being that, by employing the principles used to bring about its conditions, we will thereby be able to chart its course through Being? That its Being will be mere form, a set of instructions from which the turmoil of Being arises?
+
+Where in this algorithm is the procedure for suicide? What set of steps produce the motivation to end one's Being for the sake of Nothing?
+
+Where are the conditions for suicide to be found if not in Being, i.e. in Being depressed, in Being anxious, in Being sorrowful, in Being guilty, etc. No matter what form you present, you will never present a method by which that form  can become the heart-rending anguish of Being suicidal, unless that form is in the world, where the possibility of Being Other resides, where I can understand the Other through my own Being towards suicide.
+
+But we already knew logic was incomplete.
+
+### September 22, 2022
+
+Nullity is of the same nature as cardinality. Nothing, however, is a subtler notion by far. 
+
+--- 
+
+Assertion is the glue which bings propositions to Reality, the Being of existence. 
+
+Is equality a form of assertion? Does not the statement `x(x+1) = x^2 + x` assert something about form itself, i.e. that both sides may _stand for_ or _announce themselves in place of_ what they represent. Here is what **Heidegger** meant by _announcing_; _announcing_ reveals that which what announces is not.
+
+**Heidegger**'s _announcing_ as the ontological statement of the `axiom of extensionality`. _Announcing_ as ontological substitution.
+
+### September 24, 2022
+
+Oh, **Schopenhauer**, so close, just a little further. If all objects come to Being through the principle of sufficient reason and are nothing but that, and I recognize myself as an object among objects, what use is _Will_?
+
+What happens when the last person dies? When the last subject perishes from this world we share? IF time and space are nothing but mere representational form, what happens when there is no more subject to presuppose it?
+
+Nothing, dear **Schopenhauer**. Nothing at all.
+
+---
+
+Language is a historical artifat hiding in plain sight. It is the result of humans coming to be and finding themselves in the world with Others like them. Every word we use to express a thought was claimed after a great primordial struggle that will forever and always remain in the fog of history.
+
+It is an interesting question whether or not this feature of linguistic history is unique to human language or is indeed an ontological property. That a child is not born with language, but acquires it, suggests it is not a direct consequence of genetics; rather, it suggests language is only a possibilty derivative of some other phenomenon, something that need not have occured, at least through the contingency of biology alone, but did, as evidenced by these words.
+
+If we assumed language is not a mere accident of human history but is rather an ontological property of our Being, i.e. the Being of `Dasein`, then it must be the case that every drop of language was drawn from the well of intellect after long droughts of silence and stagnation, after epic struggles against nameless chaos and confusion.
+
+Then, the complexity of our langage speaks to the long history of humanity, tens of thousands of years, if not hundreds of thousands, eons before Plato and Aristotle ever dream of the question of BEing, already our `ontic` awareness, our Being present, was mapping out the relations that binded us to the world through its attempt to commune with the Other, who likewise found themselves in the world with no spoken language yet. Language acquisition for any society of self-aware BEings must necessarily be a hard fought process, where the multiplicitious power of the intellect discovers the form of the Other.
+
+(This can be seen in the account by **Chesselden** of a boy born blind who, when given sight through an operation to remove cataracts, discovered concepts like distance and spatiality were not self-evident, but had to be acquired through the power of the intellect. This involved a period of the teenaged boy not understanding how to differentiate objects through sight alone and even when this was understood, asking questions like "_which sense is the liar? sight or hearing?" when he discovered the people he loved were not necessarily beautiful or pleasing to the eye.)
+
+It is only, then, within recent history, the last three or four thousand years, when the relations mapped out by the necessity of uncertainty, of intellects cautiously testing the limits of what symbols could represent and intimate, that we began to ask what it is these words that arose through mindless (but not indeterminate) history actually meant. When the Greeks first asked what it meant to be, humanity had already tacitly been using these words, with an intuitive, but not clarified, understanding of what they meant, in non-reflective sense, where meaning is inherent In the situtation and not subject to inquiry. It had never occured, and still never occurs to most, these words we use might mean something, their very form might be evidence of our primitive aspect, the heraldry of our ontological lineage. We are bound through the factical emergence of history to the very first Being who ever spoke, or atleast the very first Being who spoke the ancestor of our language, iif we are careful not to overlook the possibilty of language evolving multiple times, concurrently even.
+
+Here we see what we mean by `ontic` versus `reflective` consciousness. `Ontic` awareness is what revealed language as a form, generated by our action, capable of affecting the world through the action of the Other. THe meaning of the words, insofar that we mean their conceptualization in the intellect, is what is revealed in `reflective` consciousness. In short:
+
+`Ontic` consciousness: I am.
+
+`Reflective` consciounsness: I am?
+
+### September 26, 2022
+
+As if the truth and meaning of the logical process only entered into the question after we had come to use it in our daily lives.
+
+This, in and of itself, should give lie to the rationalist project of the reduction of consciousness to formulae. There is a crucial element missing in all modern inquiries into its nature: that Being precedes consciousness. In this, **Descartes** put the horse before the cart. He should rather have said: _I am_ and then _I think_. The formulation of _cogito ergo sum_ implies a dependence of the consequent on the antecedent, when in actuality there is no reason to assume this is the case. My Being is separate from my thinking, and we should be careful in our analysis to highlight this differentiation. THat I think is contingent on my Being, but does not neccesarrily follow from my Being. I am because I feel, because I perceive myself in the world. Whether or not the world obtains existence with or without my consent is irrelevant. Being requires a world in order to become.
+
+---
+
+It is conceivable to imagine a lifeform with a life span of millenia and a gestation period of a few months, say. With this type of life, we may atleast enertain the possibility of a concurrent development of language and history, but even with such absurdities the necessity of langague running before history is apparent. History is a derivative of language, for it is expressed through language, to say nothing at all about the possible contingency of memory of language. How much of our memory is predicated on our ability to communicate, not only with the Other, but with ourselves? Doesn't this, in and of itself, prove the Other's Being is equivalent to my Being? Do we recognize ourselv as Other before communication is ontologically possible or do we recognize communication prior to the Other? Or yet another possibility: are the Other and communication somehow different manifestations of some essential term? Or are they mutually exclusive, orthogonal concepts that span a new space? THese are questions I am not sure philosophy has even begun to ask. 
+
+If we allow ourselves to engage in speculative philosophy, we should give serious thought to the proposition that language is a mode of our Being, baked into it from the very start. If the Other is given as possibility hidden behind every objectification, then the primary, or atleast one of the primary, relations that binds our BEing to that of the Other is uncertainty, an ontological uncertainty which possesses everything at all time and supposes a presence to the Other, even in an empty room. Especially in an empty room.
+
+Language, under this assumption, would be predicated on a kind of guessing game, where the Other dimensionalizes an otherwise static BEing across a space of possibilty. No longer is the form we perceive inanimate, but contains the possibility of meaning somethign beyond its immediate appearance. IF we ask how it is we are to know one object is Other and one is not, i.e. how the animate is distinguished from the inanimate, we must admint, thought we have criteria we apply that ensures success with high probability, i.e. language and the ability to communicate, there is no absolute standard by which we make this judgement. The possibility of the Other is everywhere. You cannot say with 100% certainty the chair you are sitting on as you read this is not aware that you are sitting on it.
+
+This would explain the common believe in primitive people that attributes consciousness to natural phenomena like rain, wind, etc. Our Being is such that it seeks to find Others liek it; we impose on the world a shadow world of the Other, where all events might have their explanation through the motives of an unknowable Being, i.e. the Other.
+
+Isn't this the basis of God? That all things are explained through divine motives? **Carl Jung** often talked about humanity's instinct for religion. Under the considered hypothesis, this instinct is seen, not as a biological contingency, but an ontological contingency. 
+
+---
+
+Claim: Meaning is the essential mode of Being.
+
+Meaning is expressed through form and comprehended in thought. THe Other is essentially form, but a form that contains the unique possibility of meaning something Other than what it is.
+
+We see the primitive implementations of this ontological truth in lower forms of biology. A tree is a thing, almost as clsoe as nature provides to the inanimate in the animal kingdom, but it is not entirely itself, for it grows and changes forms; but in this changing it maintain identity. In order for a form that is spatially and temporally distinct to maintain identity, there must be some Other dimension by which to quantify its sameness, some space-time projection through a single point in the partitioned hyperplane of concepts. The tree is not juyst what it is, i.e. hardness, color, orientation, etc., but something over and above, a `beudeutung`.
+
+When we then turn to the other extreme, we see the range of phenomena thus encompassed: the Other that hides in human skin.
+
+### September 27, 2022
+
+Can a Being come to be with a fully formed set of memories? This idea is a common top in science fiction, particularly loved by the likes of **Philip K. Dick**, but to what extent is it applicable to reality?
+
+From a certain perspective, the answer to this equestion must always be _yes_, for each moment (concrescence) of our lives is a new becoming that points back to all the previous becomings that led to it, i.e. it's `factical` trajectory, its contingency. SO each moment we find oursevles Being with memories of having been that only exist here and now insofar that they represent here and now what Being we were before.
+
+But in this train of thought, we have presupposed our memories are _real_, that each recollection points back to a definite moment, excepting vagaries of data loss. Is it possible for a Being to come to be with a false set of memories? 
+
+How would we go about cerating an artifical intellgence that believed it was **Pablo Picasso** or **Leonardo Da Vinci**? Implant false memories, replies science fiction, as if this process of "_implanting_" were static and not a process that need unwind through time. We tacitly assume memory is something that can be substituted into place and replaced at will with somethign else, led to this conclusion by the generalizing gaze of rationalization that reduces everything to substitutable quantities. Perhaps this is the case, but until we know for sure, we must also entertain the possibility that in order for an artifical intelligence to acquire "_false_" memories, it must do so through the mechanism of phenomenal experience. ANd if this is the case, we cannot assume the process is deterministic, i.e. if we could faithfully replicate the exact history of external stimuli impinging upon **Picasso**'s sense organs, it does not necessarily follow the AI would be a one-to-one map with the Being that was **Picasso** in our world history timeline. 
+
+To go even further, what would it entail creating an artifical intelligence that believed space had five dimensions, time was bidirectional and causality was such that what comes after conditions what came before (or that chronology were not a relation at all, say)? Is such a formulation possible? Have we violated an ontological principle in conducting this thought experiment? If so, what _is_ that error we have committed?
+
+### October 3, 2022
+
+There is in the contintental philosophy camp a curious detachment from the subject they purport to study. The phenomenology they describe, in hewing to formalism and clarification, seems to miss the point. 
+
+Yes, the world is, in some resposne, a totality of references, a horizon of possible happenigns; it is a constellation of particularized eidetic generalites, a concrescence of actual entities into novelty, all of these attempt to elucidate what is already appareant when we lift our eyes from the page and listen:
+
+In the pitch black of night, as looming shadows of what might be sentinel pines block out the fingers of the moon, and what might be crickets chirp in the ether, in those solmen moments, when a primal howl shrieks and shatters the quiet, there is Nothing left but the moment of pure terror and apprehension, of the blatant gravity of existence drawing us in into our bodies, making us inhabit our presence fully and without reflection, without consideration of bank accounts or property regulations or tax codes, when the rawness of Being is just this: live or die.
+
+That is when the world is "_lit_" up in its totality, when all imagined knowledge is condensed down into the impulses of survival, when we reach for the flashlight and find it gone, when we stumble through the dark and realize we are lost, when the baying of an unnatural monster nips at our heels and we snatch at anything we might use to beat _it_ back.
+
+We see in this struggle the essential nature of Being and how it arises throug htis perpetual flight in front of Death: we discover equipment "_ready-to-hand_" in its most primordial sense: that of a weapon.
+
+Why does **Heidegger** shy away from this truth? All equipment is in essence a weapon, and it is used to fight Death. The simplest tool, a blunt object, what is its use if not to hit? To maim? To kill? And what use is the hammer, if not to build a barrier between you and Death? All equipment is preceded ontologically by Death. All of it, without exception. Even the distractions, the make up and video games and art, it is simply to posit existence independent of Death: _I can be fashionable_, _I can have a legacy_, _I can ignore my mortality thereby surpassing Death in some capacity_. 
+
+In the raw struggle against Death, there is no pretense of philosophy. You do not question your knowledge. If you are wrong, then you die and there is no one left to question anything. Being is perpetual trial by fire. In the face of Death, Being stands out exactly as it is: a means to escape Death. Every dimension of Being twists towards averting it: clutched handfuls of dirth become handholds on a ladder "_in-order-to_" to tear yourselv away from the jaws of a predator, rocks become projectiles (and so we see our "_synthetic_" notion of _bodies are heavy_ is not at all "_synthetic")
+
+(Is this true? Does the man in mortal terror use tools? Can things in the immediacy of experience be _tools_?)
