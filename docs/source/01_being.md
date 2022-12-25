@@ -1,4 +1,4 @@
-# Book 1: Being
+# Book 1
 
 ![](./assets/calvin_and_hobbes_inscrutable_exhortations.jpeg)
 
@@ -15,7 +15,7 @@
 
 ---
 
-## The Questions
+## The Question
 
 **Albert Camus** once stated there is but one philosophical question and that is suicide[^Camus#1]. In this, **Camus** skipped over much to arrive at his starting point. However, to his credit, he only meant it in the rhetorical sense, as way to examine the absurdity of living in a universe where you are fated from the very start to die at the end. Nevertheless, there is a definite proximity to primordial truth in his formulation of the so-called "_philosophical question_". 
 
@@ -43,13 +43,9 @@ To ask questions about a subject that perpetually recedes from all attempts to k
 
 It would seem, then, it does not matter which direction we choose to go, since we will always return to our starting point, no better or worse for having made the circuit. For this reason, the author recommends no one should read what follows. Instead, the reader is advised that going outside is by far a better course of action.
 
-[^Camus#1]: [The Myth of Sisyphus](TODO)
-
-### What is Philosophy?
-
 With the warnings of futility thus dispensed, we will preface our discourse with a brief tour through the current state of our understanding of what it means _to be_. If Death, as a philosophical concept, can be said to be anything, then it seems likely it must be as a negation of Being, or at the very least a certain _type_ of Being, the type of Being we ourselves have. 
 
-There is in this an almost natural proclivity to view Death as the opposite of life, the terminus of life or boundary of life. In the colloquial sense, there is obviously true enough, but we are here inquiring in the precise of meaning of Death, the place it occupies in the mechanics of Being. Whether or not the subject of Death's negation is life, or a living thing, cannot yet be concluded, for it is not clear at this stage in what ways not Being dead is equivalent to Being alive, for a rock is said to not be dead, yet we do not conclude from that it is alive. Indeed, upon consideration, the exact definition of life is hard to pin down, for "_what is common among the living is life, but life in itself has no properties, attributes or characteristics. Thus, what is held in common among the living it itself nothing in particular_"[^Thacker#1] We therefore take it as a provisional hypothesis that Death is a negation of a _type_ of Being, with the understanding that we have much to show before this statement can be taken as fact and in what way it is to be understood. We have not yet defined what it, the Being to which we refer in the preceding as subject to Death, _is_ exactly, so that its negation likewise lacks clarity. 
+There is in this an almost natural proclivity to view Death as the opposite of life, the terminus of life or boundary of life. In the colloquial sense, there is obviously true enough, but we are here inquiring in the precise of meaning of Death, the place it occupies in the mechanics of Being. Whether or not the subject of Death's negation is life, or a living thing, cannot yet be concluded, for it is not clear at this stage in what ways not Being dead is equivalent to Being alive, for a rock is said to not be dead, yet we do not conclude from that it is alive. Indeed, upon consideration, the exact definition of life is hard to pin down, for "_what is common among the living is life, but life in itself has no properties, attributes or characteristics. Thus, what is held in common among the living is itself nothing in particular_"[^Thacker#1] We therefore take it as a provisional hypothesis that Death is a negation of a _type_ of Being, not necessarily identical with _life_, with the understanding that we have much to show before this statement can be taken as fact and in what way it is to be understood. We have not yet defined what it, the Being to which we refer in the preceding as subject to Death, _is_ exactly, so that its negation likewise lacks clarity. 
 
 Therefore, we first examine our understanding of Being in general to bring the scope of the problem into view. This will necessarily entail a discussion on the history of philosophy, language and logic, all in reference to how these fields have informed our understanding of Being. What is presented in this first book is by no means an exhaustive commentary, nor should it be taken as a coherent, chronological narrative; what follows is only meant to highlight pertinent concepts as they relate to the current analysis.
 
@@ -63,48 +59,100 @@ There is an inherent problem with the application of the scientific method to th
 
 By objectifying our Being and making it the focus of study, we necessarily lose its personal subjectivity, and render it unapproachable, passing by each other like two ships in the night. When one attempts to study that which studies, one must careful with the avenues of inquiry one selects to make clear and apparent the object of study, which in this case is no object at all, but the subject itself insofar that it is pure subjectivity.
 
-When philosophy attempts to hew to the scientific method and objectifies the subject, it necessarily becomes reductionism. For this reason, the project of philosophy in the modern world, instead of elucidating and clarifying the meaning of these terms with respect to the advances of modern science, by attempting to emulate the results of science outside the domain of its problemset, has become to explain away, not only consciousness, but Being itself, by reducing everything to representation and formulae, as if these representations and formulae did not exist as representation and formulae through our Being first and forever before their subsequent interpretation.
+When philosophy attempts to hew to the scientific method and objectifies the subject, it necessarily becomes formalism. For this reason, the project of philosophy in the modern world, instead of elucidating and clarifying the meaning of these terms with respect to the advances of modern science, by attempting to emulate the results of science outside the domain of its problemset, has become to explain away, not only consciousness, but Being itself, by reducing everything to representation and formulae, as if these representations and formulae did not exist as representation and formulae through our Being first and always before their subsequent interpretation as meaningful significations.
 
 If philosophy is to remain in the modern world a field of inquiry independent of science, science being a field concerned with truth (or at the very least the removal of falsity), then philosophers must seek refuge in meaning, for meaning is the last stronghold not yet stormed by science and for good reason; Science, for all its exactness, cannot touch our Being. No description is capable of anything beyond indicating what is the case; _what is the case_, however, is not an indication, but the actual events that make up the world. Every description is a description _of_ the world _in_ the world; the only way a word could have true Being is if it stood for its own letters, instead of meaning something beyond its letters, something that can only be encountered by a Being that deals in meaning. It is the one and only task of philosophy to explain the way in which this transcedence occurs, and what it is that is happening when this happens. 
 
-Philosophy cannot be disavowed of this task even if that happening happens to be Nothing. Indeed, if what we are turns out to be Nothing at all, then there is no more urgent task to consider than that of philosophy. What other tool ready-to-hand would stand chance against Nothing? In the annihiliating nightmare of nihilism, we all necessarily become philosophers. 
+Philosophy cannot be disavowed of this task even if that happening happens to be Nothing. Indeed, if what we are turns out to be Nothing at all, then there is no more urgent task to consider than that of philosophy. What other tool [ready-to-hand](HEIDEGGER_TODO) would stand chance against Nothing? In the annihiliating nightmare of nihilism, we all necessarily become philosophers. 
 
-[^Thacker#1]: [After Life, Chapter 1: Life and the Living, Section 3: The Ontology of Life, Eugene Thacker](https://openlibrary.org/books/OL24110393M/After_life)
-
-### What is Being?
+## Being
 
 The project of philosophy is to make clear what we are, to present for the understanding the concepts which underlie our Being, the Being that occurs when some small pocket of the world turns on the rest and declares itself separate by the proclamation, _I am_. Philosophy should, in its rightful endeavor, provide the basis for understanding how this situation, that of the _am_, comes to be separate from the other types of Being, if that indeed is what is occuring. In essence, philosophy, if it is not to go the way of alchemy or phrenology, must answer the question: _what am I_?. Furthermore, it must does so in a way that distinguishes itself from the fields of pure logic, mathematics or physics. Whether or not philsophy is up to the task is the question currently at hand. 
 
-When asking _what am I?_, we necessarily bring with us an expectation the answer will assume the form _I am x_, or some essential variatian thereof, so that in order to answer this question we must first understand what type(s) of operands may be substituted for _x_  in the above and remain intelligible. We must also hold tight to the creeping notion that it may be the case there is no expression, within the structured forms of linguistic representation, that is capable of answering this question. Nevertheless, if there is to be an answer to the question _what am I?_, it must necessarily be of the form _I am x_, for the _what_ in the question seeks a solution of the form _x_, of a _thing_ to be determined. 
+When asking _what am I?_, we necessarily bring with us an expectation the answer will assume the form _I am x_, or some essential variatian thereof, so that in order to answer this question we must first understand what type(s) of operands may be substituted for _x_  in the above and remain intelligible. We must also stash in the back of our thoughts the creeping notion that it may be the case there is no expression, within the structured forms of linguistic representation, that is capable of answering this question. We shall grant an answer is possible for the moment in order to see where it might lead, in which case, if there is to be an answer to the question _what am I?_, it must necessarily be of the form _I am x_, for the _what_ in the question seeks a solution of the form _x_, of a _thing_ to be determined. 
 
-The type of proposition represented by _I am x_ is a particular case of a more general symbolic proposition, one that can be uncovered by recognizing _am_ is a derivative of _is_ (more on this assumption to follow shortly), so that _I am x_, which might be rephrased more verbosely as _that which is me is x_, is really governed, at least in the limit, by the same algebra that governs simpler primitive terms captured symbollically by  _this is x_. We thus must preface our answer to _what am I?_ with an answer to _what is this?_.
+The type of proposition represented by _I am x_ is a particular case of a more general symbolic proposition, one that can be uncovered by recognizing _am_ is a derivative of the same root as _is_ (more on this tacit assumption to follow shortly), so that _I am x_, which might be rephrased more verbosely as _that which is me is x_, is really governed, at least in the limit, by the same algebra that governs simpler primitive terms captured symbollically by  _this is x_. We thus must preface our answer to _what am I?_ with an answer to _what is this?_.
 
-Before doing so we clarify a few things. The use of _that_ in the preceding _that which is me_ is to be understood as a linguistic [relativizer](https://en.wikipedia.org/wiki/Relativizer), and not the indicative _that_ which opposes the _this_. It is the _that_ identified in the construction _here is something that is useful_ as opposed to the _that_ identified in the construction _that is something_. In the latter case, the _that_ is a quantification, a particular case, a _thing_. In the former case, the _that_ is no _thing_, but a relation of the predicate which flows back to the object to which it is attached. _Here is something that is useful_ may be compared to the similar form _here is something useful_. Colloquially, the phraseologies are near enough equivalent that they can be treated the same, but the question remains on the philosophical level if the difference is an artifact of linguistic inconsistency or if a _relativizer_ deserves a special place in the grammar of Being. We shall see in the upcoming sections how the _relativizer_ plays a central role in the name given to God by early humans and how this role relates primarily to establishing the Being of the _am_. For now, we leave these questions in the margins.
-                                                            
+Before doing so we clarify a few things. 
+
+The use of _that_ in the preceding _that which is me_ is to be understood as a linguistic [relativizer](https://en.wikipedia.org/wiki/Relativizer), and not the indicative _that_ which opposes the _this_. It is the _that_ identified in the construction _here is something that is useful_ as opposed to the _that_ identified in the construction _that is something_. In the latter case, the _that_ is a quantification, a particular case, a _thing_. In the former case, the _that_ is no _thing_, but a way of nesting the relation of Being contained in the predicate so that which is quantified as Being flows back to the object whose Being was previously quantified. _Here is something that is useful_ may be compared to the similar form _here is something useful_. Colloquially, the phraseologies are near enough equivalent that they may be treated the same, but the question remains on the philosophical level if the difference is an artifact of linguistic ambiguity or if a _relativizer_ deserves a special place in the grammar of Being. 
+
+The _relativizer_ exists in the oldest languages of which we still have historical documentation. It plays a central role, for instance, in the name early humans gave to God. In the opening books of the Torah, within the text of **Exodus**, God reveals his true name to Moses on Mount Sinai[^Torah#1], 
+
+> And Moses said unto God: 'Behold, when I come unto the children of Israel, and shall say unto them: The God of your fathers hath sent me unto you; and they shall say to me: What is His name? what shall I say unto them?'
+
+> And God said unto Moses: 'I AM THAT I AM'; and He said: 'Thus shalt thou say unto the children of Israel: I AM hath sent me unto you.'
+
+God's reply to Moses, derived from Hebrew,
+
+> אֶהְיֶה (ehyé) אֲשֶׁר (’ăšer) אֶהְיֶה (ehyé)
+
+has been translated numerous ways: _I am that I am_, _I am what I am_, _I am what am_, _I am that am_, _I am who am_. 
+
+The Hebrew word, אֶהְיֶה, is the first person singular of the infinitive הָיָה, pronounced phonetically as "hâyâh", which translates as _to be, become, come to pass, exist, happen, fall out_[^Strong#1]. Modern Hebrew conjugates God's reply in the future tense, i.e. _I will be what I will be_. However Hebrew at the time did not differentiate tenses. There was no difference, atleast grammatically speaking, in Ancient Hebrew between the notions of _will be_, _has been_ and _is now_. 
+
+The term, אֲשֶׁר, is the semantic device known as a _relativizer_ just discussed. Quite literally, the Hebrew Torah states, God is the am that am, where _that_ is understood as a nesting operation, where the Being on the right hand side of the _relativizer_ is ascribed to the Being on the left hand side in addition to its own Being.
+
+The name Judaism gave to God, _Yahweh_, understood through the so-called [tetragrammaton](), in one intrepretation could be seen as an attempt by early humans to distinguish what they are from what is, that is to say, as a way to differentiate the _am_ and _is_. The choice of first person singular, as opposed to the impersonal third person, is telling in this respect, for it is a claim about the Being of God, namely that God is in the same way the subject of _I am_ is. 
+
+Our first inclination to the divine, as it has come down to us, was an expression of what is meant by our Being, identifying it as equivalent to the Being of the divine. _Yahweh_ is to be understood, in this interpretation, as an assertion that _am_ is distinct from _is_, that what we are is more than what is given to us.  
+
+According to our ancestors' account, God is what _I am_. God is the **Cartesian** _sum_. Interpretted in the literal sense, this account of the divine identifies our type of Being, the Being that is contained in (or revealed by) the I's _am_, as a a separate sort of Being from that of other Beings, and this separateness is exactly what gives rises to the classification of the divine.
+
 There is another point to address, one that cannot be skipped over before proceeding. We have, in the previous paragraphs made the assumption the Being of the _am_ is a cousin to the Being of the _is_. We must now turn to an argument raised by **Alfred Tarski**, in which we must consider _"that the semantical concepts have a relative character, that they must always be related to a particular language."_[^Tarski#1] 
 
 It might be the case the conjugation of _to be_ into its derivative forms, _is_ and _am_, is a conceptual union not born out in the facts. When we talk about the Being of _am_ and compare it to the Being of _is_, are we being misled by the language used to express these ideas into supposing a coincidence of meaning where in fact there is none?
 
-This is, in questions involving Being, the central question: whether _what I am_ is of a genre with _what this is_, and moreover whether this mutual origin is linguistic or ontological. If we are establish any sort of ontological relation between the meaning of these two terms independent of the knowledge granted by language, we must be careful in understanding **Tarski**'s argument. 
+This is, in questions involving Being, the central question: whether _what I am_ is of a genre with _what this is_, and moreover whether this mutual origin is linguistic or ontological. If we are to establish any sort of ontological relation between the meaning of these two terms independent of the knowledge granted by language, we must be careful in understanding **Tarski**'s argument. 
 
 In one reading, we might think **Tarski** is saying meaning, i.e. semantical conceptualization, is ephemeral, a property of a system, without use outside of that system. While not entirely inaccurate, the exact meaning is subtler by far, for his argument relies on the notion of _relative_. 
 
-Things are only said to be _relative_ insofar as there is an invariant quantity available to all frames of reference that allows the calculation of how much the relative quantities in the system have changed. In **Galilean** relativity, the invariant quantity is space and time, so that all motion is relative to a fixed universe. In **Einsteinian** relativity, the invariant is the speed of light, so that space and time themselves are relative to this fixed quantity. 
+Things are only said to be _relative_ insofar as there is an invariant quantity available to all frames of reference that allows the calculation of by how much the relative quantities in the system have changed. In **Galilean** relativity, the invariant quantity is space and time, so that all motion is relative to immovable space-time; since all frames of reference measure the same lengths and times, motion is able to be viewed relative to either reference without loss of fidelity. In **Einsteinian** relativity, the invariant is the speed of light, so that space and time themselves are relative to this fixed quantity, and frames of reference will adjust their spatial and temporal metrics accordingly to accomodate this constant.
 
-If meaning is determined by the language from which it arose, what is the ultimate invariant quantity to which language itself must conform? With careful thought, the answer is obvious. If there is one constant to be found in all the various languages in the world, at any given time in the spoken history of humanity, it is found in the words: _Be, _Ser_, _Sein_, _Shi_, _Desu_, etc. The invariant of language is, of course, Being itself. In the same way the speed of light requires space and time to become the quantities necessary for its correct calculation, Being requires language to become forms which represent it.
-
-TODO
+If meaning is determined by the language from which it arose, what is the ultimate invariant quantity to which language itself must conform in order to prescribe a metric for meaning? With careful thought, the answer is obvious. If there is one constant to be found in all the various languages in the world, at any given time in the spoken history of humanity, it is found in the words: _Be, _Ser_, _Sein_, _Shi_, _Desu_, etc. The invariant of language is, of course, Being itself. In the same way the speed of light requires space and time to become the quantities necessary for its correct calculation, Being requires language to become forms which can represent it.
 
 We are thus asking if the conjugation of _am_ deserves recognition as an ontological operation over and above the existential operation of _is_ which structures language, or if it is a redundancy that is already included in _is_ or merely a semantical construct with no meaning outside of language. If the first case obtains, _am_ provides structure distinct from the structure of the _is_, essentially performing the function of dimensionalizing language, and the question _what am I_ has been granted a necessary, but not sufficient, condition for a meaningful answer. If either of the latter cases obtain, then the answer we seek is clearly some variation of _I am Nothing_.
 
-Insight into this question can be gained by studying the historical origins of Being. In modern English, _Being_ was the marriage of two concepts that were previously distinct. The etymology of _Being_ descends from the coupling of the Old English words _beon_ and _wesan_, which can be in turn, if the theorists are to be believed, traced further back to the Proto-Indo-European roots of _bheu_ and _wes_, respectively. For this reason, we conjugate from the infinitive _to be_ _B_-root words _be_, _been_, _being_ and _W_-root words _was_, _were_.
+Insight into this question can be gained by studying the historical origins of Being in our language. Language is an archeological treasure hiding in plain sight, a living autobiography of history. **Ludwig Wittgenstein** likened language to "_an ancienty city: a maze of little streets and squares, of old and new houses, and of houses with additions from various periods; and this surrounded by a multitude of new boroughs with straight regular streets and uniform houses_"[^Wittgenstein#1] In other words, language is not an absolute, but a process, constantly shifting forms and revealing new realms of meaning, but retaining its essential function: that of representation and signification. 
 
-When _beon_ and _wesan_ were gradually merged, two meanings came to inhabit the same word. The distinction prior to their merger. _Wesan_ expresses existence in the present or past. 
+In modern English, _Being_ is the marriage of two concepts that were previously distinct. Its etymology descends from the coupling of the Old English words _beon_ and _wesan_, which can be in turn, if the theorists are to be believed, traced further back to the Proto-Indo-European roots of _bheu_ and _wes_, respectively. For this reason, we conjugate from the infinitive _to be_ _B_-root words _be_, _been_ and _being_ and _W_-root words _was_ and _were_. _Is_, a direct cognate from Old English, is the present tense conjugation of _wesan_, revealing its hereditary from the _es_-stem roots that form the concept of Being in other Proto-Indo-European languages, such as the Spanish _estar_ or TODO. 
+
+It is in the meaning of these words prior to their symbosis we shall find a starting point for understanding the separation of _am_ and _is_. The differences between the semantic function of _beon_ and _wesan_ is slight, but potent.
+
+_Wesan_ is the Being of objects and nouns. It is the _is_ of the _this_ and _that_, the _the_ and the _a_. When affixed to a name, _wesan_ indicates existence, what is actual about its subject. _He is here_, _you will be tired_, _there are three of them_. These are all existential statements of particular cases, facts which can be determined true or false by reference to reality. This type of concrete Being is contained in _wesan_. TODO EXAMPLE TODO
+ 
+To put it succinctly, _wesan_ is the empirical _is_, the _is_ which refers to the external world. _Beon_, however, is the Being of the abstraction and adjectives. _Beon_ indicates an object's [gnomic aspect](TODO:wikilink). In the parlance of logic, a _gnomic_ truth is a universal assertion, a statement of generality that applies to all things of which it speaks. While the Being of modern English does not have a direct _gnomic_ form, a _gnomic_ proposition can be induced by the removal of the particularizing article _the_ in the following: _the birds are fast_. The use of _the_ in this sentence refers to a particular group of birds, whereas the proposition _birds are fast_ does not refer to any definite bird, but references the _gnomic aspect_ of birds, i.e. the abstraction of form common to all avian entities.  It is in this context that _beon_ is conjugated in Old English. TODO EXAMPLE TODO
+
+Mandarin has a similar variation in how it unpacks the relations of Being into representative form. In Mandarin, the verb (literal mandarin) _shi_ can only be affixed to nouns, to signs representing physical objects. (literal mandarin) _Ni shi zhongguo ren_; you are Chinese. However, (literal mandarin) _shi_ cannot be affixed to adjectives, such as beautiful. For that, the extra verb (literal mandarin) _hen_ is required. 
+
+We have here  again in _shi_ and _hen_ the distinction of meaning found in _wesan_ and _beon_, that of actuality versus abstraction. Indeed, this is a common duality to be found in languages across the world. 
+
+When _beon_ and _wesan_ were gradually merged in modern English, two meanings came to inhabit the same word. Still, to this day, it could be argued, these meanings have not yet been fully integrated. There are defects in the merger that can be glimpsed, when words falter slightly in their aspect and _Being_ reveals its separate meanings. The English _Being_ haphazardly applies the ideas of concrete and abstract reality simultaneously, thereby allowing assertions of existence to be mixed with assertions of conceptualization, as seen in the propositions _there is love_, _this is justice_, _we are eternal_. The English _is_ is capable of abstracted existence, existence that is not reducible to objective reality.
+
+It in this muddle of semantics that we are seeking to extract an answer to the question _what am I_. It is at this point we must ask what it is we require of an answer so that we might recognize it as such. 
+
+A novice logician might reply _consistency_, by which is meant the idea that language is really an axiomatic system from which propositions are constructed according to syntactical rules, so that we start with primitives notions like _set_, _element_ and _belong_, then we formalize the semantics of these concepts with quantified propositions such as _there exists a set_ and _some things have the property of belonging to that set_, then we proceed to define more complex notions such as equivalence through the formalized semantics these primitive notions afford, used in conjunction with the laws of logic (modus ponens, syllogism, etc.), e.g.. _if belonging to a first set implies belonging to a second set and if belonging to the second set implies belonging to the first set, then both sets are said to the be equivalent_. 
+
+_Consistency_ is the idea that all such statements thus constructued, if proceeding from a correct set of axioms (possibly infinite in number), will always yield a determinate statement. By determinate, it is meant the truth of the statement can be judged purely as a function of syntax. Or put another way, all statements in the system can be reduced to statements about the primitive notions that compose the foundation of the system. In mathematics, all theorems ultimately become theorems about sets, elements and the concept of _belonging_, when the appropriate substitutions are made for the [definien]() in the complex definitions that are built up through the application of syntax (a mathematical function f(x), for instance, can be defined as a mapping of sets to one another). All meaning in the system is built up through the meaning given to the primitive notions, i.e. what a _set_ is, what an _element_ is and what it means for an _element_ to _belong_ to a _set_. The semantics of the system are entirely incapable of saying what it is these primitive notions actually are, for all meaning in the language system comes from what it is they mean, i.e. the concept _equivalence_ is reducible to the concept of _belonging_, but the concept of _belonging_ has no further definition; it is what is simply what is meant by the symbol `~` in `#A | @x | x ~ A v A = 0`^[Appendix#1]. In other words, the meaning of the primitive notions must be given in the intuition before the syntactical consequences of their meaning is dispersed through the structure of the system. Once the primitive meanings are given, the content of that meaning must necessarily follow the rules of syntax. 
+
+Here is as good as place as any to give pause to understanding the difference between syntatical and semantical judgements. Consider the arguments:
+
+_All mammals are warm-blooded, all whales are mammals, therefore all whales are warmblooded_. 
+
+_If the ball is dropped, then it falls is equivalent to the ball is falling or it has not been dropped_                                                  
+These lines of reasoning are syntactical, because they are valid if their content is abstracted away from them, as seen in the following,
+
+_All x are y, all z are x, therefore all z are y._
+_if x then y is equivalent to x or not y._
+
+Strictly speaking, we should only speak of truth when the operation of assertion is involved, so we do not say these propositions are true, for that is the purview of the terms which have been abstracted away from them, but rather these propositions provide the syntax for their asserted content to become true.
 
 
 TODO
 
-Mandarin has an interesting variation in how it unpacks the relations of Being into representative form. In Mandarin, the verb (literal mandarin) _shi_ can only be affixed to nouns, to signs representing physical objects. (literal mandarin) _Ni shi zhongguo ren_; you are Chinese. However, (literal mandarin) _shi_ cannot be affixed to adjectives, such as beautiful. For that, the extra verb (literal mandarin) _hen_ is required. 
+A question that is not often addressed in the literature is whether or not an inconsistent system can still be meaningful. 
+
+If a system is complete, then it is inconsistent. But does the inverse hold? If we start from an inconsistent language, does that imply the lacunae of possible meaning in that language is complete?
 
 TODO
 
@@ -163,9 +211,20 @@ In truth, these two aspects of existence lead back to each other. When the afore
 
 There is yet another way we talk of existence that is not reducible to the previous two definitions. We say things like _the number one exists_ and mean something else entirely different from the preceding. The argument that numbers are property of things, that is to say, that a number is always applied to a particular instancing of existents, i.e. three oranges, a dozen jurors, a million citizens, is fallacious in the following way. If number were an attribute of things, or atleast their aggregation, then number could not exceed the totality of existent things, or atleast the totality of possible things. If the number of (possible) things is finite, the absurdity is shown by adding one to their sum. If the number of things is infinite, the absurdity is shown by asking in how many ways the things which exist can be ordered, that is to say, we have here a number not included in the supposed infinity of things, of which number is supposedly an attribute. 
 
-This contradiction shows either the existence of number is independent of the thing whose existence it quantifies, for how else can a collection of things be ordered except by a number which exceeds their quantity, or that existence contains a dimension of numerability not reducible to quantity. If the latter were the case, universal statements, such as _all whales are mammals_ would not possible, for it would not be enough to identify a thing as a whale to conclude it is a mammal, but the order in which it appears in the totality of whales would emerge as an additional condition which must be ascertained before the truth of the proposition can be judged. That this is not the case, i.e. knowing _all whales are mammals_ is sufficient to determine whether this particular whale is a mammal, leads us to conclude number is separate from the physical matter it quantifies. 
+This contradiction shows either the existence of number is independent of the thing whose existence it quantifies, for how else can a collection of things be ordered except by a number which exceeds their quantity, or that existence contains a dimension of numerability not reducible to quantity. If the latter were the case, universal statements, such as _all whales are mammals_ would not possible, for it would not be enough to identify a thing as a whale to conclude it is a mammal, but the order in which it appears in the totality of whales would emerge as an additional condition which must be ascertained before the truth of the proposition could be judged. That this is not the case, i.e. knowing _all whales are mammals_ is sufficient to determine whether this particular whale is a mammal, leads us to conclude number is separate from the physical matter it quantifies. 
 
-The existence of number is always thus, separable and distinct from the existence of things which are enumerated. In this way, existence can be said to be beyond the things, i.e. the substance or matter, to which it also applies. We have here our first ballast by which to divide Being from existence: in the realm of Number, there always exists a thing which can not be, by virtue of ordering. 
+The existence of number is always thus, separable and distinct from the existence of things which are enumerated. In this way, existence can be said to be beyond the things, i.e. the substance or matter, to which it also applies. We have here our first ballast by which to divide Being from existence: in the realm of Number, there always exists a thing which can not be, by virtue of ordering. In mathematics, these numbers are known as ordinal numbers.
+
+TODO 
+
+What is it in our Being that prevents the complete quantification of all numbers? Why is it that our Being is not sufficiently _large enough_ to contain every type of number that exists? If we are always restricted to a particular ordering of things, what is it that stops our Being from overflowing and encapsulating this ordering so that it might be ordered along with all the rest? The answer is that _Being is not infinite_. A condition for the actualization of the next ordinal number that orders not only all things that exist but the order in which they exist is an infinity upon which to map that next ordinal. 
+
+If there were no Death, Being would have the capacity to be complete with respect to the things that are possible, so that possibility would no longer be a thing with any meaning. That we die removes certain possibilities from the possibility of ever attaining actualization. 
+
+the inability of human mathematics to capture the totality of numbers in finite symbols is a manifestation of this fundamental truth. 
+
+TODO
+
 
 In attempting to define a thing as existence, we have passed by its Being entirely. For if the Being of a table was reducible to its existence, i.e. its chemical composition, then it should not occur that separate existents should be separate tables, that is to say, if Being were identical to existence, a steel table would be a wholly different Being from the tree stump offered to the midday travellers as their lunch table. It is, however, the case that a table can exist through different mediums and retain its "table-ness", so that in the account of only its physical properties, we do not touch upon at all what it is that defines a table. 
 
@@ -180,8 +239,6 @@ Likening a proposition to a function, we draw a parallel to mathematics: a funct
 Likewise, the linguistic notion of _am_ brings with it a certain domain and a certain projection, which clarify its meaning, for the _(x,y)_ in the propositional function _x am y_ cannot be arbitrarily assigned over the space of subject-nouns, over the set of existent things. _Am_ defines a precise and particular subject: _us_. Specifically, _I_. 
 
 This can be seen in the syntactical error that arises in the proposition _the thing am this_; the meaning of _am_ is only understood through _I am this_.
-
-[^Tarski#1]: [Logic, Semantics, Metamathematics, Alfred Tarski](TODO)
 
 ### What is Number?
 
@@ -288,79 +345,6 @@ The sensory impression of a carton of eggs does not contain in and of itself the
 
 TODO
 
-[^Frege#1]: [The Foundations of Arithmetic, Section V: Conclusion, Gottlob Frege, 1884](https://www.gutenberg.org/ebooks/48312)
-[^Badiou#1]: [Being and Event, Preface, Alain Badiou](https://openlibrary.org/works/OL21507640W/Being_and_Event)
-[^Frege#2]: [](TODO)
-[^Frege#3]: [](TODO)
-
-### What is God?
-
-It should come as no surprise, given the importance and precedence of Being in the world as we are, that it is in the origins of humanity's culture and religion that we likewise find the beginning of the historical account of our understanding of our Being, the Being of the _am_. The Bible, while its accuracy as it relates to the actual events of history may up for question, nonetheless serves as a time capsule for our understanding of Being, circa four thousand years ago. In its passages, we discover our early attempts to understand what is we are.
-
-In the opening books of the Old Testament, within the text of **Exodus**, God reveals his true name to Moses on Mount Sinai, 
-
-> And Moses said unto God: 'Behold, when I come unto the children of Israel, and shall say unto them: The God of your fathers hath sent me unto you; and they shall say to me: What is His name? what shall I say unto them?'
-
-> And God said unto Moses: 'I AM THAT I AM'; and He said: 'Thus shalt thou say unto the children of Israel: I AM hath sent me unto you.'
-
-God's reply to Moses, derived from Hebrew,
-
-> אֶהְיֶה (ehyé) אֲשֶׁר (’ăšer) אֶהְיֶה (ehyé)
-
-has been translated numerous ways: _I am that I am_, _I am what I am_, _I am what am_, _I am that am_, _I am who am_. 
-
-The Hebrew word, אֶהְיֶה, is the first person singular of the infinitive הָיָה, pronounced phonetically as "hâyâh", which translates as _to be, become, come to pass, exist, happen, fall out_[^4]. Modern Hebrew conjugates God's reply in the future tense, i.e. _I will be what I will be_. However Hebrew at the time did not differentiate tenses. There was no difference, atleast grammatically speaking, in Ancient Hebrew between the notions of _will be_, _has been_ and _is now_. 
-
-The term, אֲשֶׁר, is a semantic device known as a _relativizer_ that plays the analogous role of the English _that_, seen in sentences such as _I am writing so **that** you may read this_, _here is something **that** you can use_ or _he told us **that** it was the case_. 
-
-Our earliest stories are draped in the fuzzy, not-quite-distinct semantics of Being, as understood by our ancestors. The name Judaism gave to God, _Yahweh_, interpretted in this fashion, should be understood, by the dispassionate observer, as an attempt to enunciate and categorize types of Being, before language had properly clarified it meanings into the diversity of meanings seen in _am_, _are_, _was_, _were_, _has been_, etc. The choice of first person singular, as opposed to the impersonal third person, is telling, in this respect, for it is a claim about the Being of God, namely that God is in the same way the subject of _I am_ is. Our first inclination to the divine, insofar as it has come down to us, was an expression of what is meant by Being, in particular the Being of the divine, and the Being of the divine, the Bible tells us, is identified exactly as the type of Being contained in the modern proposition _I am_. 
-
-According to our ancestors' account, God is what I am. God is the **Cartesian** _sum_. Interpretted in the literal sense, this account of the divine identifies our type of Being, the Being that is contained in the I's _am_[^5], as a a separate sort of Being from that of other Beings, and this separateness is exactly what gives rises to the classification of the divine.
-
-TODO
-
-What significance does the invention/discovery of the linguistic component of Being[^6] bring with it in the history of language? Can we say definitively the notion of Being did not precede language, historically speaking? Did humans have any idea what was meant by _Being_ without a representation that signified, through its related parts, all the ways a thing could be: this _is_ blue, this _is_ dangerous, this _is_ love. Were the concepts of blue, danger and love pre-existing, or were they a by-product of the development of language?
-
-What would language be expressing, if not the Being of its subject matter? Is the concept of Being implicitly contained in even the most rudimentary of languages, or is it explicit, in that those who are said to speak, must first recognize themselves as Beings and have their thoughts ordered by a mental heuristic that approximates the linguistic quanta of Being? 
-
-How would one talk about abstractions like color and sound without the notion of Being? How would one reference the blueness of ink without saying _this part is blue_ and _this part is ink_, and then demonstrating, through their use, how it is that a thing is said to be blue and how it is a thing is said to be ink?
-
-TODO
-
-One may imagine a primitive language composed of only signs that represent _blue_, _ink_, _not_, and likewise, one may imagine a speaker of this language attempting to teach an ignorant bystander of its definitions and how these words represent the subtle notion of _blue ink_. We imagine the instructor holding up a sample of blue against a sample of various colors, pointing to one color and annunciating "blue" while pointing to the other and annunciating "not blue". In the same way, we can imagine the word _ink_ being learned, as the instructor points to instances of ink and declares them "ink" and, inversely, points to instances of other things and declares them "not ink". 
-
-In this theoretical language we have just constructed, we take note of a few features. First, we must necessarily introduce negation as a clarifying agent. A language composed of just _blue_ and _ink_ would have no way of specifying what things are neither of those two concepts. Negation is necessary for language to be anything other than mapping of signs to the things; it is through negation that we can make clear the boundaries of a concept; without negation, there is no way to differentiate the uniqueness of blue from things that _are_ blue. If we say a thing _is_ blue, how do we know this word isn't a proper name, or an indication of its heaviness? Because we have learned, via negation, all the different types of things that are not blue, in particular red things, green things, yellow things, etc., and have come to understand what blue _is_ insofar as the distance between _blue_ things and _not blue_ things is marked by graduations of color. 
-
-There is another feature of this theoretical language we must investigate. Nowhere in its definitions do we immediately notice a sign that represents _Being_. This is because we are accustomed to language being given to us in written form. Language, however, is merely representation and representations need not be written down on paper. Anything can stand for anything else, as long as it is affixed to a interpretation where its meaning is determinate. The notion of _Being_ in the preceding arises through the instructor pointing to a particular thing and declaring what it is. The motion of pointing is, in fact, a symbol in this language, an object within the representation that directs the attention to the content of its proposition. In our theoretical language, the symbol for Being collapses into Being itself, i.e. the instructor uses his own Being as leverage by which to direct the attention of his pupil to Being of blue. _Blue_, he says, pointing with the tip of his finger to a sample of color, indicating the commonality shared between the Being of his finger and the Being of color, that is to say, Being itself. 
-
-TODO
-
-In a certain way, the concept of blue identified as belonging, in Being, to the parts of a complex identified as a pen, has its meaning tied up in its relation to the color of other things. We can separate blue from the other colors by enumerating _this is not blue; this is red_, _this is not blue; this is green_, but we cannot separate blue from the thing itself,.e. we say _this is blue ink_, and this thing we have that we call _blue_ink_ cannot be called as such without the color blue Being a part of the thing. 
-
-The Being of color is partitioned within its concept, so that each color is separate from other colors while still retaining the _colorness_ that binds them as a mode of representation, but color is not separated from the thing of which it is an attribute. In other words, the color _blue_ obtains its meaning through its relation to the other concepts it find within the annals of language, but only insofar as that relation is a representation of something existent. 
-
-How would motion be captured in language, if an object that was previously somewhere else cannot be identified as an object that is now here through the relation of Being, i.e. _what was over there is now here_? 
-
-Without Being, there is no way to draw the commonality of things outside of themselves into a higher order. The notion of _is_ provides the basis by which things are differentiated into things. 
-
-The modern world has, by virtue of its historicality, filled in the meaning of most words we know, so that when we come to be, we are no longer inventing, but discovering the meaning of language, or so it seems. We learn the words of the Other as if they were objects unto themselves, with their meaning contained in the ligatures of script, using words as a bootstrap to pull our own imagination into word-space. This process, however, hides the true origin of language in ourselves. 
-
-Language begins in Being. It is a way of describing the nature of things. THe world can be known through information ebcause there is a correspondence of forms between the parts of a language and their complex and the world at large. The way we are in the world, that is the image projected up through the lines of language. 
-
-It must have been surprising to the first being who recognized in language the image of the world. One is tempted to posit that exact moment as the historical origin of sentience. Akin to a photograph or a painting, a sentence is a reflection of Being; even when a painting depicts a fiction, it stil does so through the dimensions of necessity, through color and perspective, through representation; the same can be said of a sentence, for when we sketch the image of a paritcular Being in a proposition such as _the pencil is over there_, we have, with words, captured the type (_essence_) of relation embodied by an existent entity that is before us. We have "photographed" Being, reduced its momentary effervescence to a reproducible formulation. 
-
-In light of this, the famous passage from **Genesis** deserves a reinterpretation,
-
-> God mad Man in his image.
-
-As we have just seen, God is, in the Old Testament, defined as the type of Being possessed by the conjugation of _is_ into _am_, the projection of the infinitive into the first person singular. This word, _am_, a literal image in language of our own Being, is, according to the Bible, the very type of Being belonging to God. 
-
-TODO: Upanishads
-
-[^4]:[Strong's H1961](https://www.blueletterbible.org/lexicon/h1961/kjv/wlc/0-1/)
-[^5]: Or, it might be more appropriate to say: the Being that is _revealed_ by the I's _am_.
-[^6]: Or, should we say: _the formal representation of Being_. 
-
 ### What is Stuff?
 
 Outside of spirituality, the first analysis of Being of which we are aware comes down to us through **Aristotle**, more than two thousand years ago. Despite the age of his works, they have remained throughout history a source of considerable study, in particular his contributions to the so-called _primary_ philosophy, what would be called today _ontology_, the study of Being itself. The essence of his contributions to untangling of the puzzle of Being are chiefly found in _Physics_ and _Metaphysics_. 
@@ -389,38 +373,7 @@ The true nature of Being can be seen in its extremities, when it forced in an un
 Consciousness is an abstraction that requires the concept of self and the concept of self is only apparent on reflection, when the commonality of recollected memory points to a convergence behind the forms of our body, i.e. the realization that all memories originate from _our_ body. The modern world does much to reinforce this notion from the moment of our birth, from the attachment of a name to an infant to the way parents rise to satiate an infant's needs and so teach it how to affect the world, all of this leads us to assume our self is primary; we must not be led by our conditioning to conclude this. We must acknowledge the "I" is derivative; there is an awareness inherent to _Being_ that precedes and conditions it. We often relive our memories as stories, narrating our thoughts, but this is a learned practice; beneath this, there is a more primal substrata, where the actual sense impression of the moment in question is drawn close to the surface of experience so that a memory can _almost_ be felt again; a lover's infinite embrace or the impossibly cold flesh of a dead child or a gasp of heartrending joy, these are memories that exist in fragments, without narrative structure, that stand as headstones for moments passed from Being, to be summoned like arcane incantations before the mind's eye so that they may be felt again, but in a degenerate way, for they are markers of what was, not what is. 
 
 A darkness exists before we think, when we have not yet become ourselves and yet remain in the presence of the world, a Being entire, without reference to itself except as a conduit for experience. It is this `a priori` mode of Being, where the necessary and essential forms of Being are imposed on it, namely that of time and space and causality, that conditions our `a posteriori` reflective Being, i.e. our ability to generalize across form and conceptualize objects into abstract concepts. 
-
-### What is Language?
-
-In order to extricate an understanding of _Being_ from our learned biases, we must understand its place in our language. Therefore, we first turn to language and its structures in our analysis.
-
-Language is a historical artifact hiding in plain sight. Language is a living autobiography of history, telling the story of our shared experience. **Ludwig Wittgenstein** likened language to "_an ancienty city: a maze of little streets and squares, of old and new houses, and of houses with additions from various periods; and this surrounded by a multitude of new boroughs with straight regular streets and uniform houses"[^7] By this he meant to draw attention to the fact that language is not absolute, but an evolutionary process, constantly shifting form and revealing new realms of meaning, but retaining its essential function: that of representation and signification between Beings. 
-
-For this reason, language has much to tells us about the origins of humanity, but it is coy in its explanations, never offering them except obliquely, via hidden connections and etymological trees. However, all etymologies eventually reach a point of no return, where they can go back no further. By necessity, the origins of languages extend beyond the pages of history, for history as a field of inquiry is predicated on the medium of language to express it. By history, we mean our knowledge of the world _before us_, i.e., not the remembered tracjetory of our Being that led us to the here and now, our `factic` history, but the world state trajectory that would seem to have conditioned our emergence as ontic Beings before we were capable of forming memories.
-
-It is an interesting question whether or not this contingence of history on language is unique to human existence or is indeed a property of our collective Being. That a child is not born with language, but acquires it, and would become mute in the absence of language in its formative years, suggests communication is not a direct consequence of genetics; rather it suggests language is a only a possibility of Being, something that need not have occurred, but did, as evidence by these words. It is an inheritance mechanism abstracted on top of genetics, built by intellects that came to understand the primary mode of their Being as communication.
-
-**Immanuel Kant** would call language `synthetic`, in that it presupposes the forms of space and time, but is not deducible through the concepts of space and time alone. 
-
-If the origin of language can be generalized through the fog of uncertain history at all, then it must be said to be the result of humans coming to be and finding themselves in the world with the Other, i.e. the lurking possibility of Beings like themselves hiding in the forms they perceive. Every word we use to express a thought was claimed after a great primordial war, where one side was that of diverse intellects, armed with the ability to interpret each other's Being within their own, and the other was the Nothingness that separated these intellects from knowing each other directly, in the immediate way they knew themselves. 
-
-Imagine a pane of glass separating you from another person. Imagine further you do not share a common language, i.e. English, so that the possibility of reading lips is removed. Now, remove all knowledge gained from culture and society, all the lessons you learned in elementary school, all the route memorization where letters and numbers were ingrained into your understanding of the world, all the associations learned from your parents in your infancy when you were first discovering that language could signify and represent. 
-
-Now imagine the person on the other side has food and you do not. Imagine there is a slot in the glass, not dissimilar to a prison cell, through which objects can be passed. The only way for you to feed yourself is to somehow cajole, or otherwise induce, in the person on the other side of the glass the idea of passing food through the slot that connects your rooms. 
-
-How is conversation to be had in this thought experiment? How do you express yourself to the party on the other side of the glass, and visa versa? Through what symbolic space are we to project our intentions? In order to communicate, we must necessarily invent a new language. This is the situation our primitive ancestors found themselves in  (<sup><sub>metaphorically speaking, of course</sub></sup>), when they first attempted the experiment of communication.
-
-**Wittgenstein** pointed out that language is akin to a set of tools. The purpose of a tool is a product of the problem it solves. Likewise, the meaning of a word is only drawn from its context, and we often mistake that meaning as the _thingness_ of the word, when applied in a different context it would have yielded a different use. "_It is as if someone were to say: a game consists in moving objects about on a surface according to certain rules..."--and we replied: You seem to be thinking of board games, but there are others. You can make your definition correct by expressly restricting it to those games_"[^8]
-
-
-A hammer may be used to strike just as well as pry, and in each case its usage reveals a different purpose, as if slotting into a nexus made solely for it to slot. **Wittgenstein** cautions, however, not to conclude, then, that a tool "_serves to modify something_"[^9], for what is modified by the measuring tape, the level or the volt-meter? You may reply, "_our knowledge_", but is this the same type of modification undergone by the struck nail, or are we merely stretching our definitions to cover a gamut of phenomenon?
-
-"_What confuses us is the uniform appearance of words_"[^10], i.e. 
-
-[^7]: [Philosophical Investigations, Section 18, Ludwig Wittgenstein, 1953](https://archive.org/details/philosophicalinv0000witt/page/n3/mode/2up)
-[^8]: [Philosophical Investigations, Section 3, Ludwig Wittgenstein, 1953](https://archive.org/details/philosophicalinv0000witt/page/n3/mode/2up)
-[^9]: [Philosophical Investigations, Section 14, Ludwig Wittgenstein, 1953](https://archive.org/details/philosophicalinv0000witt/page/n3/mode/2up)
-[^10]: [Philosophical Investigations, Section 11, Ludwig Wittgenstein, 1953](https://archive.org/details/philosophicalinv0000witt/page/n3/mode/2up)
+ 
 
 ### What is Phenomenon?
 
@@ -440,9 +393,9 @@ Before introducing **Heidegger**'s further refinement in **Kant**'s conception o
 
 The _actual appearance_ of an object in the senses has been called many things by many different people. We have already seen its muddled, yet insightful, origin in **Kant** via the `phenomenon`-`noumenon` dyad. We have seen several senses of the word offered by **Heidegger**, and will return to his further distinctions in the following paragraphs. Here we give brief space to the terminology adopted by other prominent philosophers, who recast the problem in different language in order to _indicate_ the important objects of analysis. **Alfred Whitehead** called the subject of which we speak a _prehension_, to distinguish it from a _com_prehension, i.e. the object becomes in our Being in an immediate way, before it is it conceptualized by the intellect. **Arthur Schopenhauer** called it _representation_. TODO
  
-In the case of an object's _indicative appearance_, we may see the multifoliate variations that arise through the concept of _indication_ in the following example. Consider how different individuals may understand the presence of a stop sign in their preception: the motorist sees an instruction to apply force to the braEk pedal; the artist on foot the stark red contrasted against the dull, boring grey of concrete; the engineer lines of force counteracted by bolts; a bureaucrat the regulations governing its procurement and acquisition; the thoughtless pedestrian an indeterminate shape in their periphery. In each of these cases, the "lines" of indication emanating from the stop sign to the world encompassing it are presupposed by the apprehending subject. 
+In the case of an object's _indicative appearance_, we may see the multifoliate variations that arise through the concept of _indication_ in the following example. Consider how different individuals may understand the presence of a stop sign in their preception: the motorist sees an instruction to apply force to the brake pedal; the artist on foot the stark red contrasted against the dull, boring grey of concrete; the engineer lines of force counteracted by bolts; a bureaucrat the regulations governing its procurement and acquisition; the thoughtless pedestrian an indeterminate shape in their periphery. In each of these cases, the "lines" of indication emanating from the stop sign to the world encompassing it are presupposed by the apprehending subject. 
 
-**Arthur Schopenhauer** built on **Kant**, positing the world as the subjective representation of objects. The world of the objects exists for the subject and only insofar as the subject exists for the object. 
+**Arthur Schopenhauer** built on **Kant**, positing the world as the subjective representation of objects. The world of objects exists for the subject, but only insofar as the subject exists for the object. 
 
 TODO: schopenhauer
 
@@ -450,3 +403,20 @@ TODO: sinn vs bedeutung
 
 TODO: heidegger's announcing
 
+
+## Footnotes
+
+[^Appendix#1]: [Appendix I: Propositional Calculus](./A0_appendix.md)
+[^Badiou#1]: [Being and Event, Preface, Alain Badiou](https://openlibrary.org/works/OL21507640W/Being_and_Event)
+[^Camus#1]: [The Myth of Sisyphus, , Albert Camus](TODO)
+[^Frege#1]: [The Foundations of Arithmetic, Section V: Conclusion, Gottlob Frege, 1884](https://www.gutenberg.org/ebooks/48312)
+[^Frege#2]: [](TODO)
+[^Frege#3]: [](TODO)
+[^Strong#1]:[Strong's H1961](https://www.blueletterbible.org/lexicon/h1961/kjv/wlc/0-1/)
+[^Tarski#1]: [Logic, Semantics, Metamathematics, Alfred Tarski](TODO)
+[^Thacker#1]: [After Life, Chapter 1: Life and the Living, Section 3: The Ontology of Life, Eugene Thacker](https://openlibrary.org/books/OL24110393M/After_life)
+[^Torah#1]: [Book of Exodus, Chapter x, Verse x](TODO)
+[^Wittgenstein#2]: [Philosophical Investigations, Section 3, Ludwig Wittgenstein, 1953](https://archive.org/details/philosophicalinv0000witt/page/n3/mode/2up)
+[^Wittgenstein#4]: [Philosophical Investigations, Section 11, Ludwig Wittgenstein, 1953](https://archive.org/details/philosophicalinv0000witt/page/n3/mode/2up)
+[^Wittgenstein#3]: [Philosophical Investigations, Section 14, Ludwig Wittgenstein, 1953](https://archive.org/details/philosophicalinv0000witt/page/n3/mode/2up)
+[^Wittgenstein#1]: [Philosophical Investigations, Section 18, Ludwig Wittgenstein, 1953](https://archive.org/details/philosophicalinv0000witt/page/n3/mode/2up)

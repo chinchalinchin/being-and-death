@@ -1,4 +1,4 @@
-# Appendix 1: Propositional Calculus
+# Appendix I: Propositional Calculus
 
 In what follows, you will find the definitions and explanations for the author's [Markdown]() compliant variation of propositional calculus. This variant was adopted for ease of use with webpages. Solutions exist for JavaScript based _LaTeX_ through libraries like [MathJAX](), and perhaps if the content of this work is ever completed to the author's satisfaction, he will refactor the syntax to be more in line with general conventions, but for now, this will suffice.
 

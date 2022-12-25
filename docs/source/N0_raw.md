@@ -342,3 +342,53 @@ Why does **Heidegger** shy away from this truth? All equipment is in essence a w
 In the raw struggle against Death, there is no pretense of philosophy. You do not question your knowledge. If you are wrong, then you die and there is no one left to question anything. Being is perpetual trial by fire. In the face of Death, Being stands out exactly as it is: a means to escape Death. Every dimension of Being twists towards averting it: clutched handfuls of dirth become handholds on a ladder "_in-order-to_" to tear yourselv away from the jaws of a predator, rocks become projectiles (and so we see our "_synthetic_" notion of _bodies are heavy_ is not at all "_synthetic")
 
 (Is this true? Does the man in mortal terror use tools? Can things in the immediacy of experience be _tools_?)
+
+### October 14, 2022
+
+What do three rocks and the concept three have in common? Their form, **Schopenhauer** answers. But form in this sense implies something other than a physical thing, though that is one aspect of its implication; it implies a relationship between the parts, where the parts have been substracted and replaced with indeterminate unities.
+
+Anything can be a symbol for anything else. Interpretation is infinite, **Cantor**'s absolute infinity, that exceeds all enumeration. It is merely a matter of assigning the rules of construction. We can, for instance, interpret the symbol _3_ to stand for the notion _all things must die_ if we conceive of a system where the curvature of the stroke in each branch of _3_ represents different parts of the _form_ of the thought, i.e. quantification, nouns, verbs, etc.
+
+The form of an object is a reflection of the physical thing in the sense; it is a basis by which the `noumena` is projected into the `phenomena`, a one-to-many relation made manifest in the unending possibility of its Being. 
+
+---
+
+This is why we enjoy ironic and metaphorical literature: it is a coincidence of dimensions, a folding of reality that reveals its unity in a new way; when we realize the hero in _For Whom The Bells Toll_ ends the story where he started, when we realize the blinking light in the _Great Gatsby_ represents the unattainable ideal, when we realize, like a Matroska dool, that the part stands for the whole, when the meaning of things is laid parallel to the thing themselves and reveals itself as a thing among other things, this is when we derivbe the greatest pleasure from literature, bcause this is the essential mode of Being, that of _concrescence_, the perpetual manifestation of novelty.
+
+### November 27, 2022
+
+_res extensa_, _res cogito_ versus _res solus_?
+
+---
+
+There is a split between existence and Being. What is it that separates them?
+
+Being passes away. A thing does not pass from existence, for existence is a fact, which becomes history through Being, and facts are things which are the case. We do say the curve does not exist because its limit as its dependent becomes infinite goes to zero. Likewise we say the thing longer is, not that it never was.
+
+--- 
+
+Either we admit existence is indepenent of the things which exist, or else we admit the existence of things is numerical in terms of quanity and order, that is to say, when three oranges _(01, 02, 03)_ exist, it is also the case every ordering (01, 03, 02), (02, 01, 03), etc. exists alongside of it. If the latter is the case, we are forced to admit a particular thing is not just one, but a quanta of infinity in the set of all possible orderings at the same. But this is not at all what we mean when we say there are three oranges. We have robbed ourselves of the ability to enumerate.
+
+---
+
+Did **Descartes** mean _I am_ or _I am this_?
+
+### November 29, 2022
+
+Here is where **Descartes** is wrong: it's impossible to imagine yourself without senses. Every sense brings with it the representative form of space; sight that of perspective; hearing and smell that of proximity; touch that of boundariesl taste that of composition. Each implicitly requires duration for the change to be recognized via is differential in series. In other words, a thing cannot be seen, touched, tasted, smelled or heard without time and the causal continuity therein which ties the form identical throughout succession with the change it is undergoing.
+
+Every sense, in addition, can only represent what is given to it in some way. Whether the world as we know it is a dream or controlled by a malevolent intelligence, the objects which we perceive must ultimately conforms to the laws of causality. Even dreams, where real world logic no longer controls the course of events still holds to this; even the strangest dream requires color, sound or some dimension of representation. And what comes to be through representation is ultimately reducible to some object, whether or not our representation conforms to reality in an adequate way being irrelevant. 
+
+The **Cartesian** demon that pulls the veil over eyes, that presents us with fictious images as if they were real, must still operate through causality, whether or not those causal laws map to ours. The images we are presented can not arise from Nothing, but must be presented through the senses, which by their nature must perceive objects. If those objects thus represented do not obtain reality in our world in the sense that our representative forms are forever deceived of their true nature, that simply implied the mapping of truth occurs in the demonic reality, where the demon is capable of affecting the object of our reality, for affectation is presumed in any such imagining, that is to say, we are deceived because we are affected, via our sense, by some _thing_. If all of reality is a lie, that still implies it is a thing that deceives, and deception requires that there exist a truth for concealment. Our reality, though deception, must still be a picture drawn of _something_.
+
+---
+
+Here is the author's test for whether a thing is alive: did it cry when it was born? No? Then it's not alive.
+
+---
+
+I do not expect to be understood, for that is what it means to be human. I do not expect anyone to read these words. They will nto lead to any sort of enlightenment or understanding, for those things are ultimately what we all seek, they are beyond the province of our Being. That life is futile, I think, we all secretly know. That all proofs of higher meaning are not worth the paper on which they are written. We are incapable, by our very nature, of understanding our natures, being participants in that nature.
+
+All the glorious insights of philosophy are undone by time. We wander through life like half-mad beggers, clawing at whatever passerby looks kind enough to spare a few dollars. Into the towering skyscrapers, where the omniscent live, we will never climb, condemned to die starving in a dumpster.
+
+### November 29, 2022
