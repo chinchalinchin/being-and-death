@@ -6,7 +6,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
 
-    <title>Appendix 1: Propositional Calculus &#8212; being-and-death 1.0.0 documentation</title>
+    <title>Appendix I: Propositional Calculus &#8212; being-and-death 1.0.0 documentation</title>
     <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
     <link rel="stylesheet" type="text/css" href="_static/groundwork.css" />
     <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
@@ -16,7 +16,7 @@
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
     <link rel="next" title="Appendix 2: The History of Being" href="A1_history.html" />
-    <link rel="prev" title="Book 1: Being" href="01_being.html" /> 
+    <link rel="prev" title="The Question" href="01_being.html" /> 
   </head><body>
     <div class="related" role="navigation" aria-label="related navigation">
       <h3>Navigation</h3>
@@ -28,10 +28,10 @@
           <a href="A1_history.html" title="Appendix 2: The History of Being"
              accesskey="N">next</a> |</li>
         <li class="right" >
-          <a href="01_being.html" title="Book 1: Being"
+          <a href="01_being.html" title="The Question"
              accesskey="P">previous</a> |</li>
         <li class="nav-item nav-item-0"><a href="index.html">being-and-death 1.0.0 documentation</a> &#187;</li>
-        <li class="nav-item nav-item-this"><a href="">Appendix 1: Propositional Calculus</a></li> 
+        <li class="nav-item nav-item-this"><a href="">Appendix I: Propositional Calculus</a></li> 
       </ul>
     </div>  
 
@@ -40,8 +40,8 @@
         <div class="bodywrapper">
           <div class="body" role="main">
             
-  <section class="tex2jax_ignore mathjax_ignore" id="appendix-1-propositional-calculus">
-<h1>Appendix 1: Propositional Calculus<a class="headerlink" href="#appendix-1-propositional-calculus" title="Permalink to this headline">¶</a></h1>
+  <section class="tex2jax_ignore mathjax_ignore" id="appendix-i-propositional-calculus">
+<h1>Appendix I: Propositional Calculus<a class="headerlink" href="#appendix-i-propositional-calculus" title="Permalink to this headline">¶</a></h1>
 <p>In what follows, you will find the definitions and explanations for the author’s <span class="xref myst">Markdown</span> compliant variation of propositional calculus. This variant was adopted for ease of use with webpages. Solutions exist for JavaScript based <em>LaTeX</em> through libraries like <span class="xref myst">MathJAX</span>, and perhaps if the content of this work is ever completed to the author’s satisfaction, he will refactor the syntax to be more in line with general conventions, but for now, this will suffice.</p>
 <section id="definitions">
 <h2>Definitions<a class="headerlink" href="#definitions" title="Permalink to this headline">¶</a></h2>
@@ -52,7 +52,7 @@
 <li><p><code class="docutils literal notranslate"><span class="pre">#</span></code> represents the quantifier for existence</p></li>
 <li><p><code class="docutils literal notranslate"><span class="pre">&#64;</span></code> represents the quantifier for universality</p></li>
 <li><p><code class="docutils literal notranslate"><span class="pre">!</span></code> represents negation</p></li>
-<li><p><code class="docutils literal notranslate"><span class="pre">|</span></code> represents denotion</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">|</span></code> represents the relativizer</p></li>
 <li><p><code class="docutils literal notranslate"><span class="pre">~</span></code> represents set membership.</p></li>
 <li><p><code class="docutils literal notranslate"><span class="pre">%</span></code> represents set exclusion.</p></li>
 <li><p><code class="docutils literal notranslate"><span class="pre">-&gt;</span></code> represents implication.</p></li>
@@ -137,9 +137,9 @@
 <p>A set can be understood intuitively as a collection of objects. More formally, using the above definitions, a set <em>A</em> can be defined through the symbolic proposition,</p>
 <p>(D2) <code class="docutils literal notranslate"><span class="pre">#A</span> <span class="pre">|</span> <span class="pre">[</span> <span class="pre">&#64;x</span> <span class="pre">|</span> <span class="pre">x</span> <span class="pre">~</span> <span class="pre">A</span> <span class="pre">v</span> <span class="pre">A</span> <span class="pre">=</span> <span class="pre">0</span> <span class="pre">]</span></code></p>
 <p>This translate roughly into the sentence: <em>there exists a set A such that for all x, x belongs to A or A is empty</em>.</p>
-<section id="axiom-of-separation">
-<h3>Axiom of Separation<a class="headerlink" href="#axiom-of-separation" title="Permalink to this headline">¶</a></h3>
-<p>In the first attempt to formalize the foundations of mathematics, before the concept of <em>sets</em> was well defined in its lexicon, <strong>Frege</strong> proposed the following <em>axiom of separation</em>,</p>
+<section id="axiom-of-abstraction-and-axiom-of-separation">
+<h3>Axiom of Abstraction and Axiom of Separation<a class="headerlink" href="#axiom-of-abstraction-and-axiom-of-separation" title="Permalink to this headline">¶</a></h3>
+<p>In the first attempt to formalize the foundations of mathematics, before the concept of <em>sets</em> was well defined in its lexicon, <strong>Frege</strong> proposed the following <em>axiom of abstraction</em>,</p>
 <p>(A1.1) <code class="docutils literal notranslate"><span class="pre">#A</span> <span class="pre">|</span> <span class="pre">[</span> <span class="pre">&#64;x</span> <span class="pre">|</span> <span class="pre">x</span> <span class="pre">~</span> <span class="pre">A</span> <span class="pre">&lt;-&gt;</span> <span class="pre">P(x)</span> <span class="pre">]</span></code></p>
 <p>This translate into _there exists an A such that for all x, if and only if x belongs to A, then x has the property of belong to that set.</p>
 <p><strong>Zermelo</strong> modified the <em>axiom of separation</em> so as to remove the possibility of <strong>Russell</strong>’s paradox from the possibilities of its application in the following way,</p>
@@ -170,7 +170,7 @@ TODO</p>
         <div class="sphinxsidebarwrapper">
   <h3><a href="index.html">Table of Contents</a></h3>
   <ul>
-<li><a class="reference internal" href="#">Appendix 1: Propositional Calculus</a><ul>
+<li><a class="reference internal" href="#">Appendix I: Propositional Calculus</a><ul>
 <li><a class="reference internal" href="#definitions">Definitions</a><ul>
 <li><a class="reference internal" href="#symbols">Symbols</a></li>
 <li><a class="reference internal" href="#variables">Variables</a></li>
@@ -182,7 +182,7 @@ TODO</p>
 </ul>
 </li>
 <li><a class="reference internal" href="#sets">Sets</a><ul>
-<li><a class="reference internal" href="#axiom-of-separation">Axiom of Separation</a></li>
+<li><a class="reference internal" href="#axiom-of-abstraction-and-axiom-of-separation">Axiom of Abstraction and Axiom of Separation</a></li>
 <li><a class="reference internal" href="#axiom-of-extensionability">Axiom of Extensionability</a></li>
 <li><a class="reference internal" href="#theorems">Theorems</a></li>
 </ul>
@@ -193,7 +193,7 @@ TODO</p>
 
   <h4>Previous topic</h4>
   <p class="topless"><a href="01_being.html"
-                        title="previous chapter">Book 1: Being</a></p>
+                        title="previous chapter">The Question</a></p>
   <h4>Next topic</h4>
   <p class="topless"><a href="A1_history.html"
                         title="next chapter">Appendix 2: The History of Being</a></p>
@@ -228,10 +228,10 @@ TODO</p>
           <a href="A1_history.html" title="Appendix 2: The History of Being"
              >next</a> |</li>
         <li class="right" >
-          <a href="01_being.html" title="Book 1: Being"
+          <a href="01_being.html" title="The Question"
              >previous</a> |</li>
         <li class="nav-item nav-item-0"><a href="index.html">being-and-death 1.0.0 documentation</a> &#187;</li>
-        <li class="nav-item nav-item-this"><a href="">Appendix 1: Propositional Calculus</a></li> 
+        <li class="nav-item nav-item-this"><a href="">Appendix I: Propositional Calculus</a></li> 
       </ul>
     </div>
     <div class="footer" role="contentinfo">
