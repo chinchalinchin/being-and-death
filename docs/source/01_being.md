@@ -1,4 +1,4 @@
-# Book 1
+e# Book 1
 
 ![](./assets/calvin_and_hobbes_inscrutable_exhortations.jpeg)
 
@@ -65,7 +65,9 @@ If philosophy is to remain in the modern world a field of inquiry independent of
 
 Philosophy cannot be disavowed of this task even if that happening happens to be Nothing. Indeed, if what we are turns out to be Nothing at all, then there is no more urgent task to consider than that of philosophy. What other tool [ready-to-hand](HEIDEGGER_TODO) would stand chance against Nothing? In the annihiliating nightmare of nihilism, we all necessarily become philosophers. 
 
-## Being
+## What is Being?
+
+### The Linguistic Origins of Being
 
 The project of philosophy is to make clear what we are, to present for the understanding the concepts which underlie our Being, the Being that occurs when some small pocket of the world turns on the rest and declares itself separate by the proclamation, _I am_. Philosophy should, in its rightful endeavor, provide the basis for understanding how this situation, that of the _am_, comes to be separate from the other types of Being, if that indeed is what is occuring. In essence, philosophy, if it is not to go the way of alchemy or phrenology, must answer the question: _what am I_?. Furthermore, it must does so in a way that distinguishes itself from the fields of pure logic, mathematics or physics. Whether or not philsophy is up to the task is the question currently at hand. 
 
@@ -75,7 +77,19 @@ The type of proposition represented by _I am x_ is a particular case of a more g
 
 Before doing so we clarify a few things. 
 
-The use of _that_ in the preceding _that which is me_ is to be understood as a linguistic [relativizer](https://en.wikipedia.org/wiki/Relativizer), and not the indicative _that_ which opposes the _this_. It is the _that_ identified in the construction _here is something that is useful_ as opposed to the _that_ identified in the construction _that is something_. In the latter case, the _that_ is a quantification, a particular case, a _thing_. In the former case, the _that_ is no _thing_, but a way of nesting the relation of Being contained in the predicate so that which is quantified as Being flows back to the object whose Being was previously quantified. _Here is something that is useful_ may be compared to the similar form _here is something useful_. Colloquially, the phraseologies are near enough equivalent that they may be treated the same, but the question remains on the philosophical level if the difference is an artifact of linguistic ambiguity or if a _relativizer_ deserves a special place in the grammar of Being. 
+---
+
+Relativizers and the Relative That
+
+---
+
+The use of _that_ in the preceding _that which is me_ is to be understood as a linguistic [relativizer](https://en.wikipedia.org/wiki/Relativizer), and not the indicative _that_ which opposes the _this_. It is the _that_ identified in the construction _this is something that is useful_ as opposed to the _that_ identified in the construction _that is something_. In the latter case, the _that_ is a quantification, a particular case, a _thing_. In the former case, the _that_ is no _thing_, but a way of nesting a relation of Being contained in the secondary predicate, _is useful_, so that its content flows back to the subject whose Being was previously indicated, the _this_ which is _something_. 
+
+The role played by _that_ in a _relativizer_ has the same structure as the _that_ used in that indicative sense, in that it encapsulates its operand into a single unit and binds together its multiplicites so as to ready it for substitution into the conjunctive form. But whereas the indicative _that_ gathers the subject for the operation of the predicate, the relative _that_ reflects back its predicate onto the subject of its attached proposition.
+
+The construction _this is something that is useful_ is logically equivalent to the conjunction of the separate propositions _this is something_ and _something is useful_. There is, however, a subtle difference in meaning. The conjunction of propositions implies its components are atomic, that is to say, both _this is something_ and _something is useful_ are separate propositions that attain a new meaning when conjoined, whereas the relativized statement unit the distinct parts into a continuous whole, so that is properties may not be separated. 
+
+The _relativizer_ and the relative _that_ are useful devices, but whether or not they are necessary grammatical forms is not so apparent. _Here is something that is useful_ may be replaced in almost all cases to the similar form _here is something useful_. Colloquially, the phraseologies are near enough equivalent that they may be treated the same, but the question remains on the philosophical level if the difference is an artifact of linguistic ambiguity and inconsistency or if a _relativizer_ deserves a special place in the grammar of Being. 
 
 The _relativizer_ exists in the oldest languages of which we still have historical documentation. It plays a central role, for instance, in the name early humans gave to God. In the opening books of the Torah, within the text of **Exodus**, God reveals his true name to Moses on Mount Sinai[^Torah#1], 
 
@@ -91,15 +105,29 @@ has been translated numerous ways: _I am that I am_, _I am what I am_, _I am wha
 
 The Hebrew word, אֶהְיֶה, is the first person singular of the infinitive הָיָה, pronounced phonetically as "hâyâh", which translates as _to be, become, come to pass, exist, happen, fall out_[^Strong#1]. Modern Hebrew conjugates God's reply in the future tense, i.e. _I will be what I will be_. However Hebrew at the time did not differentiate tenses. There was no difference, atleast grammatically speaking, in Ancient Hebrew between the notions of _will be_, _has been_ and _is now_. 
 
-The term, אֲשֶׁר, is the semantic device known as a _relativizer_ just discussed. Quite literally, the Hebrew Torah states, God is the am that am, where _that_ is understood as a nesting operation, where the Being on the right hand side of the _relativizer_ is ascribed to the Being on the left hand side in addition to its own Being.
+The term, אֲשֶׁר, is the semantic device known as a _relativizer_ just discussed. Quite literally, the Hebrew Torah states, God is the _am that am_, where _that_ is understood as a nesting operation, where the Being on the right hand side of the _relativizer_ is ascribed to the Being on the left hand side in addition to its own Being.
 
-The name Judaism gave to God, _Yahweh_, understood through the so-called [tetragrammaton](), in one intrepretation could be seen as an attempt by early humans to distinguish what they are from what is, that is to say, as a way to differentiate the _am_ and _is_. The choice of first person singular, as opposed to the impersonal third person, is telling in this respect, for it is a claim about the Being of God, namely that God is in the same way the subject of _I am_ is. 
+The name Judaism gave to God, _Yahweh_, understood through the so-called [tetragrammaton](), in one intrepretation could be seen as an attempt by early humans to distinguish what they are from what is, that is to say, as a way to differentiate the _am_ from the _is_. The choice of first person singular, as opposed to the impersonal third person, is telling in this respect, for it is a claim about the Being of God, namely that God is in the same way the subject of _I am_ is. 
 
 Our first inclination to the divine, as it has come down to us, was an expression of what is meant by our Being, identifying it as equivalent to the Being of the divine. _Yahweh_ is to be understood, in this interpretation, as an assertion that _am_ is distinct from _is_, that what we are is more than what is given to us.  
 
 According to our ancestors' account, God is what _I am_. God is the **Cartesian** _sum_. Interpretted in the literal sense, this account of the divine identifies our type of Being, the Being that is contained in (or revealed by) the I's _am_, as a a separate sort of Being from that of other Beings, and this separateness is exactly what gives rises to the classification of the divine.
 
-There is another point to address, one that cannot be skipped over before proceeding. We have, in the previous paragraphs made the assumption the Being of the _am_ is a cousin to the Being of the _is_. We must now turn to an argument raised by **Alfred Tarski**, in which we must consider _"that the semantical concepts have a relative character, that they must always be related to a particular language."_[^Tarski#1] 
+**Descartes** himself employs the _relativizer_ in his famous _Discourse_ when he attempts to answer the question _what am _I_. As expected, his answer is of the form _I am x_, but with the aid of a _relativizer_, he is able to add a layer of complexity to the answer, essentially hiding details in the indeterminate form of _x_ with the appropriate use of a relative _that_. _I am a thing that has thoughts_, he replies, "_I was a substance the whole essence or nature **of which** is to think_"[^Descartes#1]
+
+For the final confirmation of the validity of the relative _that_ as an ontological relation, we turn to mathematics. In the primitive symbols of set theory, the function of the _relativizer_ can be seen in the `|` that designates the variables over which a proposition is quantified. For example, the `axiom of abstraction` given in the following symbolic proposition,[^Appendix#1]
+
+`#y | [ @x | x ~ y & P(x) ]`
+
+can be translated into English as _there exists a y **such that** for all x **such that** if and only if x belongs to y, then x has the property P_. The obtuse translation is meant to draw the attention to the analogous role of the `|` and the relative _that_. 
+
+It would seem in trying to answer what we are, a single relation of Being is insufficient and _that_ such answers require grammatical tools _that_ allow for Being to flow recursively through a sentence. We thus revise our expectation of the answer to _what am I_ from _ I am x_ to the form _I am x that y_, where _x_ and _y_ are indeterminate variables. 
+
+---
+
+Semantics
+
+With the discussion of the _relativizer_ in mind and its unique role played in certain historical answers to the question _what am I_, there is another point to address, one that cannot be skipped over before proceeding. We have, in the previous paragraphs made the assumption the Being of the _am_ is a cousin to the Being of the _is_. We must now turn to an argument raised by **Alfred Tarski**, in which we must consider _"that the semantical concepts have a relative character, that they must always be related to a particular language."_[^Tarski#1] 
 
 It might be the case the conjugation of _to be_ into its derivative forms, _is_ and _am_, is a conceptual union not born out in the facts. When we talk about the Being of _am_ and compare it to the Being of _is_, are we being misled by the language used to express these ideas into supposing a coincidence of meaning where in fact there is none?
 
@@ -111,7 +139,7 @@ Things are only said to be _relative_ insofar as there is an invariant quantity 
 
 If meaning is determined by the language from which it arose, what is the ultimate invariant quantity to which language itself must conform in order to prescribe a metric for meaning? With careful thought, the answer is obvious. If there is one constant to be found in all the various languages in the world, at any given time in the spoken history of humanity, it is found in the words: _Be, _Ser_, _Sein_, _Shi_, _Desu_, etc. The invariant of language is, of course, Being itself. In the same way the speed of light requires space and time to become the quantities necessary for its correct calculation, Being requires language to become forms which can represent it.
 
-We are thus asking if the conjugation of _am_ deserves recognition as an ontological operation over and above the existential operation of _is_ which structures language, or if it is a redundancy that is already included in _is_ or merely a semantical construct with no meaning outside of language. If the first case obtains, _am_ provides structure distinct from the structure of the _is_, essentially performing the function of dimensionalizing language, and the question _what am I_ has been granted a necessary, but not sufficient, condition for a meaningful answer. If either of the latter cases obtain, then the answer we seek is clearly some variation of _I am Nothing_.
+We are thus asking if the conjugation of _am_ deserves recognition as an ontological operation over and above the existential operation of _is_ which structures language, or if it is a redundancy that is already included in _is_ or merely a semantical construct with no meaning outside of language. If the first case obtains, _am_ provides structure distinct from the structure of the _is_, essentially performing the function of dimensionalizing laneguage, and the question _what am I_ has been granted a necessary, but not sufficient, condition for a meaningful answer. If either of thee latter cases obtain, then the answer we seek is clearly some variation of _I am Nothing_.
 
 Insight into this question can be gained by studying the historical origins of Being in our language. Language is an archeological treasure hiding in plain sight, a living autobiography of history. **Ludwig Wittgenstein** likened language to "_an ancienty city: a maze of little streets and squares, of old and new houses, and of houses with additions from various periods; and this surrounded by a multitude of new boroughs with straight regular streets and uniform houses_"[^Wittgenstein#1] In other words, language is not an absolute, but a process, constantly shifting forms and revealing new realms of meaning, but retaining its essential function: that of representation and signification. 
 
@@ -146,7 +174,6 @@ _All x are y, all z are x, therefore all z are y._
 _if x then y is equivalent to x or not y._
 
 Strictly speaking, we should only speak of truth when the operation of assertion is involved, so we do not say these propositions are true, for that is the purview of the terms which have been abstracted away from them, but rather these propositions provide the syntax for their asserted content to become true.
-
 
 TODO
 
@@ -240,7 +267,7 @@ Likewise, the linguistic notion of _am_ brings with it a certain domain and a ce
 
 This can be seen in the syntactical error that arises in the proposition _the thing am this_; the meaning of _am_ is only understood through _I am this_.
 
-### What is Number?
+### 
 
 We have seen in the previous section that the phenomenon of numerability admits of numbers whose existence cannot have Being, specifically no matter the order of Being, there will always exist a certain class of number, denoted _transfinite_ in the language of **George Cantor**, which exceeds the order of all that is. These numbers are sometimes called _ordinal_ numbers, to make obvious these numbers emerge through the phenomenon of _ordering_ and are opposed to the _cardinal_ numbers which emerge through the phenomenon of _enumeration_. Numberability is thus composed of those two ontological dimensions, order and count, whereas in our everyday dealings we typically associate numerability with only the latter feature of count. To understand the nature of numbers, one must consider both of its aspects. 
 
@@ -345,9 +372,11 @@ The sensory impression of a carton of eggs does not contain in and of itself the
 
 TODO
 
-### What is Stuff?
+### 
 
-Outside of spirituality, the first analysis of Being of which we are aware comes down to us through **Aristotle**, more than two thousand years ago. Despite the age of his works, they have remained throughout history a source of considerable study, in particular his contributions to the so-called _primary_ philosophy, what would be called today _ontology_, the study of Being itself. The essence of his contributions to untangling of the puzzle of Being are chiefly found in _Physics_ and _Metaphysics_. 
+TODO
+
+The first analysis of Being of which we are aware comes down to us through **Aristotle**, more than two thousand years ago. Despite the age of his works, they have remained throughout history a source of considerable study, in particular his contributions to the so-called _primary_ philosophy, what would be called today _ontology_, the study of Being itself. The essence of his contributions to untangling of the puzzle of Being are chiefly found in _Physics_ and _Metaphysics_. 
 
 The essential problem is this: A being is on one hand a substance, a material, matter. On the other hand, it is a multiplicity of _things_. A thing is at once a substance and a representative of something beyond the subtance. For instance, wood is a substance that assumes the form of a table or a chair. In either case, a different thing _becomes_ from the same underlying substance, yet the form of the substance differentiates the _things_ in their thinghood.
 
@@ -364,7 +393,9 @@ There is an element of truth in this interpretation. How could there not be? It 
 We here recall the immortal words of the Bard, "A rose by any other name would smell just as sweet." 
 
 
-### What is Consciousness?
+###
+
+TODO
 
 Each of us comes to the table, in the coincidentally literal _and_ figurative sense, with an innate understanding of what it means _to be_. We do it, _be_ that is, without so much as thought. In fact, this is the first point we should make in this section's analysis: Being doesn't require thought. Consciousness is not the determinative factor in our ability to be. This proposition runs counter to the conventional wisdom of the modern world, conditioned as it is by the emergence of machine learning and statistical models and the opinions of these algorithmic processes that view them as the forerunner to artificial intelligence, for we assume in narrating these facts that an artifical intelligence must also be conscious, misled perhaps by the label "_intelligence_". Intelligence, the author believes, comes later; we should understand these emerging fields as the precursor to _artificial Being_, if such an adjective can even be applied to a concept like Being.
 
@@ -375,9 +406,9 @@ Consciousness is an abstraction that requires the concept of self and the concep
 A darkness exists before we think, when we have not yet become ourselves and yet remain in the presence of the world, a Being entire, without reference to itself except as a conduit for experience. It is this `a priori` mode of Being, where the necessary and essential forms of Being are imposed on it, namely that of time and space and causality, that conditions our `a posteriori` reflective Being, i.e. our ability to generalize across form and conceptualize objects into abstract concepts. 
  
 
-### What is Phenomenon?
+### 
 
-If modern philosophy has a spiritual grandfather, then few would argue that designation belongs to **Immanuel Kant**. 
+TODO 
 
 This is how **Kant** re-conceptualized the problem of Being: A Being does not come to be through existence, but through the appearance of existence, the representations of the existents that arise in perception. Thus we have the famous distinction between `noumena` and `phenomena`, existence versus appearance. For **Kant**, the `noumenon` exists beyond the `phenomenon`, its interiority as an object-thing inaccessible in itself.
 
@@ -409,6 +440,7 @@ TODO: heidegger's announcing
 [^Appendix#1]: [Appendix I: Propositional Calculus](./A0_appendix.md)
 [^Badiou#1]: [Being and Event, Preface, Alain Badiou](https://openlibrary.org/works/OL21507640W/Being_and_Event)
 [^Camus#1]: [The Myth of Sisyphus, , Albert Camus](TODO)
+[^Descartes#1]: [Discourse on Method, Part IV, Rene Descartes](TODO)
 [^Frege#1]: [The Foundations of Arithmetic, Section V: Conclusion, Gottlob Frege, 1884](https://www.gutenberg.org/ebooks/48312)
 [^Frege#2]: [](TODO)
 [^Frege#3]: [](TODO)

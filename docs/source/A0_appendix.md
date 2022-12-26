@@ -10,7 +10,7 @@ In what follows, you will find the definitions and explanations for the author's
 - `#` represents the quantifier for existence
 - `@` represents the quantifier for universality
 - `!` represents negation
-- `|` represents denotion
+- `|` represents the relativizer
 - `~` represents set membership.
 - `%` represents set exclusion.
 - `->` represents implication.
@@ -79,9 +79,9 @@ A set can be understood intuitively as a collection of objects. More formally, u
 
 This translate roughly into the sentence: _there exists a set A such that for all x, x belongs to A or A is empty_.
 
-### Axiom of Separation
+### Axiom of Abstraction and Axiom of Separation
 
-In the first attempt to formalize the foundations of mathematics, before the concept of _sets_ was well defined in its lexicon, **Frege** proposed the following _axiom of separation_,
+In the first attempt to formalize the foundations of mathematics, before the concept of _sets_ was well defined in its lexicon, **Frege** proposed the following _axiom of abstraction_,
 
 (A1.1) `#A | [ @x | x ~ A <-> P(x) ]`
 
