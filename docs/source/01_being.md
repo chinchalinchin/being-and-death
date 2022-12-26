@@ -67,7 +67,7 @@ Philosophy cannot be disavowed of this task even if that happening happens to be
 
 ## What is Being?
 
-### The Linguistic Origins of Being
+### The Syntactical Structure and Semantical Origin of Being
 
 The project of philosophy is to make clear what we are, to present for the understanding the concepts which underlie our Being, the Being that occurs when some small pocket of the world turns on the rest and declares itself separate by the proclamation, _I am_. Philosophy should, in its rightful endeavor, provide the basis for understanding how this situation, that of the _am_, comes to be separate from the other types of Being, if that indeed is what is occuring. In essence, philosophy, if it is not to go the way of alchemy or phrenology, must answer the question: _what am I_?. Furthermore, it must does so in a way that distinguishes itself from the fields of pure logic, mathematics or physics. Whether or not philsophy is up to the task is the question currently at hand. 
 
@@ -79,7 +79,7 @@ Before doing so we clarify a few things.
 
 ---
 
-Relativizers and the Relative That
+**Relativizers and the Relative That**
 
 ---
 
@@ -125,7 +125,9 @@ It would seem in trying to answer what we are, a single relation of Being is ins
 
 ---
 
-Semantics
+**The Semantics of Being**
+
+---
 
 With the discussion of the _relativizer_ in mind and its unique role played in certain historical answers to the question _what am I_, there is another point to address, one that cannot be skipped over before proceeding. We have, in the previous paragraphs made the assumption the Being of the _am_ is a cousin to the Being of the _is_. We must now turn to an argument raised by **Alfred Tarski**, in which we must consider _"that the semantical concepts have a relative character, that they must always be related to a particular language."_[^Tarski#1] 
 
@@ -157,13 +159,24 @@ We have here  again in _shi_ and _hen_ the distinction of meaning found in _wesa
 
 When _beon_ and _wesan_ were gradually merged in modern English, two meanings came to inhabit the same word. Still, to this day, it could be argued, these meanings have not yet been fully integrated. There are defects in the merger that can be glimpsed, when words falter slightly in their aspect and _Being_ reveals its separate meanings. The English _Being_ haphazardly applies the ideas of concrete and abstract reality simultaneously, thereby allowing assertions of existence to be mixed with assertions of conceptualization, as seen in the propositions _there is love_, _this is justice_, _we are eternal_. The English _is_ is capable of abstracted existence, existence that is not reducible to objective reality.
 
+---
+
+**Considerations on Logical Consistency**
+
+---
+
 It in this muddle of semantics that we are seeking to extract an answer to the question _what am I_. It is at this point we must ask what it is we require of an answer so that we might recognize it as such. 
+
 
 A novice logician might reply _consistency_, by which is meant the idea that language is really an axiomatic system from which propositions are constructed according to syntactical rules, so that we start with primitives notions like _set_, _element_ and _belong_, then we formalize the semantics of these concepts with quantified propositions such as _there exists a set_ and _some things have the property of belonging to that set_, then we proceed to define more complex notions such as equivalence through the formalized semantics these primitive notions afford, used in conjunction with the laws of logic (modus ponens, syllogism, etc.), e.g.. _if belonging to a first set implies belonging to a second set and if belonging to the second set implies belonging to the first set, then both sets are said to the be equivalent_. 
 
-_Consistency_ is the idea that all such statements thus constructued, if proceeding from a correct set of axioms (possibly infinite in number), will always yield a determinate statement. By determinate, it is meant the truth of the statement can be judged purely as a function of syntax. Or put another way, all statements in the system can be reduced to statements about the primitive notions that compose the foundation of the system. In mathematics, all theorems ultimately become theorems about sets, elements and the concept of _belonging_, when the appropriate substitutions are made for the [definien]() in the complex definitions that are built up through the application of syntax (a mathematical function f(x), for instance, can be defined as a mapping of sets to one another). All meaning in the system is built up through the meaning given to the primitive notions, i.e. what a _set_ is, what an _element_ is and what it means for an _element_ to _belong_ to a _set_. The semantics of the system are entirely incapable of saying what it is these primitive notions actually are, for all meaning in the language system comes from what it is they mean, i.e. the concept _equivalence_ is reducible to the concept of _belonging_, but the concept of _belonging_ has no further definition; it is what is simply what is meant by the symbol `~` in `#A | @x | x ~ A v A = 0`^[Appendix#1]. In other words, the meaning of the primitive notions must be given in the intuition before the syntactical consequences of their meaning is dispersed through the structure of the system. Once the primitive meanings are given, the content of that meaning must necessarily follow the rules of syntax. 
+_Consistency_ is the idea that all such statements thus constructued, if proceeding from a correct set of axioms (possibly infinite in number), will always yield a determinate statement. By determinate, it is meant, given the truth of the axioms, the truth of the statement can be judged purely as a function of syntax. Or put another way, all statements in the system can be reduced to statements about the primitive notions that compose the foundation of the system. In mathematics, all theorems ultimately become theorems about sets, elements and the concept of _belonging_, when the appropriate substitutions are made for the [definien]() in the complex definitions that are built up through the application of syntax (a mathematical function f(x), for instance, can be defined as a mapping of sets to one another). All meaning in the system is built up through the meaning given to the primitive notions, i.e. what a _set_ is, what an _element_ is and what it means for an _element_ to _belong_ to a _set_. The semantics of the system are entirely incapable of saying what it is these primitive notions actually are, for all meaning in the language system comes from what it is they mean, i.e. the concept _equivalence_ is reducible to the concept of _belonging_, but the concept of _belonging_ has no further definition; it is what is simply what is meant by the symbol `~` in `#A | @x | x ~ A v A = 0`^[Appendix#1]. In other words, the meaning of the primitive notions must be given in the intuition before the syntactical consequences of their meaning is dispersed through the structure of the system. Once the primitive meanings are given, the content of that meaning must necessarily follow the rules of syntax. 
 
-Here is as good as place as any to give pause to understanding the difference between syntatical and semantical judgements. Consider the arguments:
+Moreover, _consistency_ requires that any statements which are thus formed should _not_ be capable of contradicting any other proposition formed by the same rules of syntax. Given a set of axioms, it should not be the case, for example, the propositions _there is an x that is A_ and _there is an x that is not A_ should mutually exclude the other's possibility. 
+
+TODO 
+
+Here is as good as place as any to give pause to understanding the difference between syntax and semantics. Consider the arguments:
 
 _All mammals are warm-blooded, all whales are mammals, therefore all whales are warmblooded_. 
 
@@ -181,6 +194,12 @@ A question that is not often addressed in the literature is whether or not an in
 
 If a system is complete, then it is inconsistent. But does the inverse hold? If we start from an inconsistent language, does that imply the lacunae of possible meaning in that language is complete?
 
+---
+
+**Existential Being**
+
+---
+
 TODO
 
 The question of the _am_ is then intricately related to the question of language, and in what way the meaning of the _am_ carries with it the invarance of the _is_ (semantically speaking); that is, in what way the meaning implied by _am_ in language is necessary for language to be language? 
@@ -189,19 +208,19 @@ TODO
 
 Separating out the components of the answer to the question _what is this?_, we have in _this is x_ three terms: _this_, _is_, and _x_. The sentence must find its meaning in the meaning of its components. _This_ and _x_ are perhaps the easiest to understand, for they are _existential_ terms. 
 
-_This_ carries with it a unary operation, in that anything thus denoted _this_ becomes a single unit, regardless of its structure. When we say _this is a calculator_, we have amalgamated not only the abstractions of buttons, internal circuitry and casing into a single gestalt, into a single concept, but moreover, we have synthesized the representative forms of color, solidity, extension, etc, into a common form across our senses. _This_ represents the coincidence of forms into conceptual novelty. 
+_This_ carries with it a unary operation, in that anything thus denoted _this_ becomes a single unit, regardless of its structure. When we say _this is a calculator_, we have amalgamated not only the abstractions of buttons, internal circuitry and plastic casing into a single gestalt, into a single concept, but moreover, we have synthesized the representative forms of color, solidity, extension, etc, into a common form across our senses. _This_ represents the coincidence of forms into conceptual novelty. 
 
 If _this_ is monadic in its application, then _x_ is variadic. Where as the _this_ collasces the different parts participating in the same underlying form, the _x_ disperses the possibility of forms across an infinite range of things. There are many answers to _what is this?_ and in each case the role by the _x_, regardless of its form, remains the same. 
 
 TODO
 
-When we say _a thing is_ and _a thing is this_, at first glance we have in mind two different ideas. There is in these two possible applications of _is_ the notions of existence and Being, respectively. 
+When we say _a thing is_ and _a thing is this_, we have in mind two different ideas, due to the divergent of Being in English. There is in these two possible applications of _is_ the notions of existence and abstraction, respectively. 
 
 In the former case, the proposition is a claim of existence in general, regardless of its particulars; the proposition _a thing is_ could be restated in equivalent form as _a thing exists_. To achieve the broadest generality and thus bring the full range of meaning into view, we make the subject of the sentence indefinite and say _something is_. 
 
-Allowing the subject of this simple proposition to take on any value, we have arrived at the most elementary truth that can be expressed in any philosophical framework. It is self-evident, however distorted our perception of the world may be and however uncertain we are of all that we experience, that we can at the very least say, _something is_. What it is this something is, while possibly beyond our ability to comprehend, cannot be Nothing for the simple fact that it _is_. If the world is nothing but illusion, then it _is_ still illusion. 
+Allowing the subject of this simple proposition to take on any value, we have arrived at the most elementary proposition that can be expressed in any philosophical framework. It is self-evident, however distorted our perception of the world may be and however uncertain we are of all that we experience, that we can at the very least say, _something is_. What it is this something is, while possibly beyond our ability to comprehend, cannot be Nothing for the simple fact that it _is_. If the world is nothing but illusion, then it _is_ still illusion. 
 
-The **Cartesian** _sum_ is really a particular form of the essential truth _something is_, where the primary state of Being from which all others proceed is assumed to be that of consciousness. The fallacy in the ontological proof _cogito ergo sum_ is the _cogito_ is not primitive; there are truths that precede it in form, namely _TODO: latin for it is_. 
+The **Cartesian** _sum_ is really a particular form of the essential truth _something is_, where the primary state of Being from which all others proceed is assumed to be that of consciousness. The fallacy in this ontological proof _cogito ergo sum_ is the _cogito_ is not primitive; there are truths that precede it in form, namely, the latin _est_, the something which is.
 
 The existence of _something_, of the general thing, is more certain than the I's _am_, because in order to be an _I_, _I_ must first be separate from _something_, _I_ must be differentiated in type and form from the general thing. Therefore, the _something is_ precedes the _I am_. From the thing's general form, the arbitrariness contained in the _some_, we see the _thing_ which _I am not_ that precedes _me_ need not be a particular thing, it need not have any properties except Being distinct from _me_. For this reason, the thing which is prior to _I_ is not necessarily determined in its form; It is only existence, in indeterminate form, that precedes _my_ Being. 
 
@@ -257,17 +276,21 @@ In attempting to define a thing as existence, we have passed by its Being entire
 
 These ambiguities between Being and existnce no doubt result from double duty _is_ performs in our language. For when we say a _thing is_, we typically mean a _thing exists_, where as when we say a _thing is this_, we should understand this proposition as a proposition about its Being. 
   
+TODO 
+
 Matters are complicated with the introduction of time, for now a thing no longer simply _is_, but contains a multitude of ways of coming to be: _is_, _was_, _will be_, _has been_. With this terminology, it becomes clear Being intrinsically contains a dimension of time and space, so that Being is said to be with respect to time and with respect to space. 
 
 There is yet another way a thing is said to be and that is through the linguistic form of _am_. The notion of _am_ is no general one to be affixed to an indefinite object, for this Being symbolizes a different type of Being altogether: the first person singular present tense. If language is a set of tools by which we represent ideas, _am_ is an orthogonality to the representative dimensions defined by the other forms of _to be_, in that it is a form that by necessity requires a conscious subject, a prior not previously required in the semantics of Being.
 
 Likening a proposition to a function, we draw a parallel to mathematics: a function only has meaning over a certain domain in which it makes sense for its operations to be applied; or, from the surjective direction, we may say a certain domain and its projection define the meaning of a function (as Fourier showed, by reducing all functions on a certain interval to infinite series of trigonometric functions, that in aggregate sum to the functions' range), so that if we say _the function which is defined by the mapping between the set of things which do not exist and the set of natural numbers_, in some way we have defined what is meant by the notion of zero through this mapping and we may, in some sense, say the meaning of zero is _contained_ in the mapping. 
 
+TODO
+
 Likewise, the linguistic notion of _am_ brings with it a certain domain and a certain projection, which clarify its meaning, for the _(x,y)_ in the propositional function _x am y_ cannot be arbitrarily assigned over the space of subject-nouns, over the set of existent things. _Am_ defines a precise and particular subject: _us_. Specifically, _I_. 
 
 This can be seen in the syntactical error that arises in the proposition _the thing am this_; the meaning of _am_ is only understood through _I am this_.
 
-### 
+### The Significance of Number with Respect to Conceptualization
 
 We have seen in the previous section that the phenomenon of numerability admits of numbers whose existence cannot have Being, specifically no matter the order of Being, there will always exist a certain class of number, denoted _transfinite_ in the language of **George Cantor**, which exceeds the order of all that is. These numbers are sometimes called _ordinal_ numbers, to make obvious these numbers emerge through the phenomenon of _ordering_ and are opposed to the _cardinal_ numbers which emerge through the phenomenon of _enumeration_. Numberability is thus composed of those two ontological dimensions, order and count, whereas in our everyday dealings we typically associate numerability with only the latter feature of count. To understand the nature of numbers, one must consider both of its aspects. 
 
@@ -280,6 +303,12 @@ For example, we may say _one hand_ has _five fingers_. Or, to make the multiplic
 The Being of numbers is fundamentally different from the Being of objects; The Being of a number is a property of the structure of Being. This is what **Alain Badiou** meant when he declared _"mathematics is ontology"_[^Badiou#1]: that to understand how a thing is and to understand what it is that makes a thing a thing, we need mathematics. We will return to **Badiou**'s pronouncment in a little while, after we have the tools to understand why, strictly speaking, he was wrong. Mathematics is not ontology, mathematics _is metaphysics_, but we get ahead of ourselves.
 
 TODO
+
+---
+
+**The Formal Foundations of Number**
+
+---
 
 The first attempt to formalize the notion of a number was made by **Gottlob Frege**. A lifelong project, it found its purest expression in his seminal _Foundations of Arithmetic_[^Frege#1]. In his work, he provides a basis for understanding what a number is, through an analysis of the terms `object`, `concept` and `existence`. 
 
