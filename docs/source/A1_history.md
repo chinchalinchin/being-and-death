@@ -2,7 +2,7 @@
 
 ## 600s (BC)
 
-## Mandukya Upanishard
+### Unknown: Mandukya Upanishard
 
 **Translated by  Swami Nikhilananda**
 
@@ -131,7 +131,7 @@ Chapter 1
 
 ## 100s (BC)
 
-### Svetasvatara Upanishad
+### Unknown: Svetasvatara Upanishad
 
 > What is the cause? Brahma? Whence are we born? Whereby do we live? And on what are we established? Overruled by whom, in pains and pleasures, Do we live our various conditions, O ye theologians?<br>
 > Time, or inherent nature, or necessity, or chance, or the elements, or a womb, or a person are to be considered; Not a combination of these, because of the existence of the Ātman. The Ātman certainly is impotent over the cause of pleasure and pain. <br>
