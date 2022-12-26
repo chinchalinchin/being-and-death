@@ -10,7 +10,7 @@ In what follows, you will find the definitions and explanations for the author's
 - `#` represents the quantifier for existence
 - `@` represents the quantifier for universality
 - `!` represents negation
-- `|` represents the relativizer
+- `|` represents the relativizer.
 - `~` represents set membership.
 - `%` represents set exclusion.
 - `->` represents implication.
@@ -25,11 +25,38 @@ In what follows, you will find the definitions and explanations for the author's
 
 - uppercase letters, such as _A_ and _B_, represents sets. 
     - `{}` also denotes a set.
-- lowercase letters, such as _a_ and _b_, represents unquantified, indeterminate set members
+- lowercase letters, such as _a_ and _b_, represents indeterminate variables.
 
 ## Propositions
 
-TODO
+A propositional or predicate function _P(-)_ is the indeterminate form of a sentence once all of its content has been abstracted away. An interesting aspect of language is encountered during this abstraction process. As the semantical concepts are subtracted step by step, distinct forms with unique, syntactical functions emerge. For instance, he sentences,
+
+- All men are mortal
+- The universe is expanding
+
+represent assertions about the state of the world. Whether or not their content is true is besides the point. Any proposition that claims to represent reality must necessarily organize itself so as to allow itself to be determined true or false; it is the structure of this organization into judgeable content as prior to the judgement that is uncovered as the content is abstracted. Indeterminate variables are assigned to the subjects of propositions, 
+
+- All x are mortal
+- The x is expanding
+
+In logic, once the subject matter of the sentence is made indeterminate, they can no longer be spoken of as sentences, so we coin the term, following **Tarski** of _sentential functions_. A sentence is _determinate_ in its meaning, whereas a sentential function is _indeterminate_ in its meaning. A sentence speaks _about_ something, whereas a sentential function shows _how_ it is spoken. 
+
+Another layer of abstraction is added by noting the subject is quantified over a certain range. _All_ encompasses all possibile values of _x_ as subject to assertion, where as _the_ separates out  a single instance of _x_ for the operation of assertion. In the jargon of logic, the first proposition is a case of _universal_ quantification, whereas the second is a case of _existential_ quantification. We reserve special, _constant_ symbols for these grammatical objects,
+
+- @x are mortal
+- #x is expanding
+
+One of the key insights of propositional logic is the predicates of these sentences are essentially functions that operate on the indeterminate variables that form their subjects. The particularizing article attached to the subject, its quantification, indicates in what way the predicate is said to apply to its subject matter. We therefore introduce the predicate function `P(-)` at this point to abstract away the relations of the predicate. In order to generalize across all possible quantified propositions, we introduce relativers to synchronize the syntactical forms and make apparent their commonality,
+
+- All x such that P(x)
+- There is an x such that P(x)
+
+The vagaries of English are then abstracted away in their entirety to leave out the possiblity of linguistic ambiguity, so that we are left with purely symbolic, purely formal propositions,
+
+- `@x | P(x)`
+- `#x | P(x)`
+
+The object of propositional logic is understanding the syntatical conditions that must be met by any semantical staetment within a language. Propositional logic has no opinion on the content of its syntax. It can only show, once meaning is given to it, how it must operate in its formal aspect.
 
 ### Excluded Middle
 
@@ -43,24 +70,43 @@ For example, it cannot be the case that both propositions, _12 is even_ and _12 
 
 The following list shows how the English language can be mapped to the semantics of propositional calculus. Examples are given letting _x_ represent an indefinite but distinct bunny rabbit, the propositional function `P(-)` represent the predicate _is fluffy_, and _A_ represents the set of bunnies which have the property of being fluffy,
 
-- (Q1) **Universal**: `@x | P(x)`
-    - _General_: all _x_ that satisfy _P_
+---
+
+General Quantified Propositions
+
+---
+
+- (Q1) **Universal Quantification**: `@x | P(x)`
+    - _General_: all _x_ such that x is _P_
     - _Particular_: all bunnies are fluffy
-- (Q2) **Negated Universal**: `![ @x | P(x) ]`
-    - _General_:  not all _x_ satisfy _P_
+- (Q2) **Negation of Universal Quantification**: `![ @x | P(x) ]`
+    - _General_:  not all _x_ such that x is _P_
     - _Particular_: not all bunnies are fluffy
-- (Q3) **Existential**: `#x | P(x)`
-    - _General_: atleast one _x_ exists that satisifes P_ 
+- (Q3) **Existential Quantification**: `#x | P(x)`
+    - _General_: atleast one _x_ exists such that x is _P_ 
     - _Particular_: some bunnies are fluffy
-- (Q4) **Negated Existential**: `![ #x | P(x) ]`
-    - _General_: no _x_ exists that satifies _P_
+- (Q4) **Negation of Existential Quantification**: `![ #x | P(x) ]`
+    - _General_: no _x_ exist such that x is _P_
     - _Particular_: no bunnies are fluffy
-- (Q5) **Universal Membership** `@x | x ~ A`
-    - _General_: all _x_ in the set _A_
-    - _Particular_: all things in the concept _fluffy bunnies_
+
+---
+
+Quantified Semantics
+
+---
+
+- (Q5) **Universally Quantified Membership** `@x | x ~ A`
+    - _General_: all _x_ such that x belongs to _A_
+    - _Particular_: all bunnies are _fluffy bunnies_
+- (Q6) **Universally Quantified Exclusion**: `@x | x % A`
+    - _General_: all x such that x does not belong to  _A_
+    - _Particular_: all bunnies are not _fluffy bunnies_
+- (Q5) **Existentially Quantified Membership** `#x | x ~ A`
+    - _General_: all _x_ such that x belongs to _A_
+    - _Particular_: all bunnies are _fluffy bunnies_
 - (Q6) **Universal Exclusion**: `@x | x % A`
-    - _General_: all x not in the set _A_
-    - _Particular_: all things not in the concept _fluffy bunnies_
+    - _General_: all x such that x does not belong to  _A_
+    - _Particular_: all bunnies are not _fluffy bunnies_
 
 ## Sets
 

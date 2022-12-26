@@ -52,7 +52,7 @@
 <li><p><code class="docutils literal notranslate"><span class="pre">#</span></code> represents the quantifier for existence</p></li>
 <li><p><code class="docutils literal notranslate"><span class="pre">&#64;</span></code> represents the quantifier for universality</p></li>
 <li><p><code class="docutils literal notranslate"><span class="pre">!</span></code> represents negation</p></li>
-<li><p><code class="docutils literal notranslate"><span class="pre">|</span></code> represents the relativizer</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">|</span></code> represents the relativizer.</p></li>
 <li><p><code class="docutils literal notranslate"><span class="pre">~</span></code> represents set membership.</p></li>
 <li><p><code class="docutils literal notranslate"><span class="pre">%</span></code> represents set exclusion.</p></li>
 <li><p><code class="docutils literal notranslate"><span class="pre">-&gt;</span></code> represents implication.</p></li>
@@ -72,13 +72,39 @@
 <li><p><code class="docutils literal notranslate"><span class="pre">{}</span></code> also denotes a set.</p></li>
 </ul>
 </li>
-<li><p>lowercase letters, such as <em>a</em> and <em>b</em>, represents unquantified, indeterminate set members</p></li>
+<li><p>lowercase letters, such as <em>a</em> and <em>b</em>, represents indeterminate variables.</p></li>
 </ul>
 </section>
 </section>
 <section id="propositions">
 <h2>Propositions<a class="headerlink" href="#propositions" title="Permalink to this headline">¶</a></h2>
-<p>TODO</p>
+<p>A propositional or predicate function <em>P(-)</em> is the indeterminate form of a sentence once all of its content has been abstracted away. An interesting aspect of language is encountered during this abstraction process. As the semantical concepts are subtracted step by step, distinct forms with unique, syntactical functions emerge. For instance, he sentences,</p>
+<ul class="simple">
+<li><p>All men are mortal</p></li>
+<li><p>The universe is expanding</p></li>
+</ul>
+<p>represent assertions about the state of the world. Whether or not their content is true is besides the point. Any proposition that claims to represent reality must necessarily organize itself so as to allow itself to be determined true or false; it is the structure of this organization into judgeable content as prior to the judgement that is uncovered as the content is abstracted. Indeterminate variables are assigned to the subjects of propositions,</p>
+<ul class="simple">
+<li><p>All x are mortal</p></li>
+<li><p>The x is expanding</p></li>
+</ul>
+<p>In logic, once the subject matter of the sentence is made indeterminate, they can no longer be spoken of as sentences, so we coin the term, following <strong>Tarski</strong> of <em>sentential functions</em>. A sentence is <em>determinate</em> in its meaning, whereas a sentential function is <em>indeterminate</em> in its meaning. A sentence speaks <em>about</em> something, whereas a sentential function shows <em>how</em> it is spoken.</p>
+<p>Another layer of abstraction is added by noting the subject is quantified over a certain range. <em>All</em> encompasses all possibile values of <em>x</em> as subject to assertion, where as <em>the</em> separates out  a single instance of <em>x</em> for the operation of assertion. In the jargon of logic, the first proposition is a case of <em>universal</em> quantification, whereas the second is a case of <em>existential</em> quantification. We reserve special, <em>constant</em> symbols for these grammatical objects,</p>
+<ul class="simple">
+<li><p>&#64;x are mortal</p></li>
+<li><p>#x is expanding</p></li>
+</ul>
+<p>One of the key insights of propositional logic is the predicates of these sentences are essentially functions that operate on the indeterminate variables that form their subjects. The particularizing article attached to the subject, its quantification, indicates in what way the predicate is said to apply to its subject matter. We therefore introduce the predicate function <code class="docutils literal notranslate"><span class="pre">P(-)</span></code> at this point to abstract away the relations of the predicate. In order to generalize across all possible quantified propositions, we introduce relativers to synchronize the syntactical forms and make apparent their commonality,</p>
+<ul class="simple">
+<li><p>All x such that P(x)</p></li>
+<li><p>There is an x such that P(x)</p></li>
+</ul>
+<p>The vagaries of English are then abstracted away in their entirety to leave out the possiblity of linguistic ambiguity, so that we are left with purely symbolic, purely formal propositions,</p>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">&#64;x</span> <span class="pre">|</span> <span class="pre">P(x)</span></code></p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">#x</span> <span class="pre">|</span> <span class="pre">P(x)</span></code></p></li>
+</ul>
+<p>The object of propositional logic is understanding the syntatical conditions that must be met by any semantical staetment within a language. Propositional logic has no opinion on the content of its syntax. It can only show, once meaning is given to it, how it must operate in its formal aspect.</p>
 <section id="excluded-middle">
 <h3>Excluded Middle<a class="headerlink" href="#excluded-middle" title="Permalink to this headline">¶</a></h3>
 <p>The law of the excluded middle simply states that it must either be the case that <em>P</em> or its negation is true,</p>
@@ -88,41 +114,61 @@
 <section id="quantification">
 <h3>Quantification<a class="headerlink" href="#quantification" title="Permalink to this headline">¶</a></h3>
 <p>The following list shows how the English language can be mapped to the semantics of propositional calculus. Examples are given letting <em>x</em> represent an indefinite but distinct bunny rabbit, the propositional function <code class="docutils literal notranslate"><span class="pre">P(-)</span></code> represent the predicate <em>is fluffy</em>, and <em>A</em> represents the set of bunnies which have the property of being fluffy,</p>
+<hr class="docutils" />
+<p>General Quantified Propositions</p>
+<hr class="docutils" />
 <ul class="simple">
-<li><p>(Q1) <strong>Universal</strong>: <code class="docutils literal notranslate"><span class="pre">&#64;x</span> <span class="pre">|</span> <span class="pre">P(x)</span></code></p>
+<li><p>(Q1) <strong>Universal Quantification</strong>: <code class="docutils literal notranslate"><span class="pre">&#64;x</span> <span class="pre">|</span> <span class="pre">P(x)</span></code></p>
 <ul>
-<li><p><em>General</em>: all <em>x</em> that satisfy <em>P</em></p></li>
+<li><p><em>General</em>: all <em>x</em> such that x is <em>P</em></p></li>
 <li><p><em>Particular</em>: all bunnies are fluffy</p></li>
 </ul>
 </li>
-<li><p>(Q2) <strong>Negated Universal</strong>: <code class="docutils literal notranslate"><span class="pre">![</span> <span class="pre">&#64;x</span> <span class="pre">|</span> <span class="pre">P(x)</span> <span class="pre">]</span></code></p>
+<li><p>(Q2) <strong>Negation of Universal Quantification</strong>: <code class="docutils literal notranslate"><span class="pre">![</span> <span class="pre">&#64;x</span> <span class="pre">|</span> <span class="pre">P(x)</span> <span class="pre">]</span></code></p>
 <ul>
-<li><p><em>General</em>:  not all <em>x</em> satisfy <em>P</em></p></li>
+<li><p><em>General</em>:  not all <em>x</em> such that x is <em>P</em></p></li>
 <li><p><em>Particular</em>: not all bunnies are fluffy</p></li>
 </ul>
 </li>
-<li><p>(Q3) <strong>Existential</strong>: <code class="docutils literal notranslate"><span class="pre">#x</span> <span class="pre">|</span> <span class="pre">P(x)</span></code></p>
+<li><p>(Q3) <strong>Existential Quantification</strong>: <code class="docutils literal notranslate"><span class="pre">#x</span> <span class="pre">|</span> <span class="pre">P(x)</span></code></p>
 <ul>
-<li><p><em>General</em>: atleast one <em>x</em> exists that satisifes P_</p></li>
+<li><p><em>General</em>: atleast one <em>x</em> exists such that x is <em>P</em></p></li>
 <li><p><em>Particular</em>: some bunnies are fluffy</p></li>
 </ul>
 </li>
-<li><p>(Q4) <strong>Negated Existential</strong>: <code class="docutils literal notranslate"><span class="pre">![</span> <span class="pre">#x</span> <span class="pre">|</span> <span class="pre">P(x)</span> <span class="pre">]</span></code></p>
+<li><p>(Q4) <strong>Negation of Existential Quantification</strong>: <code class="docutils literal notranslate"><span class="pre">![</span> <span class="pre">#x</span> <span class="pre">|</span> <span class="pre">P(x)</span> <span class="pre">]</span></code></p>
 <ul>
-<li><p><em>General</em>: no <em>x</em> exists that satifies <em>P</em></p></li>
+<li><p><em>General</em>: no <em>x</em> exist such that x is <em>P</em></p></li>
 <li><p><em>Particular</em>: no bunnies are fluffy</p></li>
 </ul>
 </li>
-<li><p>(Q5) <strong>Universal Membership</strong> <code class="docutils literal notranslate"><span class="pre">&#64;x</span> <span class="pre">|</span> <span class="pre">x</span> <span class="pre">~</span> <span class="pre">A</span></code></p>
+</ul>
+<hr class="docutils" />
+<p>Quantified Semantics</p>
+<hr class="docutils" />
+<ul class="simple">
+<li><p>(Q5) <strong>Universally Quantified Membership</strong> <code class="docutils literal notranslate"><span class="pre">&#64;x</span> <span class="pre">|</span> <span class="pre">x</span> <span class="pre">~</span> <span class="pre">A</span></code></p>
 <ul>
-<li><p><em>General</em>: all <em>x</em> in the set <em>A</em></p></li>
-<li><p><em>Particular</em>: all things in the concept <em>fluffy bunnies</em></p></li>
+<li><p><em>General</em>: all <em>x</em> such that x belongs to <em>A</em></p></li>
+<li><p><em>Particular</em>: all bunnies are <em>fluffy bunnies</em></p></li>
+</ul>
+</li>
+<li><p>(Q6) <strong>Universally Quantified Exclusion</strong>: <code class="docutils literal notranslate"><span class="pre">&#64;x</span> <span class="pre">|</span> <span class="pre">x</span> <span class="pre">%</span> <span class="pre">A</span></code></p>
+<ul>
+<li><p><em>General</em>: all x such that x does not belong to  <em>A</em></p></li>
+<li><p><em>Particular</em>: all bunnies are not <em>fluffy bunnies</em></p></li>
+</ul>
+</li>
+<li><p>(Q5) <strong>Existentially Quantified Membership</strong> <code class="docutils literal notranslate"><span class="pre">#x</span> <span class="pre">|</span> <span class="pre">x</span> <span class="pre">~</span> <span class="pre">A</span></code></p>
+<ul>
+<li><p><em>General</em>: all <em>x</em> such that x belongs to <em>A</em></p></li>
+<li><p><em>Particular</em>: all bunnies are <em>fluffy bunnies</em></p></li>
 </ul>
 </li>
 <li><p>(Q6) <strong>Universal Exclusion</strong>: <code class="docutils literal notranslate"><span class="pre">&#64;x</span> <span class="pre">|</span> <span class="pre">x</span> <span class="pre">%</span> <span class="pre">A</span></code></p>
 <ul>
-<li><p><em>General</em>: all x not in the set <em>A</em></p></li>
-<li><p><em>Particular</em>: all things not in the concept <em>fluffy bunnies</em></p></li>
+<li><p><em>General</em>: all x such that x does not belong to  <em>A</em></p></li>
+<li><p><em>Particular</em>: all bunnies are not <em>fluffy bunnies</em></p></li>
 </ul>
 </li>
 </ul>
