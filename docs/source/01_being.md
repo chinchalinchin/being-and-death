@@ -161,7 +161,7 @@ When _beon_ and _wesan_ were gradually merged in modern English, two meanings ca
 
 ---
 
-**Considerations on Logical Consistency**
+**Considerations of Logical Consistency**
 
 ---
 
@@ -271,6 +271,12 @@ the inability of human mathematics to capture the totality of numbers in finite 
 
 TODO
 
+---
+
+**The Dyads of Substance/Form, Noumena/Phenomena, Res Extensa/Res Cognitans**
+
+---
+
 
 In attempting to define a thing as existence, we have passed by its Being entirely. For if the Being of a table was reducible to its existence, i.e. its chemical composition, then it should not occur that separate existents should be separate tables, that is to say, if Being were identical to existence, a steel table would be a wholly different Being from the tree stump offered to the midday travellers as their lunch table. It is, however, the case that a table can exist through different mediums and retain its "table-ness", so that in the account of only its physical properties, we do not touch upon at all what it is that defines a table. 
 
@@ -279,6 +285,26 @@ These ambiguities between Being and existnce no doubt result from double duty _i
 TODO 
 
 Matters are complicated with the introduction of time, for now a thing no longer simply _is_, but contains a multitude of ways of coming to be: _is_, _was_, _will be_, _has been_. With this terminology, it becomes clear Being intrinsically contains a dimension of time and space, so that Being is said to be with respect to time and with respect to space. 
+
+TODO
+
+The first philosophical analysis of Being of which we are aware comes down to us through the Greek tradition. **Aristotle**, in particular, living more than two thousand years ago, synthesized the works of all that preceded into a single train of though. Despite the age of his works, they have remained throughout history a source of considerable study, in particular his contributions to the so-called _primary_ philosophy, what would be called today _ontology_, the study of Being itself. The essence of his contributions to untangling of the puzzle of Being are chiefly found in _Physics_ and _Metaphysics_. 
+
+The essential problem is this: A being is on one hand a substance, a material, matter. On the other hand, it is a multiplicity of _things_. A thing is at once a substance and a representative of something beyond the subtance. For instance, wood is a substance that assumes the form of a table or a chair. In either case, a different thing _becomes_ from the same underlying substance, yet the form of the substance differentiates the _things_ in their thinghood.
+
+The substance signifies through its form its inclusion in a _category_ of Being. This wood _is_ a table; the substance _is_ a thing. But in this, there is, as **Aristotle** was wont to say a puzzle (_aporia_); for a substance can _be_ many things; the table _is_ brown; the table _is_ three feet high; the table _is_ where meals happen. In each of these _beings_, there is an element of _coincidence_, where the particular thing, the table, need not have these _attributes_. Because of this, there is a _category_ demarcating a space of attributes, of the complete enumeration of possibilities of a given substantial form, encompassing the _being_ of a table, in all its multivariate ways. Being is, in Aristotelian physics, the becoming of Form through Substance. 
+
+In this division between Substance and Form, there is a trap that is perhaps impossible to avoid, for it perplexed a millenia of philsophers until the time of **Heidegger**. With the Aristotelian dyad of Substance and Form, we have the beginnings of the so-called mind-body dualism, which was properly synthesized as a framework by **Descartes**, that posits two modes of Being, mapping roughly one-to-one with substance and form, the _res extensa_ and the _res cogitans_, the Being of the physical and the Being of the mental. 
+
+It is this system of thought that mathematizes the physical as pure extension and duration. All things are ordered pairs of attributes and the universe is determined via the changing relationships of its parts. In other words, the _res extensa_, the Being of substance, is a volume of space changing with respect to time. 
+
+The _res cogitans_ is separate from this substance, in the way that we mean it _is_ _about_ the substance. In other words, the Being of the mental, because it _is not_ substance, is _insubstantial_. In this way, we cannot properly say a table _is_ a table at all, for a table is a mental construct on top of the physical Being of matter, so we must rather say, in a "scientific way", its physical counterpart is all that is, and all other designations are purely subjective. The thing which we call a table is in reality reduced to natural forces operating on the world-substance; it is a mathematical equilibrium, or atleast temporarily so. 
+
+There is an element of truth in this interpretation. How could there not be? It is this insight into the nature of Being that led to great revolutions of mathematics and science seen in the eighteenth and nineteenth century. Yet, we must admit, with respect to our phenomenal experience, this description is somehow lacking. With this interpretation, the table is a table because the Being of the mental designates it so, not because it _is_ a table. If we recall a table need not be constructed by human hand to be a table, for a tree stump or any elevated surface would serve the function just as well, the puzzle becomes clearer. 
+
+We here recall the immortal words of the Bard, "A rose by any other name would smell just as sweet." 
+
+TODO
 
 There is yet another way a thing is said to be and that is through the linguistic form of _am_. The notion of _am_ is no general one to be affixed to an indefinite object, for this Being symbolizes a different type of Being altogether: the first person singular present tense. If language is a set of tools by which we represent ideas, _am_ is an orthogonality to the representative dimensions defined by the other forms of _to be_, in that it is a form that by necessity requires a conscious subject, a prior not previously required in the semantics of Being.
 
@@ -400,26 +426,6 @@ TODO
 The sensory impression of a carton of eggs does not contain in and of itself the concept of twelve because of the dozen eggs contained in it no more than it does the concept of one because of the single carton in it; our experience is the immediate apprehension of the world in _gestalt_, in a way that tells us what _is_ before us and with us in the world: the concept enters in this picture in parallel to our awareness of the world; the concept is a dimension available to us through Being, that discloses to us aspects of Being, but is not in and of itself found in Being.
 
 TODO
-
-### 
-
-TODO
-
-The first analysis of Being of which we are aware comes down to us through **Aristotle**, more than two thousand years ago. Despite the age of his works, they have remained throughout history a source of considerable study, in particular his contributions to the so-called _primary_ philosophy, what would be called today _ontology_, the study of Being itself. The essence of his contributions to untangling of the puzzle of Being are chiefly found in _Physics_ and _Metaphysics_. 
-
-The essential problem is this: A being is on one hand a substance, a material, matter. On the other hand, it is a multiplicity of _things_. A thing is at once a substance and a representative of something beyond the subtance. For instance, wood is a substance that assumes the form of a table or a chair. In either case, a different thing _becomes_ from the same underlying substance, yet the form of the substance differentiates the _things_ in their thinghood.
-
-The substance signifies through its form its inclusion in a _category_ of Being. This wood _is_ a table; the substance _is_ a thing. But in this, there is, as **Aristotle** was wont to say a puzzle (_aporia_); for a substance can _be_ many things; the table _is_ brown; the table _is_ three feet high; the table _is_ where meals happen. In each of these _beings_, there is an element of _coincidence_, where the particular thing, the table, need not have these _attributes_. Because of this, there is a _category_ demarcating a space of attributes, of the complete enumeration of possibilities of a given substantial form, encompassing the _being_ of a table, in all its multivariate ways. Being is, in Aristotelian physics, the becoming of Form through Substance. 
-
-In this division between Substance and Form, there is a trap that is perhaps impossible to avoid, for it perplexed a millenia of philsophers until the time of **Heidegger**. With the Aristotelian dyad of Substance and Form, we have the beginnings of the so-called mind-body dualism, which was properly synthesized as a framework by **Descartes**, that posits two modes of Being, mapping roughly one-to-one with substance and form, the _res extensa_ and the _res cogitans_, the Being of the physical and the Being of the mental. 
-
-It is this system of thought that mathematizes the physical as pure extension and duration. All things are ordered pairs of attributes and the universe is determined via the changing relationships of its parts. In other words, the _res extensa_, the Being of substance, is a volume of space changing with respect to time. 
-
-The _res cogitans_ is separate from this substance, in the way that we mean it _is_ _about_ the substance. In other words, the Being of the mental, because it _is not_ substance, is _insubstantial_. In this way, we cannot properly say a table _is_ a table at all, for a table is a mental construct on top of the physical Being of matter, so we must rather say, in a "scientific way", its physical counterpart is all that is, and all other designations are purely subjective. The thing which we call a table is in reality reduced to natural forces operating on the world-substance; it is a mathematical equilibrium, or atleast temporarily so. 
-
-There is an element of truth in this interpretation. How could there not be? It is this insight into the nature of Being that led to great revolutions of mathematics and science seen in the eighteenth and nineteenth century. Yet, we must admit, with respect to our phenomenal experience, this description is somehow lacking. With this interpretation, the table is a table because the Being of the mental designates it so, not because it _is_ a table. If we recall a table need not be constructed by human hand to be a table, for a tree stump or any elevated surface would serve the function just as well, the puzzle becomes clearer. 
-
-We here recall the immortal words of the Bard, "A rose by any other name would smell just as sweet." 
 
 
 ###
