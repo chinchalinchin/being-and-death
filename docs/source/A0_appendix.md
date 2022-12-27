@@ -1,6 +1,6 @@
 # Appendix I: Propositional Calculus
 
-In what follows, you will find the definitions and explanations for the author's [Markdown]() compliant variation of propositional calculus. This variant was adopted for ease of use with webpages. Solutions exist for JavaScript based _LaTeX_ through libraries like [MathJAX](), and perhaps if the content of this work is ever completed to the author's satisfaction, he will refactor the syntax to be more in line with general conventions, but for now, this will suffice.
+In what follows, you will find the definitions and explanations for the author's [Markdown]() compliant variation of propositional calculus, sometimes referred to as propostional logic or symbolic logic. This variant was adopted for ease of use with webpages. Solutions exist for JavaScript based _LaTeX_ through libraries like [MathJAX](), and perhaps if the content of this work is ever completed to the author's satisfaction, he will refactor the syntax to be more in line with general conventions, but for now, this will suffice.
 
 ## Definitions 
 
@@ -10,6 +10,7 @@ In what follows, you will find the definitions and explanations for the author's
 - `#` represents the quantifier for existence
 - `@` represents the quantifier for universality
 - `!` represents negation
+- `:` represents denotion
 - `|` represents the relativizer.
 - `~` represents set membership.
 - `%` represents set exclusion.
@@ -29,34 +30,105 @@ In what follows, you will find the definitions and explanations for the author's
 
 ## Propositions
 
-A propositional or predicate function _P(-)_ is the indeterminate form of a sentence once all of its content has been abstracted away. An interesting aspect of language is encountered during this abstraction process. As the semantical concepts are subtracted step by step, distinct forms with unique, syntactical functions emerge. For instance, he sentences,
+A p_ropositional_, or _predicate_, function _P(-)_ is the indeterminate form of a sentence once all of its content has been abstracted away. An interesting aspect of language is encountered during this abstraction process. As the semantical concepts are subtracted step by step, distinct forms with unique, syntactical functions emerge. For instance, the prositional sentences,
 
 - All men are mortal
 - The universe is expanding
 
-represent assertions about the state of the world. Whether or not their content is true is besides the point. Any proposition that claims to represent reality must necessarily organize itself so as to allow itself to be determined true or false; it is the structure of this organization into judgeable content as prior to the judgement that is uncovered as the content is abstracted. Indeterminate variables are assigned to the subjects of propositions, 
+represent assertions about the state of the world. Whether or not their content is true is besides the point. Any proposition that claims to represent reality must necessarily organize itself so as to allow itself to be determined true or false; it is the structure of this organization into judgeable content prior to the judgement that is uncovered as content is abstracted. The different forms of speech have substituted in their place syntactical placeholders, so that all that remains is the form of language itself. 
+
+To begin formalization of language, indeterminate variables, such as _x_, are assigned to the subjects of the propositions,  
 
 - All x are mortal
 - The x is expanding
 
-In logic, once the subject matter of the sentence is made indeterminate, they can no longer be spoken of as sentences, so we coin the term, following **Tarski** of _sentential functions_. A sentence is _determinate_ in its meaning, whereas a sentential function is _indeterminate_ in its meaning. A sentence speaks _about_ something, whereas a sentential function shows _how_ it is spoken. 
+In logic, once the subject matter of the sentence is made indeterminate, they can no longer be spoken of as sentences, so we coin the term, following **Tarski**, of _sentential functions_[^Tarski#1]. A sentence is _determinate_ in its meaning, whereas a sentential function is _indeterminate_ in its meaning. A sentence speaks _about_ something, whereas a sentential function shows _how_ it is spoken, once the _thing_ it is _about_ is given.
 
-Another layer of abstraction is added by noting the subject is quantified over a certain range. _All_ encompasses all possibile values of _x_ as subject to assertion, where as _the_ separates out  a single instance of _x_ for the operation of assertion. In the jargon of logic, the first proposition is a case of _universal_ quantification, whereas the second is a case of _existential_ quantification. We reserve special, _constant_ symbols for these grammatical objects,
+Another layer of abstraction is added by noting the subject is quantified over a certain range. _All_ in the first proposition encompasses all possibile values of _x_ as subject to assertion, where as _the_ in the second proposition separates out  a single instance of _x_ for the operation of assertion. In the jargon of logic, the first proposition is a case of _universal_ quantification, whereas the second is a case of _existential_ quantification. We reserve special, _constant_ symbols for these grammatical objects, `@` and `#` respectivey,
 
 - @x are mortal
 - #x is expanding
 
-One of the key insights of propositional logic is the predicates of these sentences are essentially functions that operate on the indeterminate variables that form their subjects. The particularizing article attached to the subject, its quantification, indicates in what way the predicate is said to apply to its subject matter. We therefore introduce the predicate function `P(-)` at this point to abstract away the relations of the predicate. In order to generalize across all possible quantified propositions, we introduce relativers to synchronize the syntactical forms and make apparent their commonality,
+One of the key insights of propositional logic is the predicates of these sentences are essentially functions that operate on the indeterminate variables that form their subjects, independent of the quantification attached to the subject. The particularizing article attached to the subject, its quantification, indicates in what way the predicate is said to apply to its subject matter. We therefore introduce the predicate function `P(-)` at this point to abstract away the relations of the predicate. In order to generalize across all possible quantified propositions, we introduce relativers to synchronize the syntactical forms and make apparent their commonality,
 
-- All x such that P(x)
-- There is an x such that P(x)
+- @x such that P(x)
+- #x such that P(x)
 
-The vagaries of English are then abstracted away in their entirety to leave out the possiblity of linguistic ambiguity, so that we are left with purely symbolic, purely formal propositions,
+The vagaries of English are then abstracted away in their entirety to leave out the possiblity of linguistic ambiguity, so that we are left with purely symbolic, purely formal propositions, with the introduction of the symbolic _relativizer_ `|`,
 
 - `@x | P(x)`
 - `#x | P(x)`
 
 The object of propositional logic is understanding the syntatical conditions that must be met by any semantical staetment within a language. Propositional logic has no opinion on the content of its syntax. It can only show, once meaning is given to it, how it must operate in its formal aspect.
+
+### Logical Basis
+
+TODO
+
+The _predicate_ function is to be understood as an operation that is applied to the quantified variables in a proposition.
+
+TODO
+
+The primitive operations that can be used to compose predicate functions are _AND_, _OR_ and _NOT_: `&`, `v` and `!`.
+
+TODO
+
+Negation is the only primitive operation to operate exclusively on a single predicate. In the case of one proposition, it is either `T` or `F`, so there is only one possible operation that can be applied, that of transformation into the opposite. An operation that took `T` to `T` or `F` to `F` would be of no value, for it would add nothing to the semantics we are developing. When only one predicate is considered, negation is the only possible operation that will induce a change in appearance. 
+
+TODO
+
+The other operations in our logical basis operate on two or more predicates. When composing two predicates, _P_ and _Q_, each has the possibility of being true or false. Therefore, there are a total of four possible states when both propositions are simultaneously considered, forming a sample of sequences,
+
+`TT, TF, FT, FF`
+
+Logical operations can be defined as "_occuring_" when certain outcomes in the simultanoues occurance of _P_ and _Q_ obtain. _AND_, for instance, can be defined in as what happens when both _P_ and _Q_are true. In other words, _AND_ paritions the logical space in the sequence `TT` from the sequences `TF, FT, FF`. Similarly, _OR_ can be 
+
+These are the meta-semantical priors that must be presupposed in order to engage in logic; Their validity must be accepted prior to the semantics of propositional logic. In this respect, logic is analogue in sentential-space to the **Cartesian** coordinate system that underlies representations of geometric space; it cannot be said what exactly a coordinate axis _is_ because it is the axes which provide the basis for specifying what _is_. Likewise, _AND_, _OR_ and _NOT_ only have meaning in reference to the meaing they give to the sentiential form. 
+
+These operations define a basis for structuring statements. What is meant by these operations cannot be further reduced to finer grained syntax; these operations cannot be justified except by direct appeal to the intellect. _They are what they are_.
+
+TODO
+
+It should be noted there is nothing special about _AND_ or _OR_. We could define a _NEVER_ operation to obtain when `FF` occured and a _XOR_ operation to obtain when `FT` or `TF`, and use these operations instead as basis for compounding predicate functions. 
+
+The value in the logical operations we use to compose proposition is to be found in their ability to reach every possible state. In the case of two propositions, each possibility can be reached by some logical formulation.
+
+- `TT` maps to `P & Q` and `P v Q`
+- `TF` maps to `P v Q`
+- `FT` maps to `P v Q`
+- `FF` maps `![P & Q]` and `![P v Q]`
+
+With the alternate basis of _NEVER_, _XOR_ and _NOT_, we would traverse the logical space as follows, using `x` for _XOR_ and `n` for _NEVER_,
+
+- `TT` maps to `![P n Q]` and `![P x Q]`
+- `TF` maps to `P x Q`
+- `FT` maps to `P x Q`
+- `FF` maps to `P n Q` and `![P x Q]`
+
+Either way yields a logical calculus for compounding predicates. The choice of _AND_ and _OR_ over _NEVER_ and _XOR_ is a matter of convention. 
+
+TODO
+
+In the case of three proposition, _P_, _Q_ and _R_, the permutations of possible truth values multiply. However, the nature of logic is synthesize complexity from simpler terms. We thus want to develop laws that allow us to undertand more complex cases using by considering their constituent predicates in a pairwise fashion.
+
+TODO
+
+### Implication
+
+TODO
+
+The logical implication is often misunderstood by laymen. Implication is a syntactical form, it has no meaning in and of itself.  (Is this true?)
+
+TODO
+
+
+The syntactical form of implication can be understood in terms of the primitive logical operations introduced in the previous section. 
+
+TODO
+
+All other logical operations can be defined in terms of these operations. For instance `A v ~B` is logically equivalent to `B -> A`. In plain English, _A or not B is equivalent to if B, then A_. This fact can be seen by inspecting the truth tables for either compound proposition.
+
+TODO
 
 ### Excluded Middle
 
@@ -151,3 +223,6 @@ TODO
 
 1. Individuation: 
 
+## Footnotes
+
+[^Tarski#1]: [Introduction to Logic, Chapter 1, Section TODO, YYYY,S Alfred Tarski](TODO),
