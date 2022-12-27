@@ -1,4 +1,4 @@
-e# Book 1
+# Book 1
 
 ![](./assets/calvin_and_hobbes_inscrutable_exhortations.jpeg)
 
