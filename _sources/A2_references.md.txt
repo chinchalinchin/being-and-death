@@ -20,6 +20,8 @@
 ### classics.mit.edu
 - [Physics](http://classics.mit.edu/Aristotle/physics.html)
 - [Metaphysics](http://classics.mit.edu/Aristotle/metaphysics.html)
+### people.umass.edu
+- [King Alfred's Grammar](https://people.umass.edu/sharris/in/gram/GrammarBook/KAGrammar.html)
 ## Essays
 ### archive.org
 - [What Is Metaphysics?](https://archive.org/details/basicwritingsfro0000heid)
@@ -40,6 +42,7 @@
 - [Conditional Disjunction](https://en.wikipedia.org/wiki/Conditional_disjunction)
 - [Contingency](https://en.wikipedia.org/wiki/Contingency_(philosophy))
 - [Dasein](https://en.wikipedia.org/wiki/Dasein)
+- [Declension](https://en.wikipedia.org/wiki/Declension)
 - [Delta-epsilon definition of a limit](https://en.wikipedia.org/wiki/Continuous_function#Weierstrass_and_Jordan_definitions_(epsilon–delta)_of_continuous_functions)
 - [Dialectic](https://en.wikipedia.org/wiki/Dialectic)
 - [Epiphenomenon](https://en.wikipedia.org/wiki/Epiphenomenon)
@@ -47,6 +50,7 @@
 - [Heideggerian terminology](https://en.wikipedia.org/wiki/Heideggerian_terminology)
 - [Invariance](https://en.wikipedia.org/wiki/Invariant_(mathematics))
 - [Law of Excluded Middle](https://en.wikipedia.org/wiki/Law_of_excluded_middle)
+- [Morpheme](https://en.wikipedia.org/wiki/Morpheme)
 - [Negation](https://en.wikipedia.org/wiki/Negation)
 - [Noumenon](https://en.wikipedia.org/wiki/Noumenon)
 - [Ontic](https://en.wikipedia.org/wiki/Ontic)
@@ -54,6 +58,7 @@
 - [Reductionism](https://en.wikipedia.org/wiki/Reductionism)
 - [Solipsism](https://en.wikipedia.org/wiki/Solipsism)
 - [Strong's Concordance](https://en.wikipedia.org/wiki/Strong's_Concordance)
+- [Synthetic Language](https://en.wikipedia.org/wiki/Synthetic_language)
 - [Tetragrammatron](https://en.wikipedia.org/wiki/Tetragrammaton)
 - [Thing-in-itself](https://en.wikipedia.org/wiki/Thing-in-itself)
 - [Time Dilation](https://en.wikipedia.org/wiki/Time_dilation)
