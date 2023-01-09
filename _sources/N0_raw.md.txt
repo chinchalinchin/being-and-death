@@ -475,3 +475,79 @@ Animals can abstract, as was shown by **Pavlov**'s famous experiments. Dogs poss
 > When we end <br>
 > Our Being.
 
+### December 5th, 2022
+
+Is it enough that we have this brief moment where we are capable of creating and sharing, of love and tenderness, even though it is fated to mean nothing forever after? That all we sow we shall never know, that we plant trees for generations that will never know our names, this is all that can be granted as the best possible outcome. We do not give voice to the silent thought that outlines the worst possible outcome, lest it in fact be the case, that once we die, it will be as if nothing ever was and all our acts, intentions and feelings will retroactively come undone, never to have been because Nothing was all that ever existed in the first place.
+
+Is it cause for despair that we will never understand what we are, no matter how hard we try? THat we must admit there is no answer to any of life's fundamental questions is itself without question. You cannot answer the question, _what am I?_, in any satisfactory sense. The author invites the reader to try; he will gladly read the five hundred page dissertation that results, even though he already knows its conclusion: certainty does not extend into the realm of Death.
+
+Aha, the rationalist exclaims. Certainty is not a prerequisite of knowledge, they reply. For the knowledge of _if A, then B_ contains in it a quanta of knowledge, namely the implcation that exists between A and B, but it makes no claim on the existence of either A or B, onlying saying what is the case if they are given. THus it can be said here we have knowledge that does not rely on the appearance of A or B. One need not be certain of A to conclude _if A then B_.
+
+This is not what is meant by the proposition _certainty does not extend into Death_.
+
+---
+
+If logic can be said to be complete, it must ultimately be applied to untangling the problem of what we are, or else it cannot claim to have a complete basis for the becoming of Being in its totality and must forever remain incomplete. But logic cannot, in a fundamental way, handle the mechanics of our Being, what it means to say _I am_. To do so would require a basis of experience outside of experience by which experience can become a thing, but experience _is_ the basis by which things enter into Being, ours included. How does one say _I am_ without interpretting it as the experiential _I_?
+
+Let us suppose the contrary, for example, that our Being is just the aggregation of particle physics. Knowledge of this does not in anyway undo the immediacy of experience. There is no equation that will, once understood, dissolve our Being into its constituent logic. We will not one day become inert symbols on the page (unless we mean after our Death, when all we were will be words in history books...) for we cannot be anything but what we are and the question of what we are cannot be answered with certainty.
+
+If it were the case that our Being was, in its primary essence, contained in the laws of physics and mathematics, there will come a day when a(n) (un)lucky physicist is solving his equations and recognizes in their computation himself and not merely his image, but himself as emobided in the equation; for that is the conclusion of rationalism, that we must be redicble to priors, and those priors must ultimately be reducible to forms of time and space. If taht is so, then we are in the representations that represent us already already, for our Being cannot be anything but what it is and so if it is mathematical, then what we are is already mathematical, and upon our discovery of its foundation we will have found outside ourselves a quanta of experience, experience outside of experience. The end result of rationalism is to find yourself in two distinct places at the same time, which any rationalist would admit is absurdity.
+
+### December 9th, 2022
+
+ALl things are only things insofar as they are representations. Representations are representations insofar that simultaneous impressions are coordinated and apprehended across our senses.
+
+Suppose this were not the case.
+
+Is it possible to imagine a consciousness existing in a way where streams of sense data did not correspond to one another? To make it purely hypothetical, is it possible to wire up a "brain in a vat" so that it receives sight data from one source, touch data from an entirely different source, taste from yet another, etc? In other words, in a science-fiction update to **Plato**'s cave, what would the consciousness thus described conceive if all it saw was television static and heard only white noise, while random sensations impinged upon its nervous system? WOuld it be capable of representing anything at all to itself? WOudl it have thoughts? How would they be represented internally? WOudl it understand that it has a body? If so, to which sense would it ultimately ascribe concrete reality?
+
+In order to understand the true nature of BEing, this is an experiment we would have to conduct. WIthout isolating the variables properly, there is no way to tell consequence from correlation. Yet there isn't one conscious Being who wouldn't hesitate at such an experiment, for it would entail creating a conscious Being for the express purpose of killing it. Because we know, innately, no consciousness woudl be possible in such a scenario; the BEing that come out the other end would hardly have claim to its Being. Why do we think this?
+
+Of course we know abotu feral children who lose the ability to speak once past a certain age, but there is somethign more fundamental, something not dependent on the human part of our Being. THe world before us only exists insofar that it has a cause, a prior state from which its current state is a direct consequence. If we deprive a BEing of the material of causality, i.e. an external world triangulated through the corresponding sense data, then we have deprivedc it of the possibility of understanding and intellect, of Being an _I_.
+
+If we woke up tomorrow and found what we saw no longer corresponded to what we felt, or that what we heard had no relation to either, then the conditions for our psychological unity would breakdown immediately. THere is nothing, no ground, by which to say what you experience now is continuous with what you just experienced; indeedc, there is no reason to suppose sapce or time exist in such a psychology. How long our concept of self maintains in such a state is an open question, although certain conclusions can be inferred from schizophreniocs. In particular, the catatonic variety appear to enter in a vegative state when the cacophony of sense data ceases to make sense.
+
+To what extent can our sense impressions be false? DOesn't the notion of false presuppose that the falsity of one sense can be ascertained through the coordiantion of the other senses? What we see may be a hologram or illusion, but through touche we determine our sight is incorrect, or incomplete to be more precise; indeed, the intellectual insight that one of our senses doesn't correspond to the external world as represented by the other senses leads to an inquiry as to why that is so, i.e the reason for the deception is sought within causality, what perceptible thing is the cause of our false sensation, and that perceptible thing onyl exists insofar that it is represented in our other "validating" senses.
+
+If we suppose that all of our sense data is false, in true **Cartesian** fashion, what exactly have we supposed? It is not that the external world does not exist, but rather it does not exist in a causal fashion, that things cannot be ordered through cause and effect.
+
+The assumption of the validity of sense data is equivalent to the representative form of causlaity, that things are affected by other things, that all things can be described as the result of an underlying cause, that any single thing to which we devote our attention has a ground against which it is drawn, the world itself.
+
+### December 11th, 2022
+
+**Schopenhauer**'s first contribution was the division of understanding and knowledge. Understanding is an act of perception whereas knowledge is an act of the intellect. The difference is that of sensation versus representation.
+
+He showed this through an analysis of sight, i.e. the knowledge of distance and depth, does not arise vai its raw sensuous impression, for the very reason that light rays refracted through the pupil invert the image; Were our perception based in sensation, we should perceive things upside down, for that is how the world is physically presented to us. That our perception is not inverted speaks to how our representation of the world arises through the intellect. 
+
+Things are objectified into representations through the operation of the intellect.
+
+### December 14th, 2022
+
+We have seen the existence of numberability implies the existence of non-Being through the phenomenon of ordering.
+
+What, then, is meant by the BEing of Number? That numbers are is obvious in the declarations _this is one_, _this is two_, etc. And yet it is obvious that a certain class of numbers are not, that is, ordinal numbers. They are only represented in BEing in a degenerate way, with the expression of limits, in the suppositions that are made about processes that extend into infinity. WHen we write _aleph null_, we are expressing the idea of a coincidence of Being that cannot be, that is, all possible orderings of all possible things; this ordering is not spatial or temporal, i.e. it is not perceptible, it is an ordering that exists in Nothign, except perhaps thought.
+
+It cannot come to be that we see a Being that has a phenomenal representation that in any way maps to the signification implied by _aleph null_; the process of ordering must occur within Being through the temporal dimension, which necessarily occurs in a numerable sequence, i.e. this precedes that, that precedes another, ad infinitum, each moment emanating from the next through a serial ordering of causality; Being in virtue of time impose an order on the possibility of things, this order being its `factic` trajectory; to find a Being that contains more things than the order imbued by time must necessarily exist, if at all, outside of Being. We therefore only encounter it through symbols, through objects which stand for something else.
+
+**Cantor**'s great contribution to mathematics was shwoing the necessity of existence of non-Being. It is from this we are now able to retrospectively look and judge the true place of mathematics in history.
+
+**Badiou** argued mathematics is ontology. But this is wrong, for mathematics contains theorems not only about what _is_ the case, but what is _not_ the case. There is no contingency in mathematics for its concepts to apply to Being; Mathematics is concerned with the conditions of existence, given an interpretation of Being. The mutual exclusion of Euclidean, hyperbolic and elliptic geometrics that result from the different permutations of the parallel postule show mathematics must necssarily take the form of the necessity of possibility, _not_ the necessity of Being. 
+
+For this reason, proper and rigorous mathematics is metaphysics. Ontology is only mathematical insofar that it is a supposition of priors, an instatntion of metaphysical principles; ontology is the inquiry into the peculiar charateristics of Being; metaphysics is inquiry into what might have been otherwise.
+
+The essential question of ontology is whether it is possible to go from the particularity of Being to general principles of Being. The essential question of metaphysics is how generality conditions particular instances of Being. 
+
+### December 15th, 2022
+
+It is Death we see in the fact that philosophy must always remain incomplete. If Being were absolutely infinite, there would exist the possibility of mapping up through the infinities of all possibilities to the task of completion. But it is a fact of all philosophies, in the proper sense of the term, that they are necessarily incomplete. It is therefore the case things are finite. If things are finite, they must end. What is it we find at the end? Death.
+
+### December 17th, 2022
+
+In the foundation of mathematics, this notion of Being, that of predicate logic, this is such and such, is abstracted into pure form.
+
+The notion of Being is captured in mathematics through the idea of sets. In an informal way, an element object is said to belong to a set if it can be predicated by a property defining that set. _4 belongs to the set of even numbers_, therefore we say _4 **is** even_. It is through an object's membership in a set, an abstraction, that its Being is ascribed.
+
+WHat are the conditions for an object to _belong_ to a set? What does this notion of _belong_ mean? 
+
+**Russell**'s paradox. Axiom of abstraction versus the axiom of separation.
+
