@@ -24,9 +24,9 @@ The relations of Being to Death expressed in neologistic prepositions:
 
 - Being-always-near
 - Being-never-here
-- Being-always-before-Death
-- Being-always-with-Death
-- Being-not-in-death
+- Being-always-before
+- Being-always
+- Being-not-in
 
 If we now toy with the likely hypothesis that Death is a form of ontological negation, we see only in some of the proposed relations any hint of negation. Upon reflection, the negation in the other forms is hiding.
 
@@ -391,4 +391,87 @@ I do not expect to be understood, for that is what it means to be human. I do no
 
 All the glorious insights of philosophy are undone by time. We wander through life like half-mad beggers, clawing at whatever passerby looks kind enough to spare a few dollars. Into the towering skyscrapers, where the omniscent live, we will never climb, condemned to die starving in a dumpster.
 
-### November 29, 2022
+### November 30, 2022
+
+Death removes all possibility of absolute certainty.
+
+To see this, we need only note that not only is it the case that it cannot be known whether after Death there is a heaven and hell, or a process of reincarnation, or an awareness without experience, or a perpetual waking into another reality, these events cannot even be assigned probabilities in any sense of the term. What would a probability outside the domain of immediate experience mean? WIth respect to what would a proposition about what happens outside of experience be uncertain?
+
+Uncertainty is a state of incompleteness, where knowledge cannot be attained because it is separated from Being by a layer of possibility. We do now know if the world outside of ourselves exists as it appears to us, for it is always a possibility that we are a brain in a vat, subject to the mind probes of the **Cartesian** demon.
+
+A possibiilty is a type of a quantity that transmits uncertainty to reality through Being possible. In this sense, possibility and probability are synonyms. Just as all probabilities must sum to one, all possibilities must converge towards Being, but just as the distribution of an event's probability cannot be known without previous measurement so that before an event's first occurance our prior assumption about its nature can only be a completely random guess and our knowledge can only extend towards its true shape asymptotically, never actually transcending uncertainty, we must also acknowledge that, whatever Being is, it is only what it is insofar that it is possible it might not be what it is, i.e. you might be reading these words in a dream.
+
+What happens outside of our Being is not possible, because to be possible means, first and foremost, a potential, at a certain time and place, to come to be.
+
+What then does the proposition _it is possible there is an afterlife_ mean? How does something come to be outside of time and space? How does something come to be without being the consequence of something? One might as well say _it is possible that possibility is impossible_. 
+
+Then, there are two types of uncertainty: An _ontological_ uncertainty, which admits of quantization as a measure of possibility, for it is an uncertainty about Being, and a _metaphysical_ uncertainty, which admits of no quantiziation because its actualities never obtain in Being, even through appearances, for it is an uncertainty about appearance and existence itsefl. 
+
+_Ontological_ uncertainty is the primary mode of our Being, its foundation. Because we are uncertain of everything, Being becomes a series of possible events.
+
+_Metaphysical_ uncertainty is absolute. It cannot be overcome by quantifying its possibilities and placing your faith in the most likely outcome, for there are no metrics by which to say which outcome possibly occured.
+
+### December 3rd, 2022
+
+IT should come as no surprise, given the importance and precedence of Being, that it is in the origins of humanity's culture and religion that we likewise find the beginning of the historical account of BEing. The Bibel, while its historical accuracy may be up for question, nonetheless servers as a time capsule for our understanding of Being, circa four thousand years ago. In its very first passages GOd reveals to Moses his true nature _I am what am_. 
+
+God's reply to Moses has been translated to English in numerous ways: _I am what am_, _I am that am_, _I am that always is_. This is what is meant by the name Judaism gave to God, *Yahweh*, if the interpretation of its Hebrew is understood through the tetragrammaton. Derived from the root word _hayah_, the Hebrew word for _to be_, *Yahweh* means literally what is, what comes to be, what will be, what exists.
+
+Our earliest accounts of God are draped in the semantics of Being. Our first inclination to the divine, insofar as it has come down to us, was an expression of what is meant by Being, in particular the Being of the divine, and the Being of the divine is identified exactly as the type of Being contained in the proposition _I am_.
+
+God is what I am, the Bible tells us. Interpretted in the literal sense, this account of the divine identifies our type of Being, the Being that is contained in the I's _am_, as a separate sort of Being from that of other Beings, and this separation is exactly equivalent to divinity. 
+
+It is then with great care we should set to analyzing what type of Being it is that we have, for our earliest accounts of it equate it to the divine.
+
+---
+
+What significance does the linguistic invention of Being (or should we say the formal representation of Being?) bring with it in the history of language and humanity? One need only consider what sorts of language are possible without it and what sorts of systems of thought they set up in their wake.
+
+---
+
+Being allows the assignment of attributes to things and the relation of things between one another to become manifest. With the invention of Being, we have, in language, a way of understanding what and where and when we find ourselves.
+
+How would one talk about abstractions liek color and sound without the notion of Being? There is no commonality of things, no way of abstracting their salient essence into a group, without the notion of _is_ providing its basis. 
+
+These things _are_ orbits, those things _are_ planets. What is in common between these Beings, if not the mode of their presentation as an operation of abstraction? Being is what individualizes sets of thigns that are encountered in the world.
+
+---
+
+The modern world has, by virtue of its historicality, filled in the meaning of most words we know, so that when we come to be, we are not inventing language, but discovering its pre-existing meaning. We learn the words of the Other as if they were objects unto themselves. This process hides the origin of language.
+
+Language begins in Being. It is a way of describing the nature of things. The world can be known through information because there is a correspondence of forms between the parts of a language and the their complex and the world at large. The progression of causality is captured in the symbolic form of _modus ponens_, i.e. `(A & A -> B) -> B`.  The way we are in the world, that is the range of language.
+
+---
+
+It must have been surprising to the first Being who recognized in lagnuage the image of the world, for that is truly when sentience began. Akin to a photograph or painting, a sentence is a reflection of Being; even when a painting depicts a fiction, it still does so by the dimensions of necessity, through color and perspective, through representation; the same can be said of a sentence, for when we sketch the image of a paritcular in the proposition _the pencil is over there_, we have, with words, captured the type of relation a pencil has with respect to us. We have "photographed" Being, reduced its momentary effervescence to a repeatable, encounterable form.
+
+This is how we must understand the passage from Genesis, _God made man in his image_. God is, in the old Testament, defined as all that becomes, as the essential and primary Being; furthermore, that Being is the type of Being implied by the conjugation of _is_ into _am_, the Being of the first person singular. This word, a literal image in our language of our Being, is the form umbued to us by our creator, or so the Bible says.
+
+---
+
+The Bible should probably be understood as humanity's first recorded attempt at ontology, our initial step towards understanding Being.
+
+---
+
+That _is_ exists in all its forms (_is_, _was_, _been_, _being_, _has been_, etc) speaks to the diversity of ways of Being. That we take for granted these ways of Being were always obvious must be concered, for language can and have existed without the multiplicity of forms of Being unique to English. In what ways our experience changes when we lack the concepts to elaborate it is a difficult question to answer.
+
+---
+
+Animals can abstract, as was shown by **Pavlov**'s famous experiments. Dogs possess the ability to identify an event with its representative form, if it is trained to expect that event in the presence of its symbolization. Whether or not the notions of existence and BEing occur within the dog is another question, but the raw material for their emergence is atleast present in canines.
+
+### December 4th, 2022
+
+> All Beings <br>
+> Have their beginning <br>
+> In the becoming <br>
+> Of what becomes <br>
+> When we begin <br>
+> To be <br>
+
+> Death has no Being <br>
+> But is the ending <br>
+> Of becoming <br>
+> What becomes <br>
+> When we end <br>
+> Our Being.
+
