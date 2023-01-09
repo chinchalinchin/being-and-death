@@ -551,3 +551,147 @@ WHat are the conditions for an object to _belong_ to a set? What does this notio
 
 **Russell**'s paradox. Axiom of abstraction versus the axiom of separation.
 
+### December 19th, 2022
+
+And now we turn to the task of destroying all that we have built. Or perhaps it would be more accurate to say, we now turn to fact what we have built in order to watch it crumble into its foundations.
+
+This is what Death demands. And so we are compelled to obey. As if we had a choice otherwise.
+
+### December 20th, 2022
+
+My form of philosophy consists in consuming everything that has ever been written on a subject, digesting it and then excreting it. At that point, the excretion is sculpted; all things that are unprocessed, the nuts and corn niblets of other's thoughts and arguments, regurgitated without nutritive value, are pruned and widdled down until all that remains is me. 
+
+My thoughts are polished shit.
+
+### December 21st, 2022
+
+The answer to what we are has, in the estimation of the author, had three traditional answers, each seemingly corresponding to the level of a civilization's scientific ability.
+
+1. We are nature.
+2. We are divine.
+3. We are nothing.
+
+To what extent do these answers contain the corrollaries:
+
+4. We are awareness.
+5. We are knowledge.
+6. We are uncertainty.
+
+---
+
+Every philosophy who has ever pronounced an apriori principle should be hunted for sport, and if they survive and still hold to their previous delcaration, then at least we will know they believe what they are saying. 
+
+Philosophers and existentialists tend to dismiss the anthropological dimension of history as happenstance, as facticity that is inessential in the formation of insight into the question of what we are. 
+
+The great success and failure of **Marxism** is his development and interpretation of an ontological system that describes the trajectory of history. **Marx**, however, aggregated over the incorrect quantity of labor. Labor is not a constant concept throughout history. Its meaning is a function of the semantical concepts available in a given language. What labor is depends on that by which it can be known.
+
+There is only one constant throughout human history and that is Death. SInce it is never known intuitively, it has remained outside of the meanings capable of formulation in any language. We may interject at any point in history and find a cognate for Death. Indeed, it is one of the only thigns we can actually infer about ancient humans, that they died. Anything else is speculation.
+
+---
+
+To what extent are _is_ and _am_ derivatives of a common actuality?
+
+Is the common derivation of _is_ and _am_ from Being an artifact of language, a mere semantical construct, or is this commonality representative of an actual ontological union?
+
+THat is to say, do the constructs of our language have meaning outside of language?
+
+What is the limit of language? **Wittgenstein** tells us not to be misled by the colloquial form of language, taht of written symbols and spoken speech, into supposing language is confined to script or speech. Language is the art of transmitting meaning through symbols, it is the juxtaposition of forms into coherent thoughts, the structuring of a situation through representation. If, as **Schopenhauer** suggets, nothing comes to Being except as representation (**Badiou** removes the _re-_ prefix here and calls Being the "presentation of presentation"), and if language is merely representation, then by the transitive property, everything is language. Everythin can be interpretted as a symbol in a proposition.
+
+If this is the case, then inquiring into the implicit structure of language, that is to say, seeking the answer to the question of wheter all language is derived from a universal, existential grammar, is equivalent to the pursuit of ontology, of the philosophical question that extends back to Plato and beyond; whether or not there is a basis to understand what is through what we are.
+
+Then, it is with great interest we should seek the utmost clarity in what "rules" govern the consistent, comprehensible constructions of language.
+
+### December 28th, 2022
+
+There is in philosophy a constant feeling of confusion. YOu read **Heidegger** like a drunk attempting to do a crossword and when you find a word that fits the squares, you get a rush of insight, a ha!, this is what he meant, and then see the rest of the squares still mostly blank and you being to wonder if you're smart enough to understand. If you possess the ability to see what these people saw. If there are enough hours in your life to even being to comprehend the simplest of their thoughts.
+
+And in the darkest, most disconnected moments, you wonder if even they knew what they were talking about, if it's all just what it appears to be: nonsense.
+
+Read **Tarski** or **Russell** or **Whitehead**. Not the popular books aimed at the laymen, but this opuses, their great works of intellectual accomplishment. You are like an ant trying to do algebra in comparison to them. You will never possess their insight.
+
+You will die before you do anything near as great at them.
+
+**Badiou**, I think, understands that philosophy is child's play for real mathematicians, that mathematics has exceeded philosophy and will never be overtaken again.
+
+The complexity of the world is hidden by impenetrable equations and theorems that don't make sense.
+
+## December 30th, 2022
+
+Does Being exist as as symbol in propositional calculus. The Being of _beon_, _ουσία_, and the like. 
+
+Logic does not exist with contradictions. Contradictions allow anything to be said with a lgnuage and once that occurs, falsehood infects the whole system. Everything becomes suspect and nothing can be proven.
+
+---
+
+Undecidability is the inability to arrive at a starting point of a proposition.
+
+_This statement is false_.
+
+Each iteration of judgement flips the truth value. If it's false, then it's true. If it's true, then it's false. So on, ad infinitum. Undecidability is the perpetual flipping of this script.
+
+---
+
+A contradiction is: _A is not A_, _A and not A_, etc. A contradiction is something without the possibility of being true.
+
+--- 
+
+Undeciability is a process that unfolds in time. Contradiction is encapsulated by its form.
+
+What, then, is a paradox?
+
+Claim: an undeciable contradiction.
+
+(Does that even make sense?)
+
+### January 7th, 2023
+
+What is it in Being ourselves that prevents us from Being other people? Why does our Being require perspective and individuality?
+
+---
+
+Do mathematical theorems have truth outside of ourselves? TO what extent is existence mathematical in the absence of a Being that is mathematical?
+
+Does our description of the appearance of reality ever penetrate to reality itself? WHat is reality outside of our description of it?
+
+We are tempted to say here: reality and its description have a mapping, that the latter represents the former.
+
+But the error of this is seen those intensely personal occurances which have no analogue in description. How does one describe anything subjective without resource to lyricism?
+
+### January 8th, 2023
+
+Being inherently has an order, a process that separates each event from the previous through succession. Causality is manifest in time and space; things are a certain way, meaning the sequence of things that led to the current state of the world was just so and not some other way. Causality imposes a particular order on events, excluding the possibility of other orderings. It is a fact of symbolic logic that order relations must be anti-reflexive.
+
+A reflexive relation is one that is the same forwards as backwards, i.e. _x = y_ is equivalent to _y = x_.
+
+An anti-reflexive relation can be seen in the relation of _less than_, i.e. _x < y_ is not equivalent to _y < x_. This asymmetry in the relation is what gives rises to its orderingb. BEcasue the relation cannot be reflected, the field of its values necessarily has an order, that is to say, each integer increases in magnitude, i.e. it is greater than its precedessor. 
+
+The ordering of time and space must necessarily make us ask, what is it about the _am_ that is anti-reflexive? Where is the asymmetry in our BEing to be found? Why are things always one way and not some other way? Why are things perceived in a linear fashion, that is to say, as a succession of form though time? WHat primitve rupture in reflection causes time to move forward, making thigns have an order?
+
+Or would it be more correct to say: the _am_ is the asymmetric _is_. In terms of ontological relations, existential Being is the equivalency relation. Subjective Being is the ordering relation.
+
+---
+
+_I am this_.
+
+_This is I_.
+
+When reflected, the _am_ becomes an _is_. Is this purely linguistic? Or is this the aforementioned rupture in the relation of Being? The _am_ is one-directional. It latches to its subject's stream of consciousness and severs it from reflexivity. The _am_ reduces to _is_ when the subject is object. 
+
+---
+
+The _is_ does not have this property.
+
+_This is a person_.
+
+_A person is this_.
+
+_Is_, in other words, is reflexive. There is no ordering in the existential relation of Being. It is, as mentioned, an equivalency relation.
+
+--- 
+
+The question, as always, is: is subjective Being the same as objective Being? And if it is, why does our linguistic representation of it bare the features of severance and orderingb? Why does langauge allow the relation of _am_ to operate in a non-reflexive way? Isn't this a necessity of language, the asymmetry of _am_, if language is represent Being?
+
+---
+
+**Heidegger**'s claim: Time _is_ the asymmetry in Being.
+
