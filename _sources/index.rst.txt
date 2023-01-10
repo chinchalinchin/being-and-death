@@ -6,7 +6,7 @@ Being and Death
    :caption: Contents:
 
    00_introduction
-   01_being
+   books/one/index
    A0_appendix
    A1_history
    A2_references
